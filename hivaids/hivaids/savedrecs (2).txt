@@ -1,0 +1,1274 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hsu, J
+   Zinsou, C
+   Parkhurst, J
+   N'Dour, M
+   Foyet, L
+   Mueller, DH
+AF Hsu, Justine
+   Zinsou, Cyprien
+   Parkhurst, Justin
+   N'Dour, Marguerite
+   Foyet, Leger
+   Mueller, Dirk H.
+TI Comparative costs and cost-effectiveness of behavioural interventions as
+   part of HIV prevention strategies
+SO HEALTH POLICY AND PLANNING
+LA English
+DT Article
+DE Cost-effectiveness analysis; HIV; prevention; behaviour change; Benin
+ID MEDIA CAMPAIGN; HIV/AIDS; PROGRAMS; PROJECT; AIDS
+AB Background Behavioural interventions have been widely integrated in HIV/AIDS social marketing prevention strategies and are considered valuable in settings with high levels of risk behaviours and low levels of HIV/AIDS awareness. Despite their widespread application, there is a lack of economic evaluations comparing different behaviour change communication methods. This paper analyses the costs to increase awareness and the cost-effectiveness to influence behaviour change for five interventions in Benin.
+   Methods Cost and cost-effectiveness analyses used economic costs and primary effectiveness data drawn from surveys. Costs were collected for provider inputs required to implement the interventions in 2009 and analysed by 'person reached'. Cost-effectiveness was analysed by 'person reporting systematic condom use'. Sensitivity analyses were performed on all uncertain variables and major assumptions.
+   Results Cost-per-person reached varies by method, with public outreach events the least costly (US$2.29) and billboards the most costly (US$25.07). Influence on reported behaviour was limited: only three of the five interventions were found to have a significant statistical correlation with reported condom use (i.e. magazines, radio broadcasts, public outreach events). Cost-effectiveness ratios per person reporting systematic condom use resulted in the following ranking: magazines, radio and public outreach events. Sensitivity analyses indicate rankings are insensitive to variation of key parameters although ratios must be interpreted with caution.
+   Conclusion This analysis suggests that while individual interventions are an attractive use of resources to raise awareness, this may not translate into a cost-effective impact on behaviour change. The study found that the extensive reach of public outreach events did not seem to influence behaviour change as cost-effectively when compared with magazines or radio broadcasts. Behavioural interventions are context-specific and their effectiveness influenced by a multitude of factors. Further analyses using a quasi-experimental design would be useful to programme implementers and policy makers as they face decisions regarding which HIV prevention activities to prioritize.
+C1 [Hsu, Justine; Parkhurst, Justin; Mueller, Dirk H.] London Sch Hyg & Trop Med, London WC1, England.
+   [Zinsou, Cyprien; N'Dour, Marguerite; Foyet, Leger] Populat Serv Int, Cotonou, Benin.
+   [Mueller, Dirk H.] KfW German Dev Bank, Frankfurt, Germany.
+RP Hsu, J (reprint author), London Sch Hyg & Trop Med, London WC1, England.
+EM justine.hsu@lshtm.ac.uk
+FU German Government through KfW; German Financial Cooperation through KfW
+   German Development Bank (BMZ) [200967042]
+FX This work was performed under the Programme 'Reproductive Health /
+   Family Planning and HIV/AIDS Prevention' of the Ministry of Health of
+   Benin, supported by the German Government through KfW. The programme is
+   implemented by the 'Association Beninoise pour le Marketing Social et la
+   communication pour la sante in co-operation with Population Services
+   International (PSI). The authors are grateful for the background
+   information and advice provided by Clarisse Gomez and Medard Fassinou of
+   Population Services International, Benin. Finally, we are grateful for
+   the constructive comments of the anonymous reviewers.; This work was
+   performed under the programme 'Reproductive Health / Family Planning and
+   HIV/AIDS Prevention' of the Ministry of Health of Benin and supported by
+   the German Financial Cooperation through KfW German Development Bank
+   (BMZ No. 200967042).
+NR 49
+TC 6
+Z9 6
+U1 0
+U2 12
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0268-1080
+J9 HEALTH POLICY PLANN
+JI Health Policy Plan.
+PD JAN
+PY 2013
+VL 28
+IS 1
+BP 20
+EP 29
+DI 10.1093/heapol/czs021
+PG 10
+WC Health Care Sciences & Services; Health Policy & Services
+SC Health Care Sciences & Services
+GA 072FQ
+UT WOS:000313655100003
+PM 22411881
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Atadokpede, F
+   Adegbidi, H
+   Sehonou, JJ
+   Koudoukpo, C
+   Houenassi, DM
+   Yedomon, HG
+   Do Ango-Padonou, F
+AF Atadokpede, F.
+   Adegbidi, H.
+   Sehonou, J. J.
+   Koudoukpo, C.
+   Houenassi, D. M.
+   Yedomon, H. G.
+   Do Ango-Padonou, F.
+TI Prevalence of xerosis, eczema, and hair and nail abnormalities in PLWHA
+   in Cotonou, Benin
+SO INTERNATIONAL JOURNAL OF DERMATOLOGY
+LA English
+DT Article
+ID HIV-INFECTION; DISORDERS; ONYCHOMYCOSIS
+AB Background The objective of this investigation was to study the prevalence of xerosis, eczema, and hair and nail abnormalities in PLWHA in Cotonou. Patients and methods A retrospective study was performed on the records of PLWHA in Cotonou. All PLWHA with xerosis, eczema, or abnormal appendages were included. Results Forty-seven patients had xerosis or eczema. Their mean age was 38 years; the sex ratio 0.51 and the mean CD4 count 89 cells/mm. Twenty-three patients had xerosis, which affected the whole body (n = 20), lower limb (n = 2), limbs and trunk (n = 1), without gender difference. Twenty-four patients had eczema of which eight had both eczema and xerosis. Forty-two patients had abnormalities of the hair or nails. Their sex ratio was 0.80 and the mean CD4 count 110 cells/mm. Nineteen patients had abnormalities of the hair and scalp: straight hair (n = 16), squamous lesions (n = 2), and folliculitis abscess (n = 1) with a male predominance. Twenty-three patients had nail dermatophytosis (n = 15), candidiasis (n = 7), and ingrowing nails (n = 1). These conditions affected more often women (74%) than men (26%). Conclusion The prevalence of eczema and xerosis is low in our patients. Onychomycosis was the most frequent nail abnormality.
+C1 [Atadokpede, F.; Sehonou, J. J.; Houenassi, D. M.] Hop Instruct Armees, Cotonou, Benin.
+   [Adegbidi, H.; Yedomon, H. G.; Do Ango-Padonou, F.] Natl Teaching Hosp Hubert Koutoukou Maga, Dept Dermatol Venereol, Cotonou, Benin.
+   [Koudoukpo, C.] Teaching Hosp Parakou, Dept Dermatol Venereol, Parakou, Benin.
+RP Atadokpede, F (reprint author), 05 BP 1218, Cotonou, Benin.
+EM fatadokpede2009@yahoo.fr
+NR 9
+TC 0
+Z9 0
+U1 1
+U2 2
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0011-9059
+J9 INT J DERMATOL
+JI Int. J. Dermatol.
+PD NOV
+PY 2012
+VL 51
+SU 1
+SI SI
+BP 48
+EP 50
+DI 10.1111/j.1365-4632.2012.05569.x
+PG 3
+WC Dermatology
+SC Dermatology
+GA 053FP
+UT WOS:000312256700015
+PM 23210961
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Agodokpessi, G
+   Ade, G
+   Ade, S
+   Wachinou, AP
+   Affolabi, D
+   Anagonou, S
+   Gninafon, M
+AF Agodokpessi, G.
+   Ade, G.
+   Ade, S.
+   Wachinou, A. P.
+   Affolabi, D.
+   Anagonou, S.
+   Gninafon, M.
+TI Management of tuberculosis and HIV co-infection in Cotonou, Benin
+SO MEDECINE ET MALADIES INFECTIEUSES
+LA English
+DT Article
+DE Co-infection; Tuberculosis; HIV; AIDS
+ID ANTIRETROVIRAL THERAPY; INFECTION; COUNTS
+AB Objectives. - The authors had for aim to assess the management of tuberculosis and HIV co-infection in Cotonou, Benin.
+   Patients and methods. - We made a cross-sectional, retrospective, and descriptive study comparing the clinical presentation and outcome of patients with tuberculosis and HIV co-infection versus patients with tuberculosis alone, all managed at the National Pneumophtisiology Center in Cotonou, Benin, in 2009.
+   Results. - The rate of HIV screening in TB patients was 99%. One thousand and eighty-six TB patients were included and 259 were HIV positive. The mean age of co-infected patients was 36 years, versus 34 for TB mono-infected patients. The sex ratio among co-infected was 1.15 versus 2.25 among TB patients. Positive pulmonary sputum was less frequent with co-infection. Two hundred and fifty-seven over 259 patients were treated with cotrimoxazole. One hundred and eighty-five over 234 (79.05%) had CD4 counts < 350. Eighty-five (46%) of the 185 patients with CD4 <350, were given antiretroviral therapy. Treatment success rate was lower for co-infected (75%) than for patients with TB alone (86%), and death rates were higher in co-infected patients (10% vs. 3%).
+   Conclusion. - High death rate and high rate of lost to follow-up are arguments for systematic antiretroviral treatment of co-infected patients. Early screening for TB and HIV, and reviewing the current national recommendations, as well as an increased governmental effort to provide medicines to all patients in need of ARV are mandatory. (C) 2012 Elsevier Masson SAS. All rights reserved.
+C1 [Agodokpessi, G.; Ade, G.; Ade, S.; Wachinou, A. P.; Affolabi, D.; Anagonou, S.; Gninafon, M.] Ctr Natl Hosp Pneumophtisiol, Cotonou, Benin.
+   [Agodokpessi, G.; Ade, G.; Affolabi, D.; Anagonou, S.; Gninafon, M.] Fac Sci Sante, Cotonou, Benin.
+RP Agodokpessi, G (reprint author), Ctr Natl Hosp Pneumophtisiol, 01 BP 321, Cotonou, Benin.
+EM aggildas@yahoo.fr
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 2
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0399-077X
+J9 MED MALADIES INFECT
+JI Med. Mal. Infect.
+PD NOV
+PY 2012
+VL 42
+IS 11
+BP 561
+EP 566
+DI 10.1016/j.medmal.2012.07.012
+PG 6
+WC Infectious Diseases
+SC Infectious Diseases
+GA 054RH
+UT WOS:000312360400004
+PM 23044083
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Tanon, A
+   Jaquet, A
+   Ekouevi, DK
+   Akakpo, J
+   Adoubi, I
+   Diomande, I
+   Houngbe, F
+   Zannou, MD
+   Sasco, AJ
+   Eholie, SP
+   Dabis, F
+   Bissagnene, E
+AF Tanon, Aristophane
+   Jaquet, Antoine
+   Ekouevi, Didier K.
+   Akakpo, Jocelyn
+   Adoubi, Innocent
+   Diomande, Isidore
+   Houngbe, Fabien
+   Zannou, Marcel D.
+   Sasco, Annie J.
+   Eholie, Serge P.
+   Dabis, Francois
+   Bissagnene, Emmanuel
+CA IeDEA W Africa Collaboration
+TI The Spectrum of Cancers in West Africa: Associations with Human
+   Immunodeficiency Virus
+SO PLOS ONE
+LA English
+DT Article
+ID ACTIVE ANTIRETROVIRAL THERAPY; HIV-INFECTED PERSONS; SUB-SAHARAN AFRICA;
+   COTE-DIVOIRE; HUMAN-PAPILLOMAVIRUS; AIDS; ABIDJAN; WOMEN; METAANALYSIS;
+   PREVALENCE
+AB Background: Cancer is a growing co-morbidity among HIV-infected patients worldwide. With the scale-up of antiretroviral therapy (ART) in developing countries, cancer will contribute more and more to the HIV/AIDS disease burden. Our objective was to estimate the association between HIV infection and selected types of cancers among patients hospitalized for diagnosis or treatment of cancer in West Africa.
+   Methods: A case-referent study was conducted in referral hospitals in Cote d'Ivoire and Benin. Each participating clinical ward enrolled all adult patients seeking care for a confirmed diagnosis of cancer and clinicians systematically proposed an HIV test. HIV prevalence was compared between AIDS-defining cancers and a subset of selected non-AIDS defining cancers to a referent group of non-AIDS defining cancers not reported in the literature to be positively or inversely associated with HIV. An unconditional logistic model was used to estimate odds ratios (OR) and their 95% confidence intervals (CI) of the risk of being HIV-infected for selected cancers sites compared to a referent group of other cancers.
+   Results: The HIV overall prevalence was 12.3% (CI 10.3-14.4) among the 1,017 cancer cases included. A total of 442 patients constituted the referent group with an HIV prevalence of 4.7% (CI 2.8-6.7). In multivariate analysis, Kaposi sarcoma (OR 62.2 [CI 22.1-175.5]), non-Hodgkin lymphoma (4.0 [CI 2.0-8.0]), cervical cancer (OR 7.9 [CI 3.8-16.7]), anogenital cancer (OR 11.6 [CI 2.9-46.3]) and liver cancer (OR 2.7 [CI 1.1-7.7]) were all associated with HIV infection.
+   Conclusions: In a time of expanding access to ART, AIDS-defining cancers remain highly associated with HIV infection. This is to our knowledge, the first study reporting a significant association between HIV infection and liver cancer in sub-Saharan Africa.
+C1 [Jaquet, Antoine; Ekouevi, Didier K.; Sasco, Annie J.; Dabis, Francois] Univ Bordeaux, ISPED, Ctr Epidemiol Biostat, INSERM,U897, Bordeaux, France.
+   [Tanon, Aristophane; Eholie, Serge P.; Bissagnene, Emmanuel] CHU Treichville, SMIT, Abidjan, Cote Ivoire.
+   [Akakpo, Jocelyn; Zannou, Marcel D.] CNHU Cotonou, Ctr Prise Charge Personnes Vivant Avec VIH, Benin, Nigeria.
+   [Adoubi, Innocent] CHU Treichville, Serv Cancerol, Abidjan, Cote Ivoire.
+   [Diomande, Isidore] CHU Cocody, Lab Cytol & Anatomopathol, Abidjan, Cote Ivoire.
+   [Houngbe, Fabien; Zannou, Marcel D.] CNHU, Serv Med Interne, Cotonou, Benin.
+RP Jaquet, A (reprint author), Univ Bordeaux, ISPED, Ctr Epidemiol Biostat, INSERM,U897, Bordeaux, France.
+EM antoine.jaquet@isped.u-bordeaux2.fr
+RI EKOUEVI, Didier/E-7960-2014
+FU National Cancer Institute (NCI); Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD); National
+   Institute of Allergy and Infectious Diseases (NIAID) [5U01AI069919]
+FX This work was funded by the following institutes: the National Cancer
+   Institute (NCI), the Eunice Kennedy Shriver National Institute of Child
+   Health & Human Development (NICHD), the National Institute of Allergy
+   and Infectious Diseases (NIAID) (grant 5U01AI069919). The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+NR 32
+TC 14
+Z9 15
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 29
+PY 2012
+VL 7
+IS 10
+AR e48108
+DI 10.1371/journal.pone.0048108
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 032HH
+UT WOS:000310705300042
+PM 23144732
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Denoeud-Ndam, L
+   Clement, MC
+   Briand, V
+   Akakpo, J
+   Agossou, VK
+   Atadokpede, F
+   Dossou-Gbete, L
+   Komongui, DG
+   Afangnihoun, A
+   Girard, PM
+   Zannou, DM
+   Cot, M
+AF Denoeud-Ndam, Lise
+   Clement, Marie-Caroline
+   Briand, Valerie
+   Akakpo, Jocelyn
+   Agossou, Videhouenou K.
+   Atadokpede, Felix
+   Dossou-Gbete, Lucien
+   Komongui, Didier G.
+   Afangnihoun, Aldric
+   Girard, Pierre-Marie
+   Zannou, Djimon-Marcel
+   Cot, Michel
+TI Tolerability of Mefloquine Intermittent Preventive Treatment for Malaria
+   in HIV-Infected Pregnant Women in Benin
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article
+DE HIV; malaria; pregnancy; mefloquine; drug tolerance; Benin
+ID SULFADOXINE-PYRIMETHAMINE; ANTIRETROVIRAL THERAPY; WESTERN KENYA;
+   DRUG-INTERACTIONS; EFAVIRENZ; EFFICACY; IMPACT; TRANSMISSION;
+   COINFECTION; PREVALENCE
+AB Objective: To investigate the tolerability of mefloquine intermittent preventive treatment (MQ IPTp) for malaria in HIV-infected pregnant women compared with HIV-negative women.
+   Design: Prospective cohort study comparing samples of HIV-negative and HIV- infected pregnant women from 2 clinical trials conducted in Benin.
+   Methods: One hundred and three HIV-infected women from the ongoing PACOME trial were compared with 421 HIV-negative women from a former trial, both trials aiming to evaluate the efficacy and tolerability of MQ IPTp, administered at the dose of 15 mg/kg. Descriptive analysis compared the proportion of women reporting at least 1 adverse reaction, according to HIV status. Multilevel logistic regression identified factors associated with the probability of reporting an adverse reaction for each MQ intake.
+   Results: Dizziness and vomiting were the most frequent adverse reactions. Adverse reactions were less frequent in HIV-infected women (65% versus 78%, P = 0.009). In multilevel analysis, HIV infection [odds ratio (OR) = 0.23, 95% confidence interval (CI) = 0.08 to 0.61] decreased the risk for adverse reactions, whereas detectable viral load (OR = 2.46, 95% CI = 1.07 to 5.66), first intake (versus further intakes, OR = 5.26, 95% CI = 3.70 to 7.14), older age (OR = 1.62, 95% CI = 1.13 to 2.32), and higher education level (OR = 1.71, 95% CI = 1.12 to 2.61) increased the risk. Moderate and severe adverse reactions were more frequent when antiretrovirals were started concomitantly with a MQ intake.
+   Conclusions: This study provides reassuring data on the use of MQ IPTp in HIV-infected pregnant women. However frequent, adverse reactions remained moderate and did not impair adherence to MQ IPTp. In this high-risk group, MQ might be an acceptable alternative in case sulfadoxine-pyrimethamine loses its efficacy for intermittent preventive treatment.
+C1 [Denoeud-Ndam, Lise; Clement, Marie-Caroline; Briand, Valerie; Cot, Michel] Fac Pharm, IRD, UMR 216, F-75270 Paris 06, France.
+   [Denoeud-Ndam, Lise; Clement, Marie-Caroline; Briand, Valerie; Cot, Michel] Univ Paris 05, Paris, France.
+   [Akakpo, Jocelyn; Zannou, Djimon-Marcel] Ctr Natl Hosp Univ Hubert Koutoukou Maga, Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Agossou, Videhouenou K.] Ctr Natl Hosp Univ Hubert Koutoukou Maga, Clin Univ Gynecol Obstet, Cotonou, Benin.
+   [Atadokpede, Felix] Hop Instruct Armees, Serv Med Interne, Cotonou, Benin.
+   [Dossou-Gbete, Lucien] Clin Louis Pasteur, Porto Novo, Benin.
+   [Komongui, Didier G.] Hop Mere & Enfant Lagune, Serv Gynecol Obstet, Cotonou, Benin.
+   [Afangnihoun, Aldric] Hop Zone Suru Lere, Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Girard, Pierre-Marie] Hop St Antoine, Assistance Publ Hop Paris, Serv Malad Infect & Trop, F-75571 Paris, France.
+RP Denoeud-Ndam, L (reprint author), Fac Pharm, IRD, UMR 216, 4 Ave Observ, F-75270 Paris 06, France.
+EM lisedenoeud@yahoo.fr
+OI DENOEUD-NDAM, Lise/0000-0002-9482-1461
+FU Sidaction [AI19-3-01528]; Fonds de Solidarite Prioritaire of the French
+   Ministry of Foreign Affairs [200622]; Institut de Recherche pour le
+   Developpement
+FX Supported by Sidaction (grant number AI19-3-01528), Fonds de Solidarite
+   Prioritaire of the French Ministry of Foreign Affairs (project no.
+   200622), and Institut de Recherche pour le Developpement.
+NR 33
+TC 6
+Z9 6
+U1 0
+U2 7
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1525-4135
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD SEP 1
+PY 2012
+VL 61
+IS 1
+BP 64
+EP 72
+DI 10.1097/QAI.0b013e3182615a58
+PG 9
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 999YO
+UT WOS:000308352000015
+PM 22706291
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Behanzin, L
+   Diabate, S
+   Minani, I
+   Lowndes, CM
+   Boily, MC
+   Labbe, AC
+   Anagonou, S
+   Zannou, DM
+   Buve, A
+   Alary, M
+AF Behanzin, Luc
+   Diabate, Souleymane
+   Minani, Isaac
+   Lowndes, Catherine M.
+   Boily, Marie-Claude
+   Labbe, Annie-Claude
+   Anagonou, Severin
+   Zannou, Djimon Marcel
+   Buve, Anne
+   Alary, Michel
+TI Decline in HIV Prevalence among Young Men in the General Population of
+   Cotonou, Benin, 1998-2008
+SO PLOS ONE
+LA English
+DT Article
+ID SUB-SAHARAN AFRICA; FEMALE SEX WORKERS; REDUCING HETEROSEXUAL
+   TRANSMISSION; SIMPLEX-VIRUS TYPE-2; WEST-AFRICA; INFECTION;
+   INTERVENTIONS; EPIDEMIC; CONDOMS; SEROPREVALENCE
+AB Objective: To assess changes in the prevalence of HIV and other sexually transmitted infections, as well as in different proximal and distal factors related to HIV infection, in the general population of Cotonou between 1998 and 2008, while an intensive preventive intervention targeting the sex work milieu was ongoing.
+   Methods: A two-stage cluster sampling procedure was used to select the participants in each study. Subjects aged 15-49 who agreed to participate were interviewed and tested for HIV, syphilis, HSV-2, gonorrhoea and chlamydia. We used the Roa-Scott Chi-square test (proportions) and the Student's t test (means) for bivariate comparisons, and adjusted logistic regression models taking into account the cluster effect for multivariate analyses.
+   Results: HIV prevalence decreased significantly in men (3.4% in 1998 versus 2.0% in 2008, p = 0.048), especially in those aged 15-29 (3.0% to 0.5%, p = 0.002). Among men, the prevalence of gonorrhoea decreased significantly (1.1% to 0.3%, p = 0.046) while HSV-2 prevalence increased from 12.0% to 18.1% (p = 0.0003). The proportion of men who reported condom use at least once (29.3% to 61.0%, p<0.0001) and of those having attained a secondary educational level or more (17.1% to 61.3%, p<0.0001) also increased significantly. There was an overall decrease in the prevalence of syphilis (1.5% to 0.6%, p = 0.0003).
+   Conclusion: This is the first population-based study reporting a significant decline in HIV prevalence among young men in an African setting where overall prevalence has never reached 5%. The decline occurred while preventive interventions targeting the sex work milieu were ongoing and the educational level was increasing.
+C1 [Behanzin, Luc; Diabate, Souleymane; Lowndes, Catherine M.; Boily, Marie-Claude; Alary, Michel] Univ Quebec, Ctr Rech FRSQ CHA, URESP, Quebec City, PQ, Canada.
+   [Behanzin, Luc; Diabate, Souleymane; Alary, Michel] Univ Laval, Dept Med Sociale & Prevent, Quebec City, PQ, Canada.
+   [Minani, Isaac] Dispensaire IST, Cotonou, Benin.
+   [Lowndes, Catherine M.] Hlth Protect Agcy, London, England.
+   [Boily, Marie-Claude] Univ London Imperial Coll Sci Technol & Med, Dept Infect Dis Epidemiol, London, England.
+   [Labbe, Annie-Claude] Hop Maison Neuve Rosemont, Dept Microbiol, Montreal, PQ, Canada.
+   [Anagonou, Severin; Zannou, Djimon Marcel] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Anagonou, Severin; Zannou, Djimon Marcel] Ctr Natl Hosp Univ, Cotonou, Benin.
+   [Buve, Anne] Inst Trop Med, Unit Epidemiol & Control HIV STD, B-2000 Antwerp, Belgium.
+   [Alary, Michel] Inst Natl Sante Publ Quebec, Quebec City, PQ, Canada.
+RP Behanzin, L (reprint author), Univ Quebec, Ctr Rech FRSQ CHA, URESP, Quebec City, PQ, Canada.
+EM malary@uresp.ulaval.ca
+FU Canadian Institutes of Health Research [HCB-82159]; UNAIDS; Canadian
+   International Development Agency
+FX Funding provided by Canadian Institutes of Health Research (grant no.
+   HCB-82159). The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.; We are
+   grateful to the Canadian Institutes of Health Research (grant no.
+   HCB-82159) for funding the 2008 survey, UNAIDS for funding the 1998
+   survey, the Canadian International Development Agency for funding the
+   intervention in the sex work milieu, the Programme national de lutte
+   contre le Sida et les IST and the Ministry of Health of Benin for their
+   involvement at all levels. We also thank the participants as well as the
+   personnel of Projet Sida 1/2/3 and of Dispensaire IST (Benin), the
+   Institute of Tropical Medicine (Antwerp, Belgium) and the Centre
+   hospitalier affilie universitaire de Quebec (Canada) for their
+   contribution.
+NR 48
+TC 5
+Z9 5
+U1 0
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 28
+PY 2012
+VL 7
+IS 8
+AR e43818
+DI 10.1371/journal.pone.0043818
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 998CA
+UT WOS:000308213600047
+PM 22952773
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Chamberland, A
+   Diabate, S
+   Sylla, M
+   Anagounou, S
+   Geraldo, N
+   Zannou, DM
+   Labbe, AC
+   Worobey, M
+   Alary, M
+   Tremblay, C
+AF Chamberland, Annie
+   Diabate, Souleymane
+   Sylla, Mohamed
+   Anagounou, Severin
+   Geraldo, Nassirou
+   Zannou, Djimon Marcel
+   Labbe, Annie-Claude
+   Worobey, Michael
+   Alary, Michel
+   Tremblay, Cecile
+TI Transmission of HIV-1 drug resistance in Benin could jeopardise future
+   treatment options
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+ID FEMALE SEX WORKERS; WEST-AFRICA; MUTATIONS; CAMEROON; MALI
+AB Objectives As access to antiretrovirals (ARV) increases in developing countries, the identification of optimal therapeutic regimens and prevention strategies requires the identification of resistance pathways in non-B subtypes as well as the surveillance of drug mutation resistance (SDMR) including the trafficking of viral strains between high-risk groups such as commercial sex workers (CSW) and the general population (GP). In this study, the authors evaluated the rate of primary resistance mutations and the epidemiological link between isolates from GP and CSW from Benin.
+   Methods Plasma samples were obtained from 129 HIV1-infected treatment-naive individuals. Drug resistance mutations were identified using SDMR list and compared with other resistance algorithms.
+   Results No nucleoside reverse transcriptase inhibitor resistance mutations were found. Four patients had non-nucleoside reverse transcriptase inhibitor resistance (K103N, G190A). One patient exhibited protease inhibitors resistance mutation, F53Y. Using the SDMR list, the authors obtained a rate of 3.9% of primary resistance. Nevertheless, the authors observed several mutations not on SDMR list but included in others resistance database, taking those mutations into account, the authors obtained a rate of 15.5%.
+   Conclusions Although our results show a low rate of SDMR, this algorithm may underestimate resistance mutations that may impact treatment options in developing countries. Primary resistance rates were similar in CSW and in the GP. Our phylogenetic analysis confirmed the genetic exchange between groups.
+C1 [Chamberland, Annie; Diabate, Souleymane; Sylla, Mohamed; Tremblay, Cecile] Ctr Hosp Univ Montreal CRCHUM, Ctr Rech, Montreal, PQ, Canada.
+   [Anagounou, Severin; Geraldo, Nassirou] Ctr Sante Cotonou I, Dispensaire IST, Cotonou, Benin.
+   [Zannou, Djimon Marcel] Ctr Natl Hosp Univ, Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Labbe, Annie-Claude] Hop Maison Neuve Rosemont, Ctr Rech, Montreal, PQ H1T 2M4, Canada.
+   [Labbe, Annie-Claude; Tremblay, Cecile] Univ Montreal, Dept Microbiol & Immunol, Montreal, PQ H3C 3J7, Canada.
+   [Worobey, Michael] Univ Arizona, Dept Ecol & Evolutionary Biol, Tucson, AZ USA.
+   [Alary, Michel] CHA Univ Quebec, Ctr Rech FRSQ, URESP, Quebec City, PQ, Canada.
+   [Alary, Michel] Univ Laval, Dept Med Sociale & Prevent, Quebec City, PQ G1K 7P4, Canada.
+   [Alary, Michel] Inst Natl Sante Publ Quebec, Quebec City, PQ, Canada.
+RP Tremblay, C (reprint author), Ctr Hosp Univ Montreal, 3840 Rue St Urbain,Bur 7-355, Montreal, PQ H2W 1T8, Canada.
+EM c.tremblay@umontreal.ca
+FU Canadian Institutes of Health Research (CIHR) [HPR-85528]; Fonds de la
+   recherche en sante du Quebec (FRSQ) [8722]; Virco BVBA
+FX This scientific work was supported financially by a research grant from
+   the Canadian Institutes of Health Research (CIHR) HPR-85528, by Fonds de
+   la recherche en sante du Quebec (FRSQ) and by Virco BVBA. MA was a
+   national researcher of the Fonds de la recherche en sante du Quebec,
+   grant #8722. CT is the University of Montreal/Pfizer Chair on
+   translational HIV research.
+NR 16
+TC 8
+Z9 8
+U1 0
+U2 7
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD APR
+PY 2012
+VL 88
+IS 3
+BP 179
+EP 183
+DI 10.1136/sextrans-2011-050209
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA 919CK
+UT WOS:000302298200008
+PM 22158948
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Denoeud-Ndam, L
+   Romby, A
+   Fourcade, C
+   Akakpo, J
+   Afangnihoun, A
+   Atadokpede, F
+   Dossougbete, L
+   Perrin, RX
+   Girard, PM
+   Zannou, DM
+   Cot, M
+AF Denoeud-Ndam, L.
+   Romby, A.
+   Fourcade, C.
+   Akakpo, J.
+   Afangnihoun, A.
+   Atadokpede, F.
+   Dossougbete, L.
+   Perrin, R. -X.
+   Girard, P. -M.
+   Zannou, D. Marcel
+   Cot, M.
+TI Prevention of malaria in HIV-infected pregnant women: Pacome trial
+   testing cotrimoxazole prophylaxis vs. intermittent preventive treatment
+   with mefloquine-preliminary results
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Denoeud-Ndam, L.; Romby, A.; Fourcade, C.; Akakpo, J.] Inst Rech Dev, Cotonou, Benin.
+   [Akakpo, J.; Zannou, D. Marcel] Ctr Natl Hosp Univ Hubert Koutoukou Maga, Ctr Traitement Ambulatoire, Serv Med Interne, Cotonou, Benin.
+   [Afangnihoun, A.] Hop Zone Suru Lere Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Atadokpede, F.] Hop Instruct Armees Camp Guezo, Serv Med Interne, Cotonou, Benin.
+   [Dossougbete, L.] Clin Louis Pasteur, Porto Novo, Benin.
+   [Perrin, R. -X.] Hop Mere Enfant Lagune, Cotonou, Benin.
+   [Girard, P. -M.] Hop St Antoine, AP HP, Infect Dis Unit, F-75571 Paris, France.
+   [Zannou, D. Marcel] Univ dAbomey Calavi, Fac Sci sante, Cotonou, Benin.
+   [Cot, M.] Inst Rech Dev, Paris, France.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD OCT
+PY 2011
+VL 16
+SU 1
+SI SI
+BP 57
+EP 57
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 828RC
+UT WOS:000295519100157
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Ayedele, AB
+   Behanzin, MN
+AF Ayedele, A. B.
+   Behanzin, M. N.
+TI Multiple partners and risk of HIV infection among vulnerables youth
+   attending free targeted HIV counseling and testing services including in
+   Benin, West Africa
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Ayedele, A. B.; Behanzin, M. N.] Abms Psi, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD OCT
+PY 2011
+VL 16
+SU 1
+SI SI
+BP 150
+EP 150
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 828RC
+UT WOS:000295519100433
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Dieudonne, ESG
+   Lambert, MR
+AF Dieudonne, E. S. G.
+   Lambert, M. R.
+TI Access to care and quality of services for plwha in Benin: what options
+   are viable and sustainable?
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Meeting Abstract
+DE HIV/AIDS; universal access; cost; quality; Benin
+C1 [Dieudonne, E. S. G.; Lambert, M. R.] GRAP PA Sante, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD OCT
+PY 2011
+VL 16
+SU 1
+SI SI
+BP 156
+EP 156
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 828RC
+UT WOS:000295519100452
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Dieudonne, ESG
+   Lambert, MR
+AF Dieudonne, E. S. G.
+   Lambert, M. R.
+TI The monitoring and evaluation system of the fight against aids in Benin:
+   a critical reading
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Meeting Abstract
+DE monitoring and evaluation; HIV/AIDS; governance; Benin
+C1 [Dieudonne, E. S. G.; Lambert, M. R.] Grap Pa Sante Ladyd, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD OCT
+PY 2011
+VL 16
+SU 1
+SI SI
+BP 334
+EP 334
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 828RC
+UT WOS:000295519101139
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Thibodeau, V
+   Lajoie, J
+   Labbe, AC
+   Zannou, MD
+   Fowke, KR
+   Alary, M
+   Poudrier, J
+   Roger, M
+AF Thibodeau, Valerie
+   Lajoie, Julie
+   Labbe, Annie-Claude
+   Zannou, Marcel D.
+   Fowke, Keith R.
+   Alary, Michel
+   Poudrier, Johanne
+   Roger, Michel
+TI High Level of Soluble HLA-G in the Female Genital Tract of Beninese
+   Commercial Sex Workers Is Associated with HIV-1 Infection
+SO PLOS ONE
+LA English
+DT Article
+ID NATURAL-KILLER-CELLS; LEUKOCYTE ANTIGEN-G; CLASS-I; BACTERIAL VAGINOSIS;
+   T-CELLS; AFRICAN WOMEN; G GENOTYPE; NK CELLS; ACQUISITION; EXPRESSION
+AB Background: Most HIV infections are transmitted across mucosal epithelium. Understanding the role of innate and specific mucosal immunity in susceptibility or protection against HIV infection, as well as the effect of HIV infection on mucosal immunity, are of fundamental importance. HLA-G is a powerful modulator of the immune response. The aim of this study was to investigate whether soluble HLA-G (sHLA-G) expression in the female genital tract is associated with HIV-1 infection.
+   Methods and Findings: Genital levels of sHLA-G were determined in 52 HIV-1-uninfected and 44 antiretroviral naive HIV-1-infected female commercial sex workers (CSWs), as well as 71 HIV-1-uninfected non-CSW women at low risk of exposure, recruited in Cotonou, Benin. HIV-1-infected CSWs had higher genital levels of sHLA-G compared with those in both the HIV-1-uninfected CSW (P = 0.009) and non-CSW groups (P = 0.0006). The presence of bacterial vaginosis (P = 0.008), and HLA-G*01:01:02 genotype (P = 0.002) were associated with higher genital levels of sHLA-G in the HIV-1-infected CSWs, whereas the HLA-G*01: 04: 04 genotype was also associated with higher genital level of sHLA-G in the overall population (P = 0.038). When adjustment was made for all significant variables, the increased expression of sHLA-G in the genital mucosa remained significantly associated with both HIV-1 infection (P = 0.02) and bacterial vaginosis (P = 0.03).
+   Conclusion: This study demonstrates that high level of sHLA-G in the genital mucosa is independently associated with both HIV-1 infection and bacterial vaginosis.
+C1 [Thibodeau, Valerie; Poudrier, Johanne; Roger, Michel] CRCHUM, Immunogenet Lab, Montreal, PQ, Canada.
+   [Thibodeau, Valerie; Labbe, Annie-Claude; Poudrier, Johanne; Roger, Michel] Univ Montreal, Dept Microbiol & Immunol, Montreal, PQ H3C 3J7, Canada.
+   [Lajoie, Julie; Fowke, Keith R.] Univ Manitoba, Dept Med Microbiol, Winnipeg, MB, Canada.
+   [Labbe, Annie-Claude] Hop Maison Neuve Rosemont, Dept Med Microbiol, Montreal, PQ H1T 2M4, Canada.
+   [Zannou, Marcel D.] Univ Abomey Calavi, Natl Ctr, Hosp Univ Hubert K Maga, Cotonou, Benin.
+   [Alary, Michel] Affilie Univ Quebec, Unite Rech Sante Populat, Ctr Hosp, Quebec City, PQ, Canada.
+   [Alary, Michel] Univ Laval, Quebec City, PQ, Canada.
+   [Alary, Michel] Univ Laval, Dept Med Sociale & Prevent, Quebec City, PQ, Canada.
+RP Thibodeau, V (reprint author), CRCHUM, Immunogenet Lab, Montreal, PQ, Canada.
+EM michel.roger.chum@ssss.gouv.qc.ca
+OI Fowke, Keith/0000-0001-8227-6649; Lajoie, Julie/0000-0003-0262-8005
+FU Canadian Institutes of Health Research (CIHR) [HOP-79213]; Reseau SIDA
+   from the Fonds de la Recherche en Sante du Quebec (FRSQ); FRSQ
+FX This work was supported by grant HOP-79213 from the Canadian Institutes
+   of Health Research (CIHR) and by the Reseau SIDA from the Fonds de la
+   Recherche en Sante du Quebec (FRSQ) to MR. JL holds a Student Research
+   award from the CIHR. MR is recipient of a Research Scholar award from
+   the FRSQ. The funders had no role in study design, data collection and
+   analysis, decision to publish, or preparation of the manuscript.
+NR 46
+TC 9
+Z9 10
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 185 BERRY ST, STE 1300, SAN FRANCISCO, CA 94107 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 23
+PY 2011
+VL 6
+IS 9
+AR e25185
+DI 10.1371/journal.pone.0025185
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 825IZ
+UT WOS:000295267100026
+PM 21966450
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Ahouada, C
+   Bashi, J
+   Zannou, MD
+   Gougounon, A
+   Akakpo, J
+   Zinsou, R
+   d'Almeida, C
+   Ahomadegbe, C
+   Azon-kouanou, A
+   Ade, G
+   Houngbe, F
+AF Ahouada, C.
+   Bashi, J.
+   Zannou, M. D.
+   Gougounon, A.
+   Akakpo, J.
+   Zinsou, R.
+   d'Almeida, C.
+   Ahomadegbe, C.
+   Azon-kouanou, A.
+   Ade, G.
+   Houngbe, F.
+TI CLINICAL SCREENING OF SEXUALLY TRANSMITTED INFECTIONS AND RISK FACTORS
+   AMONG PEOPLE LIVING WITH HIV AT THE UNIVERSITY HOSPITAL OF COTONOU
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Ahouada, C.; Bashi, J.; Gougounon, A.; Akakpo, J.; Zinsou, R.; d'Almeida, C.; Ahomadegbe, C.] Acad Hosp, Amulatory Treatment Ctr, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A286
+EP A286
+DI 10.1136/sextrans-2011-050108.453
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874202005
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Batona, G
+   Michel, A
+   Rene, K
+   Marie, G
+   Evelyne, A
+   Clement, A
+   Kamaye, IM
+   Hassane, D
+AF Batona, G.
+   Michel, A.
+   Rene, K.
+   Marie, G.
+   Evelyne, A.
+   Clement, A.
+   Kamaye, I. M.
+   Hassane, D.
+TI CHALLENGES AND BARRIERS FOR CONDUCTING STI/HIV PREVENTION PROJECTS
+   TARGETING FEMALE SEX WORKERS WITHIN NATIONAL PROGRAMS IN BENIN AND NIGER
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Batona, G.] Univ Laval, Unite Rech Sante Populat URESP, Quebec City, PQ, Canada.
+   [Michel, A.] Univ Laval, URESP CHA, Quebec City, PQ, Canada.
+   [Rene, K.; Evelyne, A.; Clement, A.] Programme Natl Lutte IST Sida Benin, Cotonou, Benin.
+   [Kamaye, I. M.; Hassane, D.] Programme Natl Lutte IST Sida Niger, Niamey, Niger.
+NR 0
+TC 1
+Z9 1
+U1 1
+U2 2
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A354
+EP A354
+DI 10.1136/sextrans-2011-050119.11
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874202167
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Behanzin, L
+   Buve, A
+   Lowndes, CM
+   Zannou, DM
+   Minani, I
+   Anagonou, S
+   Boily, MC
+   Labbe, AC
+   Bitera, R
+   Alary, M
+AF Behanzin, L.
+   Buve, A.
+   Lowndes, C. M.
+   Zannou, D. M.
+   Minani, I.
+   Anagonou, S.
+   Boily, M. C.
+   Labbe, A. C.
+   Bitera, R.
+   Alary, M.
+TI DECLINE IN HIV PREVALENCE AMONG YOUNG PEOPLE IN THE GENERAL POPULATION
+   OF COTONOU, BENIN, 1998-2008
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Behanzin, L.; Bitera, R.; Alary, M.] Univ Quebec, Ctr Hosp Affilie, Quebec City, PQ, Canada.
+   [Buve, A.] Inst Trop Med, B-2000 Antwerp, Belgium.
+   [Lowndes, C. M.] Hlth Protect Agcy, London, England.
+   [Zannou, D. M.] Univ Abomey Calavi, Fac Sci Sante Cotonou, Cotonou, Benin.
+   [Minani, I.] Dispensaire IST, Cotonou, Benin.
+   [Anagonou, S.] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Labbe, A. C.] Hop Maison Neuve Rosemont, Montreal, PQ, Canada.
+   [Boily, M. C.] Univ London Imperial Coll Sci Technol & Med, London, England.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 3
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A46
+EP A46
+DI 10.1136/sextrans-2011-050109.53
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874200119
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Codjo, KA
+   Mistourath, SS
+AF Codjo, K. Adolphe
+   Mistourath, S. S.
+TI PSYCHOSOCIAL SUPPORT AND THERAPEUTIC ADHERENCE OF HIV POSITIVE PREGNANT
+   WOMEN AT HIV TREATMENT HOSPITAL OF SURU LERE IN COTONOU (BENIN)
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Codjo, K. Adolphe; Mistourath, S. S.] Univ Abomey Calavi Benin, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A256
+EP A256
+DI 10.1136/sextrans-2011-050108.375
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874201268
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Marguerite, BN
+   Amour, BA
+AF Marguerite, B. N.
+   Amour, B. A.
+TI STI AMONG VULNERABLES YOUTH ATTENDING FREE TARGETED HIV COUNSELLING AND
+   TESTING SERVICES INCLUDING AND STI DIAGNOSIS AND MANAGEMENT IN BENIN,
+   WEST AFRICA
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Marguerite, B. N.; Amour, B. A.] Populat Serv Int, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A134
+EP A135
+DI 10.1136/sextrans-2011-050108.87
+PG 2
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874200326
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Williams, J
+   Boily, MC
+   Lowndes, C
+   Camden, S
+   Demers, E
+   Minani, I
+   Zannou, M
+   Anagonou, S
+   Labbe, AC
+   Alary, M
+AF Williams, J.
+   Boily, M. C.
+   Lowndes, C.
+   Camden, S.
+   Demers, E.
+   Minani, I.
+   Zannou, M.
+   Anagonou, S.
+   Labbe, A. C.
+   Alary, M.
+TI ASSESSING THE IMPACT OF A FSW TARGETED HIV INTERVENTION PROGRAMME ON
+   INCIDENCE AND PREVALENCE IN COTONOU, BENIN
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Williams, J.; Boily, M. C.] Univ London Imperial Coll Sci Technol & Med, London, England.
+   [Lowndes, C.] Hlth Protect Agcy, London, England.
+   [Camden, S.; Demers, E.; Alary, M.] Univ Quebec CHA, Ctr Hosp Affilie, Quebec City, PQ, Canada.
+   [Minani, I.; Zannou, M.] Dispensaire IST, Cotonou, Benin.
+   [Labbe, A. C.] Ctr Natl Hosp Univ, Cotonou, Benin.
+   [Labbe, A. C.] Hop Maison Neuve Rosemont, Montreal, PQ, Canada.
+   [Alary, M.] Univ Laval, Quebec City, PQ, Canada.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A46
+EP A47
+DI 10.1136/sextrans-2011-050109.54
+PG 3
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874200120
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Zannou, DM
+   Azon-Kouanou, A
+   Alaye, OM
+   Akakpo, J
+   Azon, D
+   Akinocho, E
+   Anagonou-Y, S
+AF Zannou, D. M.
+   Azon-Kouanou, A.
+   Alaye, O. M.
+   Akakpo, J.
+   Azon, D.
+   Akinocho, E.
+   Anagonou-Y, S.
+TI EPIDEMIOLOGICAL PROFILE AND MOTIVATIONS FOR HIV SCREENING AMONG PEOPLE
+   ATTENDING AN ANONYMOUS HIV VOLUNTARY TESTING SERVICE IN COTONOU, BENIN
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Zannou, D. M.; Azon-Kouanou, A.; Alaye, O. M.; Akakpo, J.] Ambulatory Treatment Ctr PLWHIV CNHU, Cotonou, Benin.
+   [Azon, D.; Akinocho, E.] Natl Program Fight AIDS, Cotonou, Benin.
+   [Anagonou-Y, S.] Microbiol Lab CNHU Cotonou, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2011
+VL 87
+SU 1
+BP A241
+EP A241
+DI 10.1136/sextrans-2011-050108.333
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA 926ZQ
+UT WOS:000302874201228
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Ekouevi, DK
+   Azondekon, A
+   Dicko, F
+   Malateste, K
+   Toure, P
+   Eboua, FT
+   Kouadio, K
+   Renner, L
+   Peterson, K
+   Dabis, F
+   Sy, HS
+   Leroy, V
+AF Ekouevi, Didier K.
+   Azondekon, Alain
+   Dicko, Fatoumata
+   Malateste, Karen
+   Toure, Pety
+   Eboua, Francois T.
+   Kouadio, Kouakou
+   Renner, Lorna
+   Peterson, Kevin
+   Dabis, Francois
+   Sy, Haby Signate
+   Leroy, Valeriane
+CA IeDEA Pediat W Africa Working Grp
+TI 12-month mortality and loss-to-program in antiretroviral-treated
+   children: The IeDEA pediatric West African Database to evaluate AIDS
+   (pWADA), 2000-2008
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID HEALTH-CARE FACILITIES; COTE-DIVOIRE; HIV-1-INFECTED CHILDREN;
+   FOLLOW-UP; THERAPY; OUTCOMES; INFANTS; TRANSMISSION; DIAGNOSIS; SURVIVAL
+AB Background: The IeDEA West Africa Pediatric Working Group (pWADA) was established in January 2007 to study the care and treatment of HIV-infected children in this region. We describe here the characteristics at antiretroviral treatment (ART) initiation and study the 12-month mortality and loss-to-program of HIV-infected children followed in ART programs in West Africa.
+   Methods: Standardized data from HIV-infected children followed-up in ART programs were included. Nine clinical centers from six countries contributed to the dataset (Benin, Cote d'Ivoire, Gambia, Ghana, Mali and Senegal). Inclusion criteria were the followings: age 0-15 years and initiated triple antiretroviral drug regimens. Baseline time was the date of ART initiation. WHO criteria was used to define severe immunosuppression based on CD4 count by age or CD4 percent < 15%. We estimated the 12-month Kaplan-Meier probabilities of mortality and loss-to-program (death or loss to follow-up > 6 months) after ART initiation and factors associated with these two outcomes.
+   Results: Between June 2000 and December 2007, 2170 children were included. Characteristics at ART initiation were the following: median age of 5 years (Interquartile range (IQR: 2-9) and median CD4 percentage of 13% (IQR: 7-19). The most frequent drug regimen consisted of two nucleoside reverse transcriptase inhibitors and one non-nucleoside reverse transcriptase inhibitors (62%). During the first 12 months, 169 (7.8%) children died and 461 (21.2%) were lost-to-program. Overall, in HIV-infected children on ART, the 12-month probability of death was 8.3% (95% Confidence Interval (CI): 7.2-9.6%), and of loss-to-program was 23.1% (95% CI: 21.3-25.0%). Both mortality and loss-to program were associated with advanced clinical stage, CD4 percentage < 15% at ART initiation and year (> 2005) of ART initiation.
+   Conclusion: Innovative and sustainable approaches are needed to better document causes of death and increase retention in HIV pediatric clinics in West Africa.
+C1 [Ekouevi, Didier K.; Malateste, Karen; Dabis, Francois; Leroy, Valeriane] Univ Bordeaux 2, INSERM, U89, F-33076 Bordeaux, France.
+   [Ekouevi, Didier K.; Malateste, Karen; Dabis, Francois; Leroy, Valeriane] Univ Bordeaux 2, ISPED, F-33076 Bordeaux, France.
+   [Ekouevi, Didier K.] CHU Treichville, Programme PAC CI, Abidjan, Cote Ivoire.
+   [Azondekon, Alain] Hop Instruct Armees St Anne, Cotonou, Benin.
+   [Dicko, Fatoumata] Hop Gabriel Toure, Serv Pediat Bamako, Bamako, Mali.
+   [Toure, Pety] ACONDA, MTCT Plus Initiat, Abidjan, Cote Ivoire.
+   [Toure, Pety] ACONDA, CePReF, Abidjan, Cote Ivoire.
+   [Eboua, Francois T.] CHU Yopougon, Serv Pediat, Abidjan, Cote Ivoire.
+   [Kouadio, Kouakou] CIRBA, Abidjan, Cote Ivoire.
+   [Renner, Lorna] Korlebu Hosp, Pediat Ward, Accra, Ghana.
+   [Peterson, Kevin] MRC, Banjul, Gambia.
+   [Sy, Haby Signate] Hop Enfants Albert Royer, Dakar, Senegal.
+RP Ekouevi, DK (reprint author), Univ Bordeaux 2, INSERM, U89, F-33076 Bordeaux, France.
+EM didier.ekouevi@gmail.com
+RI EKOUEVI, Didier/E-7960-2014; Leroy, Valeriane/F-8129-2013
+OI Leroy, Valeriane/0000-0003-3542-8616
+FU National Institute of Allergy and Infectious Diseases (NIAID) of the U.
+   S. National Institutes of Health (NIH) as part of the International
+   Epidemiologic Databases to Evaluate AIDS (IeDEA) [5U01AI069919-01,
+   5U01AI069919-02, 5U01AI069919-03, 5U01AI069919-04, 5U01AI069919-05]
+FX The International epidemiological Database to Evaluate AIDS in West
+   Africa (IeDEA West Africa) is supported by the National Institute of
+   Allergy and Infectious Diseases (NIAID) of the U. S. National Institutes
+   of Health (NIH) as part of the International Epidemiologic Databases to
+   Evaluate AIDS (IeDEA) (grant no. 5U01AI069919-01 to 05). The content of
+   this publication is solely the responsibility of the authors and does
+   not necessarily represent the official views of any of the institutions
+   mentioned above.
+NR 28
+TC 25
+Z9 25
+U1 0
+U2 3
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUN 30
+PY 2011
+VL 11
+AR 519
+DI 10.1186/1471-2458-11-519
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 796BT
+UT WOS:000293025900002
+PM 21718505
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Ahomadegbe, C
+   Zannou, DM
+   Tchabi, Y
+   Akakpo, J
+   Ahouada, C
+   Bashi, J
+   Abdoulaye, I
+AF Ahomadegbe, C.
+   Zannou, D. M.
+   Tchabi, Y.
+   Akakpo, J.
+   Ahouada, C.
+   Bashi, J.
+   Abdoulaye, I.
+TI Cardiovascular risk among people living with HIV at 'CNHU-HKM' of
+   Cotonou, Benin
+SO ANTIVIRAL THERAPY
+LA English
+DT Meeting Abstract
+C1 [Ahomadegbe, C.; Zannou, D. M.; Akakpo, J.; Ahouada, C.; Bashi, J.] CNHU HKM, People Living HIVs Ambulatory Treatment Ctr, Cotonou, Benin.
+   [Ahomadegbe, C.; Zannou, D. M.; Ahouada, C.] CNHU HKM, Dept Internal Med, Cotonou, Benin.
+   [Tchabi, Y.] CNHU HKM, Dept Cardiol, Cotonou, Benin.
+   [Abdoulaye, I.] CNHU HKM, Biochem Lab, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU INT MEDICAL PRESS LTD
+PI LONDON
+PA 2-4 IDOL LANE, LONDON EC3R 5DD, ENGLAND
+SN 1359-6535
+J9 ANTIVIR THER
+JI Antivir. Ther.
+PY 2011
+VL 16
+SU 2
+BP A41
+EP A41
+PG 1
+WC Infectious Diseases; Pharmacology & Pharmacy; Virology
+SC Infectious Diseases; Pharmacology & Pharmacy; Virology
+GA 813OD
+UT WOS:000294375900042
+OA No
+DA 2017-07-17
+ER
+
+EF

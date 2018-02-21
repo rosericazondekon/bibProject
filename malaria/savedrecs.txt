@@ -1,0 +1,735 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Mireku, MO
+   Davidson, LL
+   Boivin, MJ
+   Zoumenou, R
+   Massougbodji, A
+   Cot, M
+   Bodeau-Livinec, F
+AF Mireku, Michael O.
+   Davidson, Leslie L.
+   Boivin, Michael J.
+   Zoumenou, Romeo
+   Massougbodji, Achille
+   Cot, Michel
+   Bodeau-Livinec, Florence
+TI Prenatal Iron Deficiency, Neonatal Ferritin, and Infant Cognitive
+   Function
+SO PEDIATRICS
+LA English
+DT Article
+ID RANDOMIZED CONTROLLED-TRIAL; TERM-FOLLOW-UP; SERUM FERRITIN; AGED
+   CHILDREN; PREGNANCY; BEHAVIOR; ANEMIA; SUPPLEMENTATION; MALARIA; TIME
+AB OBJECTIVE: To investigate the impact of prenatal maternal iron deficiency (ID) on cord blood serum ferritin (CBSF) concentration and infant cognitive and motor development.
+   METHODS: Our prospective cohort study included 636 mother-singleton child pairs from 828 eligible pregnant women who were enrolled during their first antenatal care (ANC) visit in Allada, Benin, into a clinical trial comparing the efficacy of mefloquine and sulfadoxine-pyrimethamine. Venous blood samples of women were assessed for ferritin and hemoglobin concentrations at the first and second ANC visits (occurring at least 1-month apart) and at delivery. Women were prescribed daily iron and folic acid supplements throughout pregnancy. Hematologic examinations were repeated for cord blood at birth. At age 1 year, cognitive and motor functions of children were assessed by using the Mullen Scales of Early Learning.
+   RESULTS: The prevalence of prenatal ID at first and second ANC visits, and at delivery was 30.5%, 34.0%, and 28.4%, respectively. CBSF concentrations were similar between ID and non-ID pregnant women. Neither prenatal ID nor CBSF concentration was associated with poor cognitive or gross motor function of children at age 1 year. CBSF concentrations were lower among mothers who had ID anemia (IDA) at delivery compared with non-IDA pregnant women (adjusted mean difference: -0.2 [95% confidence interval: -0.4 to -0.0]).
+   CONCLUSIONS: In a malaria-endemic region, ID in pregnancy in the context of iron supplementation is neither associated with CBSF concentration nor with infant cognitive and motor development. Prenatal IDA around the time of delivery is associated with lower CBSF concentrations.
+C1 [Mireku, Michael O.; Cot, Michel] IRD, Mere & Enfant Face Infect Trop, Paris, France.
+   [Mireku, Michael O.] Univ Paris 06, Ecole Doctorale Pierre Louis Sante Publ, Paris, France.
+   [Mireku, Michael O.; Bodeau-Livinec, Florence] Ecole Hautes Etud Sante Publ, Dept Methodes Quantitat Sante Publ, Rennes, France.
+   [Davidson, Leslie L.] Columbia Univ, Mailman Sch Publ Hlth, New York, NY USA.
+   [Davidson, Leslie L.] Columbia Univ, Coll Phys & Surg, New York, NY USA.
+   [Boivin, Michael J.] Michigan State Univ, Dept Psychiat, E Lansing, MI 48824 USA.
+   [Boivin, Michael J.] Michigan State Univ, Dept Neurol Ophthalmol, E Lansing, MI 48824 USA.
+   [Zoumenou, Romeo; Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Cot, Michel] Univ Paris 05, Fac Sci Pharmaceut & Biol, PRES Sorbonne Paris Cite, Paris, France.
+   [Bodeau-Livinec, Florence] Paris Descartes Univ, Sorbonne Paris Cite, Obstetr Perinatal & Pediat Epidemiol Res Team Epo, INSERM,UMR 1153,Ctr Epidemiol & Stat,DHU Risks Pr, Paris, France.
+RP Mireku, MO (reprint author), EHESP, Dept Methodes Quantitat Sante Publ METIS, CS 74312, Ave Prof Leon Bernard, F-35043 Rennes, France.
+EM michael.osei.mireku@gmail.com
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development [R21-HD060524]; European and Developing Countries Clinical
+   Trials Partnership [EDCTP-IP.07.31080.002]; Fondation pour la Recherche
+   Medicale in France; National Institutes of Health (NIH)
+FX The Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development funded The TOVI study, grant R21-HD060524. The Malaria in
+   Pregnancy Preventive Alternative Drugs trial (NCT00811421) was co-funded
+   by the European and Developing Countries Clinical Trials Partnership
+   (EDCTP-IP.07.31080.002). The Fondation pour la Recherche Medicale in
+   France provided final year doctoral funds for Dr Mireku. Funded by the
+   National Institutes of Health (NIH).
+NR 33
+TC 0
+Z9 0
+U1 2
+U2 2
+PU AMER ACAD PEDIATRICS
+PI ELK GROVE VILLAGE
+PA 141 NORTH-WEST POINT BLVD,, ELK GROVE VILLAGE, IL 60007-1098 USA
+SN 0031-4005
+EI 1098-4275
+J9 PEDIATRICS
+JI Pediatrics
+PD DEC
+PY 2016
+VL 138
+IS 6
+AR e20161319
+DI 10.1542/peds.2016-1319
+PG 9
+WC Pediatrics
+SC Pediatrics
+GA ED5WX
+UT WOS:000388924800023
+ER
+
+PT J
+AU Vidogbena, F
+   Adegbidi, A
+   Tossou, R
+   Assogba-Komlan, F
+   Martin, T
+   Ngouajio, M
+   Simon, S
+   Parrot, L
+   Garnett, ST
+   Zander, KK
+AF Vidogbena, F.
+   Adegbidi, A.
+   Tossou, R.
+   Assogba-Komlan, F.
+   Martin, T.
+   Ngouajio, M.
+   Simon, S.
+   Parrot, L.
+   Garnett, S. T.
+   Zander, K. K.
+TI Exploring factors that shape small-scale farmers' opinions on the
+   adoption of eco-friendly nets for vegetable production
+SO ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY
+LA English
+DT Article
+DE Agro-ecology; Cabbage; IPM; Innovation; Insect barrier; Perceptions;
+   Southern Benin; Technology adoption; West Africa
+ID RESOURCE-POOR FARMERS; TECHNOLOGY ADOPTION; PEST-MANAGEMENT; SUSTAINABLE
+   INTENSIFICATION; AGRICULTURAL TECHNOLOGY; DEVELOPING-COUNTRIES; CABBAGE
+   PRODUCTION; ENVIRONMENTAL IMPACTS; PERCEPTIONS; SYSTEMS
+AB If agro-ecological systems are to realize their potential as sustainable alternatives to conventional agricultural systems, innovation diffusion needs to be enhanced. We conducted surveys among 214 small-scale vegetable farmers in Benin, a food-deficit country in West Africa, on how they perceived the different attributes of eco-friendly nets (EFNs). The nets act as physical barriers against insects in vegetable production and so reduce pesticide use. Understanding farmer perceptions about new technologies helps reveal farmers' propensity to adopt them. Intensity of attitude was measured on a Likert scale, and an ordered probit model was used to determine which characteristics of nets were most influential. Eighteen percent of farmers thought that EFNs would benefit them, but almost half preferred not to adopt this technology at all. The main reason for rejecting the nets was the perceived high labor requirement, particularly on larger plots of land. This largely negative perception was strongest among farmers with large areas cultivated with vegetables, farmers who had little or no experience in a trial, and those living far from extension services. We recommend expanded trials that engage a higher proportion of farmers, strengthening of external support for those wanting to use the nets and further technological development to reduce labor costs, improved access to finance and increased education about the negative impacts of insecticides abuse.
+C1 [Vidogbena, F.] Ctr Regional Promot Agricole CeRPA, Abomey Calavi, Benin.
+   [Vidogbena, F.; Adegbidi, A.; Tossou, R.] Univ Abomey Calavi, Cotonou, Benin.
+   [Assogba-Komlan, F.; Simon, S.] INRAB, Cotonou, Benin.
+   [Simon, S.; Parrot, L.] CIRAD, UR Hortsys, Ave Agropolis, F-34398 Montpellier 5, France.
+   [Martin, T.] ICIPE, Plant Hlth Dept, POB 30772-00100, Nairobi, Kenya.
+   [Ngouajio, M.] Michigan State Univ, Dept Hort, E Lansing, MI 48824 USA.
+   [Garnett, S. T.] Charles Darwin Univ, Res Inst Environm & Livelihoods, Darwin, NT, Australia.
+   [Zander, K. K.] Charles Darwin Univ, Northern Inst, Ellengowan Dr, Darwin, NT 0909, Australia.
+RP Zander, KK (reprint author), Charles Darwin Univ, Northern Inst, Ellengowan Dr, Darwin, NT 0909, Australia.
+EM kerstin.zander@cdu.edu.au
+FU Centre de Cooperation Internationale pour la recherche Agronomique et le
+   Developement (Cirad); United States Agency for International Development
+   (USAID) [EPP-A-00-09-00004]
+FX This work is part of the project "Low cost pest exclusion and
+   microclimate modification technologies for small-scale vegetable growers
+   in East and West Africa" supported by the Centre de Cooperation
+   Internationale pour la recherche Agronomique et le Developement (Cirad)
+   and by the generous support of the United States Agency for
+   International Development (USAID) under Award No. EPP-A-00-09-00004. The
+   contents are the responsibility of Horticulture CRSP Project BioNetAgro
+   investigators and do not necessarily reflect the views of USAID or the
+   US Government. We are grateful for comments and advice on earlier drafts
+   from Augustin Ahoudji, Afio Zannou Desire Agossou, and Pierre Vissoh.
+NR 81
+TC 0
+Z9 0
+U1 7
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1387-585X
+EI 1573-2975
+J9 ENVIRON DEV SUSTAIN
+JI Environ. Dev. Sustain.
+PD DEC
+PY 2016
+VL 18
+IS 6
+BP 1749
+EP 1770
+DI 10.1007/s10668-015-9717-z
+PG 22
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Environmental Sciences
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA EB3PT
+UT WOS:000387278500013
+ER
+
+PT J
+AU Poirier, P
+   Doderer-Lang, C
+   Atchade, PS
+   Lemoine, JP
+   de l'Isle, MLC
+   Abou-bacar, A
+   Pfaff, AW
+   Brunet, J
+   Arnoux, L
+   Haar, E
+   Filisetti, D
+   Perrotey, S
+   Chabi, NW
+   Akpovi, CD
+   Anani, L
+   Bigot, A
+   Sanni, A
+   Candolfi, E
+AF Poirier, Philippe
+   Doderer-Lang, Cecile
+   Atchade, Pascal S.
+   Lemoine, Jean-Philippe
+   de l'Isle, Marie-Louise Coquelin
+   Abou-bacar, Ahmed
+   Pfaff, Alexander W.
+   Brunet, Julie
+   Arnoux, Lydia
+   Haar, Elodie
+   Filisetti, Denis
+   Perrotey, Sylvie
+   Chabi, Nicodeme W.
+   Akpovi, Casimir D.
+   Anani, Ludovic
+   Bigot, Andre
+   Sanni, Ambaliou
+   Candolfi, Ermanno
+TI The hide and seek of Plasmodium vivax in West Africa: report from a
+   large-scale study in Beninese asymptomatic subjects
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Plasmodium vivax; Malaria; ELISA; MSP1; CSP1; Western Africa; Benin;
+   Blood donors
+ID POLYMERASE-CHAIN-REACTION; DUFFY-BLOOD-GROUP; RAPID DIAGNOSTIC-TESTS;
+   FALCIPARUM MALARIA; INFECTION; POLYMORPHISMS; EPIDEMIOLOGY;
+   TRANSMISSION; INDIVIDUALS; POPULATIONS
+AB Background: Plasmodium vivax is considered to be absent from western Africa, where the prevalence of Duffy-negative red blood cell phenotype proves to be high. Several studies have, however, detected P. vivax infection cases in this part of Africa, raising the question of what is the actual prevalence of P. vivax in local populations.
+   Methods: The presence of P. vivax was investigated in a large population of healthy blood donors in Benin using microscopy, serology and molecular detection. The seroprevalence was measured with species-specific ELISA using two recombinant P. vivax proteins, namely rPvMSP1 and rPvCSP1. Specific molecular diagnosis of P. vivax infection was carried out using nested-PCR. The performances and cut-off values of both rPvCSP1 and rPvMSP1 ELISA were first assessed using sera from P. vivax-infected patients and from non-exposed subjects.
+   Results: Among 1234 Beninese blood donors, no parasites were detected when using microscopy, whereas 28.7% (354/1234) of patients exhibited had antibodies against rPvMSP1, 21.6% (266/1234) against rPvCSP1, and 15.2% (187/1234) against both. Eighty-four samples were selected for nested-PCR analyses, of which 13 were positive for P. vivax nested-PCR and all Duffy negative.
+   Conclusion: The results of the present study highlight an unexpectedly high exposure of Beninese subjects to P. vivax, resulting in sub-microscopic infections. This suggests a probably underestimated and insidious parasite presence in western Africa. While the vaccination campaigns and therapeutic efforts are all focused on Plasmodium falciparum, it is also essential to consider the epidemiological impact of P. vivax.
+C1 [Poirier, Philippe] CHU Gabriel Montpied, Lab Parasitol Mycol, Clermont Ferrand, France.
+   [Poirier, Philippe] CNRS, UMR 6023, Lab Microorganismes Genome & Environm, Aubiere, France.
+   [Doderer-Lang, Cecile; Lemoine, Jean-Philippe; de l'Isle, Marie-Louise Coquelin; Abou-bacar, Ahmed; Pfaff, Alexander W.; Brunet, Julie; Arnoux, Lydia; Filisetti, Denis; Perrotey, Sylvie; Candolfi, Ermanno] Univ Strasbourg, Inst Parasitol & Pathol Trop, EA 7292, Federat Med Translat, Strasbourg, France.
+   [Atchade, Pascal S.; Chabi, Nicodeme W.; Akpovi, Casimir D.; Anani, Ludovic] Univ Abomey Calavi, Lab Biochim & Biol Mol, Cotonou, Benin.
+   [Lemoine, Jean-Philippe; Abou-bacar, Ahmed; Pfaff, Alexander W.; Brunet, Julie; Haar, Elodie; Filisetti, Denis; Candolfi, Ermanno] Hop Univ Strasbourg, Lab Parasitol & Mycol Med, Plateau Tech Microbiol, Strasbourg, France.
+   [Anani, Ludovic; Bigot, Andre] Agence Natl Transfus Sanguine, Minist Sante, Cotonou, Benin.
+RP Poirier, P (reprint author), CHU Gabriel Montpied, Lab Parasitol Mycol, Clermont Ferrand, France.; Candolfi, E (reprint author), Univ Strasbourg, Inst Parasitol & Pathol Trop, EA 7292, Federat Med Translat, Strasbourg, France.
+EM ppoirier@chu-clermontferrand.fr; candolfi@unistra.fr
+FU Project CONECTUS; Benin Government
+FX This work was supported by the Project CONECTUS Project on transfusion
+   malaria diagnosis. PSA was supported by a grant from the Benin
+   Government.
+NR 32
+TC 0
+Z9 0
+U1 2
+U2 2
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD NOV 25
+PY 2016
+VL 15
+AR 570
+DI 10.1186/s12936-016-1620-z
+PG 9
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA ED0JV
+UT WOS:000388529700002
+ER
+
+PT J
+AU Djouaka, RJ
+   Atoyebi, SM
+   Tchigossou, GM
+   Riveron, JM
+   Irving, H
+   Akoton, R
+   Kusimo, MO
+   Bakare, AA
+   Wondji, CS
+AF Djouaka, Rousseau J.
+   Atoyebi, Seun M.
+   Tchigossou, Genevieve M.
+   Riveron, Jacob M.
+   Irving, Helen
+   Akoton, Romaric
+   Kusimo, Michael O.
+   Bakare, Adekunle A.
+   Wondji, Charles S.
+TI Evidence of a multiple insecticide resistance in the malaria vector
+   Anopheles funestus in South West Nigeria
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Malaria control; Anopheles funestus; Insecticide resistance; Resistance
+   mechanisms; Nigeria
+ID POLYMERASE-CHAIN-REACTION; PYRETHROID RESISTANCE; CULICIDAE GROUP;
+   DIPTERA; TRANSMISSION; MALAWI; IMPACT; SUSCEPTIBILITY; IDENTIFICATION;
+   POPULATIONS
+AB Background: Knowing the extent and spread of insecticide resistance in malaria vectors is vital to successfully manage insecticide resistance in Africa. This information in the main malaria vector, Anopheles funestus sensu stricto, is completely lacking in the most populous country in Africa, Nigeria. This study reports the insecticide susceptibility status and the molecular basis of resistance of An. funestus as well as its involvement in malaria transmission in Akaka-Remo, a farm settlement village in southwest Nigeria.
+   Results: Plasmodium infection analysis using TaqMan protocol coupled with a nested PCR revealed an infection rate of 8% in An. funestus s.s. from Akaka-Remo. WHO susceptibility tests showed this species has developed multiple resistance to insecticides in the study area. Anopheles funestus s.s. population in Akaka-Remo is highly resistant to organochlorines: dieldrin (8%) and DDT (10%). Resistance was also observed against pyrethroids: permethrin (68%) and deltamethrin (87%), and the carbamate bendiocarb (84%). Mortality rate with DDT slightly increased (from 10 to 30%, n = 45) after PBO pre-exposure indicating that cytochrome P450s play little role in DDT resistance while high mortalities were recorded after PBO pre-exposure with permethrin (from 68 to 100%, n = 70) and dieldrin (from 8 to 100%, n = 48) suggesting the implication of P450s in the observed permethrin and dieldrin resistance. High frequencies of resistant allele, 119F in F-0 (77%) and F-1 (80% in resistant and 72% in susceptible) populations with an odd ratio of 1.56 (P = 0.1859) show that L119F-GSTe2 mutation is almost fixed in the population. Genotyping of the A296S-RDL mutation in both F-0 and F-1 samples shows an association with dieldrin resistance with an odd ratio of 81 (P < 0.0001) (allelic frequency (R) = 76% for F-0; for F-1, 90 and 10% were observed in resistant and susceptible populations, respectively) as this mutation is not yet fixed in the population.
+   Conclusion: The study reports multiple insecticide resistance in An. funestus from Akaka Remo. It is, therefore, necessary to pay more attention to this major malaria vector for effective malaria control in Nigeria.
+C1 [Djouaka, Rousseau J.; Atoyebi, Seun M.; Tchigossou, Genevieve M.; Akoton, Romaric; Kusimo, Michael O.] Int Inst Trop Agr, 08 BP 0932, Cotonou, Benin.
+   [Atoyebi, Seun M.; Bakare, Adekunle A.] Univ Ibadan, Dept Zool, Cell Biol & Genet Unit, Ibadan, Oyo State, Nigeria.
+   [Riveron, Jacob M.; Irving, Helen; Wondji, Charles S.] Univ Liverpool Liverpool Sch Trop Med, Pembroke Pl, Liverpool L3 5QA, Merseyside, England.
+   [Tchigossou, Genevieve M.; Akoton, Romaric] Univ Abomey Calavi, BP 526, Cotonou, Benin.
+RP Djouaka, RJ (reprint author), Int Inst Trop Agr, 08 BP 0932, Cotonou, Benin.
+EM r.djouaka@cgiar.org
+FU Wellcome Trust grants [099864/Z/12/Z]; Wellcome Trust Senior Research
+   Fellowship in Biomedical Sciences [101893/Z/13/Z]
+FX This work is supported by the Wellcome Trust grants Reference
+   099864/Z/12/Z awarded to RD and a Wellcome Trust Senior Research
+   Fellowship in Biomedical Sciences to CSW (101893/Z/13/Z).
+NR 51
+TC 0
+Z9 0
+U1 1
+U2 1
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD NOV 22
+PY 2016
+VL 15
+AR 565
+DI 10.1186/s12936-016-1615-9
+PG 10
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA ED0JQ
+UT WOS:000388529200001
+ER
+
+PT J
+AU N'Guessan, R
+   Odjo, A
+   Ngufor, C
+   Malone, D
+   Rowland, M
+AF N'Guessan, Raphael
+   Odjo, Abibatou
+   Ngufor, Corine
+   Malone, David
+   Rowland, Mark
+TI A Chlorfenapyr Mixture Net Interceptor (R) G2 Shows High Efficacy and
+   Wash Durability against Resistant Mosquitoes in West Africa
+SO PLOS ONE
+LA English
+DT Article
+ID PYRROLE INSECTICIDE CHLORFENAPYR; EXPERIMENTAL HUT EVALUATION;
+   PYRETHROID-RESISTANT; CULEX-QUINQUEFASCIATUS; ANOPHELES-GAMBIAE; MALARIA
+   VECTORS; TREATED NETS; BENIN; CULICIDAE; DIPTERA
+AB Background
+   Malaria control through use of long-lasting insecticidal nets (LN) is threatened by the selection of anopheline mosquitoes strongly resistant to pyrethroid insecticides. To sustain future effectiveness it is essential to identify and evaluate novel insecticides suitable for nets. Mixtures of two insecticides with contrasting mode of action have the potential to kill resistant vectors and restore transmission control provided the formulation can withstand regular washing over the net's life span.
+   Method
+   The efficacy of a novel mixture LN, Interceptor (R) G2, that combines the pyrrole chlorfenapyr and pyrethroid alpha-cypermethrin was evaluated under controlled household conditions (experimental hut trial) and by laboratory bioassay against pyrethroid resistant An. gambiae in Benin before and after standardized washing. Comparison arms included standard alphacypermethrin LN, nets hand-treated with chlorfenapyr-only and untreated nets.
+   Results
+   The chlorfenapyr-alphacypermethrin LN demonstrated improved efficacy and wash resistance compared to a standard alpha-cypermethrin LN against pyrethroid resistant mosquitoes (resistance ratio 207). In experimental hut trial alpha-cypermethrin LN killed only 20% (95% CI 15-26%) of host-seeking An. gambiae whilst mixture LN killed 71% (95% CI 65-77%). Mixture LN washed 20 times killed 65% (95% CI 58-71%), and thus intensive washing reduced efficacy by only 6% (95% CI 1.3-11%). The chlorfenapyr net killed 76% (95% CI 70-81%). Personal protection and blood feeding inhibition did not differ between mixture and pyrethroid LN; however, the mixture LN was 2.5 (95% CI: 2.1-3.1) times more protective than untreated nets. Standard WHO cone bioassays conducted during day time hours failed to anticipate field efficacy but overnight tunnel tests successfully predicted mixture LN and chlorfenapyr net efficacy in field trials.
+   Conclusion
+   Interceptor (R) G2 LN demonstrates the potential to control transmission and provide community protection over the normal lifespan of long lasting nets where standard pyrethroid LN show signs of failing due to resistance.
+C1 [N'Guessan, Raphael; Ngufor, Corine; Rowland, Mark] London Sch Hyg & Trop Med, London, England.
+   [N'Guessan, Raphael; Odjo, Abibatou; Ngufor, Corine] Minist Hlth, Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [N'Guessan, Raphael; Ngufor, Corine; Rowland, Mark] Pan African Malaria Vector Res Consortium PAMVERC, London, England.
+   [Malone, David] Innovat Vector Control Consortium, Liverpool, Merseyside, England.
+RP Rowland, M (reprint author), London Sch Hyg & Trop Med, London, England.; Rowland, M (reprint author), Pan African Malaria Vector Res Consortium PAMVERC, London, England.
+EM mark.rowland@lshtm.ac.uk
+FU Bill and Melinda Gates Foundation; Innovative Vector Control Consortium;
+   Bill and Melinda Gates Foundation through the Innovative Vector Control
+   Consortium (IVCC).
+FX This work was supported by the Bill and Melinda Gates Foundation
+   (http://www.gatestoundation.org/) and the Innovative Vector Control
+   Consortium (http://www.ivcc.com). The institutional funders had no role
+   in study design, data collection and analysis, preparation of the
+   manuscript or decision to publish.; We thank Egon Weinmuller, Susanne
+   Stutz, James Austin (BASF SE) for technical input and samples, and
+   Robert Farlow (consultant), Robert Sloss (IVCC) and Martin Akogbeto
+   (CREC) for technical and programme support. We thank Achille Oumbouke,
+   Augustin Foungnikin Abel Agbevo, Estelle Vigninou and Laurette Kiki for
+   technical assistance. Funded by the Bill and Melinda Gates Foundation
+   through the Innovative Vector Control Consortium (IVCC).
+NR 27
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 16
+PY 2016
+VL 11
+IS 11
+AR e0165925
+DI 10.1371/journal.pone.0165925
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EC1ZU
+UT WOS:000387909300027
+ER
+
+PT J
+AU Mamadou, O
+   de la Motte, LG
+   De Ligne, A
+   Heinesch, B
+   Aubinet, M
+AF Mamadou, Ossenatou
+   de la Motte, Louis Gourlez
+   De Ligne, Anne
+   Heinesch, Bernard
+   Aubinet, Marc
+TI Sensitivity of the annual net ecosystem exchange to the cospectral model
+   used for high frequency loss corrections at a grazed grassland site
+SO AGRICULTURAL AND FOREST METEOROLOGY
+LA English
+DT Article
+DE Eddy-covariance; High frequency loss; Cospectral correction; Soil/grass
+   respiration; Carbon dioxide flux; Net ecosystem exchange
+ID EDDY-COVARIANCE SYSTEMS; GROSS PRIMARY PRODUCTION; WATER-VAPOR FLUXES;
+   CARBON-DIOXIDE; LONG-TERM; SPECTRAL CHARACTERISTICS; RESPONSE
+   CORRECTIONS; SURFACE-LAYER; FORESTS; ATTENUATION
+AB Given the increasing use of the eddy covariance technique to estimate CO2 fluxes, more attention needs to be paid to the measurement method used. Among other procedures, the way high frequency loss corrections are established and, more particularly, the choice of the cospectrum shape that is used to implement the correction appears particularly important in this regard. In this study, we compared three approaches to high frequency loss correction for CO2 fluxes measured by a closed path eddy covariance system and evaluated their impact on the carbon balance at the Dorinne Terrestrial Observatory (DTO), an intensively grazed grassland site in Belgium. In the first approach, the computation of correction factors was based on the local cospectra, whereas the other two were based on Kansas cospectra models. The correction approaches were validated by comparing the nighttime eddy covariance CO2 fluxes corrected with each approach and chamber-based total ecosystem respiration estimates. We found that the local cospectra differed from the Kansas cospectra shape, although the site could not be considered as difficult (i.e., fairly flat, homogeneous, low vegetation, sufficient measurement height). The Kansas cospectra have more spectral power at high frequencies than the local cospectra under (un) stable conditions. This difference greatly affected the correction factor, especially for night fluxes. Night fluxes measured by eddy covariance were found to be in good accord with total chamber based ecosystem respiration estimates when corrected with local cospectra and to be overestimated when corrected with Kansas cospectra, As the difference between correction factors was larger in stable than unstable conditions, it acts as a selective systematic error and has an important impact on annual carbon fluxes. On the basis of a 4-year average, at DTO the errors reach 71-150 g Cm-2 y(-1) for net ecosystem exchange (NEE), 280-562 g Cm-2 y(-1) for total ecosystem respiration (TER) and 209-412 g Cm-2 y(-1) for gross primary productivity (GPP), depending on the approach. used. We finally encourage site PIs to check the cospectrum shape at their sites and, if necessary, compute frequency correction factors on the basis of local cospectra rather than on Kansas cospectra. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Mamadou, Ossenatou; de la Motte, Louis Gourlez; De Ligne, Anne; Heinesch, Bernard; Aubinet, Marc] Univ Liege, Gembloux Agrobio Tech, TERRA, Ecosyst Atmosphere Exchanges, Ave Fac 8, B-5030 Gembloux, Belgium.
+   [Mamadou, Ossenatou] Univ Porto Novo, Inst Math & Phys Sci, BP 613, Porto Novo, Benin.
+RP Mamadou, O (reprint author), Univ Porto Novo, Inst Math & Phys Sci, BP 613, Porto Novo, Benin.
+EM ossenatou.mamadou@gmail.com; l.gourlezdelamotte@ulg.ac.be;
+   anne.deligne@ulg.ac.be; bernard.heinesch@ulg.ac.be;
+   marc.aubinet@ulg.ac.be
+OI Ossenatou, Mamadou/0000-0002-2774-6000
+FU Service public de Wallonie, Direction Generale Operationnelle de
+   l'Agriculture, des Ressources naturelles et de l'Environnement,
+   Departement du Developpement, Direction de la Recherche, Belgium
+   [D31-1235, D31-1278, D31-1327]
+FX This research was funded by the Service public de Wallonie, Direction
+   Generale Operationnelle de l'Agriculture, des Ressources naturelles et
+   de l'Environnement, Departement du Developpement, Direction de la
+   Recherche, Belgium. Project no. D31-1235, January 2010 to December 2011.
+   Project no. D31-1278, January 2012 to December 2013. Project no.
+   D31-1327, January 2014 to December 2015. We thank Alain Debacq, Fred
+   Wilmus and Henri Chopin for their technical assistance and Louise Maroun
+   for making soil chamber measurements. The authors also would also like
+   to thank the farmer, Adrien Paquet, for his collaboration, which was
+   essential to the implementation of the study.
+NR 51
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-1923
+EI 1873-2240
+J9 AGR FOREST METEOROL
+JI Agric. For. Meteorol.
+PD NOV 15
+PY 2016
+VL 228
+BP 360
+EP 369
+DI 10.1016/j.agrformet.2016.06.008
+PG 10
+WC Agronomy; Forestry; Meteorology & Atmospheric Sciences
+SC Agriculture; Forestry; Meteorology & Atmospheric Sciences
+GA DV9XJ
+UT WOS:000383295200030
+ER
+
+PT J
+AU de la Motte, LG
+   Jerome, E
+   Mamadou, O
+   Beckers, Y
+   Bodson, B
+   Heinesch, B
+   Aubinet, M
+AF de la Motte, Louis Gourlez
+   Jerome, Elisabeth
+   Mamadou, Ossenatou
+   Beckers, Yves
+   Bodson, Bernard
+   Heinesch, Bernard
+   Aubinet, Marc
+TI Carbon balance of an intensively grazed permanent grassland in southern
+   Belgium
+SO AGRICULTURAL AND FOREST METEOROLOGY
+LA English
+DT Article
+DE Grassland; Carbon budget; Carbon dioxide flux; Management; Eddy
+   covariance; Uncertainty
+ID SOIL ORGANIC-CARBON; NET ECOSYSTEM EXCHANGE; GREENHOUSE-GAS BALANCE;
+   EDDY COVARIANCE; INTERANNUAL VARIABILITY; PRIMARY PRODUCTIVITY;
+   CONTRASTING YEARS; DIOXIDE EXCHANGE; LANDSCAPE UNITS; NITROUS-OXIDE
+AB Grasslands are an important component of the global carbon balance, but their carbon storage potential is still highly uncertain. In particular, the impact of weather variability and management practices on grassland carbon budgets need to be assessed. This study investigated the carbon balance of an intensively managed permanent grassland and its uncertainties by drawing together 5 years of eddy covariance measurements and other organic carbon exchanges estimates. The results showed that, despite the high stocking rate and the old age of the pasture, the site acted as a relatively stable carbon sink from year to year, with a 5-year average net biome productivity of -161 [-134 - 180] g Cm-2 yr(-1). Lateral organic carbon fluxes were found to increase the carbon sink because of high carbon imports (organic fertilization, feed complements) and low carbon exports in form of meat compared to dairy-pastures. The cattle stocking density was adapted to grass production, which itself depends on weather conditions and photosynthesizing area, in order to maintain a steady meat production. This resulted in a coupling between grazing management and weather conditions. As a consequence, both weather and grazing impacts on net ecosystem exchange were difficult to distinguish. Indeed, no correlation was found between weather variables anomalies and net ecosystem exchange anomalies. This coupling could also partly explain the low C budget inter-annual variability. The findings in this study are in agreement with those reported by other studies that have shown that well-managed grasslands could act as carbon sinks. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [de la Motte, Louis Gourlez; Jerome, Elisabeth; Mamadou, Ossenatou; Heinesch, Bernard; Aubinet, Marc] Univ Liege, Gembloux Agrobio Tech, TERRA, Exchange Ecosyst Atmosphere, Ave Fac 8, B-5030 Gembloux, Belgium.
+   [Beckers, Yves; Bodson, Bernard] Univ Liege, Gembloux Agrobio Tech, TERRA, Passage Deportes 2, B-5030 Gembloux, Belgium.
+   [Mamadou, Ossenatou] Univ Porto Novo, Inst Math & Phys Sci IMSP, BP 613, Porto Novo, Benin.
+RP de la Motte, LG (reprint author), Univ Liege, Gembloux Agrobio Tech, TERRA, Exchange Ecosyst Atmosphere, Ave Fac 8, B-5030 Gembloux, Belgium.
+EM l.gourlezdelamotte@ulg.ac.be; jerome.elisabeth@gmail.com;
+   ossenatou.mamadou@gmail.com; yves.beckers@ulg.ac.be; b.bodson@ulg.ac.be;
+   bernard.heinesch@ulg.ac.be; marc.aubinet@ulg.ac.be
+FU Service public de Wallonie (SPW), Direction Generale Operationnelle de
+   l'Agriculture, des Ressources naturelles et de l'Environnement,
+   Departement du Developpement, Direction de la Recherche, Belgium
+   [D31-1235, D31-1278, D31-1327]
+FX This research was funded by the Service public de Wallonie (SPW),
+   Direction Generale Operationnelle de l'Agriculture, des Ressources
+   naturelles et de l'Environnement, Departement du Developpement,
+   Direction de la Recherche, Belgium. Project no. D31-1235, January 2010
+   to December 2011. Project no. D31-1278, January 2012 to December 2013.
+   Project no. D31-1327, January 2014 to December 2015. The authors would
+   like to thank Henri Chopin, Alain Debacq, Frederic Wilmus and Jean
+   Christophe Pector for their technical assistance. They also would also
+   like to thank the farmer, Adrien Paquet, for his collaboration, which
+   was essential to the study.
+NR 66
+TC 1
+Z9 1
+U1 34
+U2 34
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-1923
+EI 1873-2240
+J9 AGR FOREST METEOROL
+JI Agric. For. Meteorol.
+PD NOV 15
+PY 2016
+VL 228
+BP 370
+EP 383
+DI 10.1016/j.agrformet.2016.06.009
+PG 14
+WC Agronomy; Forestry; Meteorology & Atmospheric Sciences
+SC Agriculture; Forestry; Meteorology & Atmospheric Sciences
+GA DV9XJ
+UT WOS:000383295200031
+ER
+
+PT J
+AU Gineau, L
+   Courtin, D
+   Camara, M
+   Ilboudo, H
+   Jamonneau, V
+   Dias, FC
+   Tokplonou, L
+   Milet, J
+   Mendona, PB
+   Castelli, EC
+   Camara, O
+   Camara, M
+   Favier, B
+   Rouas-Freiss, N
+   Moreau, P
+   Donadi, EA
+   Bucheton, B
+   Sabbagh, A
+   Garcia, A
+AF Gineau, Laure
+   Courtin, David
+   Camara, Mamadou
+   Ilboudo, Hamidou
+   Jamonneau, Vincent
+   Dias, Fabricio C.
+   Tokplonou, Leonidas
+   Milet, Jacqueline
+   Mendona, Priscila B.
+   Castelli, Erick C.
+   Camara, Oumou
+   Camara, Mariam
+   Favier, Benoit
+   Rouas-Freiss, Nathalie
+   Moreau, Philippe
+   Donadi, Eduardo A.
+   Bucheton, Bruno
+   Sabbagh, Audrey
+   Garcia, Andre
+TI Human Leukocyte Antigen-G: A Promising Prognostic Marker of Disease
+   Progression to Improve the Control of Human African Trypanosomiasis
+SO CLINICAL INFECTIOUS DISEASES
+LA English
+DT Article
+DE HLA-G; human African trypanosomiasis; Trypanosoma brucei gambiense;
+   susceptibility; genetic association
+ID SLEEPING-SICKNESS PATIENTS; SOLUBLE HLA-G; BRUCEI-GAMBIENSE;
+   PLASMA-LEVELS; DIVERSITY; MALARIA; GENE; INFECTIONS; TOLERANCE;
+   EVOLUTION
+AB Background. Human African trypanosomiasis (HAT) caused by Trypanosoma brucei gambiense can be diagnosed in the early hemolymphatic stage (stage 1 [S1]) or meningoencephalitic stage (stage 2 [S2]). Importantly, individuals harbouring high and specific antibody responses to Tbg antigens but negative parasitology are also diagnosed in the field (seropositive [SERO]). Whereas some develop the disease in the months following their initial diagnosis (SERO/HAT), others remain parasitologically negative for long periods (SERO) and are apparently able to control infection. Human leucocyte antigen (HLA)-G, an immunosuppressive molecule, could play a critical role in this variability of progression between infection and disease.
+   Methods. Soluble HLA-G (sHLA-G) was measured in plasma for patients in the SERO (n = 65), SERO/HAT (n = 14), or HAT (n = 268) group and in cerebrospinal fluid for patients in S1 (n = 55), early S2 (n = 93), or late S2 (n = 110). Associations between these different statuses and the soluble level or genetic polymorphisms of HLA-G were explored.
+   Results. Plasma sHLA-G levels were significantly higher in HAT (P = 6 x 10(-7)) and SERO/HAT (P = .007) than SERO patients. No difference was observed between the SERO/HAT and HAT groups. Within the HAT group, specific haplotypes (HG010102 and HG0103) displayed increased frequencies in S1 (P = .013) and late S2 (P = .036), respectively.
+   Conclusions. These results strongly suggest the involvement of HLA-G in HAT disease progression. Importantly, high plasma sHLA-G levels in SERO patients could be predictive of subsequent disease development and could represent a serological marker to help guide therapeutic decision making. Further studies are necessary to assess the predictive nature of HLA-G and to estimate both sensitivity and specificity.
+C1 [Gineau, Laure; Courtin, David; Milet, Jacqueline; Sabbagh, Audrey] Univ Paris 05, Sorbonne Paris Cite, MERIT UMR216, Inst Rech Dev,Mere & Enfant Face Infect Trop, Paris, France.
+   [Gineau, Laure; Courtin, David; Milet, Jacqueline; Sabbagh, Audrey; Garcia, Andre] Univ Paris 05, Sorbonne Paris Cite, Fac Pharm, Paris, France.
+   [Favier, Benoit; Rouas-Freiss, Nathalie; Moreau, Philippe] Hop St Louis, Commissariat Energie Atom & Energies Alternat, Inst Malad Emergentes & Therapies Innovantes, Serv Rech Hematoimmunol, Paris, France.
+   [Favier, Benoit; Rouas-Freiss, Nathalie; Moreau, Philippe] Univ Paris Diderot, Sorbonne Paris Cite, UMRE5, Inst Univ Hematol,Hop St Louis, Paris, France.
+   [Jamonneau, Vincent; Bucheton, Bruno] Inst Rech Dev, Campus Int Baillarguet, Montpellier, France.
+   [Camara, Mamadou; Camara, Oumou; Camara, Mariam; Bucheton, Bruno] Minist Sante & Hyg Publ, Programme Natl Lutte Trypanosomose Humaine Africa, Conakry, Guinea.
+   [Ilboudo, Hamidou; Jamonneau, Vincent] Ctr Int Rech Dev Elevage Zone Subhumides, Unite Rech Bases Biol Lutte Integree, Bobo Dioulasso, Burkina Faso.
+   [Dias, Fabricio C.; Mendona, Priscila B.; Donadi, Eduardo A.] Univ Sao Paulo, Sch Med Ribeirao Preto, Div Clin Immunol, Ribeirao Preto, Brazil.
+   [Castelli, Erick C.] UNESP Univ Estadual Paulista, Sch Med, Dept Pathol, Sao Paulo, Brazil.
+   [Garcia, Andre] Fac Sci Sante, Ctr Etud & Rech Paludisme Associe Grossesse & Enf, Inst Rech Dev, UMR 216, Cotonou, Benin.
+RP Garcia, A (reprint author), Univ Paris 05, Fac Sci Pharmaceut & Biol, Inst Rech Dev, UMR 216, 4 Ave Observ, F-75270 Paris 06, France.
+EM andre.garcia@ird.fr
+RI Garcia, Andre/S-2959-2016; Gineau, Laure/G-2446-2016
+OI Garcia, Andre/0000-0002-1808-472X; 
+FU Institut de Recherche pour le Developpement; French Ministry of Foreign
+   Affairs through the FSP/REFS project; World Health Organization; Ciena
+   sem Fronteiras "Pesquisador Visitante Especial" program [406594/2013-9];
+   Region Ile-de-France; CNPq Ciena sem Fronteiras BJT [401641/2013-9,
+   313887/2013-6]
+FX This study was supported by the Institut de Recherche pour le
+   Developpement (including a PhD scholarship to L. T.), the French
+   Ministry of Foreign Affairs through the FSP/REFS project and the World
+   Health Organization, the Ciena sem Fronteiras "Pesquisador Visitante
+   Especial" program (grant 406594/2013-9), Region Ile-de-France (grants to
+   L. G.), and CNPq Ciena sem Fronteiras BJT (grants 401641/2013-9 and
+   313887/2013-6 to F. C. D.).
+NR 40
+TC 0
+Z9 0
+U1 3
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1058-4838
+EI 1537-6591
+J9 CLIN INFECT DIS
+JI Clin. Infect. Dis.
+PD NOV 1
+PY 2016
+VL 63
+IS 9
+BP 1189
+EP 1197
+DI 10.1093/cid/ciw505
+PG 9
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA EC2WY
+UT WOS:000387986200012
+PM 27470243
+ER
+
+PT J
+AU Dossou-Yovo, ER
+   Bruggeman, N
+   Ampofo, E
+   Igue, AM
+   Jesse, N
+   Huat, J
+   Agbossou, EK
+AF Dossou-Yovo, Elliott Ronald
+   Brueggeman, Nicolas
+   Ampofo, Edward
+   Igue, Attanda Mouinou
+   Jesse, Naab
+   Huat, Joel
+   Agbossou, Euloge Kossi
+TI Combining no-tillage, rice straw mulch and nitrogen fertilizer
+   application to increase the soil carbon balance of upland rice field in
+   northern Benin
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE Heterotrophic respiration; Management practices; Root respiration; Soil
+   carbon storage
+ID LAND-USE CHANGE; AGRICULTURAL SOILS; CO2 EMISSIONS; RESPIRATION; BUDGET;
+   SEQUESTRATION; ROOT; COMPONENTS; RESPONSES; CROPLAND
+AB Agricultural management practices are frequently non conservative and can lead to substantial loss of soil organic carbon and soil fertility, but for many regions in Africa the knowledge is very limited. To study the effect of local agricultural practices on soil organic carbon content and to explore effective ways to increase soil carbon storage, field experiments were conducted on an upland rice soil (Lixisol) in northern Benin in West Africa. The treatments comprised two tillage systems (no-tillage, and manual tillage), two rice straw managements (no rice straw, and rice straw mulch at 3 Mg ha(-1)) and three nitrogen fertilizer levels (no nitrogen, 60 kg ha(-1), 120 kg ha(-1)). Phosphorus and potassium fertilizers were applied to be non-limiting at 40 kg P2O5 ha(-1) and 40 kg K2O ha(-1) per cropping season. Heterotrophic respiration was higher in manual tillage than no-tillage, and higher in mulched than in non-mulched treatments. Under the current management practices (manual tillage, with no residue and no nitrogen fertilization) in upland rice fields in northern Benin, the carbon added as aboveground biomass and root biomass was not enough to compensate for the loss of carbon from organic matter decomposition, rendering the upland rice fields as net sources of atmospheric CO2. With no-tillage, 3 Mg ha(-1) of rice straw mulch and 60 kg N ha(-1), the soil carbon balance was approximately zero. With no other changes in management practices, an increase in nitrogen level from 60 kg N ha(-1) to 120 kg N ha(-1) resulted in a positive soil carbon balance. Considering the high cost of inorganic nitrogen fertilizer and the potential risk of soil and air pollution often associated with intensive fertilizer use, implementation of no-tillage combined with application of 3 Mg ha(-1) of rice straw mulch and 60 kg N ha(-1) could be recommended to the smallholder farmers to compensate for the loss of carbon from organic matter decomposition in upland rice fields in northern Benin. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Dossou-Yovo, Elliott Ronald; Ampofo, Edward] Univ Cape Coast, Sch Agr, Cape Coast, Ghana.
+   [Dossou-Yovo, Elliott Ronald; Agbossou, Euloge Kossi] Univ Abomey Calavi, Lab Hydraul & Mat Eau, Inst Natl Eau, BP 2819, Cotonou, Benin.
+   [Brueggeman, Nicolas] Forschungszentrum Julich, IBG 3, D-52425 Julich, Germany.
+   [Igue, Attanda Mouinou] Inst Natl Rech Agron Benin, Lab Sci Sol Eaux & Environm, Cotonou, Benin.
+   [Jesse, Naab] WASCAL West African Sci Serv Ctr Climate Change &, Competence Ctr, Ouagadougou, Burkina Faso.
+   [Huat, Joel] CIRAD, UR Hortsys, F-34398 Montpellier 05, France.
+RP Dossou-Yovo, ER (reprint author), Univ Cape Coast, Sch Agr, Cape Coast, Ghana.
+EM dossouyovoelliott@gmail.com; n.brueggemann@fz-juelich.de;
+   edwardakwasi@yahoo.com; igue_attanda@yahoo.fr; jessenaab@gmail.com;
+   joel.huat@cirad.fr; agbossou.euloge@yahoo.fr
+FU West Africa Science Service Center on Climate Change and Adapted Land
+   Use (WASCAL) programme
+FX This work was supported by the West Africa Science Service Center on
+   Climate Change and Adapted Land Use (WASCAL) programme. The authors
+   thank Expedit Ago and Robert Zougmore for their helpful comments on the
+   manuscript.
+NR 37
+TC 0
+Z9 0
+U1 48
+U2 48
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD NOV
+PY 2016
+VL 163
+BP 152
+EP 159
+DI 10.1016/j.still.2016.05.019
+PG 8
+WC Soil Science
+SC Agriculture
+GA DT9PE
+UT WOS:000381834000017
+ER
+
+PT J
+AU Degan, G
+   Sanya, A
+   Akowanou, C
+AF Degan, Gerard
+   Sanya, Arthur
+   Akowanou, Christian
+TI Laminar film condensation along a vertical plate embedded in an
+   anisotropic porous medium with oblique principal axes
+SO HEAT AND MASS TRANSFER
+LA English
+DT Article
+ID NATURAL-CONVECTION; HEAT-TRANSFER; LAYER; SURFACE; FLUX
+AB This work analytically investigates the problem of steady film condensation along a vertical surface embedded in an anisotropic porous medium filled with a dry saturated vapor. The porous medium is anisotropic in permeability whose principal axes are oriented in a direction which is oblique to the gravity vector. On the basis of the generalized Darcy's law and within the boundary layer approximations, similar solutions have been obtained for the temperature and flow patterns in the condensate. Moreover, closed form solutions for the boundary layer thickness and heat transfer rate have been obtained in terms of the governing parameters of the problem.
+C1 [Degan, Gerard; Sanya, Arthur; Akowanou, Christian] UAC, EPAC, LEMA, Boite Postale 2009, Cotonou, Benin.
+RP Degan, G (reprint author), UAC, EPAC, LEMA, Boite Postale 2009, Cotonou, Benin.
+EM ger_degan@yahoo.fr
+NR 26
+TC 0
+Z9 0
+U1 3
+U2 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0947-7411
+EI 1432-1181
+J9 HEAT MASS TRANSFER
+JI Heat Mass Transf.
+PD OCT
+PY 2016
+VL 52
+IS 10
+BP 2119
+EP 2128
+DI 10.1007/s00231-015-1684-2
+PG 10
+WC Thermodynamics; Mechanics
+SC Thermodynamics; Mechanics
+GA DU2LF
+UT WOS:000382041800010
+ER

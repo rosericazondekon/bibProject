@@ -1,0 +1,1766 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Andre, E
+   Isaacs, C
+   Affolabi, D
+   Alagna, R
+   Brockmann, D
+   de Jong, BC
+   Cambau, E
+   Churchyard, G
+   Cohen, T
+   Delmee, M
+   Delvenne, JC
+   Farhat, M
+   Habib, A
+   Holme, R
+   Keshavjee, S
+   Khan, A
+   Lightfoot, P
+   Moore, D
+   Moreno, Y
+   Mundade, Y
+   Pai, M
+   Patel, S
+   Nyaruhirira, AU
+   Rocha, LEC
+   Takle, J
+   Trebucq, A
+   Creswell, J
+   Boehme, C
+AF Andre, E.
+   Isaacs, C.
+   Affolabi, D.
+   Alagna, R.
+   Brockmann, D.
+   de Jong, B. C.
+   Cambau, E.
+   Churchyard, G.
+   Cohen, T.
+   Delmee, M.
+   Delvenne, J. -C.
+   Farhat, M.
+   Habib, A.
+   Holme, R.
+   Keshavjee, S.
+   Khan, A.
+   Lightfoot, P.
+   Moore, D.
+   Moreno, Y.
+   Mundade, Y.
+   Pai, M.
+   Patel, S.
+   Nyaruhirira, A. U.
+   Rocha, L. E. C.
+   Takle, J.
+   Trebucq, A.
+   Creswell, J.
+   Boehme, C.
+TI Connectivity of diagnostic technologies: improving surveillance and
+   accelerating tuberculosis elimination
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE laboratory; connectivity; tuberculosis; surveillance; data
+ID COUNTRIES; POINT; TB
+AB In regard to tuberculosis (TB) and other major global epidemics, the use of new diagnostic tests is increasing dramatically, including in resource-limited countries. Although there has never been as much digital information generated, this data source has not been exploited to its full potential. In this opinion paper, we discuss lessons learned from the global scale-up of these laboratory devices and the pathway to tapping the potential of laboratory-generated information in the field of TB by using connectivity. Responding to the demand for connectivity, innovative third-party players have proposed solutions that have been widely adopted by field users of the Xpert MTB/RIF assay. The experience associated with the utilisation of these systems, which facilitate the monitoring of wide laboratory networks, stressed the need for a more global and comprehensive approach to diagnostic connectivity. In addition to SUMMARY facilitating the reporting of test results, the mobility of digital information allows the sharing of information generated in programme settings. When they become easily accessible, these data can be used to improve patient care, disease surveillance and drug discovery. They should therefore be considered as a public health good. We list several examples of concrete initiatives that should allow data sources to be combined to improve the understanding of the epidemic, support the operational response and, finally, accelerate TB elimination. With the many opportunities that the pooling of data associated with the TB epidemic can provide, pooling of this information at an international level has become an absolute priority.
+C1 [Andre, E.; Delmee, M.] Catholic Univ Louvain, Inst Rech Expt & Clin, Pole Microbiol Med, B-1200 Brussels, Belgium.
+   [Andre, E.; Delmee, M.] Clin Univ St Luc, Dept Biol Clin, Serv Microbiol, Brussels, Belgium.
+   [Andre, E.] ESCMID, European Soc Clin Microbiol & Infect Dis ESCMID, Study Grp Mycobacterial Infect ESGMYC, Basel, Switzerland.
+   [Lightfoot, P.; Boehme, C.] Fdn Innovat New Diagnost, Geneva, Switzerland.
+   [Affolabi, D.] Abomey Calavi Univ, Fac Hlth Sci, Cotonou, Benin.
+   [Affolabi, D.] Natl TB Programme, Cotonou, Benin.
+   [Alagna, R.] Ist Ricovero & Cura Carattere Sci San Raffaele Sc, TB Supranat Reference Lab, Milan, Italy.
+   [Brockmann, D.] Humboldt Univ, Inst Theoret Biol, Dept Biol, Berlin, Germany.
+   [Brockmann, D.] Robert Koch Inst, Epidemiol Modelling Infect Dis, Berlin, Germany.
+   [de Jong, B. C.] Inst Trop Med, Dept Biomed Sci, Unit Mycobacteriol, Ghent, Belgium.
+   [Cambau, E.] Univ Paris Diderot, Inst Natl Sante & Rech Med, UMR 1137, Infect Antimicrobiens Modelisat Evolut, Paris, France.
+   [Cambau, E.] Hop Lariboisiere, AP HP, Bacteriol, Paris, France.
+   [Churchyard, G.] Aurum Inst, Johannesburg, South Africa.
+   [Cohen, T.] Yale Univ, Yale Sch Publ Hlth, New Haven, CT USA.
+   [Delvenne, J. -C.] Catholic Univ Louvain, Inst Informat & Commun Technol Elect & Appl Math, Louvain, Belgium.
+   [Delvenne, J. -C.] Catholic Univ Louvain, Ctr Operat Res & Econometr, Louvain, Belgium.
+   [Farhat, M.] Massachusetts Gen Hosp, Boston, MA 02114 USA.
+   [Habib, A.] Interact Hlth Solut, Karachi, Pakistan.
+   [Holme, R.] Sungkyunkwan Univ, Seoul, South Korea.
+   [Keshavjee, S.] Harvard Med Sch, Ctr Global Hlth Delivery, Dubai, U Arab Emirates.
+   [Khan, A.] Interact Res & Dev, Karachi, Pakistan.
+   [Moore, D.] London Sch Hyg & Trop Med, TB Ctr, London, England.
+   [Moreno, Y.] Univ Zaragoza, Inst Biocomputat & Phys Complex Syst BIFI, Zaragoza, Spain.
+   [Rocha, L. E. C.] Univ Zaragoza, Dept Theoret Phys, Fac Sci, Zaragoza, Spain.
+   [Mundade, Y.] UNITAID, Geneva, Switzerland.
+   [Pai, M.] McGill Univ, McGill Int TB Ctr, Montreal, PQ, Canada.
+   [Pai, M.] McGill Univ, McGill Global Hlth Programs, Montreal, PQ, Canada.
+   [Patel, S.] Univ Hosp Southampton NHS Fdn Trust, Southampton, Hants, England.
+   [Nyaruhirira, A. U.] Management Sci Hlth, Gauteng, South Africa.
+   [Rocha, L. E. C.] Karolinska Inst, Stockholm, Sweden.
+   [Rocha, L. E. C.] Univ Namur, Namur, Belgium.
+   [Takle, J.] Global Connect LLC, Somerville, MA USA.
+   [Trebucq, A.] Int Union TB & Lung Dis, Paris, France.
+   [Creswell, J.] Stop TB Partnership, Geneva, Switzerland.
+RP Andre, E (reprint author), Catholic Univ Louvain, Pole Microbiol, Inst Rech Expt & Clin, 10 Ave Hippocrate, B-1200 Brussels, Belgium.
+EM emmanuel.andre@uclouvain.be
+RI Moreno, Yamir/A-1076-2009; Holme, Petter/A-7646-2008
+OI Moreno, Yamir/0000-0002-0895-1893; Holme, Petter/0000-0003-2156-1096
+NR 16
+TC 3
+Z9 3
+U1 0
+U2 0
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD AUG
+PY 2016
+VL 20
+IS 8
+BP 999
+EP 1003
+DI 10.5588/ijtld.16.0015
+PG 5
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA DS0PC
+UT WOS:000380298200004
+PM 27393530
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Harries, AD
+   Ade, S
+   Burney, P
+   Hoa, NB
+   Schluger, NW
+   Castro, JL
+AF Harries, A. D.
+   Ade, S.
+   Burney, P.
+   Hoa, N. B.
+   Schluger, N. W.
+   Castro, J. L.
+TI Successfully treated but not fit for purpose: paying attention to
+   chronic lung impairment after TB treatment
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE TB; chronic restrictive lung disease; chronic airway obstruction;
+   respiratory physicians; sustainable development goals
+ID AIR-FLOW OBSTRUCTION; QUALITY-OF-LIFE; PULMONARY TUBERCULOSIS;
+   MORTALITY; DISEASE; MALAWI; ZOMBA; BURDEN; VOLUME
+AB In 2013, 86% of patients with newly diagnosed tuberculosis (TB) successfully completed treatment and were discharged from care. However, long-term studies in industrialised and resource-poor countries all point to a higher risk of death in TB survivors than in the general population. The likely explanation is chronic restrictive and obstructive lung disease consequent to TB. We call for better linkages between TB control programmes and SUMMARY respiratory medicine services, a better understanding of the burden of respiratory disability at the end of anti-tuberculosis treatment, and political, programmatic, clinical and research action to improve the quality of life of affected patients.
+C1 [Harries, A. D.; Ade, S.; Hoa, N. B.; Castro, J. L.] Int Union TB & Lung Dis, Paris, France.
+   [Harries, A. D.] London Sch Hyg & Trop Med, Fac Infect & Trop Dis, Dept Clin Res, London, England.
+   [Ade, S.] Natl TB Programme, Cotonou, Benin.
+   [Burney, P.] Imperial Coll, Natl Heart & Lung Inst, London, England.
+   [Hoa, N. B.] Natl TB Control Programme, Hanoi, Vietnam.
+   [Schluger, N. W.] Columbia Univ, Med Ctr, Div Pulm Allergy & Crit Care Med, New York, NY USA.
+   [Schluger, N. W.; Castro, J. L.] Vital Strategies, New York, NY USA.
+RP Harries, AD (reprint author), Old Inn Cottage, Vears Lane, Winchester SO21 1TQ, Hants, England.
+EM adharries@theunion.org
+NR 30
+TC 1
+Z9 1
+U1 2
+U2 3
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD AUG
+PY 2016
+VL 20
+IS 8
+BP 1010
+EP 1013
+DI 10.5588/ijtld.16.0277
+PG 4
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA DS0PC
+UT WOS:000380298200006
+PM 27393532
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Adjobimey, M
+   Masserey, E
+   Adjonou, C
+   Gbenagnon, G
+   Schwoebel, V
+   Anagonou, S
+   Zellweger, JP
+AF Adjobimey, M.
+   Masserey, E.
+   Adjonou, C.
+   Gbenagnon, G.
+   Schwoebel, V.
+   Anagonou, S.
+   Zellweger, J. -P.
+TI Implementation of isoniazid preventive therapy in children aged under 5
+   years exposed to tuberculosis in Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE TB; preventive chemotherapy; children; TB contacts
+ID PRE-CHEMOTHERAPY ERA; EPIDEMIOLOGY; CONTACTS; ADHERENCE
+AB SETTINGS: Two large tuberculosis (TB) centres under a well-functioning National TB Programme (NTP) in Benin, West Africa.
+   OBJECTIVE: To assess the feasibility and results of integrating a programme of isoniazid preventive therapy (IPT) in children aged <5 years exposed to TB as part of the existing routine activities of the NTP.
+   METHOD: All children aged <5 years living in the household of a patient with smear-positive pulmonary TB were examined by a doctor and received IPT if no evidence of TB was detected. The children were followed clinically by a nurse for 6 months.
+   RESULTS: From January 2013 to June 2014, 496 SUMMARY children were examined and prescribed IPT among 499 notified contacts; 86% adhered to IPT for at least 6 months. There were six deaths and three cases of active TB among the children, all during the first 3 months of follow-up.
+   CONCLUSIONS: In an African country with moderate TB incidence and a well-functioning NTP, the integration of IPT into the NTP for children aged <5 years exposed to TB in the family was feasible based on simple tools associated with the follow-up of index cases. The rate of adherence to IPT was high.
+C1 [Adjobimey, M.; Adjonou, C.; Anagonou, S.] Ctr Natl Hosp Pneumophtisiol, Cotonou, Benin.
+   [Masserey, E.] Serv Sante Publ, Vaud, Switzerland.
+   [Gbenagnon, G.] Ctr Hosp Pneumophtisiol Akron, Akron, Benin.
+   [Schwoebel, V.] Int Union TB & Lung Dis, Paris, France.
+   [Zellweger, J. -P.] Swiss Lung Assoc, Chutzenstr 10, CH-3007 Bern, Switzerland.
+RP Zellweger, JP (reprint author), Swiss Lung Assoc, Chutzenstr 10, CH-3007 Bern, Switzerland.
+EM zellwegerjp@swissonline.ch
+NR 19
+TC 2
+Z9 2
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD AUG
+PY 2016
+VL 20
+IS 8
+BP 1055
+EP 1059
+DI 10.5588/ijtld.15.0493
+PG 5
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA DS0PC
+UT WOS:000380298200013
+PM 27393539
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Merle, CS
+   Floyd, S
+   Ndiaye, A
+   Galperine, T
+   Furco, A
+   De Jong, BC
+   McIlleron, H
+   Glynn, J
+   Sarr, M
+   Bah-Sow, O
+   Affolabi, D
+AF Merle, C. S.
+   Floyd, S.
+   Ndiaye, A.
+   Galperine, T.
+   Furco, A.
+   De Jong, B. C.
+   McIlleron, H.
+   Glynn, J.
+   Sarr, M.
+   Bah-Sow, O.
+   Affolabi, D.
+CA Rafa Team
+TI High-dose rifampicin tuberculosis treatment regimen to reduce 12-month
+   mortality of TB/HIV co-infected patients: the RAFA trial results
+SO JOURNAL OF THE INTERNATIONAL AIDS SOCIETY
+LA English
+DT Meeting Abstract
+C1 [Merle, C. S.; Rafa Team] WHO, TDR, Geneva, Switzerland.
+   [Merle, C. S.; Floyd, S.] London Sch Hyg & Trop Med, IDEU, London, England.
+   [Ndiaye, A.; Sarr, M.] Natl TB Programme, Dakar, Senegal.
+   [Galperine, T.] Tenon Hosp, Paris, France.
+   [Furco, A.] UCL, London, England.
+   [De Jong, B. C.] Inst Trop Med, Antwerp, Belgium.
+   [McIlleron, H.] Univ Cape Town, Clin Pharmacol Lab, Cape Town, South Africa.
+   [Bah-Sow, O.] Hosp Ignace Deen, Serv Pneumophtisiol, Conakry, Guinea.
+   [Affolabi, D.] Natl TB Programme, Cotonou, Benin.
+EM merlec@who.int
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU INT AIDS SOCIETY
+PI GENEVA
+PA AVENUE DE FRANCE 23, GENEVA, 1202, SWITZERLAND
+SN 1758-2652
+J9 J INT AIDS SOC
+JI J. Int. AIDS Soc.
+PD JUL
+PY 2016
+VL 19
+SU 5
+MA WEAB0205LB
+PG 2
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA EM6AD
+UT WOS:000395394300075
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Ade, S
+   Trebucq, A
+   Harries, AD
+   Ade, G
+   Agodokpessi, G
+   Wachinou, P
+   Affolabi, D
+   Anagonou, S
+AF Ade, Serge
+   Trebucq, Arnaud
+   Harries, Anthony D.
+   Ade, Gabriel
+   Agodokpessi, Gildas
+   Wachinou, Prudence
+   Affolabi, Dissou
+   Anagonou, Severin
+TI Follow-up and tracing of tuberculosis patients who fail to attend their
+   scheduled appointments in Cotonou, Benin: a retrospective cohort study
+SO BMC HEALTH SERVICES RESEARCH
+LA English
+DT Article
+DE Tuberculosis; Treatment; Scheduled appointment; Benin; Operational
+   research
+AB Background: In the "Centre National Hospitalier de Pneumo-Phtisiologie" of Cotonou, Benin, little is known about the characteristics of patients who have not attended their scheduled appointment, the results of tracing and the possible benefits on improving treatment outcomes. This study aimed to determine the contribution of tracing activities for those who missed scheduled appointments towards a successful treatment outcome.
+   Methods: A retrospective cohort study was carried out among all smear-positive pulmonary tuberculosis patients treated between January and September 2013. Data on demographic and diagnostic characteristics and treatment outcomes were accessed from tuberculosis registers and treatment cards. Information on those who missed their scheduled appointments was collected from the tracing tuberculosis register. A univariate analysis was performed to explore factors associated with missing a scheduled appointment.
+   Results: Of 457 patients (410 new smear-positive and 47 retreatment tuberculosis), 37 (8 %) missed one or more of their appointments with a total of 44 episodes of missed appointments. The 3.5th (32 %) and 5th (43 %) month appointments were the ones most likely to be missed. Being male was associated with a higher risk of missing appointments (RR = 4.2; 95 % CI = 1.5-11.8, p = 0.004) while having HIV infection was associated with a lower risk (RR = 0.3, 95 % CI = 0.1-0.9, p = 0.03). Principal reasons for missed appointments were travelling outside Cotonou (34 %) and feeling better (21 %). In 24 (55 %) of these 44 episodes of missed appointments, contact was made with the patient who returned to the programme. These follow-up activities increased the treatment success by 4 %.
+   Conclusion: In Cotonou, Benin, less than 10 % of tuberculosis patients miss at least one of their scheduled appointments. Tracing activities increase the treatment success rate by 4 % and current on-going practices in the Programme need to be endorsed and encouraged.
+C1 [Ade, Serge; Ade, Gabriel; Agodokpessi, Gildas; Wachinou, Prudence; Affolabi, Dissou; Anagonou, Severin] Nat TB Programme, Cotonou, Benin.
+   [Ade, Serge] Univ Parakou, Fac Med, Parakou, Benin.
+   [Ade, Serge; Trebucq, Arnaud; Harries, Anthony D.] Int Union TB & Lung Dis, Paris, France.
+   [Harries, Anthony D.] London Sch Hyg & Trop Med, London WC1, England.
+RP Ade, S (reprint author), Nat TB Programme, Cotonou, Benin.
+EM adeserg@yahoo.fr
+NR 16
+TC 0
+Z9 0
+U1 1
+U2 3
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6963
+J9 BMC HEALTH SERV RES
+JI BMC Health Serv. Res.
+PD JAN 11
+PY 2016
+VL 16
+AR 5
+DI 10.1186/s12913-015-1219-z
+PG 7
+WC Health Care Sciences & Services
+SC Health Care Sciences & Services
+GA DA5MC
+UT WOS:000367846200001
+PM 26754808
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Ade, S
+   Affolabi, D
+   Agodokpessi, G
+   Wachinou, P
+   Faihun, F
+   Toundoh, N
+   Bekou, W
+   Makpenon, A
+   Ade, G
+   Anagonou, S
+   Harries, AD
+AF Ade, S.
+   Affolabi, D.
+   Agodokpessi, G.
+   Wachinou, P.
+   Faihun, F.
+   Toundoh, N.
+   Bekou, W.
+   Makpenon, A.
+   Ade, G.
+   Anagonou, S.
+   Harries, A. D.
+TI Low prevalence of diabetes mellitus in patients with tuberculosis in
+   Cotonou, Benin
+SO PUBLIC HEALTH ACTION
+LA English
+DT Article
+DE diabetes mellitus; tuberculosis; noncommunicable diseases; Benin;
+   operational research
+AB Setting: The three Basic Management Units (BMUs) of the National Tuberculosis Programme (NTP) in Cotonou, Benin.
+   Objective: To determine the prevalence of diabetes mellitus (DM) among tuberculosis (TB) patients in Cotonou.
+   Design: A cross-sectional study of consecutively registered TB patients treated for a minimum of 2 weeks between June and July 2014 in the three BMUs, with measurement of their fasting blood glucose (FBG). A patient was considered as having DM if venous FBG was. 7 mmol/l or if they reported a known history of DM.
+   Result: There were 159 patients assessed: 114 with new smear-positive pulmonary tuberculosis (PTB), 5 with new smear-negative PTB, 8 with extra-pulmonary TB, 21 retreatment patients with fully susceptible bacilli and 11 with multidrug-resistant TB. Of these, respectively 31 (19%), 18 (11%) and 10 (6%) were human immunodeficiency virus co-infected, smokers and hypertensive. Eight patients (5%) had impaired fasting glucose and three (1.9%) had DM (FBG >= 7 mmol/l), of whom two were already known to have the disease and one was newly diagnosed.
+   Conclusion: DM may not be an important risk factor for TB in Cotonou. A larger study on TB and DM in the whole country is needed.
+C1 [Ade, S.; Affolabi, D.; Agodokpessi, G.; Wachinou, P.; Faihun, F.; Toundoh, N.; Bekou, W.; Makpenon, A.; Ade, G.; Anagonou, S.] Natl TB Programme, BP321, Cotonou, Benin.
+   [Ade, S.; Ade, G.] Ctr Natl Hosp Univ Hubert Koutoukou Maga, Serv Med Interne, Cotonou, Benin.
+   [Ade, S.; Harries, A. D.] Int Union TB & Lung Dis, Paris, France.
+   [Harries, A. D.] London Sch Hyg & Trop Med, London WC1, England.
+RP Ade, S (reprint author), Natl TB Programme, BP321, Cotonou, Benin.
+EM adeserg@yahoo.fr
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 2220-8372
+J9 PUBLIC HEALTH ACTION
+JI PUBLIC HEALTH ACTION
+PD JUN 21
+PY 2015
+VL 5
+IS 2
+BP 147
+EP 149
+DI 10.5588/pha.14.0110
+PG 3
+WC Respiratory System
+SC Respiratory System
+GA DL2FN
+UT WOS:000375448900014
+PM 26400387
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Gehre, F
+   Ejo, M
+   Fissette, K
+   de Rijk, P
+   Uwizeye, C
+   Nduwamahoro, E
+   Goovaerts, O
+   Affolabi, D
+   Gninafon, M
+   Lingoupou, FM
+   Barry, MD
+   Sow, O
+   Merle, C
+   Olliaro, P
+   Ba, F
+   Sarr, M
+   Piubello, A
+   Noeske, J
+   Antonio, M
+   Rigouts, L
+   de Jong, BC
+AF Gehre, Florian
+   Ejo, Mebrat
+   Fissette, Kristina
+   de Rijk, Pim
+   Uwizeye, Cecile
+   Nduwamahoro, Elie
+   Goovaerts, Odin
+   Affolabi, Dissou
+   Gninafon, Martin
+   Lingoupou, Fanny M.
+   Barry, Mamadou Dian
+   Sow, Oumou
+   Merle, Corinne
+   Olliaro, Piero
+   Ba, Fatoumata
+   Sarr, Marie
+   Piubello, Alberto
+   Noeske, Juergen
+   Antonio, Martin
+   Rigouts, Leen
+   de Jong, Bouke C.
+TI Shifts in Mycobacterial Populations and Emerging Drug-Resistance in West
+   and Central Africa
+SO PLOS ONE
+LA English
+DT Article
+ID TUBERCULOSIS COMPLEX; GENETIC DIVERSITY; MOLECULAR EPIDEMIOLOGY;
+   STRAINS; TRANSMISSION; LINEAGE; GAMBIA
+AB In this study, we retrospectively analysed a total of 605 clinical isolates from six West or Central African countries (Benin, Cameroon, Central African Republic, Guinea-Conakry, Niger and Senegal). Besides spoligotyping to assign isolates to ancient and modern mycobacterial lineages, we conducted phenotypic drug-susceptibility-testing for each isolate for the four first-line drugs. We showed that phylogenetically modern Mycobacterium tuberculosis strains are more likely associated with drug resistance than ancient strains and predict that the currently ongoing replacement of the endemic ancient by a modern mycobacterial population in West/Central Africa might result in increased drug resistance in the sub-region.
+C1 [Gehre, Florian; Ejo, Mebrat; Fissette, Kristina; de Rijk, Pim; Uwizeye, Cecile; Nduwamahoro, Elie; Goovaerts, Odin; Rigouts, Leen; de Jong, Bouke C.] Inst Trop Med, B-2000 Antwerp, Belgium.
+   [Gehre, Florian; Antonio, Martin] MRC, Gambia Unit, Fajara, Gambia.
+   [Affolabi, Dissou; Gninafon, Martin] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Lingoupou, Fanny M.] Inst Pasteur, Lab Mycobacteries, Bangui, Cent Afr Republ.
+   [Barry, Mamadou Dian; Sow, Oumou] Lab Reference Mycobacteries, Conakry, Guinea.
+   [Merle, Corinne] London Sch Hyg & Trop Med, London WC1, England.
+   [Olliaro, Piero] WHO, Special Programme Res & Training Trop Dis TDR, UNICEF, UNDP,World Bank, CH-1211 Geneva, Switzerland.
+   [Ba, Fatoumata] Lab Reference Mycobacteries, Dakar, Senegal.
+   [Sarr, Marie] Natl TB Programme, Dakar, Senegal.
+   [Piubello, Alberto] Damien Fdn, Niamey, Niger.
+   [de Jong, Bouke C.] NYU, New York, NY USA.
+RP Gehre, F (reprint author), Inst Trop Med, B-2000 Antwerp, Belgium.
+EM fgehre@itg.be
+RI de Jong, Bouke/A-3636-2013
+OI de Jong, Bouke/0000-0002-1017-4675; Ejo, Mebrat/0000-0001-8119-8394
+FU European Research Council (ERC) Starting grant "INTERRUPTB'' [311725];
+   European and Developing Countries Clinical Trial Partnership (EDCTP)
+   grant "Towards strengthening of the West African Node of Excellence for
+   TB, AIDS and malaria: WANETAM plus'' [MSI 2010_10800]; UNICEF/UNDP/World
+   Bank/WHO Special Programme for Research and Training in Tropical
+   Diseases (TDR)
+FX The study was partially funded by a European Research Council (ERC)
+   Starting grant "INTERRUPTB'', grant agreement no.: 311725, and a
+   European and Developing Countries Clinical Trial Partnership (EDCTP)
+   grant "Towards strengthening of the West African Node of Excellence for
+   TB, AIDS and malaria: WANETAM plus'', project code: MSI 2010_10800.
+   Parts of this study were supported by a grant of the UNICEF/UNDP/World
+   Bank/WHO Special Programme for Research and Training in Tropical
+   Diseases (TDR). The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 1
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 10
+PY 2014
+VL 9
+IS 12
+AR e110393
+DI 10.1371/journal.pone.0110393
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AW9YP
+UT WOS:000346611400003
+PM 25493429
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Merle, CS
+   Fielding, K
+   Sow, OB
+   Gninafon, M
+   Lo, MB
+   Mthiyane, T
+   Odhiambo, J
+   Amukoye, E
+   Bah, B
+   Kassa, F
+   N'Diaye, A
+   Rustomjee, R
+   de Jong, BC
+   Horton, J
+   Perronne, C
+   Sismanidis, C
+   Lapujade, O
+   Olliaro, PL
+   Lienhardt, C
+AF Merle, Corinne S.
+   Fielding, Katherine
+   Sow, Omou Bah
+   Gninafon, Martin
+   Lo, Mame B.
+   Mthiyane, Thuli
+   Odhiambo, Joseph
+   Amukoye, Evans
+   Bah, Boubacar
+   Kassa, Ferdinand
+   N'Diaye, Alimatou
+   Rustomjee, Roxana
+   de Jong, Bouke C.
+   Horton, John
+   Perronne, Christian
+   Sismanidis, Charalambos
+   Lapujade, Olivier
+   Olliaro, Piero L.
+   Lienhardt, Christian
+CA OFLOTUB Gatifloxacin TB Project
+TI A Four-Month Gatifloxacin-Containing Regimen for Treating Tuberculosis
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID PULMONARY TUBERCULOSIS; PHASE-II; MOXIFLOXACIN; ETHAMBUTOL; TRIAL
+AB BACKGROUND
+   Shortening the course of treatment for tuberculosis would be a major improvement for case management and disease control. This phase 3 trial assessed the efficacy and safety of a 4-month gatifloxacin-containing regimen for treating rifampin-sensitive pulmonary tuberculosis.
+   METHODS
+   We conducted a noninferiority, randomized, open-label, controlled trial involving patients 18 to 65 years of age with smear-positive, rifampin-sensitive, newly diagnosed pulmonary tuberculosis in five sub-Saharan African countries. A standard 6-month regimen that included ethambutol during the 2-month intensive phase was compared with a 4-month regimen in which gatifloxacin (400 mg per day) was substituted for ethambutol during the intensive phase and was continued, along with rifampin and isoniazid, during the continuation phase. The primary efficacy end point was an unfavorable outcome (treatment failure, recurrence, or death or study dropout during treatment) measured 24 months after the end of treatment, with a noninferiority margin of 6 percentage points, adjusted for country.
+   RESULTS
+   A total of 1836 patients were assigned to the 4-month regimen (experimental group) or the standard regimen (control group). Baseline characteristics were well balanced between the groups. At 24 months after the end of treatment, the adjusted difference in the risk of an unfavorable outcome (experimental group [21.0%] minus control group [17.2%]) in the modified intention-to-treat population (1356 patients) was 3.5 percentage points (95% confidence interval, -0.7 to 7.7). There was heterogeneity across countries (P = 0.02 for interaction, with differences in the rate of an unfavorable outcome ranging from -5.4 percentage points in Guinea to 12.3 percentage points in Senegal) and in baseline cavitary status (P = 0.04 for interaction) and body-mass index (P = 0.10 for interaction). The standard regimen, as compared with the 4-month regimen, was associated with a higher dropout rate during treatment (5.0% vs. 2.7%) and more treatment failures (2.4% vs. 1.7%) but fewer recurrences (7.1% vs. 14.6%). There was no evidence of increased risks of prolongation of the QT interval or dysglycemia with the 4-month regimen.
+   CONCLUSIONS
+   Noninferiority of the 4-month regimen to the standard regimen with respect to the primary efficacy end point was not shown. (Funded by the Special Program for Research and Training in Tropical Diseases and others; ClinicalTrials.gov number, NCT00216385.)
+C1 [Merle, Corinne S.; Fielding, Katherine; Sismanidis, Charalambos] London Sch Hyg & Trop Med, London WC1, England.
+   [Horton, John] Trop Projects, Hitchin, England.
+   [Sow, Omou Bah; Bah, Boubacar] Hop Ignace Deen, Serv Pneumophtisiol, Conakry, Guinea.
+   [Gninafon, Martin; Kassa, Ferdinand] Ctr Natl Hosp Pneumophtisiol, Cotonou, Benin.
+   [Lo, Mame B.; N'Diaye, Alimatou] Programme Natl Lutte TB, Dakar, Senegal.
+   [Mthiyane, Thuli; Rustomjee, Roxana] MRC, Durban, South Africa.
+   [Odhiambo, Joseph; Amukoye, Evans] Kenya Govt Med Res Ctr, Nairobi, Kenya.
+   [de Jong, Bouke C.] Inst Trop Med, B-2000 Antwerp, Belgium.
+   [Perronne, Christian] Hop Univ Paris Ile de France Ouest, Assistance Publ Hop Paris, Paris, France.
+   [Lapujade, Olivier; Lienhardt, Christian] Inst Rech Dev, Marseille, France.
+   [Olliaro, Piero L.] WHO, Special Program Res & Training Trop Dis, CH-1211 Geneva 27, Switzerland.
+RP Olliaro, PL (reprint author), WHO, Special Program Res & Training Trop Dis, 20 Ave Appia, CH-1211 Geneva 27, Switzerland.
+EM olliarop@who.int
+RI de Jong, Bouke/A-3636-2013; TISSOT-DUPONT, Herve/P-5808-2016
+OI de Jong, Bouke/0000-0002-1017-4675; Webb, Emily/0000-0002-4019-7456;
+   Mthiyane, Thuli/0000-0002-1782-5485
+FU Special Program for Research and Training in Tropical Diseases (TDR);
+   United Nations Children's Fund; United Nations Development Program;
+   World Bank; WHO; European Commission
+FX Supported by the Special Program for Research and Training in Tropical
+   Diseases (TDR), a cosponsored program of the United Nations Children's
+   Fund, the United Nations Development Program, the World Bank, and the
+   WHO, and in part by the European Commission (International Cooperation
+   with Developing Countries program). TDR funding was provided by
+   governmental and cosponsor core contributions to TDR. Specific support
+   was also provided by the U. S. Agency for International Development, the
+   government of Japan, the Global Alliance for TB Drug Development, and
+   the Li Ka Shing Foundation Global Health Programme at the University of
+   Oxford. Lupin Pharmaceuticals, India, provided study drugs.
+NR 23
+TC 113
+Z9 115
+U1 1
+U2 10
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD OCT 23
+PY 2014
+VL 371
+IS 17
+BP 1588
+EP 1598
+DI 10.1056/NEJMoa1315817
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA AR5UF
+UT WOS:000343648500007
+PM 25337748
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Laokri, S
+   Dramaix-Wilmet, M
+   Kassa, F
+   Anagonou, S
+   Dujardin, B
+AF Laokri, Samia
+   Dramaix-Wilmet, Michele
+   Kassa, Ferdinand
+   Anagonou, Severin
+   Dujardin, Bruno
+TI Assessing the economic burden of illness for tuberculosis patients in
+   Benin: determinants and consequences of catastrophic health expenditures
+   and inequities
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE Health economics; Catastrophic health expenditure; Informed
+   policy-making; Financial and social protection; Bottom-up
+   decision-making; Cost of illness
+ID BURKINA-FASO; LOW-INCOME; CARE; IMPOVERISHMENT; COUNTRIES; POVERTY;
+   EQUITY; FEES
+AB ObjectivesTo inform policy-making, we measured the risk, causes and consequences of catastrophic expenditures for tuberculosis and investigated potential inequities.
+   MethodsBetween August 2008 and February 2009, a cross-sectional study was conducted among all (245) smear-positive pulmonary tuberculosis patients of six health districts from southern Benin. A standardised survey questionnaire covered the period of time elapsing from onset of tuberculosis symptoms to completion of treatment. Total direct cost exceeding the conventional 10% threshold of annual income was defined as catastrophic and used as principal outcome in a multivariable logistic regression. A sensitivity analysis was performed while varying the thresholds.
+   ResultsA pure gradient of direct costs of tuberculosis in relation to income was observed. Incidence (78.1%) and intensity (14.8%) of catastrophic expenditure were high; varying thresholds was insensitive to the intensity. Incurring catastrophic expenditure was independently associated with lower- and middle-income quintiles (adjusted odd ratio (aOR)=36.2, 95% CI [12.3-106.3] and aOR=6.4 [2.8-14.6]), adverse pre-diagnosis stage (aOR=5.4 [2.2-13.3]) and less education (aOR=4.1[1.9-8.7]). Households incurred important days lost due to TB, indebtedness (37.1%), dissaving (51.0%) and other coping strategies (52.7%).
+   ConclusionsCatastrophic direct costs and substantial indirect and coping costs may persist under the free' tuberculosis diagnosis and treatment strategy, as well as inequities in financial hardship.
+C1 [Laokri, Samia; Dramaix-Wilmet, Michele; Dujardin, Bruno] Univ Libre Bruxelles, Brussels, Belgium.
+   [Kassa, Ferdinand; Anagonou, Severin] Programme Natl TB, Cotonou, Benin.
+RP Laokri, S (reprint author), Route Lennik 808,CP 594, B-1070 Brussels, Belgium.
+EM slaokri@ulb.ac.be
+FU Development and Cooperation-EuropeAid Directorate-General of the
+   European Commission; Universite Libre de Bruxelles
+FX The Development and Cooperation-EuropeAid Directorate-General of the
+   European Commission funded local staff and data collection. A Mini-arc
+   Grant from the Universite Libre de Bruxelles funded the analysis of data
+   and writing of the manuscript. Neither body had a role in the study
+   design, data collection and analysis, decision to publish or preparation
+   of the manuscript.
+NR 36
+TC 8
+Z9 8
+U1 1
+U2 15
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD OCT
+PY 2014
+VL 19
+IS 10
+BP 1249
+EP 1258
+DI 10.1111/tmi.12365
+PG 10
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA AQ3JA
+UT WOS:000342687100009
+PM 25040399
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Laokri, S
+   Amoussouhui, A
+   Ouendo, EM
+   Hounnankan, AC
+   Anagonou, S
+   Gninafon, M
+   Kassa, F
+   Tawo, L
+   Dujardin, B
+AF Laokri, Samia
+   Amoussouhui, Arnaud
+   Ouendo, Edgard M.
+   Hounnankan, Athanase Cossi
+   Anagonou, Severin
+   Gninafon, Martin
+   Kassa, Ferdinand
+   Tawo, Leon
+   Dujardin, Bruno
+TI A Care Pathway Analysis of Tuberculosis Patients in Benin: Highlights on
+   Direct Costs and Critical Stages for an Evidence-Based Decision-Making
+SO PLOS ONE
+LA English
+DT Article
+ID PULMONARY TUBERCULOSIS; DELAYS; DIAGNOSIS; POVERTY
+AB Background: Free tuberculosis control fail to protect patients from substantial medical and non-medical expenditure, thus a greater degree of disaggregation of patient cost is needed to fully capture their context and inform policymaking.
+   Methods: A retrospective cross-sectional study was conducted on a convenience sample of six health districts of Southern Benin. From August 2008 to February 2009, we recruited all smear-positive pulmonary tuberculosis patients treated under the national strategy in the selected districts. Direct out-of-pocket costs associated with tuberculosis, time delays, and care-seeking pattern were collected from symptom onset to end of treatment.
+   Results: Population description and outcome data were reported for 245 patients of whom 153 completed their care pathway. For them, the median overall direct cost was USD 183 per patient. Payments to traditional healers, self-medication drugs, travel, and food expenditures contributed largely to this cost burden. Patient, provider, and treatment delays were also reported. Pre-diagnosis and intensive treatment stages were the most critical stages, with median expenditure of USD 43 per patient and accounting for 38% and 29% of the overall direct cost, respectively. However, financial barriers differed depending on whether the patient lived in urban or rural areas.
+   Conclusions: This study delivers new evidence about bottlenecks encountered during the TB care pathway. Financial barriers to accessing the free-of-charge tuberculosis control strategy in Benin remain substantial for low-income households. Irregular time delays and hidden costs, often generated by multiple visits to various care providers, impair appropriate patient pathways. Particular attention should be paid to pre-diagnosis and intensive treatment. Cost assessment and combined targeted interventions embodied by a patient-centered approach on the specific critical stages would likely deliver better program outcomes.
+C1 [Laokri, Samia; Dujardin, Bruno] Univ Libre Brussels, Sch Publ Hlth, Res Ctr Hlth Policy & Syst Int Hlth, Brussels, Belgium.
+   [Amoussouhui, Arnaud; Ouendo, Edgard M.; Hounnankan, Athanase Cossi] Inst Reg Sante Publ, Unite Rech, Ouidah, Benin.
+   [Anagonou, Severin; Gninafon, Martin; Kassa, Ferdinand; Tawo, Leon] Programme Natl TB, Cotonou, Benin.
+RP Laokri, S (reprint author), Univ Libre Brussels, Sch Publ Hlth, Res Ctr Hlth Policy & Syst Int Hlth, Brussels, Belgium.
+EM slaokri@ulb.ac.be
+FU Development and Cooperation-EuropAid Directorate-General of European
+   Commission [Sante/2004/078-590]; Universite Libre de Bruxelles
+FX The Development and Cooperation-EuropAid Directorate-General of European
+   Commission (Projet Sante/2004/078-590) funded local staff training and
+   data collection. A mini-ARC Grant from the Universite Libre de Bruxelles
+   awarded to SL funded the analysis of data and writing of the manuscript.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 24
+TC 6
+Z9 6
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 8
+PY 2014
+VL 9
+IS 5
+AR e96912
+DI 10.1371/journal.pone.0096912
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AK1XT
+UT WOS:000338213300088
+PM 24810007
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Ade, S
+   Harries, AD
+   Trebucq, A
+   Ade, G
+   Agodokpessi, G
+   Adjonou, C
+   Azon, S
+   Anagonou, S
+AF Ade, Serge
+   Harries, Anthony D.
+   Trebucq, Arnaud
+   Ade, Gabriel
+   Agodokpessi, Gildas
+   Adjonou, Christine
+   Azon, Sophie
+   Anagonou, Severin
+TI National Profile and Treatment Outcomes of Patients with Extrapulmonary
+   Tuberculosis in Benin
+SO PLOS ONE
+LA English
+DT Article
+ID RISK-FACTORS; PULMONARY TUBERCULOSIS; DIAGNOSIS; HIV; MTB/RIF; MALAWI
+AB Background: In sub-Saharan Africa, there is a dearth of published literature on extrapulmonary tuberculosis (EPTB). Objective: To describe demographic, diagnostic and HIV-status characteristics of patients with EPTB in Benin, their treatment outcomes, and among those who completed their treatment in the Centre National Hospitalier de PneumoPhtisiologie (CNHP-P), the proportion whose bodyweight increased during treatment.
+   Material and Findings: This was a retrospective cohort study with comparisons made between EPTB and new smearpositive pulmonary tuberculosis (NPTB) patients diagnosed in the country from January to December 2011. There were 383 EPTB patients (9% of all TB cases) with a mean age of 35 years, male/female ratio of 1.3 and important regional variation. There were significantly more females (p = 0.001), children < 15years (p < 0.001) and HIV-positive patients (p = 0.005) with EPTB compared with NPTB. Pleural effusion, spinal and lymph node tuberculosis accounted for 66% of all EPTB. Children, 15 years represented 16% of cases, with lymph node disease being most common among them (p < 0.001). Of 130 EPTB patients registered in CNHP-P, 7% had a confirmed bacteriological/histological diagnosis. There were 331 (86%) patients who successfully completed treatment. More patients with EPTB were lost-to-follow-up compared with NPTB (p, 0.001) with all these patients from one region. The best treatment completion rates were in children,15 years (OR: 3.5, 95% CI: 1.014.8) while patients with pleural effusion and ascites had the worst outcomes. Of 72 HIV-coinfected patients, 88% were on antiretroviral therapy (ART). HIV-positive status was associated with poor outcomes while those on ART fared better. In the CNHP-P, more than 80% who completed their treatment showed an increase in bodyweight and this was more evident in HIV-positive compared with HIV-negative patients (p = 0.03).
+   Conclusion: Patients with EPTB generally do well in Benin, although the TB Programme would benefit through more attention to accurate diagnosis and earlier start of ART in HIV-infected patients.
+C1 [Ade, Serge; Ade, Gabriel; Agodokpessi, Gildas; Adjonou, Christine; Azon, Sophie; Anagonou, Severin] Natl TB Programme, Cotonou, Benin.
+   [Harries, Anthony D.; Trebucq, Arnaud] Int Union TB & Lung Dis, Paris, France.
+   [Harries, Anthony D.] London Sch Hyg & Trop Med, London WC1, England.
+RP Ade, S (reprint author), Natl TB Programme, Cotonou, Benin.
+EM adeserg@yahoo.fr
+FU International Union Against Tuberculosis and Lung Disease ( The Union),
+   Paris, France through a Union Operational Research Fellowship;
+   Department for International Development, UK; Service de la sante
+   publique; Lausanne de l'Etat de Vaud, Switzerland
+FX The International Union Against Tuberculosis and Lung Disease ( The
+   Union), Paris, France, financially supports Serge Ade through a Union
+   Operational Research Fellowship. Funding was from an anonymous donor and
+   the Department for International Development, UK. Additional financial
+   support for this study was provided by the <INF></INF>Service de la
+   sante publique, Lausanne de l'Etat de Vaud, Switzerland. The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 33
+TC 4
+Z9 4
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 22
+PY 2014
+VL 9
+IS 4
+AR e95603
+DI 10.1371/journal.pone.0095603
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AG2IS
+UT WOS:000335240300060
+PM 24755603
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Martin, A
+   Imperiale, B
+   Ravolonandriana, P
+   Coban, AY
+   Akgunes, A
+   Ikram, A
+   Satti, L
+   Odoun, M
+   Pandey, P
+   Mishra, M
+   Affolabi, D
+   Singh, U
+   Rasolofo, V
+   Morcillo, N
+   Vandamme, P
+   Palomino, JC
+AF Martin, Anandi
+   Imperiale, Belen
+   Ravolonandriana, Pascaline
+   Coban, Ahmet Yilmaz
+   Akgunes, Alper
+   Ikram, Aamer
+   Satti, Luqman
+   Odoun, Mathieu
+   Pandey, Pooja
+   Mishra, Manvi
+   Affolabi, Dissou
+   Singh, Urvashi
+   Rasolofo, Voahangy
+   Morcillo, Nora
+   Vandamme, Peter
+   Palomino, Juan Carlos
+TI Prospective multicentre evaluation of the direct nitrate reductase assay
+   for the rapid detection of extensively drug-resistant tuberculosis
+SO JOURNAL OF ANTIMICROBIAL CHEMOTHERAPY
+LA English
+DT Article
+DE multidrug resistance; nitratase; Mycobacterium tuberculosis
+ID MYCOBACTERIUM-TUBERCULOSIS; MULTIDRUG-RESISTANCE; SPUTUM SAMPLES;
+   RIFAMPIN; SYSTEM; LIMA; PERU
+AB To perform a multicentre study evaluating the performance of the direct nitrate reductase assay (NRA) for the detection of multidrug-resistant (MDR) and extensively drug-resistant (XDR) tuberculosis in sputum samples.
+   The study was conducted in six laboratories performing tuberculosis diagnosis that were located in six different countries. The NRA was performed directly on sputum samples in parallel with the reference method used at each site. Detection of resistance was performed for rifampicin, isoniazid, ofloxacin and kanamycin.
+   Excellent agreement was obtained for all drugs tested at the majority of sites. The accuracy was 93.7100 for rifampicin, 88.2100 for isoniazid, 94.6100 for ofloxacin and 100 for kanamycin. The majority of NRA results were available at day 21 for sites 1, 2 and 5. Site 3 had a turnaround time of 13.9 days, at site 4 it was 18.4 days and at site 6 it was 16.2 days. The contamination rate ranged between 2.5 and 12.
+   Rapid detection of drug resistance by the direct NRA on sputum smear-positive samples was accurate and easy to implement in clinical diagnostic laboratories, making it a good alternative for rapid screening for MDR and XDR tuberculosis.
+C1 [Martin, Anandi; Vandamme, Peter; Palomino, Juan Carlos] Univ Ghent, Dept Biochem & Microbiol, Microbiol Lab, B-9000 Ghent, Belgium.
+   [Imperiale, Belen; Morcillo, Nora] Hosp Dr Antonio Cetrangolo, Lab Referencia Programa Control TB, Buenos Aires, DF, Argentina.
+   [Ravolonandriana, Pascaline; Rasolofo, Voahangy] Inst Pasteur Madagascar, Antananarivo, Madagascar.
+   [Coban, Ahmet Yilmaz] Ondokuz Mayis Univ, Sch Med, Dept Med Microbiol, Samsun, Turkey.
+   [Akgunes, Alper] Chest Dis Hosp, Clin Microbiol Lab, Samsun, Turkey.
+   [Ikram, Aamer; Satti, Luqman] Combined Mil Hosp, Dept Pathol, Dera Ismail Khan, Pakistan.
+   [Odoun, Mathieu; Affolabi, Dissou] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Pandey, Pooja; Mishra, Manvi; Singh, Urvashi] All India Inst Med Sci, Dept Microbiol, New Delhi 110029, India.
+RP Martin, A (reprint author), Univ Ghent, Dept Biochem & Microbiol, Microbiol Lab, B-9000 Ghent, Belgium.
+EM anandi.martin@ugent.be
+RI Vandamme, Peter/B-7967-2009
+OI Vandamme, Peter/0000-0002-5581-7937
+FU Damien Foundation, Belgium; 'Consejo Nacional de Investigaciones
+   Cientificas y Tecnicas' (CONICET), Argentina
+FX The study was partially funded by the Damien Foundation, Belgium. B. I.
+   has a fellowship of the 'Consejo Nacional de Investigaciones Cientificas
+   y Tecnicas' (CONICET), Argentina.
+NR 23
+TC 11
+Z9 12
+U1 0
+U2 11
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0305-7453
+EI 1460-2091
+J9 J ANTIMICROB CHEMOTH
+JI J. Antimicrob. Chemother.
+PD FEB
+PY 2014
+VL 69
+IS 2
+BP 441
+EP 444
+DI 10.1093/jac/dkt353
+PG 4
+WC Infectious Diseases; Microbiology; Pharmacology & Pharmacy
+SC Infectious Diseases; Microbiology; Pharmacology & Pharmacy
+GA 292RY
+UT WOS:000329921100021
+PM 24008825
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Amidou, SA
+   Baguidi, R
+   Carson, SS
+   Wachinou, AP
+AF Amidou, S. A.
+   Baguidi, R.
+   Carson, S. S.
+   Wachinou, A. P.
+TI Delays In Tuberculosis Diagnosis At Parakou In Benin, West Africa
+SO AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+LA English
+DT Meeting Abstract
+C1 [Amidou, S. A.] Natl Program HIV, Parakou, Benin.
+   [Baguidi, R.] Natl Program Againt TB, Parakou, Benin.
+   [Carson, S. S.] Univ North Carolina Chapel Hill, Chapel Hill, NC USA.
+   [Wachinou, A. P.] Natl Hosp TB & Lung Dis, Cotonou, Benin.
+EM salmaneamidou@gmail.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER THORACIC SOC
+PI NEW YORK
+PA 25 BROADWAY, 18 FL, NEW YORK, NY 10004 USA
+SN 1073-449X
+EI 1535-4970
+J9 AM J RESP CRIT CARE
+JI Am. J. Respir. Crit. Care Med.
+PY 2014
+VL 189
+MA A3180
+PG 1
+WC Critical Care Medicine; Respiratory System
+SC General & Internal Medicine; Respiratory System
+GA V45TF
+UT WOS:000209838202457
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Ade, S
+   Harries, AD
+   Trebucq, A
+   Hinderaker, SG
+   Ade, G
+   Agodokpessi, G
+   Affolabi, D
+   Anagonou, S
+AF Ade, Serge
+   Harries, Anthony D.
+   Trebucq, Arnaud
+   Hinderaker, Sven Gudmund
+   Ade, Gabriel
+   Agodokpessi, Gildas
+   Affolabi, Dissou
+   Anagonou, Severin
+TI National profile and treatment outcomes of adult smear-negative
+   pulmonary TB patients in Benin
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE Smear-negative pulmonary TB; Benin; Treatment outcome; Loss to
+   follow-up; HIV
+ID TUBERCULOSIS PATIENTS; MALAWI; EPIDEMIOLOGY
+AB In Benin, patients with smear-negative pulmonary TB (SNPTB) are of low priority in the National Tuberculosis Programme (NTP) and little is known about their profile or treatment outcomes.
+   A retrospective cohort study was carried out to determine characteristics and treatment outcomes in all adults registered with SNPTB in 2009. Findings were compared with patients with new smear-positive pulmonary tuberculosis (PTB) diagnosed in the same period.
+   Of 3140 patients with PTB, 273 (8.7) had SNPTB, with higher rates in northern and southwestern regions. SNPTB was associated with female gender, older age and HIV-positive status (p0.01). Patients with SNPTB had a higher proportion of unsuccessful treatment outcomes compared with smear-positive PTB owing to death and loss to follow-up (LFU) (p0.01). The region with the capital city had the highest rate of LFU. Differences in unsuccessful outcomes between SNPTB and smear-positive PTB were more apparent in persons who were HIV-negative, and among HIV-positives not on antiretroviral treatment.
+   In Benin, treatment outcomes of SNPTB patients were inferior to those with smear-positive PTB, with LFU being a major problem. The Benin NTP needs to better address the problem of patients with SNPTB in terms of monitoring and reporting, treatment management including that associated with HIV care, and reducing LFU.
+C1 [Ade, Serge; Ade, Gabriel; Agodokpessi, Gildas; Affolabi, Dissou; Anagonou, Severin] Natl TB Programme, Cotonou, Benin.
+   [Harries, Anthony D.; Trebucq, Arnaud] Int Union TB & Lung Dis, Paris, France.
+   [Harries, Anthony D.] London Sch Hyg & Trop Med, London WC1, England.
+   [Hinderaker, Sven Gudmund] Univ Bergen, Bergen, Norway.
+RP Ade, S (reprint author), Natl TB Programme, Cotonou, Benin.
+EM adeserg@yahoo.fr
+FU Department for International Development, UK
+FX Funding for the course was from an anonymous donor and the Department
+   for International Development, UK.
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 1
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD DEC
+PY 2013
+VL 107
+IS 12
+BP 783
+EP 788
+DI 10.1093/trstmh/trt092
+PG 6
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 258LS
+UT WOS:000327461400006
+PM 24218414
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Agodokpessi, G
+   Ade, G
+   Ngahane, BHM
+   Ade, S
+   Wachinou, AP
+   Bohissou, F
+   Gninafon, M
+AF Agodokpessi, G.
+   Ade, G.
+   Ngahane, B. H. Mbatchou
+   Ade, S.
+   Wachinou, A. P.
+   Bohissou, F.
+   Gninafon, M.
+TI Evaluation of tuberculous patient's management when retreated in
+   Cotonou, Benin
+SO REVUE DES MALADIES RESPIRATOIRES
+LA French
+DT Article
+DE Outcome; Tuberculosis retreatment; Developing countries
+ID RESISTANCE; PREVALENCE; FAILURE; PROGRAM
+AB Retreatment of tuberculosis is the leading risk factor for drug resistance if the management is not adequate and complete. The objective of this study was to evaluate the management of cases of retreatment in Cotonou. This was a retrospective, descriptive cross type which covered a period of 5 years. Outcomes of retreatment cases were compared against those for new cases that were registered during the same period. We analyzed the cases of 389 retreatment patients and 4542 new cases. The success rates of treatment were generally satisfactory (80% vs. 86%, P = 0.0001). Of adverse outcomes, the rate of loss of sight of was 12% versus 7%, P = 0.26, the rate was 23% for cases of occasions. The failure rate was low and similar in both populations (2%). The retreatment regimen for patients with TB in Cotonou appears to give generally satisfactory results. The high loss to follow-up in case of retreatment means that a personalized therapeutic approach for such patients is needed in general and in particular in the case of defaulters. (C) 2013 SPLF. Published by Elsevier Masson SAS. All rights reserved.
+C1 [Agodokpessi, G.; Ade, G.; Ade, S.; Wachinou, A. P.; Gninafon, M.] Ctr Natl Hosp Pneumophtisiol, Cotonou, Benin.
+   [Agodokpessi, G.; Ade, G.; Bohissou, F.; Gninafon, M.] Fac Sci Sante Cotonou, Cotonou, Benin.
+   [Ngahane, B. H. Mbatchou] Hop Gen Douala, Serv Med Interne, Douala, Cameroon.
+RP Agodokpessi, G (reprint author), Ctr Natl Hosp Pneumophtisiol, 01 BP 321, Cotonou, Benin.
+EM aggildas@yahoo.fr
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0761-8425
+EI 1776-2588
+J9 REV MAL RESPIR
+JI Rev. Mal. Respir.
+PD NOV
+PY 2013
+VL 30
+IS 9
+BP 774
+EP 779
+DI 10.1016/j.rmr.2013.04.018
+PG 6
+WC Respiratory System
+SC Respiratory System
+GA 275HG
+UT WOS:000328666300007
+PM 24267768
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Ferroussier, O
+   Dlodlo, RA
+   Capo-Chichi, D
+   Boillot, F
+   Gninafon, M
+   Trebucq, A
+   Fujiwara, PI
+AF Ferroussier, O.
+   Dlodlo, R. A.
+   Capo-Chichi, D.
+   Boillot, F.
+   Gninafon, M.
+   Trebucq, A.
+   Fujiwara, P. I.
+TI Integrating HIV testing and care into tuberculosis services in Benin:
+   programmatic aspects
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE TB-HIV collaboration; integrated TB-HIV care; provider-initiated testing
+   and counselling; antiretroviral treatment; cotrimoxazole preventive
+   therapy
+AB SETTING: Between 2005 and 2008, the diagnosis and care of human immunodeficiency virus (HIV) infection and tuberculosis (TB) services were integrated in Benin.
+   RESULTS: The appointment of a TB-HIV Coordinator by the National Tuberculosis Control Programme and quarterly supervisory visits to TB clinics have bolstered the implementation of integrated HIV-TB activities. HIV testing and cotrimoxazole preventive therapy were integrated smoothly into the TB services. The strategy chosen to facilitate access of HIV-positive TB patients to antiretroviral treatment contributed to greater integration over time, but perpetuated, for some, the burden of attending two facilities.
+   CONCLUSION: The integration and decentralisation of TB and HIV care services at national level in Benin resulted in a high uptake of HIV services among TB patients.
+C1 [Ferroussier, O.; Dlodlo, R. A.; Boillot, F.; Trebucq, A.; Fujiwara, P. I.] Int Union Against TB & Lung Dis, F-75006 Paris, France.
+   [Capo-Chichi, D.; Gninafon, M.] Programme Natl Lutte TB, Cotonou, Benin.
+RP Ferroussier, O (reprint author), Int Union Against TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+EM oferroussier@theunion.org
+NR 10
+TC 1
+Z9 1
+U1 1
+U2 2
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD NOV
+PY 2013
+VL 17
+IS 11
+BP 1402
+EP 1404
+DI 10.5588/ijtld.12.0592
+PG 3
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 244YK
+UT WOS:000326425900007
+PM 24125441
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Ferroussier, O
+   Dlodlo, RA
+   Capo-Chichi, D
+   Boillot, F
+   Gninafon, M
+   Trebucq, A
+   Fujiwara, PI
+AF Ferroussier, O.
+   Dlodlo, R. A.
+   Capo-Chichi, D.
+   Boillot, F.
+   Gninafon, M.
+   Trebucq, A.
+   Fujiwara, P. I.
+TI Results of rapid and successful integration of HIV diagnosis and care
+   into tuberculosis services in Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE TB-HIV collaboration; integrated TB-HIV care; provider-initiated testing
+   and counseling; ART initiation
+AB SETTING: Benin, where 20 of 54 tuberculosis (TB) clinics caring for 80% of all TB patients began providing integrated human immunodeficiency virus (HIV) care in 2005.
+   OBJECTIVE: To describe the characteristics and TB treatment outcomes of the first cohorts of TB-HIV patients, and to assess programmatic outcomes.
+   METHODS: Retrospective cohort study using data from the TB register and the register of co-infected patients.
+   RESULTS: During the study period, 8368 TB patients were registered, 7787 (93%) were tested for HIV and 1255 (16%) were HIV-positive, including 385 (32%) who already knew their positive status. Most patients (88%) were tested within 15 days of TB diagnosis. Female and young patients were overrepresented among the co-infected. Cotrimoxazole preventive therapy was administered to 1152 patients (95%) during anti-tuberculosis treatment, and antiretroviral treatment (ART) to 469 (42%). The likelihood of receiving ART increased as initial CD4 lymphocyte counts decreased. Fifteen per cent of TB-HIV patients died during anti-tuberculosis treatment. Patients already on ART prior to anti-tuberculosis treatment experienced the worst outcomes. Patients who initiated ART early during anti-tuberculosis treatment or in the timeframe recommended by the guidelines fared the best.
+   CONCLUSION: HIV care has been successfully and sustainably integrated into TB services in Benin. However, ensuring the access of co-infected patients to more favourable treatment outcomes still represents significant challenges.
+C1 [Ferroussier, O.; Dlodlo, R. A.; Boillot, F.; Trebucq, A.; Fujiwara, P. I.] Int Union Against TB & Lung Dis, F-75006 Paris, France.
+   [Capo-Chichi, D.; Gninafon, M.] Programme Natl Lutte TB, Cotonou, Benin.
+RP Ferroussier, O (reprint author), Int Union Against TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+EM oferroussier@theunion.org
+NR 9
+TC 4
+Z9 4
+U1 0
+U2 2
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD NOV
+PY 2013
+VL 17
+IS 11
+BP 1405
+EP 1410
+DI 10.5588/ijtld.12.0593
+PG 6
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 244YK
+UT WOS:000326425900008
+PM 24125442
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Gehre, F
+   Antonio, M
+   Faihun, F
+   Odoun, M
+   Uwizeye, C
+   de Rijk, P
+   de Jong, BC
+   Affolabi, D
+AF Gehre, Florian
+   Antonio, Martin
+   Faihun, Frank
+   Odoun, Mathieu
+   Uwizeye, Cecile
+   de Rijk, Pim
+   de Jong, Bouke C.
+   Affolabi, Dissou
+TI The First Phylogeographic Population Structure and Analysis of
+   Transmission Dynamics of M. africanum West African 1-Combining Molecular
+   Data from Benin, Nigeria and Sierra Leone
+SO PLOS ONE
+LA English
+DT Article
+ID MYCOBACTERIUM-TUBERCULOSIS COMPLEX; GENETIC DIVERSITY; MIRU-VNTRPLUS;
+   STRAINS; IDENTIFICATION; EPIDEMIOLOGY; BACTERIA; CAMEROON; LINEAGE;
+   BACILLI
+AB Mycobacterium africanum is an important cause of tuberculosis (TB) in West Africa. So far, two lineages called M. africanum West African 1 (MAF1) and M. africanum West African 2 (MAF2) have been defined. Although several molecular studies on MAF2 have been conducted to date, little is known about MAF1. As MAF1 is mainly present in countries around the Gulf of Guinea we aimed to estimate its prevalence in Cotonou, the biggest city in Benin. Between 2005-06 we collected strains in Cotonou/Benin and genotyped them using spoligo- and 12-loci-MIRU-VNTR-typing. Analyzing 194 isolates, we found that 31% and 6% were MAF1 and MAF2, respectively. Therefore Benin is one of the countries with the highest prevalence (37%) of M. africanum in general and MAF1 in particular. Moreover, we combined our data from Benin with publicly available genotyping information from Nigeria and Sierra Leone, and determined the phylogeographic population structure and genotypic clustering of MAF1. Within the MAF1 lineage, we identified an unexpected great genetic variability with the presence of at least 10 sub-lineages. Interestingly, 8 out of 10 of the discovered sub-lineages not only clustered genetically but also geographically. Besides showing a remarkable local restriction to certain regions in Benin and Nigeria, the sub-lineages differed dramatically in their capacity to transmit within the human host population. While identifying Benin as one of the countries with the highest overall prevalence of M. africanum, this study also contains the first detailed description of the transmission dynamics and phylogenetic composition of the MAF1 lineage.
+C1 [Gehre, Florian; Antonio, Martin; de Jong, Bouke C.] MRC Unit, Fajara, Gambia.
+   [Gehre, Florian; Uwizeye, Cecile; de Rijk, Pim; de Jong, Bouke C.] Inst Trop Med, B-2000 Antwerp, Belgium.
+   [de Jong, Bouke C.] NYU, New York, NY USA.
+   [Faihun, Frank; Odoun, Mathieu; Affolabi, Dissou] Lab Reference Mycobacteries, Cotonou, Benin.
+RP Gehre, F (reprint author), MRC Unit, Fajara, Gambia.
+EM fgehre@mrc.gm
+RI de Jong, Bouke/A-3636-2013
+OI de Jong, Bouke/0000-0002-1017-4675
+FU Belgian Directorate-Generale for Development Co-orporation (DGDC) as
+   part of the "Strategic Network TB 3.14"; project "Study on M. africanum
+   population structure in Benin and The Gambia"; European Developing
+   Countries Clinical Trials Partnership (EDCTP)
+FX The study was supported by a grant from the Belgian Directorate-Generale
+   for Development Co-orporation (DGDC) as part of the "Strategic Network
+   TB 3.14" and the project "Study on M. africanum population structure in
+   Benin and The Gambia" as well as by the European Developing Countries
+   Clinical Trials Partnership (EDCTP) - funded "West African Node of
+   Excellence for Tuberculosis and Malaria" (WANETAM-plus). The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 23
+TC 7
+Z9 7
+U1 0
+U2 9
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 15
+PY 2013
+VL 8
+IS 10
+AR e77000
+DI 10.1371/journal.pone.0077000
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 237TP
+UT WOS:000325894100033
+PM 24143198
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Smythe, W
+   Merle, CS
+   Rustomjee, R
+   Gninafon, M
+   Lo, MB
+   Bah-Sow, O
+   Olliaro, PL
+   Lienhardt, C
+   Horton, J
+   Smith, P
+   McIlleron, H
+   Simonsson, USH
+AF Smythe, Wynand
+   Merle, Corinne S.
+   Rustomjee, Roxana
+   Gninafon, Martin
+   Lo, Mame Bocar
+   Bah-Sow, Oumou
+   Olliaro, Piero L.
+   Lienhardt, Christian
+   Horton, John
+   Smith, Peter
+   McIlleron, Helen
+   Simonsson, Ulrika S. H.
+TI Evaluation of Initial and Steady-State Gatifloxacin Pharmacokinetics and
+   Dose in Pulmonary Tuberculosis Patients by Using Monte Carlo Simulations
+SO ANTIMICROBIAL AGENTS AND CHEMOTHERAPY
+LA English
+DT Article
+ID IN-VITRO; MYCOBACTERIUM-TUBERCULOSIS; POPULATION PHARMACOKINETICS;
+   HEALTHY-VOLUNTEERS; MODEL; LEVOFLOXACIN; MOXIFLOXACIN; NONMEM;
+   FLUOROQUINOLONES; RIFAMPICIN
+AB A 4-month regimen of gatifloxacin with rifampin, isoniazid, and pyrazinamide is being evaluated for the treatment of tuberculosis in a phase 3 randomized controlled trial (OFLOTUB). A prior single-dose study found that gatifloxacin exposure increased by 14% in the combination. The aims of the study are to evaluate the initial and steady-state pharmacokinetics of gatifloxacin when daily doses are given to patients with newly diagnosed drug-sensitive pulmonary tuberculosis as part of a combination regimen and to evaluate the gatifloxacin dose with respect to the probability of attaining a pharmacokinetic/pharmacodynamic target. We describe the population pharmacokinetics of gatifloxacin from the first dose to a median of 28 days in 169 adults enrolled in the OFLOTUB trial in Benin, Guinea, Senegal, and South Africa. The probability of achieving a ratio of >= 125 for the area under the concentration time curve to infinity (AUC(0-infinity)) for the free fraction of gatifloxacin over the MIC (fAUC/MIC) was investigated using Monte Carlo simulations. The median AUC(0-infinity) of 41.2 mu g.h/ml decreased on average by 14.3% (90% confidence interval [CI], -90.5% to +61.5%) following multiple 400-mg daily doses. At steady state, 90% of patients achieved an fAUC/MIC of >= 125 only when the MIC was <0.125 mu g/ml. We conclude that systemic exposure to gatifloxacin declines with repeated daily 400-mg doses when used together with rifampin, isoniazid, and pyrazinamide, thus compensating for any initial increase in gatifloxacin levels due to a drug interaction. (The OFLOTUB study has been registered at ClinicalTrials.gov under registration no. NCT00216385.)
+C1 [Smythe, Wynand; Smith, Peter; McIlleron, Helen] Univ Cape Town, Dept Med, Div Clin Pharmacol, ZA-7925 Cape Town, South Africa.
+   [Merle, Corinne S.] Univ London London Sch Hyg & Trop Med, Fac Epidemiol & Populat Hlth, Trop Epidemiol Grp, London WC1E 7HT, England.
+   [Rustomjee, Roxana] MRC, Unit Clin & Biomed TB Res, Durban, South Africa.
+   [Gninafon, Martin] Programme Natl Lutte TB, Cotonou, Benin.
+   [Lo, Mame Bocar] Programme Natl Lutte TB, Dakar, Senegal.
+   [Bah-Sow, Oumou] CHU Ignace Deen, Serv Pneumo Phtisiol, Conakry, Guinea.
+   [Olliaro, Piero L.] WHO, UNICEF, UNDP, World Bank,WHO Special Programme Res & Training T, Zurich, Switzerland.
+   [Lienhardt, Christian] IRD, Paris, France.
+   [Horton, John] Trop Projects, Hitchin, England.
+   [McIlleron, Helen] Univ Cape Town, Inst Infect Dis & Mol Med, ZA-7925 Cape Town, South Africa.
+   [Simonsson, Ulrika S. H.] Uppsala Univ, Dept Pharmaceut Biosci, Uppsala, Sweden.
+RP McIlleron, H (reprint author), Univ Cape Town, Dept Med, Div Clin Pharmacol, ZA-7925 Cape Town, South Africa.
+EM helen.mcilleron@uct.ac.za
+OI McIlleron, Helen/0000-0002-0982-6226
+FU World Health Organization (WHO)/Special Programme for Research and
+   Training in Tropical Diseases (TDR) [ICA4-CT 2002-10057]; Research
+   Institute for Development (IRD)
+FX The study was supported by grant ICA4-CT 2002-10057 from the World
+   Health Organization (WHO)/Special Programme for Research and Training in
+   Tropical Diseases (TDR) and the Research Institute for Development
+   (IRD).
+NR 44
+TC 5
+Z9 7
+U1 0
+U2 8
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0066-4804
+EI 1098-6596
+J9 ANTIMICROB AGENTS CH
+JI Antimicrob. Agents Chemother.
+PD SEP
+PY 2013
+VL 57
+IS 9
+BP 4164
+EP 4171
+DI 10.1128/AAC.00479-13
+PG 8
+WC Microbiology; Pharmacology & Pharmacy
+SC Microbiology; Pharmacology & Pharmacy
+GA 203IL
+UT WOS:000323285500009
+PM 23774436
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Robert, J
+   Affolabi, D
+   Awokou, F
+   Nolna, D
+   Manouan, BAP
+   Acho, YB
+   Gninafon, M
+   Trebucq, A
+AF Robert, Jerome
+   Affolabi, Dissou
+   Awokou, Fantche
+   Nolna, Desire
+   Manouan, Bile Adou Philippe
+   Acho, Yapo Blaise
+   Gninafon, Martin
+   Trebucq, Arnaud
+TI Assessment of Organizational Measures to Prevent Nosocomial Tuberculosis
+   in Health Facilities of 4 Sub-Saharan Countries in 2010
+SO INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY
+LA English
+DT Article
+ID RESISTANT MYCOBACTERIUM-TUBERCULOSIS; HIV; OUTBREAK; MALAWI
+AB BACKGROUND. The prevention of tuberculosis (TB) transmission in healthcare settings is a major issue, particularly because of the interaction between human immunodeficiency virus and TB and the emergence of multidrug-resistant TB.
+   SETTING. Healthcare facilities involved in TB management in 4 African countries (Benin, Cameroon, Cote d'Ivoire, and Togo).
+   METHODS. A questionnaire was developed by representatives of the 4 countries to evaluate the organizational measures implemented in facilities involved in TB management. On-site visits were performed between July 2010 and July 2011.
+   RESULTS. A total of 115 facilities, including 10 university hospitals and 92 basic management units, were visited. None had a TB infection control plan, and only 5.2% provided education for staff about nosocomial TB. Overall, 48.3% of the facilities performed triage of suspected TB cases on hospital arrival or admission, 89.6% provided education for TB cases on cough etiquette, 20.0% segregated smear-positive TB cases, and 15.7% segregated previously treated cases. A total of 15.5% of the facilities registered TB among staff, for a global prevalence rate of 348 cases per 100,000 staff members.
+   CONCLUSION. This survey identified simple and mostly costless administrative measures to be urgently implemented at the local level to prevent nosocomial TB, such as staff education, triage on admission, and segregation of previously treated patients. Infect Control Hosp Epidemiol 2013; 34(2): 190-194
+C1 [Robert, Jerome] Univ Paris 06, Hop La Pitie Salpetriere, Equipe Accueil 1541,Lab Bacteriol Hyg Hosp, AP HP,Ctr Natl Reference Mycobacteries & Resista, F-75634 Paris 13, France.
+   [Affolabi, Dissou; Gninafon, Martin] Programme Natl TB, Cotonou, Benin.
+   [Awokou, Fantche] Minist Sante Togo, Natl TB Control Programme, Lome, Togo.
+   [Nolna, Desire] Natl TB Control Programme, Yaounde, Cameroon.
+   [Manouan, Bile Adou Philippe] Programme Natl Lutte TB, Abidjan, Cote Ivoire.
+   [Acho, Yapo Blaise] Ctr Hosp Univ Cocody, Abidjan, Cote Ivoire.
+   [Acho, Yapo Blaise] Direct Gen Hyg Publ, Abidjan, Cote Ivoire.
+   [Trebucq, Arnaud] Int Union TB & Lung Dis, Paris, France.
+RP Robert, J (reprint author), Univ Paris 06, Fac Med Pierre & Marie Curie, Lab Bacteriol Hyg, 91 Blvd Hop, F-75634 Paris 13, France.
+EM jerome.robert@psl.aphp.fr
+RI ROBERT, Jerome/C-3993-2011
+OI ROBERT, Jerome/0000-0002-9380-0570
+FU Agence Francaise de Developpement
+FX The Agence Francaise de Developpement funded the meeting in Cotonou,
+   Benin, during which the questionnaire was developed.
+NR 12
+TC 4
+Z9 4
+U1 2
+U2 8
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0899-823X
+J9 INFECT CONT HOSP EP
+JI Infect. Control Hosp. Epidemiol.
+PD FEB
+PY 2013
+VL 34
+IS 2
+BP 190
+EP 194
+DI 10.1086/669085
+PG 5
+WC Public, Environmental & Occupational Health; Infectious Diseases
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA 068KS
+UT WOS:000313366200013
+PM 23295566
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Agodokpessi, G
+   Ade, G
+   Ade, S
+   Wachinou, AP
+   Affolabi, D
+   Anagonou, S
+   Gninafon, M
+AF Agodokpessi, G.
+   Ade, G.
+   Ade, S.
+   Wachinou, A. P.
+   Affolabi, D.
+   Anagonou, S.
+   Gninafon, M.
+TI Management of tuberculosis and HIV co-infection in Cotonou, Benin
+SO MEDECINE ET MALADIES INFECTIEUSES
+LA English
+DT Article
+DE Co-infection; Tuberculosis; HIV; AIDS
+ID ANTIRETROVIRAL THERAPY; INFECTION; COUNTS
+AB Objectives. - The authors had for aim to assess the management of tuberculosis and HIV co-infection in Cotonou, Benin.
+   Patients and methods. - We made a cross-sectional, retrospective, and descriptive study comparing the clinical presentation and outcome of patients with tuberculosis and HIV co-infection versus patients with tuberculosis alone, all managed at the National Pneumophtisiology Center in Cotonou, Benin, in 2009.
+   Results. - The rate of HIV screening in TB patients was 99%. One thousand and eighty-six TB patients were included and 259 were HIV positive. The mean age of co-infected patients was 36 years, versus 34 for TB mono-infected patients. The sex ratio among co-infected was 1.15 versus 2.25 among TB patients. Positive pulmonary sputum was less frequent with co-infection. Two hundred and fifty-seven over 259 patients were treated with cotrimoxazole. One hundred and eighty-five over 234 (79.05%) had CD4 counts < 350. Eighty-five (46%) of the 185 patients with CD4 <350, were given antiretroviral therapy. Treatment success rate was lower for co-infected (75%) than for patients with TB alone (86%), and death rates were higher in co-infected patients (10% vs. 3%).
+   Conclusion. - High death rate and high rate of lost to follow-up are arguments for systematic antiretroviral treatment of co-infected patients. Early screening for TB and HIV, and reviewing the current national recommendations, as well as an increased governmental effort to provide medicines to all patients in need of ARV are mandatory. (C) 2012 Elsevier Masson SAS. All rights reserved.
+C1 [Agodokpessi, G.; Ade, G.; Ade, S.; Wachinou, A. P.; Affolabi, D.; Anagonou, S.; Gninafon, M.] Ctr Natl Hosp Pneumophtisiol, Cotonou, Benin.
+   [Agodokpessi, G.; Ade, G.; Affolabi, D.; Anagonou, S.; Gninafon, M.] Fac Sci Sante, Cotonou, Benin.
+RP Agodokpessi, G (reprint author), Ctr Natl Hosp Pneumophtisiol, 01 BP 321, Cotonou, Benin.
+EM aggildas@yahoo.fr
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 2
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0399-077X
+J9 MED MALADIES INFECT
+JI Med. Mal. Infect.
+PD NOV
+PY 2012
+VL 42
+IS 11
+BP 561
+EP 566
+DI 10.1016/j.medmal.2012.07.012
+PG 6
+WC Infectious Diseases
+SC Infectious Diseases
+GA 054RH
+UT WOS:000312360400004
+PM 23044083
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Merle, CSC
+   Sismanidis, C
+   Sow, OB
+   Gninafon, M
+   Horton, J
+   Lapujade, O
+   Lo, MB
+   Mitchinson, DA
+   Perronne, C
+   Portaels, F
+   Odhiambo, J
+   Olliaro, P
+   Rustomjee, R
+   Lienhardt, C
+   Fielding, K
+AF Merle, Corinne S. C.
+   Sismanidis, Charalambos
+   Sow, Oumou Bah
+   Gninafon, Martin
+   Horton, John
+   Lapujade, Olivier
+   Lo, Mame Bocar
+   Mitchinson, Denis A.
+   Perronne, Christian
+   Portaels, Francoise
+   Odhiambo, Joseph
+   Olliaro, Piero
+   Rustomjee, Roxana
+   Lienhardt, Christian
+   Fielding, Katherine
+TI A pivotal registration phase III, multicenter, randomized tuberculosis
+   controlled trial: design issues and lessons learnt from the Gatifloxacin
+   for TB (OFLOTUB) project
+SO TRIALS
+LA English
+DT Article
+DE Randomized controlled trial; Tuberculosis treatment; Non-inferiority
+   design; Multicenter; Design issues; Phase III; Gatifloxacin
+ID SHORT-COURSE CHEMOTHERAPY; MYCOBACTERIUM-TUBERCULOSIS; POSITIVE
+   CULTURES; MOXIFLOXACIN; RECURRENCE; RELAPSE; HIV
+AB Background: There have been no major advances in tuberculosis (TB) drug development since the first East African/British Medical Research Council short course chemotherapy trial 35 years ago. Since then, the landscape for conducting TB clinical trials has profoundly changed with the emergence of HIV infection, the spread of resistant TB bacilli strains, recent advances in mycobacteriological capacity, and drug discovery. As a consequence questions have arisen on the most appropriate approach to design and conduct current TB trials. To highlight key issues discussed: Is a superiority, equivalence, or non-inferiority design most appropriate? What should be the primary efficacy outcome? How to consider re-infections in the definition of the outcome? What is the optimal length of patient follow-up? Is blinding appropriate when treatment duration in test arm is shorter? What are the appropriate assumptions for sample size calculation?
+   Methods: Various drugs are currently in the development pipeline. We are presenting in this paper the design of the most recently completed phase III TB trial, the OFLOTUB project, which is the pivotal trial of a registration portfolio for a gatifloxacin-containing TB regimen. It is a randomized, open-label, multicenter, controlled trial aiming to evaluate the efficacy and safety of a gatifloxacin-containing 4-month regimen (trial registration: ClinicalTrial.gov database: NCT00216385).
+   Results: In the light of the recent scientific and regulatory discussions, we discuss some of the design issues in TB clinical trials and more specifically the reasons that guided our choices, in order to best answer the trial objectives, while at the same time satisfying regulatory authority requirements.
+   Conclusion: When shortening TB treatment, we are advocating for a non-inferiority, non-blinded design, with a composite unfavorable endpoint assessed 12 months post treatment completion, and added trial procedures specifically aiming to: (1) minimize endpoint unavailability; and (2) distinguish between relapse and re-infection.
+C1 [Merle, Corinne S. C.; Sismanidis, Charalambos; Fielding, Katherine] London Sch Hyg & Trop Med, Fac Epidemiol & Populat Hlth, Trop Epidemiol Grp, London WC1E 7HT, England.
+   [Sow, Oumou Bah] Hop Ignace Deen, Serv Pneumo Phtisiol, Conakry, Guinea.
+   [Gninafon, Martin] Ctr Natl Hosp Pneumo Phtisiol, Cotonou, Benin.
+   [Horton, John] Trop Projects, Hitchin, England.
+   [Lapujade, Olivier; Olliaro, Piero] WHO, TDR, CH-1211 Geneva 27, Switzerland.
+   [Lo, Mame Bocar] Programme Natl Lutte TB, Dakar, Fann, Senegal.
+   [Mitchinson, Denis A.] Univ London, Ctr Infect, London SW17 0RE, England.
+   [Perronne, Christian] Univ Versailles, Raymond Poincare Hosp, AP HP, Dept Infect Dis, St Quentin en Yvelines, France.
+   [Portaels, Francoise] Inst Trop Med, Dept Microbiol, B-2000 Antwerp, Belgium.
+   [Odhiambo, Joseph] Kenya Govt Med Res Ctr, Nairobi, Kenya.
+   [Rustomjee, Roxana] MRC, Unit Clin & Biomed TB Res, ZA-4067 Overport, South Africa.
+   [Lienhardt, Christian] WHO Stop TB Partnership 213, Geneva, Switzerland.
+RP Merle, CSC (reprint author), London Sch Hyg & Trop Med, Fac Epidemiol & Populat Hlth, Trop Epidemiol Grp, Keppel St, London WC1E 7HT, England.
+EM corinne.merle@lshtm.ac.uk
+FU Medical Research Council [G0700837]
+NR 21
+TC 20
+Z9 21
+U1 0
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1745-6215
+J9 TRIALS
+JI Trials
+PD MAY 18
+PY 2012
+VL 13
+AR 61
+DI 10.1186/1745-6215-13-61
+PG 10
+WC Medicine, Research & Experimental
+SC Research & Experimental Medicine
+GA 061AD
+UT WOS:000312818600001
+PM 22607233
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Smythe, W
+   Khandelwal, A
+   Merle, C
+   Rustomjee, R
+   Gninafon, M
+   Lo, MB
+   Sow, OB
+   Olliaro, PL
+   Lienhardt, C
+   Horton, J
+   Smith, P
+   McIlleron, H
+   Simonsson, USH
+AF Smythe, Wynand
+   Khandelwal, Akash
+   Merle, Corinne
+   Rustomjee, Roxana
+   Gninafon, Martin
+   Lo, Mame Bocar
+   Sow, Oumou Bah
+   Olliaro, Piero L.
+   Lienhardt, Christian
+   Horton, John
+   Smith, Peter
+   McIlleron, Helen
+   Simonsson, Ulrika S. H.
+TI A Semimechanistic Pharmacokinetic-Enzyme Turnover Model for Rifampin
+   Autoinduction in Adult Tuberculosis Patients
+SO ANTIMICROBIAL AGENTS AND CHEMOTHERAPY
+LA English
+DT Article
+ID PULMONARY TUBERCULOSIS; DOSE RIFAMPIN; METABOLISM; INDUCTION; NONMEM;
+   SIZE; ABSORPTION; CLEARANCE; STANDARD; HUMANS
+AB The currently recommended doses of rifampin are believed to be at the lower end of the dose-response curve. Rifampin induces its own metabolism, although the effect of dose on the extent of autoinduction is not known. This study aimed to investigate rifampin autoinduction using a semimechanistic pharmacokinetic-enzyme turnover model. Four different structural basic models were explored to assess whether different scaling methods affected the final covariate selection procedure. Covariates were selected by using a linearized approach. The final model included the allometric scaling of oral clearance and apparent volume of distribution. Although HIV infection was associated with a 30% increase in the apparent volume of distribution, simulations demonstrated that the effect of HIV on rifampin exposure was slight. Model-based simulations showed close-to-maximum induction achieved after 450-mg daily dosing, since negligible increases in oral clearance were observed following the 600-mg/day regimen. Thus, dosing above 600 mg/day is unlikely to result in higher magnitudes of autoinduction. In a typical 55-kg male without HIV infection, the oral clearance, which was 7.76 liters.h(-1) at the first dose, increased 1.82- and 1.85-fold at steady state after daily dosing with 450 and 600 mg, respectively. Corresponding reductions of 41 and 42%, respectively, in the area under the concentration-versus-time curve from 0 to 24 h were estimated. The turnover of the inducible process was estimated to have a half-life of approximately 8 days in a typical patient. Assuming 5 half-lives to steady state, this corresponds to a duration of approximately 40 days to reach the induced state for rifampin autoinduction.
+C1 [Smythe, Wynand; Smith, Peter; McIlleron, Helen] Univ Cape Town, Dept Med, Div Clin Pharmacol, ZA-7925 Cape Town, South Africa.
+   [Khandelwal, Akash; Simonsson, Ulrika S. H.] Uppsala Univ, Dept Pharmaceut Biosci, Uppsala, Sweden.
+   [Merle, Corinne] London Sch Hyg & Trop Med, Dept Epidemiol & Populat Hlth, Trop Epidemiol Grp, London WC1, England.
+   [Rustomjee, Roxana] MRC, Unit Clin & Biomed TB Res, Durban, South Africa.
+   [Gninafon, Martin] Programme Natl Lutte TB, Cotonou, Benin.
+   [Lo, Mame Bocar] Programme Natl Lutte TB, Dakar, Senegal.
+   [Sow, Oumou Bah] CHU Ignace Deen, Serv Pneumophtisiol, Conakry, Guinea.
+   [Olliaro, Piero L.] WHO, UNICEF UNDP World Bank WHO Special Programme Res, Geneva, Switzerland.
+   [Horton, John] Trop Projects, Hitchin, England.
+   [Lienhardt, Christian] Inst Rech Dev, Paris, France.
+RP Smythe, W (reprint author), Univ Cape Town, Dept Med, Div Clin Pharmacol, ZA-7925 Cape Town, South Africa.
+EM Wynand.Smythe@uct.ac.za
+OI McIlleron, Helen/0000-0002-0982-6226
+FU WHO/TDR [ICA4-CT 2002-10057]; Institut de Recherche pour le
+   Developpement [ICA4-CT 2002-10057]
+FX The study was supported by grant ICA4-CT 2002-10057 from the WHO/TDR and
+   Institut de Recherche pour le Developpement.
+NR 43
+TC 22
+Z9 22
+U1 0
+U2 2
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0066-4804
+J9 ANTIMICROB AGENTS CH
+JI Antimicrob. Agents Chemother.
+PD APR
+PY 2012
+VL 56
+IS 4
+BP 2091
+EP 2098
+DI 10.1128/AAC.05792-11
+PG 8
+WC Microbiology; Pharmacology & Pharmacy
+SC Microbiology; Pharmacology & Pharmacy
+GA 913SU
+UT WOS:000301898500054
+PM 22252827
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Gninafon, M
+   Ade, G
+   Ait-Khaled, N
+   Enarson, DA
+   Chiang, CY
+AF Gninafon, M.
+   Ade, G.
+   Ait-Khaled, N.
+   Enarson, D. A.
+   Chiang, C-Y.
+TI Exposure to combustion of solid fuel and tuberculosis: a matched
+   case-control study
+SO EUROPEAN RESPIRATORY JOURNAL
+LA English
+DT Article
+DE Biomass; fossil fuels; indoor air pollution; risk factors; tuberculosis
+ID PULMONARY TUBERCULOSIS; ACTIVE TUBERCULOSIS; SMOKING; ASSOCIATION; RISK;
+   TOBACCO; INDIA; HOUSEHOLD; MORTALITY; CHILDREN
+AB The present study was conducted in Benin to ascertain the association between exposure to combustion of solid fuel (coal and biomass) and tuberculosis.
+   Cases were consecutive, sputum smear-positive tuberculosis patients never previously treated for tuberculosis for as long as 1 month. Two controls were selected from the neighbourhood of each case, matched by age and sex by a predefined procedure.
+   A total of 200 new smear-positive cases and 400 neighbourhood controls were enrolled. In univariate analysis, using solid fuel for cooking (OR 1.7, 95% CI 1.1-2.8), ever smoking (OR 5.5, 95% CI 3.1-9.8), male sex (OR 10.5, 95% CI 1.6-71.1), daily use of alcoholic beverages (OR 2.3, 95% CI 1.2-4.2) and having a family member with tuberculosis in the previous 5 yrs (OR 30.5, 95% CI 10.8-85.8) were all significantly associated with tuberculosis cases. When all significant variables were entered into a multivariate conditional logistic regression model, the association between using solid fuel for cooking and tuberculosis cases was no longer statistically significant (adjusted OR 1.4, 95% CI 0.7-2.7).
+   In conclusion, the association between exposure to combustion of solid fuel and tuberculosis was relatively weak and not statistically significant.
+C1 [Ait-Khaled, N.; Enarson, D. A.; Chiang, C-Y.] Int Union TB & Lung Dis, F-75006 Paris, France.
+   [Gninafon, M.; Ade, G.] Ctr Natl Hosp Pneumophysiol, Cotonou, Benin.
+   [Chiang, C-Y.] Wan Fang Hosp, Dept Internal Med, Taipei, Taiwan.
+   [Chiang, C-Y.] Taipei Med Univ, Coll Med, Sch Med, Dept Internal Med, Taipei, Taiwan.
+RP Chiang, CY (reprint author), Int Union TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+EM cychiang@theunion.org
+FU World Bank
+FX The study was funded by the World Bank, who had no role in study design,
+   conduct of the study, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+NR 34
+TC 11
+Z9 12
+U1 0
+U2 5
+PU EUROPEAN RESPIRATORY SOC JOURNALS LTD
+PI SHEFFIELD
+PA 442 GLOSSOP RD, SHEFFIELD S10 2PX, ENGLAND
+SN 0903-1936
+J9 EUR RESPIR J
+JI Eur. Resp. J.
+PD JUL
+PY 2011
+VL 38
+IS 1
+BP 132
+EP 138
+DI 10.1183/09031936.00104610
+PG 7
+WC Respiratory System
+SC Respiratory System
+GA 785RW
+UT WOS:000292247700020
+PM 21030454
+OA No
+DA 2017-07-17
+ER
+
+EF

@@ -1,0 +1,444 @@
+Id,init_name,last_name,first_name,affiliation,city,country
+1,AFFOLABI D,AFFOLABI,DISSOU,Lab Reference Mycobacteries,Cotonou,Benin
+2,AFFOLABI D,AFFOLABI,DISSOU,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+3,ODOUN M,ODOUN,MATHIEU,Lab Reference Mycobacteries,Cotonou,Benin
+4,SANOUSSI N,SANOUSSI,NDIRA,,,
+5,MARTIN A,MARTIN,ANANDI,,,
+6,MARTIN A,MARTIN,ANANDI,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+7,MARTIN A,MARTIN,ANANDI,Med Sans Frontieres,Paris,France
+8,PALOMINO J C,PALOMINO,JUAN CARLOS,,,
+9,PALOMINO J C,PALOMINO,JUAN CARLOS,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+10,KESTENS L,KESTENS,LUC,,,
+11,KESTENS L,KESTENS,LUC,Inst Trop Med  Immunol Unit,Antwerp,Belgium
+12,ANAGONOU S,ANAGONOU,SEVERIN,Lab Reference Mycobacteries,Cotonou,Benin
+13,PORTAELS F,PORTAELS,FRANCOISE,,,
+14,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+15,ADE S,ADE,SERGE,Natl TB Programme,Cotonou,Benin
+16,HARRIES A D,HARRIES,ANTHONY D,,,
+17,HARRIES A D,HARRIES,ANTHONY D,Int Union TB & Lung Dis,Paris,France
+18,HARRIES A D,HARRIES,ANTHONY D,London Sch Hyg & Trop Med,London,England
+19,TREBUCQ A,TREBUCQ,ARNAUD,,,
+20,TREBUCQ A,TREBUCQ,ARNAUD,Int Union TB & Lung Dis,Paris,France
+21,HINDERAKER S G,HINDERAKER,SVEN GUDMUND,,,
+22,HINDERAKER S G,HINDERAKER,SVEN GUDMUND,Univ Bergen,Bergen,Norway
+23,ADE G,ADE,GABRIEL,Natl TB Programme,Cotonou,Benin
+24,AGODOKPESSI G,AGODOKPESSI,GILDAS,Natl TB Programme,Cotonou,Benin
+25,AFFOLABI D,AFFOLABI,DISSOU,Natl TB Programme,Cotonou,Benin
+26,ANAGONOU S,ANAGONOU,SEVERIN,Natl TB Programme,Cotonou,Benin
+27,ADJOBIMEY M,ADJOBIMEY,M,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+28,MASSEREY E,MASSEREY,E,,,
+29,MASSEREY E,MASSEREY,E,Serv Sante Publ,Vaud,Switzerland
+30,ADJONOU C,ADJONOU,C,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+31,GBENAGNON G,GBENAGNON,G,,,
+32,GBENAGNON G,GBENAGNON,G,Ctr Hosp Pneumophtisiol Akron,Akron,Benin
+33,SCHWOEBEL V,SCHWOEBEL,V,,,
+34,SCHWOEBEL V,SCHWOEBEL,V,Int Union TB & Lung Dis,Paris,France
+35,ANAGONOU S,ANAGONOU,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+36,ZELLWEGER J P,ZELLWEGER,J P,,,
+37,SMYTHE W,SMYTHE,WYNAND,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa
+38,MERLE C S,MERLE,CORINNE S,,,
+39,MERLE C S,MERLE,CORINNE S,Univ London London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England
+40,RUSTOMJEE R,RUSTOMJEE,ROXANA,,,
+41,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC  Unit Clin & Biomed TB Res,Durban,South Africa
+42,GNINAFON M,GNINAFON,MARTIN,,,
+43,GNINAFON M,GNINAFON,MARTIN,Programme Natl Lutte TB,Cotonou,Benin
+44,LO M B,LO,MAME BOCAR,,,
+45,LO M B,LO,MAME BOCAR,Programme Natl Lutte TB,Dakar,Senegal
+46,BAHSOW O,BAHSOW,OUMOU,,,
+47,OLLIARO P L,OLLIARO,PIERO L,,,
+48,OLLIARO P L,OLLIARO,PIERO L,WHO  UNICEF  UNDP  World Bank WHO Special Programme Res & Training T,Zurich,Switzerland
+49,LIENHARDT C,LIENHARDT,CHRISTIAN,,,
+50,LIENHARDT C,LIENHARDT,CHRISTIAN,IRD,Paris,France
+51,HORTON J,HORTON,JOHN,,,
+52,HORTON J,HORTON,JOHN,Trop Projects,Hitchin,England
+53,SMITH P,SMITH,PETER,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa
+54,MCILLERON H,MCILLERON,HELEN,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa
+55,MCILLERON H,MCILLERON,HELEN,Univ Cape Town  Inst Infect Dis & Mol Med,Cape Town,South Africa
+56,SIMONSSON U S H,SIMONSSON,ULRIKA S H,,,
+57,SIMONSSON U S H,SIMONSSON,ULRIKA S H,Uppsala Univ  Dept Pharmaceut Biosci,Uppsala,Sweden
+58,AGODOKPESSI G,AGODOKPESSI,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+59,AGODOKPESSI G,AGODOKPESSI,G,Fac Sci Sante,Cotonou,Benin
+60,ADE G,ADE,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+61,ADE G,ADE,G,Fac Sci Sante,Cotonou,Benin
+62,ADE S,ADE,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+63,WACHINOU A P,WACHINOU,A P,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+64,AFFOLABI D,AFFOLABI,D,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+65,AFFOLABI D,AFFOLABI,D,Fac Sci Sante,Cotonou,Benin
+66,ANAGONOU S,ANAGONOU,S,Fac Sci Sante,Cotonou,Benin
+67,GNINAFON M,GNINAFON,M,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+68,GNINAFON M,GNINAFON,M,Fac Sci Sante,Cotonou,Benin
+69,AFFOLABI D,AFFOLABI,D,,,
+70,AFFOLABI D,AFFOLABI,D,Lab Reference Mycobacteries,Cotonou,Benin
+71,TORREA G,TORREA,G,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+72,ODOUN M,ODOUN,M,,,
+73,ODOUN M,ODOUN,M,Lab Reference Mycobacteries,Cotonou,Benin
+74,SENOU N,SENOU,N,,,
+75,SENOU N,SENOU,N,Lab Reference Mycobacteries,Cotonou,Benin
+76,LIGALI M A,LIGALI,M ALI,,,
+77,LIGALI M A,LIGALI,M ALI,Lab Reference Mycobacteries,Cotonou,Benin
+78,ANAGONOU S,ANAGONOU,S,,,
+79,ANAGONOU S,ANAGONOU,S,Lab Reference Mycobacteries,Cotonou,Benin
+80,VAN DEUN A,VAN DEUN,A,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+81,VAN DEUN A,VAN DEUN,A,Int Union TB & Lung Dis,Paris,France
+82,AFFOLABI D,AFFOLABI,DISSOU,Inst Trop Med,Antwerp,Belgium
+83,FAIHUN F,FAIHUN,FRANK,Lab Reference Mycobacteries,Cotonou,Benin
+84,ANYO G,ANYO,GLADYS,,,
+85,ANYO G,ANYO,GLADYS,Inst Trop Med,Antwerp,Belgium
+86,SHAMPUTA I C,SHAMPUTA,ISDORE CHOLA,,,
+87,SHAMPUTA I C,SHAMPUTA,ISDORE CHOLA,Inst Trop Med,Antwerp,Belgium
+88,RIGOUTS L,RIGOUTS,LEEN,,,
+89,RIGOUTS L,RIGOUTS,LEEN,Inst Trop Med,Antwerp,Belgium
+90,KESTENS L,KESTENS,LUC,Inst Trop Med,Antwerp,Belgium
+91,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med,Antwerp,Belgium
+92,LAOKRI S,LAOKRI,SAMIA,Univ Libre Bruxelles,Brussels,Belgium
+93,DRAMAIXWILMET M,DRAMAIXWILMET,MICHELE,,,
+94,KASSA F,KASSA,FERDINAND,,,
+95,KASSA F,KASSA,FERDINAND,Programme Natl TB,Cotonou,Benin
+96,ANAGONOU S,ANAGONOU,SEVERIN,,,
+97,ANAGONOU S,ANAGONOU,SEVERIN,Programme Natl TB,Cotonou,Benin
+98,DUJARDIN B,DUJARDIN,BRUNO,Univ Libre Bruxelles,Brussels,Belgium
+99,AFFOLABI D,AFFOLABI,D,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+100,ANYO G,ANYO,G,,,
+101,ANYO G,ANYO,G,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+102,FAIHUN F,FAIHUN,F,Lab Reference Mycobacteries,Cotonou,Benin
+103,SANOUSSI N,SANOUSSI,N,Lab Reference Mycobacteries,Cotonou,Benin
+104,SHAMPUTA I C,SHAMPUTA,I C,,,
+105,SHAMPUTA I C,SHAMPUTA,I C,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+106,RIGOUTS L,RIGOUTS,L,,,
+107,RIGOUTS L,RIGOUTS,L,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+108,KESTENS L,KESTENS,L,,,
+109,KESTENS L,KESTENS,L,Inst Trop Med  Immunol Unit,Antwerp,Belgium
+110,PORTAELS F,PORTAELS,F,,,
+111,PORTAELS F,PORTAELS,F,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium
+112,FERROUSSIER O,FERROUSSIER,O,Int Union Against TB & Lung Dis,Paris,France
+113,DLODLO R A,DLODLO,R A,Int Union Against TB & Lung Dis,Paris,France
+114,CAPOCHICHI D,CAPOCHICHI,D,,,
+115,BOILLOT F,BOILLOT,F,Int Union Against TB & Lung Dis,Paris,France
+116,GNINAFON M,GNINAFON,M,,,
+117,GNINAFON M,GNINAFON,M,Programme Natl Lutte TB,Cotonou,Benin
+118,TREBUCQ A,TREBUCQ,A,Int Union Against TB & Lung Dis,Paris,France
+119,FUJIWARA P I,FUJIWARA,P I,Int Union Against TB & Lung Dis,Paris,France
+120,TREBUCQ A,TREBUCQ,A,,,
+121,AITKHALED N,AITKHALED,N,,,
+122,LOUIS J P,LOUIS,JP,,,
+123,ADE S,ADE,SERGE,Nat TB Programme,Cotonou,Benin
+124,ADE S,ADE,SERGE,Univ Parakou  Fac Med,Parakou,Benin
+125,ADE S,ADE,SERGE,Int Union TB & Lung Dis,Paris,France
+126,ADE G,ADE,GABRIEL,Nat TB Programme,Cotonou,Benin
+127,AGODOKPESSI G,AGODOKPESSI,GILDAS,Nat TB Programme,Cotonou,Benin
+128,WACHINOU P,WACHINOU,PRUDENCE,Nat TB Programme,Cotonou,Benin
+129,AFFOLABI D,AFFOLABI,DISSOU,Nat TB Programme,Cotonou,Benin
+130,ANAGONOU S,ANAGONOU,SEVERIN,Nat TB Programme,Cotonou,Benin
+131,MERLE C S,MERLE,CORINNE S,London Sch Hyg & Trop Med,London,England
+132,FIELDING K,FIELDING,KATHERINE,London Sch Hyg & Trop Med,London,England
+133,SOW O B,SOW,OMOU BAH,,,
+134,SOW O B,SOW,OMOU BAH,Hop Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea
+135,GNINAFON M,GNINAFON,MARTIN,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+136,LO M B,LO,MAME B,,,
+137,LO M B,LO,MAME B,Programme Natl Lutte TB,Dakar,Senegal
+138,MTHIYANE T,MTHIYANE,THULI,,,
+139,MTHIYANE T,MTHIYANE,THULI,MRC,Durban,South Africa
+140,ODHIAMBO J,ODHIAMBO,JOSEPH,,,
+141,ODHIAMBO J,ODHIAMBO,JOSEPH,Kenya Govt Med Res Ctr,Nairobi,Kenya
+142,AMUKOYE E,AMUKOYE,EVANS,,,
+143,AMUKOYE E,AMUKOYE,EVANS,Kenya Govt Med Res Ctr,Nairobi,Kenya
+144,BAH B,BAH,BOUBACAR,,,
+145,BAH B,BAH,BOUBACAR,Hop Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea
+146,KASSA F,KASSA,FERDINAND,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin
+147,NDIAYE A,NDIAYE,ALIMATOU,,,
+148,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC,Durban,South Africa
+149,DE JONG B C,DE JONG,BOUKE C,,,
+150,DE JONG B C,DE JONG,BOUKE C,Inst Trop Med,Antwerp,Belgium
+151,PERRONNE C,PERRONNE,CHRISTIAN,,,
+152,PERRONNE C,PERRONNE,CHRISTIAN,Hop Univ Paris Ile de France Ouest  Assistance Publ Hop Paris,Paris,France
+153,SISMANIDIS C,SISMANIDIS,CHARALAMBOS,London Sch Hyg & Trop Med,London,England
+154,LAPUJADE O,LAPUJADE,OLIVIER,,,
+155,LAPUJADE O,LAPUJADE,OLIVIER,Inst Rech Dev,Marseille,France
+156,OLLIARO P L,OLLIARO,PIERO L,WHO  Special Program Res & Training Trop Dis,Geneva,Switzerland
+157,LIENHARDT C,LIENHARDT,CHRISTIAN,Inst Rech Dev,Marseille,France
+158,MERLE C S,MERLE,C S,WHO  TDR,Geneva,Switzerland
+159,MERLE C S,MERLE,C S,London Sch Hyg & Trop Med  IDEU,London,England
+160,FLOYD S,FLOYD,S,,,
+161,FLOYD S,FLOYD,S,London Sch Hyg & Trop Med  IDEU,London,England
+162,NDIAYE A,NDIAYE,A,,,
+163,NDIAYE A,NDIAYE,A,Natl TB Programme,Dakar,Senegal
+164,GALPERINE T,GALPERINE,T,,,
+165,GALPERINE T,GALPERINE,T,Tenon Hosp,Paris,France
+166,FURCO A,FURCO,A,,,
+167,FURCO A,FURCO,A,UCL,London,England
+168,DE JONG B C,DE JONG,B C,,,
+169,DE JONG B C,DE JONG,B C,Inst Trop Med,Antwerp,Belgium
+170,MCILLERON H,MCILLERON,H,,,
+171,MCILLERON H,MCILLERON,H,Univ Cape Town  Clin Pharmacol Lab,Cape Town,South Africa
+172,GLYNN J,GLYNN,J,,,
+173,SARR M,SARR,M,,,
+174,SARR M,SARR,M,Natl TB Programme,Dakar,Senegal
+175,BAHSOW O,BAHSOW,O,,,
+176,AFFOLABI D,AFFOLABI,D,Natl TB Programme,Cotonou,Benin
+177,GEHRE F,GEHRE,FLORIAN,Inst Trop Med,Antwerp,Belgium
+178,GEHRE F,GEHRE,FLORIAN,MRC  Gambia Unit,Fajara,Gambia
+179,EJO M,EJO,MEBRAT,Inst Trop Med,Antwerp,Belgium
+180,FISSETTE K,FISSETTE,KRISTINA,Inst Trop Med,Antwerp,Belgium
+181,DE RIJK P,DE RIJK,PIM,Inst Trop Med,Antwerp,Belgium
+182,UWIZEYE C,UWIZEYE,CECILE,Inst Trop Med,Antwerp,Belgium
+183,NDUWAMAHORO E,NDUWAMAHORO,ELIE,Inst Trop Med,Antwerp,Belgium
+184,GOOVAERTS O,GOOVAERTS,ODIN,Inst Trop Med,Antwerp,Belgium
+185,AFFOLABI D,AFFOLABI,DISSOU,,,
+186,GNINAFON M,GNINAFON,MARTIN,Lab Reference Mycobacteries,Cotonou,Benin
+187,LINGOUPOU F M,LINGOUPOU,FANNY M,,,
+188,LINGOUPOU F M,LINGOUPOU,FANNY M,Inst Pasteur  Lab Mycobacteries,Bangui,Central African Republic
+189,BARRY M D,BARRY,MAMADOU DIAN,,,
+190,BARRY M D,BARRY,MAMADOU DIAN,Lab Reference Mycobacteries,Conakry,Guinea
+191,SOW O,SOW,OUMOU,,,
+192,SOW O,SOW,OUMOU,Lab Reference Mycobacteries,Conakry,Guinea
+193,MERLE C,MERLE,CORINNE,,,
+194,MERLE C,MERLE,CORINNE,London Sch Hyg & Trop Med,London,England
+195,OLLIARO P,OLLIARO,PIERO,,,
+196,OLLIARO P,OLLIARO,PIERO,WHO  Special Programme Res & Training Trop Dis TDR  UNICEF  UNDP World Bank,Geneva,Switzerland
+197,BA F,BA,FATOUMATA,,,
+198,BA F,BA,FATOUMATA,Lab Reference Mycobacteries,Dakar,Senegal
+199,SARR M,SARR,MARIE,,,
+200,SARR M,SARR,MARIE,Natl TB Programme,Dakar,Senegal
+201,PIUBELLO A,PIUBELLO,ALBERTO,,,
+202,PIUBELLO A,PIUBELLO,ALBERTO,Damien Fdn,Niamey,Niger
+203,NOESKE J,NOESKE,JUERGEN,,,
+204,ANTONIO M,ANTONIO,MARTIN,,,
+205,ANTONIO M,ANTONIO,MARTIN,MRC  Gambia Unit,Fajara,Gambia
+206,DE JONG B C,DE JONG,BOUKE C,NYU,New York,USA
+207,ADJAGBA OABG,ADJAGBA,O A B G,,,
+208,TANIMOMOKLEDJO B,TANIMOMOKLEDJO,B,,,
+209,ANAGONOU S Y,ANAGONOU,S Y,,,
+210,GNINAFON M,GNINAFON,M,Ctr Natl Hosp Pneumophysiol,Cotonou,Benin
+211,ADE G,ADE,G,,,
+212,ADE G,ADE,G,Ctr Natl Hosp Pneumophysiol,Cotonou,Benin
+213,ENARSON D A,ENARSON,D A,Int Union TB & Lung Dis,Paris,France
+214,CHIANG C Y,CHIANG,CY,,,
+215,AMIDOU S A,AMIDOU,S A,Natl Program HIV,Parakou,Benin
+216,BAGUIDI R,BAGUIDI,R,,,
+217,BAGUIDI R,BAGUIDI,R,Natl Program Againt TB,Parakou,Benin
+218,CARSON S S,CARSON,S S,,,
+219,CARSON S S,CARSON,S S,Univ North Carolina Chapel Hill,Chapel Hill,USA
+220,WACHINOU A P,WACHINOU,A P,,,
+221,WACHINOU A P,WACHINOU,A P,Natl Hosp TB & Lung Dis,Cotonou,Benin
+222,AGODOKPESSI G,AGODOKPESSI,G,Fac Sci Sante Cotonou,Cotonou,Benin
+223,ADE G,ADE,G,Fac Sci Sante Cotonou,Cotonou,Benin
+224,NGAHANE B H M,NGAHANE,B H MBATCHOU,,,
+225,NGAHANE B H M,NGAHANE,B H MBATCHOU,Hop Gen Douala  Serv Med Interne,Douala,Cameroon
+226,BOHISSOU F,BOHISSOU,F,,,
+227,BOHISSOU F,BOHISSOU,F,Fac Sci Sante Cotonou,Cotonou,Benin
+228,GNINAFON M,GNINAFON,M,Fac Sci Sante Cotonou,Cotonou,Benin
+229,MERLE C S C,MERLE,CORINNE S C,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England
+230,SISMANIDIS C,SISMANIDIS,CHARALAMBOS,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England
+231,SOW O B,SOW,OUMOU BAH,,,
+232,SOW O B,SOW,OUMOU BAH,Hop Ignace Deen  Serv Pneumo Phtisiol,Conakry,Guinea
+233,GNINAFON M,GNINAFON,MARTIN,Ctr Natl Hosp Pneumo Phtisiol,Cotonou,Benin
+234,LAPUJADE O,LAPUJADE,OLIVIER,WHO  TDR,Geneva,Switzerland
+235,LO M B,LO,MAME BOCAR,Programme Natl Lutte TB  Dakar,Fann,Senegal
+236,MITCHINSON D A,MITCHINSON,DENIS A,,,
+237,MITCHINSON D A,MITCHINSON,DENIS A,Univ London  Ctr Infect,London,England
+238,PERRONNE C,PERRONNE,CHRISTIAN,Univ Versailles  Raymond Poincare Hosp  AP HP  Dept Infect Dis,Saint-Quentin-en-Yvelines,France
+239,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med  Dept Microbiol,Antwerp,Belgium
+240,OLLIARO P,OLLIARO,PIERO,WHO  TDR,Geneva,Switzerland
+241,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC  Unit Clin & Biomed TB Res,Overport,South Africa
+242,LIENHARDT C,LIENHARDT,CHRISTIAN,WHO Stop TB Partnership 213,Geneva,Switzerland
+243,FIELDING K,FIELDING,KATHERINE,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England
+244,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis  Dept TB Control & Prevent,Paris,France
+245,RIEDER H L,RIEDER,H L,Int Union TB & Lung Dis  Dept TB Control & Prevent,Paris,France
+246,RIEDER H L,RIEDER,H L,Univ Zurich  Inst Social & Prevent Med,Zurich,Switzerland
+247,AFFOLABI D,AFFOLABI,D,Programme Natl TB,Cotonou,Benin
+248,AKPONA R,AKPONA,R,,,
+249,AKPONA R,AKPONA,R,Programme Natl TB,Cotonou,Benin
+250,ODOUN M,ODOUN,M,Programme Natl TB,Cotonou,Benin
+251,ALIDJINOU K,ALIDJINOU,K,,,
+252,ALIDJINOU K,ALIDJINOU,K,Programme Natl TB,Cotonou,Benin
+253,WACHINOU P,WACHINOU,P,,,
+254,WACHINOU P,WACHINOU,P,Programme Natl TB,Cotonou,Benin
+255,ANAGONOU S,ANAGONOU,S,Programme Natl TB,Cotonou,Benin
+256,GNINAFON M,GNINAFON,M,Programme Natl TB,Cotonou,Benin
+257,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis,Paris,France
+258,TAWO L,TAWO,L,,,
+259,KASSA F,KASSA,F,,,
+260,MONTEIRO G R,MONTEIRO,GR,,,
+261,ZELLWEGER J R,ZELLWEGER,JR,,,
+262,SHANG H,SHANG,H,,,
+263,LAMBREGTS K,LAMBREGTS,K,,,
+264,ZELLWEGER J P,ZELLWEGER,J P,Ligue Pulm Suisse,Bern,Switzerland
+265,KASSA F,KASSA,F,Natl TB Programme,Cotonou,Benin
+266,LAMBREGTS K,LAMBREGTS,K,Royal Netherlands TB Assoc KNCV,The Hague,Netherlands
+267,GNINAFON M,GNINAFON,M,Natl TB Programme,Cotonou,Benin
+268,KHANDELWAL A,KHANDELWAL,AKASH,,,
+269,KHANDELWAL A,KHANDELWAL,AKASH,Uppsala Univ  Dept Pharmaceut Biosci,Uppsala,Sweden
+270,MERLE C,MERLE,CORINNE,London Sch Hyg & Trop Med  Dept Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England
+271,SOW O B,SOW,OUMOU BAH,CHU Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea
+272,OLLIARO P L,OLLIARO,PIERO L,WHO  UNICEF UNDP World Bank WHO Special Programme Res,Geneva,Switzerland
+273,LIENHARDT C,LIENHARDT,CHRISTIAN,Inst Rech Dev,Paris,France
+274,ADE S,ADE,S,Natl TB Programme  BP321,Cotonou,Benin
+275,ADE S,ADE,S,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin
+276,ADE S,ADE,S,Int Union TB & Lung Dis,Paris,France
+277,AFFOLABI D,AFFOLABI,D,Natl TB Programme  BP321,Cotonou,Benin
+278,AGODOKPESSI G,AGODOKPESSI,G,Natl TB Programme  BP321,Cotonou,Benin
+279,WACHINOU P,WACHINOU,P,Natl TB Programme  BP321,Cotonou,Benin
+280,FAIHUN F,FAIHUN,F,Natl TB Programme  BP321,Cotonou,Benin
+281,TOUNDOH N,TOUNDOH,N,Natl TB Programme  BP321,Cotonou,Benin
+282,BEKOU W,BEKOU,W,Natl TB Programme  BP321,Cotonou,Benin
+283,MAKPENON A,MAKPENON,A,Natl TB Programme  BP321,Cotonou,Benin
+284,ADE G,ADE,G,Natl TB Programme  BP321,Cotonou,Benin
+285,ADE G,ADE,G,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin
+286,ANAGONOU S,ANAGONOU,S,Natl TB Programme  BP321,Cotonou,Benin
+287,HARRIES A D,HARRIES,A D,,,
+288,HARRIES A D,HARRIES,A D,Int Union TB & Lung Dis,Paris,France
+289,HARRIES A D,HARRIES,A D,London Sch Hyg & Trop Med,London,England
+290,KOUKPEMEDJI L,KOUKPEMEDJI,LOUIS,Lab Reference Mycobacteries,Cotonou,Benin
+291,HARRIES A D,HARRIES,A D,London Sch Hyg & Trop Med  Fac Infect & Trop Dis  Dept Clin Res,London,England
+292,ADE S,ADE,S,Natl TB Programme,Cotonou,Benin
+293,BURNEY P,BURNEY,P,,,
+294,BURNEY P,BURNEY,P,Imperial Coll  Natl Heart & Lung Inst,London,England
+295,HOA N B,HOA,N B,Int Union TB & Lung Dis,Paris,France
+296,HOA N B,HOA,N B,Natl TB Control Programme,Hanoi,Vietnam
+297,SCHLUGER N W,SCHLUGER,N W,,,
+298,SCHLUGER N W,SCHLUGER,N W,Columbia Univ  Med Ctr  Div Pulm Allergy & Crit Care Med,New York,USA
+299,SCHLUGER N W,SCHLUGER,N W,Vital Strategies,New York,USA
+300,CASTRO J L,CASTRO,J L,Int Union TB & Lung Dis,Paris,France
+301,CASTRO J L,CASTRO,J L,Vital Strategies,New York,USA
+302,GEHRE F,GEHRE,FLORIAN,MRC Unit,Fajara,Gambia
+303,ANTONIO M,ANTONIO,MARTIN,MRC Unit,Fajara,Gambia
+304,FAIHUN F,FAIHUN,FRANK,,,
+305,ODOUN M,ODOUN,MATHIEU,,,
+306,UWIZEYE C,UWIZEYE,CECILE,,,
+307,DE RIJK P,DE RIJK,PIM,,,
+308,DE JONG B C,DE JONG,BOUKE C,MRC Unit,Fajara,Gambia
+309,ANDRE E,ANDRE,E,Catholic Univ Louvain  Inst Rech Expt & Clin  Pole Microbiol Med,Brussels,Belgium
+310,ANDRE E,ANDRE,E,Clin Univ St Luc  Dept Biol Clin  Serv Microbiol,Brussels,Belgium
+311,ANDRE E,ANDRE,E,ESCMID  European Soc Clin Microbiol & Infect Dis ESCMID  Study Grp Mycobacterial Infect ESGMYC,Basel,Switzerland
+312,ISAACS C,ISAACS,C,,,
+313,AFFOLABI D,AFFOLABI,D,Abomey Calavi Univ  Fac Hlth Sci,Cotonou,Benin
+314,ALAGNA R,ALAGNA,R,,,
+315,ALAGNA R,ALAGNA,R,Ist Ricovero & Cura Carattere Sci San Raffaele Sc  TB Supranat Reference Lab,Milan,Italy
+316,BROCKMANN D,BROCKMANN,D,,,
+317,BROCKMANN D,BROCKMANN,D,Humboldt Univ  Inst Theoret Biol  Dept Biol,Berlin,Germany
+318,BROCKMANN D,BROCKMANN,D,Robert Koch Inst  Epidemiol Modelling Infect Dis,Berlin,Germany
+319,DE JONG B C,DE JONG,B C,Inst Trop Med  Dept Biomed Sci  Unit Mycobacteriol,Ghent,Belgium
+320,CAMBAU E,CAMBAU,E,,,
+321,CAMBAU E,CAMBAU,E,Univ Paris Diderot  Inst Natl Sante & Rech Med  UMR 1137  Infect Antimicrobiens Modelisat Evolut,Paris,France
+322,CAMBAU E,CAMBAU,E,Hop Lariboisiere  AP HP  Bacteriol,Paris,France
+323,CHURCHYARD G,CHURCHYARD,G,,,
+324,CHURCHYARD G,CHURCHYARD,G,Aurum Inst,Johannesburg,South Africa
+325,COHEN T,COHEN,T,,,
+326,COHEN T,COHEN,T,Yale Univ  Yale Sch Publ Hlth,New Haven,USA
+327,DELMEE M,DELMEE,M,Catholic Univ Louvain  Inst Rech Expt & Clin  Pole Microbiol Med,Brussels,Belgium
+328,DELMEE M,DELMEE,M,Clin Univ St Luc  Dept Biol Clin  Serv Microbiol,Brussels,Belgium
+329,DELVENNE J C,DELVENNE,J C,,,
+330,FARHAT M,FARHAT,M,,,
+331,FARHAT M,FARHAT,M,Massachusetts Gen Hosp,Boston,USA
+332,HABIB A,HABIB,A,,,
+333,HABIB A,HABIB,A,Interact Hlth Solut,Karachi,Pakistan
+334,HOLME R,HOLME,R,,,
+335,HOLME R,HOLME,R,Sungkyunkwan Univ,Seoul,South Korea
+336,KESHAVJEE S,KESHAVJEE,S,,,
+337,KESHAVJEE S,KESHAVJEE,S,Harvard Med Sch  Ctr Global Hlth Delivery,Dubai,United Arab Emirates
+338,KHAN A,KHAN,A,,,
+339,KHAN A,KHAN,A,Interact Res & Dev,Karachi,Pakistan
+340,LIGHTFOOT P,LIGHTFOOT,P,,,
+341,LIGHTFOOT P,LIGHTFOOT,P,Fdn Innovat New Diagnost,Geneva,Switzerland
+342,MOORE D,MOORE,D,,,
+343,MOORE D,MOORE,D,London Sch Hyg & Trop Med  TB Ctr,London,England
+344,MORENO Y,MORENO,Y,,,
+345,MORENO Y,MORENO,Y,Univ Zaragoza  Inst Biocomputat & Phys Complex Syst BIFI,Zaragoza,Spain
+346,MUNDADE Y,MUNDADE,Y,,,
+347,MUNDADE Y,MUNDADE,Y,UNITAID,Geneva,Switzerland
+348,PAI M,PAI,M,,,
+349,PAI M,PAI,M,McGill Univ  McGill Int TB Ctr  Montreal,Quebec,Canada
+350,PAI M,PAI,M,McGill Univ  McGill Global Hlth Programs  Montreal,Quebec,Canada
+351,PATEL S,PATEL,S,,,
+352,PATEL S,PATEL,S,Univ Hosp Southampton NHS Fdn Trust  Southampton,Hants,England
+353,NYARUHIRIRA A U,NYARUHIRIRA,A U,,,
+354,NYARUHIRIRA A U,NYARUHIRIRA,A U,Management Sci Hlth,Gauteng,South Africa
+355,ROCHA L E C,ROCHA,L E C,,,
+356,ROCHA L E C,ROCHA,L E C,Univ Zaragoza  Dept Theoret Phys  Fac Sci,Zaragoza,Spain
+357,ROCHA L E C,ROCHA,L E C,Karolinska Inst,Stockholm,Sweden
+358,ROCHA L E C,ROCHA,L E C,Univ Namur,Namur,Belgium
+359,TAKLE J,TAKLE,J,,,
+360,TAKLE J,TAKLE,J,Global Connect LLC,Somerville,USA
+361,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis,Paris,France
+362,CRESWELL J,CRESWELL,J,,,
+363,CRESWELL J,CRESWELL,J,Stop TB Partnership,Geneva,Switzerland
+364,BOEHME C,BOEHME,C,,,
+365,BOEHME C,BOEHME,C,Fdn Innovat New Diagnost,Geneva,Switzerland
+366,BOULAHBAL F,BOULAHBAL,F,,,
+367,JAQUET A,JAQUET,A,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France
+368,EKOUEVI D K,EKOUEVI,D K,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France
+369,EKOUEVI D K,EKOUEVI,D K,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire
+370,ABOUBAKRINE M,ABOUBAKRINE,M,,,
+371,ABOUBAKRINE M,ABOUBAKRINE,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali
+372,BASHI J,BASHI,J,,,
+373,BASHI J,BASHI,J,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin
+374,MESSOU E,MESSOU,E,,,
+375,MESSOU E,MESSOU,E,ACONDA Ctr Prise Charge Rech & Format,Abidjan,Cote Ivoire
+376,MAIGA M,MAIGA,M,,,
+377,MAIGA M,MAIGA,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali
+378,TRAORE H A,TRAORE,H A,,,
+379,TRAORE H A,TRAORE,H A,Hop du Point G  Ctr Prise Charge Personnes Vivant Avec VIH,Bamako,Mali
+380,ZANNOU M,ZANNOU,M,,,
+381,ZANNOU M,ZANNOU,M,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin
+382,GUEHI C,GUEHI,C,,,
+383,GUEHI C,GUEHI,C,Unite Soins Ambulatoires & Conseil,Abidjan,Cote Ivoire
+384,BAGOMIS F O,BAGOMIS,F O,,,
+385,MINGA A,MINGA,A,,,
+386,MINGA A,MINGA,A,Ctr Natl Transfus Sanguine  Ctr Med Suivi Donneurs Sang  PRIMO CI,Abidjan,Cote Ivoire
+387,ALLOU G,ALLOU,G,,,
+388,ALLOU G,ALLOU,G,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire
+389,EHOLIE S P,EHOLIE,S P,,,
+390,EHOLIE S P,EHOLIE,S P,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire
+391,DABIS F,DABIS,F,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France
+392,BISSAGNENE E,BISSAGNENE,E,,,
+393,BISSAGNENE E,BISSAGNENE,E,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire
+394,SASCO A J,SASCO,A J,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France
+395,MARTIN A,MARTIN,ANANDI,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium
+396,IMPERIALE B,IMPERIALE,BELEN,,,
+397,IMPERIALE B,IMPERIALE,BELEN,Hosp Dr Antonio Cetrangolo  Lab Referencia Programa Control TB  Buenos Aires,DF,Argentina
+398,RAVOLONANDRIANA P,RAVOLONANDRIANA,PASCALINE,,,
+399,RAVOLONANDRIANA P,RAVOLONANDRIANA,PASCALINE,Inst Pasteur Madagascar,Antananarivo,Madagascar
+400,COBAN A Y,COBAN,AHMET YILMAZ,,,
+401,COBAN A Y,COBAN,AHMET YILMAZ,Ondokuz Mayis Univ  Sch Med  Dept Med Microbiol,Samsun,Turkey
+402,AKGUNES A,AKGUNES,ALPER,,,
+403,AKGUNES A,AKGUNES,ALPER,Chest Dis Hosp  Clin Microbiol Lab,Samsun,Turkey
+404,IKRAM A,IKRAM,AAMER,,,
+405,IKRAM A,IKRAM,AAMER,Combined Mil Hosp  Dept Pathol,Dera Ismail Khan,Pakistan
+406,SATTI L,SATTI,LUQMAN,,,
+407,SATTI L,SATTI,LUQMAN,Combined Mil Hosp  Dept Pathol,Dera Ismail Khan,Pakistan
+408,PANDEY P,PANDEY,POOJA,,,
+409,PANDEY P,PANDEY,POOJA,All India Inst Med Sci  Dept Microbiol,New Delhi,India
+410,MISHRA M,MISHRA,MANVI,,,
+411,MISHRA M,MISHRA,MANVI,All India Inst Med Sci  Dept Microbiol,New Delhi,India
+412,SINGH U,SINGH,URVASHI,,,
+413,SINGH U,SINGH,URVASHI,All India Inst Med Sci  Dept Microbiol,New Delhi,India
+414,RASOLOFO V,RASOLOFO,VOAHANGY,,,
+415,RASOLOFO V,RASOLOFO,VOAHANGY,Inst Pasteur Madagascar,Antananarivo,Madagascar
+416,MORCILLO N,MORCILLO,NORA,,,
+417,MORCILLO N,MORCILLO,NORA,Hosp Dr Antonio Cetrangolo  Lab Referencia Programa Control TB  Buenos Aires,DF,Argentina
+418,VANDAMME P,VANDAMME,PETER,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium
+419,PALOMINO J C,PALOMINO,JUAN CARLOS,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium
+420,ADJONOU C,ADJONOU,CHRISTINE,Natl TB Programme,Cotonou,Benin
+421,AZON S,AZON,SOPHIE,Natl TB Programme,Cotonou,Benin
+422,ROBERT J,ROBERT,JEROME,Univ Paris 06  Hop La Pitie Salpetriere  Equipe Accueil 1541 Lab Bacteriol Hyg Hosp  AP HP Ctr Natl Reference Mycobacteries & Resista,Paris,France
+423,AFFOLABI D,AFFOLABI,DISSOU,Programme Natl TB,Cotonou,Benin
+424,AWOKOU F,AWOKOU,FANTCHE,,,
+425,AWOKOU F,AWOKOU,FANTCHE,Minist Sante Togo  Natl TB Control Programme,Lome,Togo
+426,NOLNA D,NOLNA,DESIRE,,,
+427,NOLNA D,NOLNA,DESIRE,Natl TB Control Programme,Yaounde,Cameroon
+428,MANOUAN B A P,MANOUAN,BILE ADOU PHILIPPE,,,
+429,MANOUAN B A P,MANOUAN,BILE ADOU PHILIPPE,Programme Natl Lutte TB,Abidjan,Cote Ivoire
+430,ACHO Y B,ACHO,YAPO BLAISE,,,
+431,ACHO Y B,ACHO,YAPO BLAISE,Ctr Hosp Univ Cocody,Abidjan,Cote Ivoire
+432,ACHO Y B,ACHO,YAPO BLAISE,Direct Gen Hyg Publ,Abidjan,Cote Ivoire
+433,GNINAFON M,GNINAFON,MARTIN,Programme Natl TB,Cotonou,Benin
+434,LAOKRI S,LAOKRI,SAMIA,Univ Libre Brussels  Sch Publ Hlth  Res Ctr Hlth Policy & Syst Int Hlth,Brussels,Belgium
+435,AMOUSSOUHUI A,AMOUSSOUHUI,ARNAUD,,,
+436,AMOUSSOUHUI A,AMOUSSOUHUI,ARNAUD,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin
+437,OUENDO E M,OUENDO,EDGARD M,,,
+438,OUENDO E M,OUENDO,EDGARD M,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin
+439,HOUNNANKAN A C,HOUNNANKAN,ATHANASE COSSI,,,
+440,HOUNNANKAN A C,HOUNNANKAN,ATHANASE COSSI,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin
+441,TAWO L,TAWO,LEON,,,
+442,TAWO L,TAWO,LEON,Programme Natl TB,Cotonou,Benin
+443,DUJARDIN B,DUJARDIN,BRUNO,Univ Libre Brussels  Sch Publ Hlth  Res Ctr Hlth Policy & Syst Int Hlth,Brussels,Belgium

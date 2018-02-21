@@ -1,0 +1,1269 @@
+Cluster ID,confidence_score,Id,init_name,last_name,first_name,affiliation,city,country,canonical_city,canonical_first_name,canonical_last_name,canonical_country,canonical_affiliation,canonical_init_name,canonical_Id
+0,0.99999995529651642,1,AHOMADEGBE C,AHOMADEGBE,C,CNHU HKM  People Living HIVs Ambulatory Treatment Ctr,Cotonou,Benin,cotonou,c,ahomadegbe,benin,cnhu hkm people living hivs ambulatory treatment ctr,ahomadegbe c,99
+0,0.99999995529651642,2,AHOMADEGBE C,AHOMADEGBE,C,CNHU HKM  Dept Internal Med,Cotonou,Benin,cotonou,c,ahomadegbe,benin,cnhu hkm people living hivs ambulatory treatment ctr,ahomadegbe c,99
+2,0.96795278932990092,3,ZANNOU D M,ZANNOU,D M,CNHU HKM  People Living HIVs Ambulatory Treatment Ctr,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96760024239377274,4,ZANNOU D M,ZANNOU,D M,CNHU HKM  Dept Internal Med,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+3,1.0,5,TCHABI Y,TCHABI,Y,,,,cotonou,y,tchabi,benin,cnhu hkm dept cardiol,tchabi y,5
+3,1.0,6,TCHABI Y,TCHABI,Y,CNHU HKM  Dept Cardiol,Cotonou,Benin,cotonou,y,tchabi,benin,cnhu hkm dept cardiol,tchabi y,5
+5,0.99999799178196835,7,AKAKPO J,AKAKPO,J,CNHU HKM  People Living HIVs Ambulatory Treatment Ctr,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+6,0.99999994039535522,8,AHOUADA C,AHOUADA,C,CNHU HKM  People Living HIVs Ambulatory Treatment Ctr,Cotonou,Benin,cotonou,c,ahouada,benin,cta,ahouada c,8
+6,0.99999994039535522,9,AHOUADA C,AHOUADA,C,CNHU HKM  Dept Internal Med,Cotonou,Benin,cotonou,c,ahouada,benin,cta,ahouada c,8
+7,0.99999994039535522,10,BASHI J,BASHI,J,CNHU HKM  People Living HIVs Ambulatory Treatment Ctr,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+8,1.0,11,ABDOULAYE I,ABDOULAYE,I,,,,cotonou,i,abdoulaye,benin,cnhu hkm biochem lab,abdoulaye i,11
+8,1.0,12,ABDOULAYE I,ABDOULAYE,I,CNHU HKM  Biochem Lab,Cotonou,Benin,cotonou,i,abdoulaye,benin,cnhu hkm biochem lab,abdoulaye i,11
+10,1.0,13,YOTEBIENG M,YOTEBIENG,MARCEL,Ohio State Univ  Coll Publ Hlth  Div Epidemiol,Columbus,USA,columbus,marcel,yotebieng,usa,ohio state univ coll publ hlth div epidemiol,yotebieng m,13
+10,1.0,14,YOTEBIENG M,YOTEBIENG,MARCEL,Univ N Carolina  Dept Epidemiol,Chapel Hill,USA,columbus,marcel,yotebieng,usa,ohio state univ coll publ hlth div epidemiol,yotebieng m,13
+11,1.0,15,MEYERS T,MEYERS,TAMMY,,,,johannesburg,tammy,meyers,south africa,univ witwatersrand fac hlth sci dept pediat,meyers t,15
+11,1.0,16,MEYERS T,MEYERS,TAMMY,Univ Witwatersrand  Fac Hlth Sci  Dept Pediat,Johannesburg,South Africa,johannesburg,tammy,meyers,south africa,univ witwatersrand fac hlth sci dept pediat,meyers t,15
+13,1.0,17,BEHETS F,BEHETS,FRIEDA,,,,chapel hill,frieda,behets,usa,univ n carolina sch med,behets f,17
+13,1.0,18,BEHETS F,BEHETS,FRIEDA,Univ N Carolina  Sch Med,Chapel Hill,USA,chapel hill,frieda,behets,usa,univ n carolina sch med,behets f,17
+322,,19,DAVIES M A,DAVIES,MARYANN,,,,,,,,,,
+16,1.0,20,KEISER O,KEISER,OLIVIA,,,,ch-3012 bern,olivia,keiser,switzerland,univ bern inst social & prevent med,keiser o,20
+16,1.0,21,KEISER O,KEISER,OLIVIA,Univ Bern  Inst Social & Prevent Med,CH-3012 Bern,Switzerland,ch-3012 bern,olivia,keiser,switzerland,univ bern inst social & prevent med,keiser o,20
+18,1.0,22,NGONYANI K Z,NGONYANI,KAPELLA ZACHARIA,,,,kibaha,kapella zacharia,ngonyani,tanzania,tumbi reg referral hosp,ngonyani k z,22
+18,1.0,23,NGONYANI K Z,NGONYANI,KAPELLA ZACHARIA,Tumbi Reg Referral Hosp,Kibaha,Tanzania,kibaha,kapella zacharia,ngonyani,tanzania,tumbi reg referral hosp,ngonyani k z,22
+20,1.0,24,LYAMUYA R E,LYAMUYA,RITA E,,,,morogoro,rita e,lyamuya,tanzania,morogoro reg hosp,lyamuya r e,24
+20,1.0,25,LYAMUYA R E,LYAMUYA,RITA E,Morogoro Reg Hosp,Morogoro,Tanzania,morogoro,rita e,lyamuya,tanzania,morogoro reg hosp,lyamuya r e,24
+22,1.0,26,KARIMINIA A,KARIMINIA,AZAR,,,,nsw,azar,kariminia,australia,univ new s wales kirby inst infect & immun soc darlinghurst,kariminia a,26
+22,1.0,27,KARIMINIA A,KARIMINIA,AZAR,Univ New S Wales  Kirby Inst Infect & Immun Soc  Darlinghurst,NSW,Australia,nsw,azar,kariminia,australia,univ new s wales kirby inst infect & immun soc darlinghurst,kariminia a,26
+24,1.0,28,HANSUDEWECHAKUL R,HANSUDEWECHAKUL,RAWIWAN,,,,chiangrai,rawiwan,hansudewechakul,thailand,chiangrai prachanukroh hosp,hansudewechakul r,28
+24,1.0,29,HANSUDEWECHAKUL R,HANSUDEWECHAKUL,RAWIWAN,Chiangrai Prachanukroh Hosp,Chiangrai,Thailand,chiangrai,rawiwan,hansudewechakul,thailand,chiangrai prachanukroh hosp,hansudewechakul r,28
+26,1.0,30,LEROY V,LEROY,VALERIANE,,,,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,31,LEROY V,LEROY,VALERIANE,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,32,LEROY V,LEROY,VALERIANE,INSERM  Ctr Inserm Epidemiol & Biostat U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+28,0.99999983310699458,33,KOUMAKPAI S,KOUMAKPAI,SIKIRATOU,,,,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+28,0.99999969005584721,34,KOUMAKPAI S,KOUMAKPAI,SIKIRATOU,Univ Hubert K Maga  Ctr Natl Hosp,Cotonou,Benin,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+30,1.0,35,NEWMAN J,NEWMAN,JAMIE,,,,res triangle pk,jamie,newman,usa,rti int biostat & epidemiol,newman j,35
+30,1.0,36,NEWMAN J,NEWMAN,JAMIE,RTI Int  Biostat & Epidemiol,Res Triangle Pk,USA,res triangle pk,jamie,newman,usa,rti int biostat & epidemiol,newman j,35
+32,1.0,37,VAN RIE A,VAN RIE,ANNELIES,,,,chapel hill,annelies,van rie,usa,univ n carolina dept epidemiol,van rie a,37
+32,1.0,38,VAN RIE A,VAN RIE,ANNELIES,Univ N Carolina  Dept Epidemiol,Chapel Hill,USA,chapel hill,annelies,van rie,usa,univ n carolina dept epidemiol,van rie a,37
+34,0.99999997019767761,39,CHAMBERLAND A,CHAMBERLAND,ANNIE,Ctr Hosp Univ Montreal CRCHUM  Ctr Rech  Montreal,PQ,Canada,pq,annie,chamberland,canada,ctr hosp univ montreal crchum ctr rech montreal,chamberland a,91
+35,0.99999994784593582,40,DIABATE S,DIABATE,SOULEYMANE,Ctr Hosp Univ Montreal CRCHUM  Ctr Rech  Montreal,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+36,0.99999871850013733,41,SYLLA M,SYLLA,MOHAMED,Ctr Hosp Univ Montreal CRCHUM  Ctr Rech  Montreal,PQ,Canada,pq,m,sylla,canada,ctr hosp univ montreal crchum ctr rech montreal,sylla m,865
+37,0.9170384407043457,42,ANAGOUNOU S,ANAGOUNOU,SEVERIN,,,,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+37,0.85034431351555717,43,ANAGOUNOU S,ANAGOUNOU,SEVERIN,Ctr Sante Cotonou I  Dispensaire IST,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+38,0.99999997019767761,44,GERALDO N,GERALDO,NASSIROU,,,,cotonou,nassirou,geraldo,benin,ctr sante cotonou i dispensaire ist,geraldo n,44
+38,0.99999997019767761,45,GERALDO N,GERALDO,NASSIROU,Ctr Sante Cotonou I  Dispensaire IST,Cotonou,Benin,cotonou,nassirou,geraldo,benin,ctr sante cotonou i dispensaire ist,geraldo n,44
+2,0.97855343905890857,46,ZANNOU D M,ZANNOU,DJIMON MARCEL,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.9436563427855329,47,ZANNOU D M,ZANNOU,DJIMON MARCEL,Ctr Natl Hosp Univ  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+40,1.0,48,LABBE A C,LABBE,ANNIECLAUDE,,,,,annieclaude,labbe,,,labbe a c,48
+41,1.0,49,WOROBEY M,WOROBEY,MICHAEL,,,,tucson,michael,worobey,az usa,univ arizona dept ecol & evolutionary biol,worobey m,49
+41,1.0,50,WOROBEY M,WOROBEY,MICHAEL,Univ Arizona  Dept Ecol & Evolutionary Biol,Tucson,AZ USA,tucson,michael,worobey,az usa,univ arizona dept ecol & evolutionary biol,worobey m,49
+43,0.99999998150200675,51,ALARY M,ALARY,MICHEL,,,,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,52,ALARY M,ALARY,MICHEL,CHA Univ Quebec  Ctr Rech FRSQ  URESP  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999999588933486,53,ALARY M,ALARY,MICHEL,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ G1K 7P4,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,54,ALARY M,ALARY,MICHEL,Inst Natl Sante Publ Quebec  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+46,0.99999998013178504,55,TREMBLAY C,TREMBLAY,CECILE,Ctr Hosp Univ Montreal CRCHUM  Ctr Rech  Montreal,PQ,Canada,pq,cecile,tremblay,canada,ctr hosp univ montreal crchum ctr rech montreal,tremblay c,100
+46,1.0,56,TREMBLAY C,TREMBLAY,CECILE,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,cecile,tremblay,canada,ctr hosp univ montreal crchum ctr rech montreal,tremblay c,100
+48,0.99999996026357019,57,JESSON J,JESSON,JULIE,INSERM  Epidemiol Biostat U897  Ctr Inserm,Bordeaux,France,bordeaux,julie,jesson,france,univ bordeaux ctr inserm epidemiol biostat u897 isped,jesson j,1097
+48,0.99999996026357019,58,JESSON J,JESSON,JULIE,Univ Bordeaux  Ctr Inserm  Epidemiol Biostat U897  ISPED,Bordeaux,France,bordeaux,julie,jesson,france,univ bordeaux ctr inserm epidemiol biostat u897 isped,jesson j,1097
+28,0.99999963045120244,59,KOUMAKPAI S,KOUMAKPAI,SIKIRATOU,Ctr Natl Hosp Univ Hubert K Maga,Cotonou,Benin,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+50,1.0,60,DIAGNE N R,DIAGNE,NDEYE R,,,,dakar,ndeye r,diagne,senegal,hop enfants albert royer,diagne n r,60
+50,1.0,61,DIAGNE N R,DIAGNE,NDEYE R,Hop Enfants Albert Royer,Dakar,Senegal,dakar,ndeye r,diagne,senegal,hop enfants albert royer,diagne n r,60
+323,,62,AMORISSANIFOLQUET M,AMORISSANIFOLQUET,MADELEINE,,,,,,,,,,
+52,1.0,63,KOUETA F,KOUETA,FLA,,,,ouagadougou,fla,koueta,burkina faso,chu charles gaulle hop pediat,koueta f,63
+52,0.99999995529651642,64,KOUETA F,KOUETA,FLA,Ctr Hosp Univ Charles de Gaulle  Hop Pediat,Ouagadougou,Burkina Faso,ouagadougou,fla,koueta,burkina faso,chu charles gaulle hop pediat,koueta f,63
+53,1.0,65,AKA A,AKA,ADDI,,,,abidjan,addi,aka,cote ivoire,ctr prise charge rech & format cepref,aka a,65
+53,1.0,66,AKA A,AKA,ADDI,Ctr Prise Charge Rech & Format CePReF,Abidjan,Cote Ivoire,abidjan,addi,aka,cote ivoire,ctr prise charge rech & format cepref,aka a,65
+324,,67,LAWSONEVI K,LAWSONEVI,KOKO,,,,,,,,,,
+58,1.0,68,DICKO F,DICKO,FATOUMATA,,,,bamako,fatoumata,dicko,mali,hop gabriel toure,dicko f,68
+58,0.99999996026357019,69,DICKO F,DICKO,FATOUMATA,Hop Gabriel Toure,Bamako,Mali,bamako,fatoumata,dicko,mali,hop gabriel toure,dicko f,68
+60,1.0,70,KOUAKOU K,KOUAKOU,KOUADIO,,,,abidjan,kouadio,kouakou,cote ivoire,cirba,kouakou k,70
+60,1.0,71,KOUAKOU K,KOUAKOU,KOUADIO,CIRBA,Abidjan,Cote Ivoire,abidjan,kouadio,kouakou,cote ivoire,cirba,kouakou k,70
+62,1.0,72,PETY T,PETY,TOURE,,,,abidjan,toure,pety,cote ivoire,programme mtct,pety t,72
+62,1.0,73,PETY T,PETY,TOURE,Programme MTCT,Abidjan,Cote Ivoire,abidjan,toure,pety,cote ivoire,programme mtct,pety t,72
+63,1.0,74,RENNER L,RENNER,LORNA,,,,accra,lorna,renner,ghana,korle bu hosp,renner l,74
+63,0.99999996026357019,75,RENNER L,RENNER,LORNA,Korle Bu Hosp,Accra,Ghana,accra,lorna,renner,ghana,korle bu hosp,renner l,74
+65,1.0,76,EBOUA T,EBOUA,TANOH,,,,abidjan,tanoh,eboua,cote ivoire,ctr hosp univ yopougon serv pediat,eboua t,76
+65,1.0,77,EBOUA T,EBOUA,TANOH,Ctr Hosp Univ Yopougon  Serv Pediat,Abidjan,Cote Ivoire,abidjan,tanoh,eboua,cote ivoire,ctr hosp univ yopougon serv pediat,eboua t,76
+67,0.99999936421712243,78,COFFIE P A,COFFIE,PATRICK A,,,,abidjan,patrick a,coffie,cote ivoire,bur reg ledea w africa programme pacci,coffie p a,465
+67,0.99998350938161218,79,COFFIE P A,COFFIE,PATRICK A,PACCI  Reg IeDEA Coordinat,Abidjan,Cote Ivoire,abidjan,patrick a,coffie,cote ivoire,bur reg ledea w africa programme pacci,coffie p a,465
+69,0.99999994701809358,80,DESMONDE S,DESMONDE,SOPHIE,INSERM  Epidemiol Biostat U897  Ctr Inserm,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+69,0.99999994701809358,81,DESMONDE S,DESMONDE,SOPHIE,Univ Bordeaux  Ctr Inserm  Epidemiol Biostat U897  ISPED,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+26,0.99999996143228864,82,LEROY V,LEROY,VALERIANE,INSERM  Epidemiol Biostat U897  Ctr Inserm,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,83,LEROY V,LEROY,VALERIANE,Univ Bordeaux  Ctr Inserm  Epidemiol Biostat U897  ISPED,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+325,,84,MUKENGETSHIBAKA L,MUKENGETSHIBAKA,L,,,,,,,,,,
+43,0.9999999568380159,85,ALARY M,ALARY,M,,,,pq,michel,alary,canada,univ laval quebec city,alary m,54
+38,0.99999994039535522,86,GERALDO N,GERALDO,N,,,,cotonou,nassirou,geraldo,benin,ctr sante cotonou i dispensaire ist,geraldo n,44
+326,,87,LOWNDES C M,LOWNDES,CM,,,,,,,,,,
+35,0.99999994784593582,88,DIABATE S,DIABATE,SOULEYMANE,Univ Quebec  CHA  Ctr Rech  URESP FRSQ  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+35,0.99999994784593582,89,DIABATE S,DIABATE,SOULEYMANE,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+35,0.99999994784593582,90,DIABATE S,DIABATE,SOULEYMANE,Ctr Hosp Univ Montreal  Ctr Rech  Montreal,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+34,1.0,91,CHAMBERLAND A,CHAMBERLAND,ANNIE,,,,pq,annie,chamberland,canada,ctr hosp univ montreal crchum ctr rech montreal,chamberland a,91
+34,0.99999997019767761,92,CHAMBERLAND A,CHAMBERLAND,ANNIE,Ctr Hosp Univ Montreal  Ctr Rech  Montreal,PQ,Canada,pq,annie,chamberland,canada,ctr hosp univ montreal crchum ctr rech montreal,chamberland a,91
+2,0.94796324503131024,93,ZANNOU D M,ZANNOU,DJIMON M,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.90467099736376511,94,ZANNOU D M,ZANNOU,DJIMON M,Ctr Natl Hosp Univ Cotonou,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.87951947857693924,95,ZANNOU D M,ZANNOU,DJIMON M,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+79,1.0,96,AZONKOUANOU A,AZONKOUANOU,ANGELE,,,,,angele,azonkouanou,,,azonkouanou a,96
+61,1.0,97,MASSINGALOEMBE M,MASSINGALOEMBE,MARGUERITE,,,,,marguerite,massingaloembe,,,massingaloembe m,97
+0,0.99999995529651642,98,AHOMADEGBE C,AHOMADEGBE,CHRISTELLE,,,,cotonou,c,ahomadegbe,benin,cnhu hkm people living hivs ambulatory treatment ctr,ahomadegbe c,99
+0,0.99999995529651642,99,AHOMADEGBE C,AHOMADEGBE,CHRISTELLE,Ctr Natl Hosp Univ Cotonou,Cotonou,Benin,cotonou,c,ahomadegbe,benin,cnhu hkm people living hivs ambulatory treatment ctr,ahomadegbe c,99
+46,1.0,100,TREMBLAY C,TREMBLAY,CECILE,,,,pq,cecile,tremblay,canada,ctr hosp univ montreal crchum ctr rech montreal,tremblay c,100
+46,0.99999998013178504,101,TREMBLAY C,TREMBLAY,CECILE,Ctr Hosp Univ Montreal  Ctr Rech  Montreal,PQ,Canada,pq,cecile,tremblay,canada,ctr hosp univ montreal crchum ctr rech montreal,tremblay c,100
+43,0.99999993217402494,102,ALARY M,ALARY,MICHEL,Univ Quebec  CHA  Ctr Rech  URESP FRSQ  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,103,ALARY M,ALARY,MICHEL,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+327,,104,JURE E,JURE,ESTELLE,Univ Paris 13  UPRES EA 3412  Lab Pedag Sante,F-93017 Bobigny,France,,,,,,,
+328,,105,IGUENANE J,IGUENANE,JACQUELINE,Univ Paris 13  UPRES EA 3412  Lab Pedag Sante,F-93017 Bobigny,France,,,,,,,
+87,1.0,106,TOUDONOU A,TOUDONOU,ANNICETTE,,,,cotonou,annicette,toudonou,benin,hop instruct armees cotonou serv pediat,toudonou a,106
+87,1.0,107,TOUDONOU A,TOUDONOU,ANNICETTE,Hop Instruct Armees Cotonou  Serv Pediat,Cotonou,Benin,cotonou,annicette,toudonou,benin,hop instruct armees cotonou serv pediat,toudonou a,106
+88,0.9999999914850507,108,AZONDEKON A,AZONDEKON,ALAIN,,,,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+88,0.99999994891030453,109,AZONDEKON A,AZONDEKON,ALAIN,Hop Instruct Armees Cotonou  Serv Pediat,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+329,,110,GAGNAYRE R,GAGNAYRE,REMI,Univ Paris 13  UPRES EA 3412  Lab Pedag Sante,F-93017 Bobigny,France,,,,,,,
+91,1.0,111,PEPIN J,PEPIN,J,,,,pq j1k 2r1,j,pepin,canada,univ sherbrooke chus sherbrooke,pepin j,111
+40,1.0,112,LABBE A C,LABBE,AC,,,,,annieclaude,labbe,,,labbe a c,48
+93,1.0,113,KHONDE N,KHONDE,N,,,,accra,n,khonde,ghana,wapcas,khonde n,113
+330,,114,DESLANDES S,DESLANDES,S,,,,,,,,,,
+331,,115,DZOKOTO A,DZOKOTO,A,,,,,,,,,,
+95,1.0,116,ASAMOAHADU C,ASAMOAHADU,C,,,,,c,asamoahadu,,,asamoahadu c,116
+332,,117,MEDA H,MEDA,H,,,,,,,,,,
+333,,118,FROST E,FROST,E,,,,,,,,,,
+97,1.0,119,VINCENT Q B,VINCENT,QUENTIN B,INSERM  Necker Branch  Lab Human Genet Infect Dis  U1163,Paris,France,paris,quentin b,vincent,france,inserm necker branch lab human genet infect dis u1163,vincent q b,119
+97,1.0,120,VINCENT Q B,VINCENT,QUENTIN B,Univ Paris 05  Sorbonne Paris Cite  Inst Imagine,Paris,France,paris,quentin b,vincent,france,inserm necker branch lab human genet infect dis u1163,vincent q b,119
+334,,121,ARDANT M F,ARDANT,MARIEFRANCOISE,,,,,,,,,,
+99,1.0,122,MARSOLLIER L,MARSOLLIER,LAURENT,,,,angers,laurent,marsollier,france,chu angers,marsollier l,122
+99,0.99999996026357019,123,MARSOLLIER L,MARSOLLIER,LAURENT,Univ Angers  INSERM  U892,Angers,France,angers,laurent,marsollier,france,chu angers,marsollier l,122
+99,0.99999996026357019,124,MARSOLLIER L,MARSOLLIER,LAURENT,Univ Angers  CNRS  U6299  Equipe 7,Angers,France,angers,laurent,marsollier,france,chu angers,marsollier l,122
+99,0.99999996026357019,125,MARSOLLIER L,MARSOLLIER,LAURENT,CHU Angers,Angers,France,angers,laurent,marsollier,france,chu angers,marsollier l,122
+101,1.0,126,CHAUTY A,CHAUTY,ANNICK,,,,pobe,annick,chauty,benin,ctr depistage & traitement ulcere buruli,chauty a,126
+101,0.99997329711914063,127,CHAUTY A,CHAUTY,ANNICK,Ctr Depistage & Traitement Ulcere Buruli,Pobe,Benin,pobe,annick,chauty,benin,ctr depistage & traitement ulcere buruli,chauty a,126
+101,0.99997329711914063,128,CHAUTY A,CHAUTY,ANNICK,Fdn Raoul Follereau,Paris,France,pobe,annick,chauty,benin,ctr depistage & traitement ulcere buruli,chauty a,126
+102,0.99999996026357019,129,ALCAIS A,ALCAIS,ALEXANDRE,INSERM  Necker Branch  Lab Human Genet Infect Dis  U1163,Paris,France,paris,alexandre,alcais,france,rockefeller univ st giles lab human genet infect dis rockefeller branch,alcais a,130
+102,0.99999996026357019,130,ALCAIS A,ALCAIS,ALEXANDRE,Univ Paris 05  Sorbonne Paris Cite  Inst Imagine,Paris,France,paris,alexandre,alcais,france,rockefeller univ st giles lab human genet infect dis rockefeller branch,alcais a,130
+102,1.0,131,ALCAIS A,ALCAIS,ALEXANDRE,Rockefeller Univ  St Giles Lab Human Genet Infect Dis  Rockefeller Branch,New York,USA,paris,alexandre,alcais,france,rockefeller univ st giles lab human genet infect dis rockefeller branch,alcais a,130
+102,0.99999996026357019,132,ALCAIS A,ALCAIS,ALEXANDRE,AP HP  Paris Ctr Descartes Necker Cochin  Unite Rech Clin,Paris,France,paris,alexandre,alcais,france,rockefeller univ st giles lab human genet infect dis rockefeller branch,alcais a,130
+335,,133,BERNIER F,BERNIER,F,,,,,,,,,,
+336,,134,GNINTOUNGBE C A B,GNINTOUNGBE,CAB,,,,,,,,,,
+37,0.97092069519890678,135,ANAGONOU S,ANAGONOU,S,,,,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+337,,136,JOLY J R,JOLY,JR,,,,,,,,,,
+338,,137,BURGOSSOTO J,BURGOSSOTO,JUAN,,,,,,,,,,
+108,1.0,138,BALESTRE E,BALESTRE,ERIC,Univ Bordeaux  ISPED  Ctr INSERM Epidemiol Biostat U897,F-33076 Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+108,0.99999994784593582,139,BALESTRE E,BALESTRE,ERIC,INSERM  ISPED  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+109,0.99999997764825821,140,MINGA A,MINGA,ALBERT,,,,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+109,0.99999994039535522,141,MINGA A,MINGA,ALBERT,CMSDS,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+110,1.0,142,AJAYI S,AJAYI,SAMUEL,,,,abuja,samuel,ajayi,nigeria,uath,ajayi s,142
+110,1.0,143,AJAYI S,AJAYI,SAMUEL,UATH,Abuja,Nigeria,abuja,samuel,ajayi,nigeria,uath,ajayi s,142
+111,1.0,144,SAWADOGO A,SAWADOGO,ADRIEN,,,,bobo dioulasso,adrien,sawadogo,burkina faso,chu souro sanou hop jour,sawadogo a,144
+111,1.0,145,SAWADOGO A,SAWADOGO,ADRIEN,CHU Souro Sanou  Hop Jour,Bobo Dioulasso,Burkina Faso,bobo dioulasso,adrien,sawadogo,burkina faso,chu souro sanou hop jour,sawadogo a,144
+2,0.91840482485003583,146,ZANNOU M D,ZANNOU,MARCEL D,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.84801318878080789,147,ZANNOU M D,ZANNOU,MARCEL D,CHNU  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+26,0.99999998597537765,148,LEROY V,LEROY,VALERIANE,Univ Bordeaux  ISPED  Ctr INSERM Epidemiol Biostat U897,F-33076 Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,149,LEROY V,LEROY,VALERIANE,INSERM  ISPED  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+115,0.99990325225026988,150,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux  ISPED  Ctr INSERM Epidemiol Biostat U897,F-33076 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99997961207440023,151,EKOUEVI D K,EKOUEVI,DIDIER K,INSERM  ISPED  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99847956707603058,152,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Lome  Fac Sci Sante  Dept Sci Fondamentales & Sante Publ,Lome,Togo,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+118,0.99999998246922217,153,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  ISPED  Ctr INSERM Epidemiol Biostat U897,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999996493844423,154,DABIS F,DABIS,FRANCOIS,INSERM  ISPED  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+120,1.0,155,BECQUET R,BECQUET,RENAUD,Univ Bordeaux  ISPED  Ctr INSERM Epidemiol Biostat U897,F-33076 Bordeaux,France,f-33076 bordeaux,renaud,becquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,becquet r,155
+120,1.0,156,BECQUET R,BECQUET,RENAUD,INSERM  ISPED  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,f-33076 bordeaux,renaud,becquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,becquet r,155
+121,1.0,157,ZANNOU D M,ZANNOU,DM,,,,,dm,zannou,,,zannou d m,157
+339,,158,KINDEGAZARD D,KINDEGAZARD,D,,,,,,,,,,
+340,,159,VIGAN J,VIGAN,J,,,,,,,,,,
+123,0.99999996423721316,160,ADE G,ADE,G,,,,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+341,,161,SEHONOU J J,SEHONOU,JJ,,,,,,,,,,
+125,0.99999997019767761,162,ATADOKPEDE F,ATADOKPEDE,F,,,,cotonou,f,atadokpede,benin,hop instruct armees,atadokpede f,174
+88,0.99999994039535522,163,AZONDEKON A,AZONDEKON,A,,,,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+342,,164,GBEDO C,GBEDO,C,,,,,,,,,,
+127,0.995034,165,ANAGONOU S Y,ANAGONOU,SY,,,,,sy,anagonou,,,anagonou s y,165
+128,0.99999994039535522,166,HOUNGBE F,HOUNGBE,F,,,,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+129,1.0,167,DENOEUDNDAM L,DENOEUDNDAM,L,,,,,l,denoeudndam,,,denoeudndam l,167
+343,,168,ROMBY A,ROMBY,A,Inst Rech Dev,Cotonou,Benin,,,,,,,
+131,0.99999481439590454,169,FOURCADE C,FOURCADE,C,Inst Rech Dev,Cotonou,Benin,paris,camille,fourcade,france,univ paris 05 fac pharm,fourcade c,324
+5,0.99999755162459159,170,AKAKPO J,AKAKPO,J,Inst Rech Dev,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+5,0.99999789549754214,171,AKAKPO J,AKAKPO,J,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Ctr Traitement Ambulatoire  Serv Med Interne,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+133,0.99999996026357019,172,AFANGNIHOUN A,AFANGNIHOUN,A,,,,cotonou,a,afangnihoun,benin,hop zone suru lere ctr traitement ambulatoire,afangnihoun a,172
+133,0.99999994039535522,173,AFANGNIHOUN A,AFANGNIHOUN,A,Hop Zone Suru Lere Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,a,afangnihoun,benin,hop zone suru lere ctr traitement ambulatoire,afangnihoun a,172
+125,0.99999994039535522,174,ATADOKPEDE F,ATADOKPEDE,F,Hop Instruct Armees Camp Guezo  Serv Med Interne,Cotonou,Benin,cotonou,f,atadokpede,benin,hop instruct armees,atadokpede f,174
+135,0.99999997019767761,175,DOSSOUGBETE L,DOSSOUGBETE,L,,,,porto novo,l,dossougbete,benin,clin louis pasteur,dossougbete l,175
+135,0.99999997019767761,176,DOSSOUGBETE L,DOSSOUGBETE,L,Clin Louis Pasteur,Porto Novo,Benin,porto novo,l,dossougbete,benin,clin louis pasteur,dossougbete l,175
+344,,177,PERRIN R X,PERRIN,R X,,,,,,,,,,
+345,,178,GIRARD P M,GIRARD,P M,,,,,,,,,,
+2,0.9969441352820978,179,ZANNOU D M,ZANNOU,D MARCEL,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96988004009898121,180,ZANNOU D M,ZANNOU,D MARCEL,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Ctr Traitement Ambulatoire  Serv Med Interne,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96981793060535337,181,ZANNOU D M,ZANNOU,D MARCEL,Univ dAbomey Calavi  Fac Sci sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+138,0.99999994891030453,182,COT M,COT,M,,,,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+138,0.99999993188040592,183,COT M,COT,M,Inst Rech Dev,Paris,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+346,,184,AYEDELE A B,AYEDELE,A B,,,,,,,,,,
+347,,185,BEHANZIN M N,BEHANZIN,M N,,,,,,,,,,
+69,0.99999994701809358,186,DESMONDE S,DESMONDE,SOPHIE,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+69,0.99999994701809358,187,DESMONDE S,DESMONDE,SOPHIE,INSERM  Ctr Inserm Epidemiol Biostat U897,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+141,1.0,188,EBOUA F T,EBOUA,FRANCOIS T,,,,abidjan,francois t,eboua,cote ivoire,chu yopougon,eboua f t,188
+141,0.99999997019767761,189,EBOUA F T,EBOUA,FRANCOIS T,CHU Yopougon,Abidjan,Cote Ivoire,abidjan,francois t,eboua,cote ivoire,chu yopougon,eboua f t,188
+143,0.99999997615814207,190,MALATESTE K,MALATESTE,KAREN,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev,Bordeaux,France,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+143,0.99999997615814207,191,MALATESTE K,MALATESTE,KAREN,INSERM  Ctr Inserm Epidemiol Biostat U897,Bordeaux,France,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+115,0.99997816901457937,192,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99997992892014353,193,EKOUEVI D K,EKOUEVI,DIDIER K,INSERM  Ctr Inserm Epidemiol Biostat U897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99999184357492543,194,EKOUEVI D K,EKOUEVI,DIDIER K,CHU Treichville  IeDEA Reg Ctr  PACCI,Abidjan,Cote Ivoire,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+146,1.0,195,NGBECHE S,NGBECHE,SYLVIE,,,,abidjan,sylvie,ngbeche,cote ivoire,ctr pediat prise charge rech & format cepref,ngbeche s,195
+146,1.0,196,NGBECHE S,NGBECHE,SYLVIE,Ctr Pediat Prise Charge Rech & Format CePReF,Abidjan,Cote Ivoire,abidjan,sylvie,ngbeche,cote ivoire,ctr pediat prise charge rech & format cepref,ngbeche s,195
+52,0.99999995529651642,197,KOUETA F,KOUETA,FLA,CHU Charles Gaulle  Hop Pediat,Ouagadougou,Burkina Faso,ouagadougou,fla,koueta,burkina faso,chu charles gaulle hop pediat,koueta f,63
+147,1.0,198,SY H S,SY,HABY SIGNATE,,,,dakar,haby signate,sy,senegal,hop enfants albert royer,sy h s,198
+147,1.0,199,SY H S,SY,HABY SIGNATE,Hop Enfants Albert Royer,Dakar,Senegal,dakar,haby signate,sy,senegal,hop enfants albert royer,sy h s,198
+149,1.0,200,KOUMAKPAI S A,KOUMAKPAI,SIRIATOU A,,,,cotonou,siriatou a,koumakpai,benin,chu natl serv pediat,koumakpai s a,200
+149,1.0,201,KOUMAKPAI S A,KOUMAKPAI,SIRIATOU A,CHU Natl  Serv Pediat,Cotonou,Benin,cotonou,siriatou a,koumakpai,benin,chu natl serv pediat,koumakpai s a,200
+26,0.99999996143228864,202,LEROY V,LEROY,VALERIANE,INSERM  Ctr Inserm Epidemiol Biostat U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+129,1.0,203,DENOEUDNDAM L,DENOEUDNDAM,LISE,,,,,l,denoeudndam,,,denoeudndam l,167
+348,,204,CLEMENT M C,CLEMENT,MARIECAROLINE,,,,,,,,,,
+153,1.0,205,BRIAND V,BRIAND,VALERIE,Fac Pharm  IRD  UMR 216,F-75270 Paris 06,France,paris,valerie,briand,france,fac pharm ird umr 216,briand v,205
+153,0.99999997019767761,206,BRIAND V,BRIAND,VALERIE,Univ Paris 05,Paris,France,paris,valerie,briand,france,fac pharm ird umr 216,briand v,205
+5,0.99999997707513666,207,AKAKPO J,AKAKPO,JOCELYN,,,,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+5,0.99999917011994577,208,AKAKPO J,AKAKPO,JOCELYN,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+155,1.0,209,AGOSSOU V K,AGOSSOU,VIDEHOUENOU K,,,,cotonou,videhouenou k,agossou,benin,ctr natl hosp univ hubert koutoukou maga clin univ gynecol obstet,agossou v k,209
+155,0.99999997019767761,210,AGOSSOU V K,AGOSSOU,VIDEHOUENOU K,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Clin Univ Gynecol Obstet,Cotonou,Benin,cotonou,videhouenou k,agossou,benin,ctr natl hosp univ hubert koutoukou maga clin univ gynecol obstet,agossou v k,209
+125,0.99999995529651642,211,ATADOKPEDE F,ATADOKPEDE,FELIX,,,,cotonou,f,atadokpede,benin,hop instruct armees,atadokpede f,174
+125,0.99999992549419403,212,ATADOKPEDE F,ATADOKPEDE,FELIX,Hop Instruct Armees  Serv Med Interne,Cotonou,Benin,cotonou,f,atadokpede,benin,hop instruct armees,atadokpede f,174
+135,0.99999994039535522,213,DOSSOUGBETE L,DOSSOUGBETE,LUCIEN,,,,porto novo,l,dossougbete,benin,clin louis pasteur,dossougbete l,175
+158,1.0,214,KOMONGUI D G,KOMONGUI,DIDIER G,,,,cotonou,didier g,komongui,benin,hop mere & enfant lagune serv gynecol obstet,komongui d g,214
+158,0.99999997019767761,215,KOMONGUI D G,KOMONGUI,DIDIER G,Hop Mere & Enfant Lagune  Serv Gynecol Obstet,Cotonou,Benin,cotonou,didier g,komongui,benin,hop mere & enfant lagune serv gynecol obstet,komongui d g,214
+133,0.99999996026357019,216,AFANGNIHOUN A,AFANGNIHOUN,ALDRIC,,,,cotonou,a,afangnihoun,benin,hop zone suru lere ctr traitement ambulatoire,afangnihoun a,172
+133,0.99999994039535522,217,AFANGNIHOUN A,AFANGNIHOUN,ALDRIC,Hop Zone Suru Lere  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,a,afangnihoun,benin,hop zone suru lere ctr traitement ambulatoire,afangnihoun a,172
+349,,218,GIRARD P M,GIRARD,PIERREMARIE,,,,,,,,,,
+121,1.0,219,ZANNOU D M,ZANNOU,DJIMONMARCEL,,,,,dm,zannou,,,zannou d m,157
+138,0.9999999914850507,220,COT M,COT,MICHEL,Fac Pharm  IRD  UMR 216,F-75270 Paris 06,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+138,0.99999995742525372,221,COT M,COT,MICHEL,Univ Paris 05,Paris,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+2,0.94283727029474773,222,ZANNOU D M,ZANNOU,DJIMON MARCEL,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.94159251742246675,223,ZANNOU D M,ZANNOU,DJIMON MARCEL,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+350,,224,DENOEUD L,DENOEUD,LISE,Hop St Antoine  AP HP  Serv Malad Infect & Trop,F-75571 Paris,France,,,,,,,
+163,1.0,225,LACOMBE K,LACOMBE,KARINE,Hop St Antoine  AP HP  Serv Malad Infect & Trop,F-75571 Paris,France,paris,karine,lacombe,france,univ paris 06 fac med st antoine,lacombe k,225
+163,0.99999997019767761,226,LACOMBE K,LACOMBE,KARINE,Univ Paris 06  Fac Med St Antoine,Paris,France,paris,karine,lacombe,france,univ paris 06 fac med st antoine,lacombe k,225
+163,0.99999997019767761,227,LACOMBE K,LACOMBE,KARINE,Univ Paris 06  INSERM  UMR S 707,Paris,France,paris,karine,lacombe,france,univ paris 06 fac med st antoine,lacombe k,225
+351,,228,AMOUSSOUGUENOU D,AMOUSSOUGUENOU,DANIEL,,,,,,,,,,
+7,0.99999996594020302,229,BASHI J,BASHI,JULES,,,,cotonou,j,bashi,benin,pnls,bashi j,1219
+7,0.99999994039535522,230,BASHI J,BASHI,JULES,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+5,0.9999991747049185,231,AKAKPO J,AKAKPO,JOCELYN,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+168,0.99999997019767761,232,GOUGOUNON A,GOUGOUNON,ALICE,,,,cotonou,alice,gougounon,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,gougounon a,232
+168,0.99999997019767761,233,GOUGOUNON A,GOUGOUNON,ALICE,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,alice,gougounon,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,gougounon a,232
+170,1.0,234,AKONDE A,AKONDE,ALAIN,,,,cotonou,alain,akonde,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,akonde a,234
+170,0.99999997019767761,235,AKONDE A,AKONDE,ALAIN,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,alain,akonde,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,akonde a,234
+123,0.99999996423721316,236,ADE G,ADE,GABRIEL,,,,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+123,0.99999992847442631,237,ADE G,ADE,GABRIEL,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+123,0.99999994039535522,238,ADE G,ADE,GABRIEL,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+128,0.99999998807907109,239,HOUNGBE F,HOUNGBE,FABIEN,,,,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+128,0.99999995231628414,240,HOUNGBE F,HOUNGBE,FABIEN,Ctr Natl Hosp & Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+128,0.99999995231628414,241,HOUNGBE F,HOUNGBE,FABIEN,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+352,,242,GENG E H,GENG,ELVIN H,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+353,,243,NEILANDS T B,NEILANDS,TORSTEN B,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+179,1.0,244,THIEBAUT R,THIEBAUT,RODOLPHE,,,,f-33076 bordeaux,rodolphe,thiebaut,france,univ bordeaux 2 isped inserm epidemiol & biostat u897,thiebaut r,244
+179,1.0,245,THIEBAUT R,THIEBAUT,RODOLPHE,Bordeaux Univ  INSERM  U897,Bordeaux,France,f-33076 bordeaux,rodolphe,thiebaut,france,univ bordeaux 2 isped inserm epidemiol & biostat u897,thiebaut r,244
+180,1.0,246,BWANA M B,BWANA,MWEBESA BOSCO,,,,mbarara,mwebesa bosco,bwana,uganda,mbarara univ sci & technol,bwana m b,246
+180,1.0,247,BWANA M B,BWANA,MWEBESA BOSCO,Mbarara Univ Sci & Technol,Mbarara,Uganda,mbarara,mwebesa bosco,bwana,uganda,mbarara univ sci & technol,bwana m b,246
+181,1.0,248,NASH D,NASH,DENIS,,,,new york,denis,nash,usa,cuny,nash d,248
+181,1.0,249,NASH D,NASH,DENIS,CUNY,New York,USA,new york,denis,nash,usa,cuny,nash d,248
+182,1.0,250,MOORE R D,MOORE,RICHARD D,,,,baltimore,richard d,moore,usa,johns hopkins univ,moore r d,250
+182,1.0,251,MOORE R D,MOORE,RICHARD D,Johns Hopkins Univ,Baltimore,USA,baltimore,richard d,moore,usa,johns hopkins univ,moore r d,250
+183,1.0,252,WOOD R,WOOD,ROBIN,,,,za-7925 cape town,robin,wood,south africa,univ cape town,wood r,252
+183,1.0,253,WOOD R,WOOD,ROBIN,Univ Cape Town,ZA-7925 Cape Town,South Africa,za-7925 cape town,robin,wood,south africa,univ cape town,wood r,252
+2,0.94163514782742752,254,ZANNOU D M,ZANNOU,DJIMON MARCEL,Ctr Natl Hosp Univ,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+186,1.0,255,ALTHOFF K N,ALTHOFF,KERI N,,,,baltimore,keri n,althoff,usa,johns hopkins univ,althoff k n,255
+186,1.0,256,ALTHOFF K N,ALTHOFF,KERI N,Johns Hopkins Univ,Baltimore,USA,baltimore,keri n,althoff,usa,johns hopkins univ,althoff k n,255
+187,1.0,257,LIM P L,LIM,POH LIAN,,,,singapore,poh lian,lim,singapore,tan tock seng hosp inst infect dis,lim p l,257
+187,1.0,258,LIM P L,LIM,POH LIAN,Tan Tock Seng Hosp  Inst Infect Dis,Singapore,Singapore,singapore,poh lian,lim,singapore,tan tock seng hosp inst infect dis,lim p l,257
+188,1.0,259,NACHEGA J B,NACHEGA,JEAN B,,,,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+188,1.0,260,NACHEGA J B,NACHEGA,JEAN B,Univ Pittsburgh  Grad Sch Publ Hlth  Dept Epidemiol  Program Infect Dis,Pittsburgh,USA,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+188,0.99999998807907109,261,NACHEGA J B,NACHEGA,JEAN B,Johns Hopkins Bloomberg Sch Publ Hlth  Dept Epidemiol,Baltimore,USA,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+188,0.99999998807907109,262,NACHEGA J B,NACHEGA,JEAN B,Johns Hopkins Bloomberg Sch Publ Hlth  Dept Int Hlth,Baltimore,USA,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+188,0.99999998807907109,263,NACHEGA J B,NACHEGA,JEAN B,Univ Stellenbosch  Dept Med,Cape Town,South Africa,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+188,0.99999998807907109,264,NACHEGA J B,NACHEGA,JEAN B,Univ Stellenbosch  Ctr Infect Dis,Cape Town,South Africa,baltimore,jean b,nachega,usa,univ pittsburgh grad sch publ hlth dept epidemiol program infect dis,nachega j b,260
+190,1.0,265,EASTERBROOK P J,EASTERBROOK,PHILIPPA J,,,,kampala,philippa j,easterbrook,uganda,infect dis inst,easterbrook p j,265
+190,1.0,266,EASTERBROOK P J,EASTERBROOK,PHILIPPA J,Infect Dis Inst,Kampala,Uganda,kampala,philippa j,easterbrook,uganda,infect dis inst,easterbrook p j,265
+191,1.0,267,KAMBUGU A,KAMBUGU,ANDREW,,,,kampala,andrew,kambugu,uganda,infect dis inst,kambugu a,267
+191,1.0,268,KAMBUGU A,KAMBUGU,ANDREW,Infect Dis Inst,Kampala,Uganda,kampala,andrew,kambugu,uganda,infect dis inst,kambugu a,267
+192,1.0,269,LITTLE F,LITTLE,FRANCESCA,,,,za-7925 cape town,francesca,little,south africa,univ cape town,little f,269
+192,1.0,270,LITTLE F,LITTLE,FRANCESCA,Univ Cape Town,ZA-7925 Cape Town,South Africa,za-7925 cape town,francesca,little,south africa,univ cape town,little f,269
+193,1.0,271,NAKIGOZI G,NAKIGOZI,GERTRUDE,,,,kalisizo,gertrude,nakigozi,uganda,rakai hlth sci program,nakigozi g,271
+193,1.0,272,NAKIGOZI G,NAKIGOZI,GERTRUDE,Rakai Hlth Sci Program,Kalisizo,Uganda,kalisizo,gertrude,nakigozi,uganda,rakai hlth sci program,nakigozi g,271
+194,1.0,273,NAKANJAKO D,NAKANJAKO,DAMALIE,,,,kampala,damalie,nakanjako,uganda,infect dis inst,nakanjako d,273
+194,1.0,274,NAKANJAKO D,NAKANJAKO,DAMALIE,Infect Dis Inst,Kampala,Uganda,kampala,damalie,nakanjako,uganda,infect dis inst,nakanjako d,273
+195,1.0,275,KIGGUNDU V,KIGGUNDU,VALERIAN,,,,kalisizo,valerian,kiggundu,uganda,rakai hlth sci program,kiggundu v,275
+195,1.0,276,KIGGUNDU V,KIGGUNDU,VALERIAN,Rakai Hlth Sci Program,Kalisizo,Uganda,kalisizo,valerian,kiggundu,uganda,rakai hlth sci program,kiggundu v,275
+197,1.0,277,LI P C K,LI,PATRICK CHUNG KI,,,,hong kong,patrick chung ki,li,china,queen elizabeth hosp hong kong,li p c k,277
+197,1.0,278,LI P C K,LI,PATRICK CHUNG KI,Queen Elizabeth Hosp  Hong Kong,Hong Kong,China,hong kong,patrick chung ki,li,china,queen elizabeth hosp hong kong,li p c k,277
+198,1.0,279,BANGSBERG D R,BANGSBERG,DAVID R,,,,boston,david r,bangsberg,usa,harvard univ massachusetts gen hosp ctr global hlth,bangsberg d r,279
+198,1.0,280,BANGSBERG D R,BANGSBERG,DAVID R,Harvard Univ  Massachusetts Gen Hosp  Ctr Global Hlth,Boston,USA,boston,david r,bangsberg,usa,harvard univ massachusetts gen hosp ctr global hlth,bangsberg d r,279
+200,1.0,281,FOX M P,FOX,MATTHEW P,,,,boston,matthew p,fox,usa,boston univ ctr global hlth & dev,fox m p,281
+200,0.99999997019767761,282,FOX M P,FOX,MATTHEW P,Boston Univ  Ctr Global Hlth & Dev,Boston,USA,boston,matthew p,fox,usa,boston univ ctr global hlth & dev,fox m p,281
+200,0.99999997019767761,283,FOX M P,FOX,MATTHEW P,Univ Witwatersrand  Fac Hlth Sci  Sch Clin Med  Hlth Econ & Epidemiol Res Off Dept Internal Med,Johannesburg,South Africa,boston,matthew p,fox,usa,boston univ ctr global hlth & dev,fox m p,281
+201,1.0,284,PROZESKY H W,PROZESKY,HANS W,,,,cape town,hans w,prozesky,south africa,univ stellenbosch dept med div infect dis,prozesky h w,284
+201,0.99999997019767761,285,PROZESKY H W,PROZESKY,HANS W,Univ Stellenbosch  Dept Med  Div Infect Dis,Cape Town,South Africa,cape town,hans w,prozesky,south africa,univ stellenbosch dept med div infect dis,prozesky h w,284
+201,0.99999997019767761,286,PROZESKY H W,PROZESKY,HANS W,Tygerberg Acad Hosp,Cape Town,South Africa,cape town,hans w,prozesky,south africa,univ stellenbosch dept med div infect dis,prozesky h w,284
+354,,287,HUNT P W,HUNT,PETER W,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+203,1.0,288,REYNOLDS S J,REYNOLDS,STEVEN J,,,,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+203,0.99999999006589257,289,REYNOLDS S J,REYNOLDS,STEVEN J,Johns Hopkins Univ,Baltimore,USA,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+203,1.0,290,REYNOLDS S J,REYNOLDS,STEVEN J,Rakai Hlth Sci Program,Kalisizo,Uganda,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+203,1.0,291,REYNOLDS S J,REYNOLDS,STEVEN J,NIAID,Washington,USA,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+206,1.0,292,EGGER M,EGGER,MATTHIAS,,,,bern,matthias,egger,switzerland,univ bern,egger m,1198
+206,0.99982794125874841,293,EGGER M,EGGER,MATTHIAS,Univ Bern,Bern,Switzerland,bern,matthias,egger,switzerland,univ bern,egger m,1198
+208,1.0,294,YIANNOUTSOS C T,YIANNOUTSOS,CONSTANTIN T,,,,indianapolis,constantin t,yiannoutsos,usa,indiana univ,yiannoutsos c t,294
+208,1.0,295,YIANNOUTSOS C T,YIANNOUTSOS,CONSTANTIN T,Indiana Univ,Indianapolis,USA,indianapolis,constantin t,yiannoutsos,usa,indiana univ,yiannoutsos c t,294
+355,,296,VITTINGHOFF E V,VITTINGHOFF,ERIC V,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+356,,297,DEEKS S G,DEEKS,STEVEN G,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+357,,298,MARTIN J N,MARTIN,JEFFREY N,Univ Calif San Francisco,San Francisco,USA,,,,,,,
+211,0.99999998509883881,299,JAQUET A,JAQUET,ANTOINE,Univ Bordeaux  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,antoine,jaquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,jaquet a,501
+211,0.99999998509883881,300,JAQUET A,JAQUET,ANTOINE,INSERM  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,antoine,jaquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,jaquet a,501
+212,1.0,301,ODUTOLA M,ODUTOLA,MICHAEL,,,,abuja,michael,odutola,nigeria,inst human virol nigeria ihvn,odutola m,301
+212,1.0,302,ODUTOLA M,ODUTOLA,MICHAEL,Inst Human Virol Nigeria IHVN,Abuja,Nigeria,abuja,michael,odutola,nigeria,inst human virol nigeria ihvn,odutola m,301
+115,0.99990325852444295,303,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99990634228053843,304,EKOUEVI D K,EKOUEVI,DIDIER K,INSERM  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99848524833980357,305,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Lome  Dept Sante Publ  Fac Sci Sante,Lome,Togo,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+215,1.0,306,TANON A,TANON,ARISTOPHANE,,,,abidjan,aristophane,tanon,cote ivoire,chu treichville smit,tanon a,306
+215,1.0,307,TANON A,TANON,ARISTOPHANE,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,aristophane,tanon,cote ivoire,chu treichville smit,tanon a,306
+217,1.0,308,OGA E,OGA,EMMANUEL,,,,abuja,emmanuel,oga,nigeria,inst human virol nigeria ihvn,oga e,308
+217,1.0,309,OGA E,OGA,EMMANUEL,Inst Human Virol Nigeria IHVN,Abuja,Nigeria,abuja,emmanuel,oga,nigeria,inst human virol nigeria ihvn,oga e,308
+5,0.99999887668169463,310,AKAKPO J,AKAKPO,JOCELYN,CHNU Cotonou  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+218,1.0,311,CHARURAT M,CHARURAT,MANHATTAN,,,,abuja,manhattan,charurat,nigeria,inst human virol nigeria ihvn,charurat m,311
+218,1.0,312,CHARURAT M,CHARURAT,MANHATTAN,Inst Human Virol Nigeria IHVN,Abuja,Nigeria,abuja,manhattan,charurat,nigeria,inst human virol nigeria ihvn,charurat m,311
+2,0.84749151584578719,313,ZANNOU M D,ZANNOU,MARCEL D,CHNU Cotonou  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+221,0.99999936421712243,314,EHOLIE S P,EHOLIE,SERGE P,,,,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+221,0.99999875823656714,315,EHOLIE S P,EHOLIE,SERGE P,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+222,0.99999998509883881,316,SASCO A J,SASCO,ANNIE J,Univ Bordeaux  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,annie j,sasco,france,univ bordeaux isped ctr inserm epidemiol biostat u897,sasco a j,316
+222,0.99999998509883881,317,SASCO A J,SASCO,ANNIE J,INSERM  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,annie j,sasco,france,univ bordeaux isped ctr inserm epidemiol biostat u897,sasco a j,316
+224,0.99999997019767761,318,BISSAGNENE E,BISSAGNENE,EMMANUEL,,,,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+224,0.9999999304612478,319,BISSAGNENE E,BISSAGNENE,EMMANUEL,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+225,1.0,320,ADEBAMOWO C,ADEBAMOWO,CLEMENT,,,,abuja,clement,adebamowo,nigeria,inst human virol nigeria ihvn,adebamowo c,320
+225,1.0,321,ADEBAMOWO C,ADEBAMOWO,CLEMENT,Inst Human Virol Nigeria IHVN,Abuja,Nigeria,abuja,clement,adebamowo,nigeria,inst human virol nigeria ihvn,adebamowo c,320
+118,0.99999999649384441,322,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999999649384441,323,DABIS F,DABIS,FRANCOIS,INSERM  ISPED  Ctr INSERM  Epidemiol Biostat U897,F-33000 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+131,0.99999785423278809,324,FOURCADE C,FOURCADE,CAMILLE,Inst Rech Dev  UMR 216,Paris,France,paris,camille,fourcade,france,univ paris 05 fac pharm,fourcade c,324
+131,0.99999835093816125,325,FOURCADE C,FOURCADE,CAMILLE,Univ Paris 05  Fac Pharm,Paris,France,paris,camille,fourcade,france,univ paris 05 fac pharm,fourcade c,324
+358,,326,TARONBROCARD C,TARONBROCARD,CLEMENT,,,,,,,,,,
+227,1.0,327,PORCHER R,PORCHER,RAPHAEL,,,,paris,raphael,porcher,france,hop st louis inserm u717,porcher r,327
+227,1.0,328,PORCHER R,PORCHER,RAPHAEL,Hop St Louis  INSERM  U717,Paris,France,paris,raphael,porcher,france,hop st louis inserm u717,porcher r,327
+158,0.99999997019767761,329,KOMONGUI D G,KOMONGUI,DIDIER G,Hop Mere & Enfant Lagune  Gynecol Serv,Cotonou,Benin,cotonou,didier g,komongui,benin,hop mere & enfant lagune serv gynecol obstet,komongui d g,214
+229,0.99999996026357019,330,NDAM N T,NDAM,NICAISE T,Inst Rech Dev  UMR 216,Paris,France,paris,nicaise t,ndam,france,inst rech dev umr 216 mere & enfant face infect trop,ndam n t,330
+229,0.99999996026357019,331,NDAM N T,NDAM,NICAISE T,Univ Paris 05  Fac Pharm,Paris,France,paris,nicaise t,ndam,france,inst rech dev umr 216 mere & enfant face infect trop,ndam n t,330
+138,0.99999994891030453,332,COT M,COT,MICHEL,Inst Rech Dev  UMR 216,Paris,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+138,0.99999994891030453,333,COT M,COT,MICHEL,Univ Paris 05  Fac Pharm,Paris,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+359,,334,BEHANZIN T,BEHANZIN,T,,,,,,,,,,
+360,,335,LANTONKPODE A,LANTONKPODE,A,,,,,,,,,,
+361,,336,LANTONHEDJRA P,LANTONHEDJRA,P,,,,,,,,,,
+362,,337,AHOUANVOEKE L,AHOUANVOEKE,L,,,,,,,,,,
+363,,338,GUEZODJE P A,GUEZODJE,PA,,,,,,,,,,
+364,,339,ADEBAYO A,ADEBAYO,ALASSANI,Ctr Hosp Univ Dept Borgou Alibori,Parakou,Benin,,,,,,,
+365,,340,ALBERT D C,ALBERT,DOVONOU COMLAN,Ctr Hosp Univ Dept Borgou Alibori,Parakou,Benin,,,,,,,
+238,1.0,341,ERICIE S,ERICIE,SOSSOU,,,,abomey calavi,sossou,ericie,benin,uac cotonou fac sci sante,ericie s,341
+238,1.0,342,ERICIE S,ERICIE,SOSSOU,UAC Cotonou  Fac Sci Sante,Abomey Calavi,Benin,abomey calavi,sossou,ericie,benin,uac cotonou fac sci sante,ericie s,341
+366,,343,ANGELO A C,ANGELO,ATTINSOUNON COSSI,Ctr Hosp Univ Dept Borgou Alibori,Parakou,Benin,,,,,,,
+241,1.0,344,JULES G,JULES,GNINKOUN,,,,cotonou,gninkoun,jules,benin,ctr natl hosp univ hubert koutoucou maga,jules g,344
+241,1.0,345,JULES G,JULES,GNINKOUN,Ctr Natl Hosp Univ Hubert Koutoucou Maga,Cotonou,Benin,cotonou,gninkoun,jules,benin,ctr natl hosp univ hubert koutoucou maga,jules g,344
+243,1.0,346,ARMAND W,ARMAND,WANVOEGBE,,,,porto novo,wanvoegbe,armand,benin,ctr hosp univ dept oueme plateau,armand w,346
+243,1.0,347,ARMAND W,ARMAND,WANVOEGBE,Ctr Hosp Univ Dept Oueme Plateau,Porto Novo,Benin,porto novo,wanvoegbe,armand,benin,ctr hosp univ dept oueme plateau,armand w,346
+367,,348,SERAPHIN A,SERAPHIN,AHOUI,Ctr Hosp Univ Dept Borgou Alibori,Parakou,Benin,,,,,,,
+368,,349,LEOPOLD C,LEOPOLD,CODJO,Ctr Hosp Univ Dept Borgou Alibori,Parakou,Benin,,,,,,,
+246,1.0,350,GABRIEL A,GABRIEL,ADE,,,,cotonou,ade,gabriel,benin,ctr natl hosp univ hubert koutoucou maga,gabriel a,350
+246,1.0,351,GABRIEL A,GABRIEL,ADE,Ctr Natl Hosp Univ Hubert Koutoucou Maga,Cotonou,Benin,cotonou,ade,gabriel,benin,ctr natl hosp univ hubert koutoucou maga,gabriel a,350
+248,0.9999956488609314,352,BATONA G,BATONA,GEORGES,Ctr Hosp Univ Quebec  Res Ctr  Axe Sante Populat & Prat Optimales Sante  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+248,0.99999613761901851,353,BATONA G,BATONA,GEORGES,Univ Laval  Fac Nursing  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+369,,354,GAGNON M P,GAGNON,MARIEPIERRE,,,,,,,,,,
+370,,355,SIMONYAN D A,SIMONYAN,DAVID A,Ctr Hosp Univ Quebec  Res Ctr  Axe Sante Populat & Prat Optimales Sante  Quebec City,PQ,Canada,,,,,,,
+250,0.99998342990875244,356,GUEDOU F A,GUEDOU,FERNAND A,Ctr Hosp Univ Quebec  Res Ctr  Axe Sante Populat & Prat Optimales Sante  Quebec City,PQ,Canada,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+250,0.99997856616973879,357,GUEDOU F A,GUEDOU,FERNAND A,Dispensaire IST  Ctr Sante Cotonou 1,Cotonou,Benin,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+43,0.99999993217402494,358,ALARY M,ALARY,MICHEL,Ctr Hosp Univ Quebec  Res Ctr  Axe Sante Populat & Prat Optimales Sante  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,359,ALARY M,ALARY,MICHEL,Univ Laval  Dept Social & Prevent Med  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+371,,360,DIEUDONNE E S G,DIEUDONNE,E S G,,,,,,,,,,
+372,,361,LAMBERT M R,LAMBERT,M R,,,,,,,,,,
+153,0.99999997019767761,362,BRIAND V,BRIAND,VALERIE,Inst Rech Dev  UMR 216,Paris,France,paris,valerie,briand,france,fac pharm ird umr 216,briand v,205
+2,0.87972840303327982,363,ZANNOU D M,ZANNOU,DJIMON M,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96675305686345914,364,ZANNOU D M,ZANNOU,DJIMON M,Univ Abomey Calavi  Fac Sci Sante,Abomey Calavi,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+373,,365,JOHNSON R C,JOHNSON,ROCH C,Buruli Ulcer Natl Control Program Cotonou,Cotonou,Benin,,,,,,,
+256,1.0,366,NACKERS F,NACKERS,FABIENNE,,,,brussels,fabienne,nackers,belgium,catholic univ louvain epidemiol unit,nackers f,366
+256,1.0,367,NACKERS F,NACKERS,FABIENNE,Catholic Univ Louvain  Epidemiol Unit,Brussels,Belgium,brussels,fabienne,nackers,belgium,catholic univ louvain epidemiol unit,nackers f,366
+257,1.0,368,GLYNN J R,GLYNN,JUDITH R,,,,london,judith r,glynn,england,london sch hyg & trop med infectious dis epidemiol unit,glynn j r,368
+257,1.0,369,GLYNN J R,GLYNN,JUDITH R,London Sch Hyg & Trop Med  Infectious Dis Epidemiol Unit,London,England,london,judith r,glynn,england,london sch hyg & trop med infectious dis epidemiol unit,glynn j r,368
+259,1.0,370,BAKEDANO E D,BAKEDANO,ELISA DE BIURRUN,,,,b-2000 antwerp,elisa de biurrun,bakedano,belgium,inst trop med dept microbiol mycobacteriol unit,bakedano e d,370
+259,1.0,371,BAKEDANO E D,BAKEDANO,ELISA DE BIURRUN,Inst Trop Med  Dept Microbiol  Mycobacteriol Unit,B-2000 Antwerp,Belgium,b-2000 antwerp,elisa de biurrun,bakedano,belgium,inst trop med dept microbiol mycobacteriol unit,bakedano e d,370
+260,0.99998348951339722,372,ZINSOU C,ZINSOU,CLAUDE,Buruli Ulcer Natl Control Program Cotonou,Cotonou,Benin,cotonou,claude,zinsou,benin,populat serv int,zinsou c,372
+260,0.99999539057413733,373,ZINSOU C,ZINSOU,CLAUDE,Ctr Sanitaire & Nutr Gbemoten,Zagnanado,Benin,cotonou,claude,zinsou,benin,populat serv int,zinsou c,372
+262,1.0,374,AGUIAR J,AGUIAR,JULIA,,,,zagnanado,julia,aguiar,benin,ctr sanitaire & nutr gbemoten,aguiar j,374
+262,1.0,375,AGUIAR J,AGUIAR,JULIA,Ctr Sanitaire & Nutr Gbemoten,Zagnanado,Benin,zagnanado,julia,aguiar,benin,ctr sanitaire & nutr gbemoten,aguiar j,374
+263,1.0,376,TONGLET R,TONGLET,RENE,,,,brussels,rene,tonglet,belgium,catholic univ louvain epidemiol unit,tonglet r,376
+263,1.0,377,TONGLET R,TONGLET,RENE,Catholic Univ Louvain  Epidemiol Unit,Brussels,Belgium,brussels,rene,tonglet,belgium,catholic univ louvain epidemiol unit,tonglet r,376
+264,1.0,378,PORTAELS F,PORTAELS,FRANCOISE,,,,b-2000 antwerp,francoise,portaels,belgium,inst trop med dept microbiol mycobacteriol unit,portaels f,378
+264,1.0,379,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med  Dept Microbiol  Mycobacteriol Unit,B-2000 Antwerp,Belgium,b-2000 antwerp,francoise,portaels,belgium,inst trop med dept microbiol mycobacteriol unit,portaels f,378
+374,,380,MARGUERITE B N,MARGUERITE,B N,,,,,,,,,,
+375,,381,AMOUR B A,AMOUR,B A,,,,,,,,,,
+376,,382,ADITE A,ADITE,A,,,,,,,,,,
+377,,383,WINEMILLER K O,WINEMILLER,KO,,,,,,,,,,
+378,,384,FIOGBE E D,FIOGBE,ED,,,,,,,,,,
+379,,385,WILLIAMS J R,WILLIAMS,JOHN R,Univ London Imperial Coll Sci Technol & Med  Sch Publ Hlth,London,England,,,,,,,
+43,0.99999999588933486,386,ALARY M,ALARY,MICHEL,Univ Laval  Fac Med  Dept Med Sociale & Prevent  Ctr Hosp Univ Quebec Unite Rech Sante Populat  Quebec City,PQ G1K 7P4,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+268,0.99999988079071045,387,LOWNDES C M,LOWNDES,CATHERINE M,,,,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+268,0.98924820423126225,388,LOWNDES C M,LOWNDES,CATHERINE M,London Sch Hyg & Trop Med,London WC1,England,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+268,0.9996147692203522,389,LOWNDES C M,LOWNDES,CATHERINE M,Publ Hlth England  Ctr Infect Dis Surveillance & Control,London,England,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+270,0.9999999925494194,390,BEHANZIN L,BEHANZIN,LUC,,,,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+270,1.0,391,BEHANZIN L,BEHANZIN,LUC,Univ Laval  Fac Med  Dept Med Sociale & Prevent  Ctr Hosp Univ Quebec Unite Rech Sante Populat  Quebec City,PQ G1K 7P4,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+37,0.98759847217135954,392,ANAGONOU S,ANAGONOU,SEVERIN,,,,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+37,0.98096231619517005,393,ANAGONOU S,ANAGONOU,SEVERIN,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+37,0.97902850972281563,394,ANAGONOU S,ANAGONOU,SEVERIN,Ctr Natl Hosp Univ,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+273,0.99999997019767761,395,NDOUR M,NDOUR,MARGUERITE,,,,cotonou,marguerite,ndour,benin,populat serv int,ndour m,395
+273,0.99999997019767761,396,NDOUR M,NDOUR,MARGUERITE,Populat Serv Int,Cotonou,Benin,cotonou,marguerite,ndour,benin,populat serv int,ndour m,395
+274,0.99999998013178504,397,MINANI I,MINANI,ISAAC,,,,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+274,0.99999994039535522,398,MINANI I,MINANI,ISAAC,Dispensaire Infect Sexuellement Transmissibles,Cotonou,Benin,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+275,0.99999997019767761,399,AHOUSSINOU C,AHOUSSINOU,CLEMENT,,,,cotonou,clement,ahoussinou,benin,programme natl lutte sida & ist,ahoussinou c,888
+275,0.99999994039535522,400,AHOUSSINOU C,AHOUSSINOU,CLEMENT,Programme Natl Lutte Syndrome Immunodeficience Ac,Cotonou,Benin,cotonou,clement,ahoussinou,benin,programme natl lutte sida & ist,ahoussinou c,888
+380,,401,BOILY M C,BOILY,MARIECLAUDE,,,,,,,,,,
+276,1.0,402,ABO Y,ABO,YAO,Ctr Hosp Univ CHU Treichville  Programme PAC CI,Abidjan 18,Cote Ivoire,abidjan 18,yao,abo,cote ivoire,ctr hosp univ chu treichville programme pac ci,abo y,402
+276,1.0,403,ABO Y,ABO,YAO,Ctr Natl Transfus Sanguine  Ctr Med Suivi Donneurs Sang,Abidjan,Cote Ivoire,abidjan 18,yao,abo,cote ivoire,ctr hosp univ chu treichville programme pac ci,abo y,402
+277,1.0,404,DJIMON M Z,DJIMON,MARCEL ZANNOU,,,,cotonou,marcel zannou,djimon,benin,ctr natl hosp univ ctr traitement ambulatoire,djimon m z,404
+277,0.99999997019767761,405,DJIMON M Z,DJIMON,MARCEL ZANNOU,Ctr Natl Hosp Univ  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,marcel zannou,djimon,benin,ctr natl hosp univ ctr traitement ambulatoire,djimon m z,404
+277,0.99999997019767761,406,DJIMON M Z,DJIMON,MARCEL ZANNOU,Univ Abomey Calavi,Cotonou,Benin,cotonou,marcel zannou,djimon,benin,ctr natl hosp univ ctr traitement ambulatoire,djimon m z,404
+278,0.99999997019767761,407,MESSOU E,MESSOU,EUGENE,,,,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+278,0.99999908606211341,408,MESSOU E,MESSOU,EUGENE,Univ Bordeaux  ISPED,Bordeaux,France,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+278,0.99999981125195825,409,MESSOU E,MESSOU,EUGENE,Ctr Prise Charge Rech & Format Aconda CePReF,Abidjan,Cote Ivoire,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+108,0.9999999925494194,410,BALESTRE E,BALESTRE,ERIC,,,,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+108,0.99999994784593582,411,BALESTRE E,BALESTRE,ERIC,INSERM  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+108,0.99999994784593582,412,BALESTRE E,BALESTRE,ERIC,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+280,1.0,413,KOUAKOU M,KOUAKOU,MARTIAL,,,,abidjan,martial,kouakou,cote ivoire,ctr prise charge rech & format aconda cepref,kouakou m,413
+280,1.0,414,KOUAKOU M,KOUAKOU,MARTIAL,Ctr Prise Charge Rech & Format Aconda CePReF,Abidjan,Cote Ivoire,abidjan,martial,kouakou,cote ivoire,ctr prise charge rech & format aconda cepref,kouakou m,413
+5,0.99999915636502779,415,AKAKPO J,AKAKPO,JOCELYN,Ctr Natl Hosp Univ  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+6,0.99999995231628414,416,AHOUADA C,AHOUADA,CARIN,,,,cotonou,c,ahouada,benin,cta,ahouada c,8
+6,0.99999991655349729,417,AHOUADA C,AHOUADA,CARIN,Ctr Natl Hosp Univ  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,c,ahouada,benin,cta,ahouada c,8
+282,1.0,418,DE REKENEIRE N,DE REKENEIRE,NATHALIE,,,,bordeaux,nathalie,de rekeneire,france,inserm ctr inserm epidemiol biostat u897,de rekeneire n,418
+282,0.99999997019767761,419,DE REKENEIRE N,DE REKENEIRE,NATHALIE,INSERM  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,nathalie,de rekeneire,france,inserm ctr inserm epidemiol biostat u897,de rekeneire n,418
+282,0.99999997019767761,420,DE REKENEIRE N,DE REKENEIRE,NATHALIE,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,nathalie,de rekeneire,france,inserm ctr inserm epidemiol biostat u897,de rekeneire n,418
+118,0.99999999298768882,421,DABIS F,DABIS,FRANCOIS,,,,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999996844459982,422,DABIS F,DABIS,FRANCOIS,INSERM  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999996493844423,423,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+284,1.0,424,LEWDEN C,LEWDEN,CHARLOTTE,,,,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+284,0.99999995742525372,425,LEWDEN C,LEWDEN,CHARLOTTE,INSERM  Ctr INSERM Epidemiol Biostat U897,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+284,0.99999995742525372,426,LEWDEN C,LEWDEN,CHARLOTTE,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+109,0.99999997764825821,427,MINGA A,MINGA,ALBERT,Ctr Hosp Univ CHU Treichville  Programme PAC CI,Abidjan 18,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+109,0.99999994039535522,428,MINGA A,MINGA,ALBERT,Ctr Natl Transfus Sanguine  Ctr Med Suivi Donneurs Sang,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+381,,429,HSU J,HSU,JUSTINE,London Sch Hyg & Trop Med,London WC1,England,,,,,,,
+260,0.99999078114827478,430,ZINSOU C,ZINSOU,CYPRIEN,,,,cotonou,claude,zinsou,benin,populat serv int,zinsou c,372
+260,0.99998809893925988,431,ZINSOU C,ZINSOU,CYPRIEN,Populat Serv Int,Cotonou,Benin,cotonou,claude,zinsou,benin,populat serv int,zinsou c,372
+382,,432,PARKHURST J,PARKHURST,JUSTIN,London Sch Hyg & Trop Med,London WC1,England,,,,,,,
+288,1.0,433,FOYET L,FOYET,LEGER,,,,cotonou,leger,foyet,benin,populat serv int,foyet l,433
+288,1.0,434,FOYET L,FOYET,LEGER,Populat Serv Int,Cotonou,Benin,cotonou,leger,foyet,benin,populat serv int,foyet l,433
+290,1.0,435,MUELLER D H,MUELLER,DIRK H,London Sch Hyg & Trop Med,London WC1,England,london wc1,dirk h,mueller,england,london sch hyg & trop med,mueller d h,435
+290,1.0,436,MUELLER D H,MUELLER,DIRK H,KfW German Dev Bank,Frankfurt,Germany,london wc1,dirk h,mueller,england,london sch hyg & trop med,mueller d h,435
+268,0.99999946355819702,437,LOWNDES C M,LOWNDES,C M,,,,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+383,,438,GNINTOUNGBE C,GNINTOUNGBE,C,,,,,,,,,,
+384,,439,BELLEAU M,BELLEAU,M,,,,,,,,,,
+385,,440,MUKENGE L,MUKENGE,L,,,,,,,,,,
+273,0.99999994039535522,441,NDOUR M,NDOUR,M,,,,cotonou,marguerite,ndour,benin,populat serv int,ndour m,395
+386,,442,GBAGUIDI A,GBAGUIDI,A,,,,,,,,,,
+295,0.99999995529651642,443,BEDARD E,BEDARD,E,,,,pq,emmanuelle,bedard,canada,univ quebec rimouski dept sci infirmieres levis,bedard e,837
+387,,444,JOSSOU P,JOSSOU,P,,,,,,,,,,
+388,,445,LAFIA E,LAFIA,E,,,,,,,,,,
+389,,446,BAGANIZI E,BAGANIZI,E,,,,,,,,,,
+390,,447,JOLY J,JOLY,J,,,,,,,,,,
+391,,448,IBITOKOU S A,IBITOKOU,SAMAD A,Univ Abomey Calavi  CERPAGE  Fac Sci Sante,Abomey Calavi,Benin,,,,,,,
+392,,449,EZINMEGNON S,EZINMEGNON,SEM,,,,,,,,,,
+393,,450,LADEKPO R,LADEKPO,RODOLPHE,Univ Abomey Calavi  CERPAGE  Fac Sci Sante,Abomey Calavi,Benin,,,,,,,
+394,,451,MASSOUGBODJI A,MASSOUGBODJI,ACHILLE,Univ Abomey Calavi  CERPAGE  Fac Sci Sante,Abomey Calavi,Benin,,,,,,,
+138,0.99999998297010151,452,COT M,COT,MICHEL,,,,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+138,0.99999994891030453,453,COT M,COT,MICHEL,Inst Rech Dev  UMR 216  Mere & Enfant Face Infect Trop,Paris,France,paris,michel,cot,france,inst rech dev umr 216 mere & enfant face infect trop,cot m,182
+299,1.0,454,LUTY A J F,LUTY,ADRIAN J F,,,,paris,adrian j f,luty,france,inst rech dev umr 216 mere & enfant face infect trop,luty a j f,454
+299,1.0,455,LUTY A J F,LUTY,ADRIAN J F,Inst Rech Dev  UMR 216  Mere & Enfant Face Infect Trop,Paris,France,paris,adrian j f,luty,france,inst rech dev umr 216 mere & enfant face infect trop,luty a j f,454
+229,1.0,456,NDAM N T,NDAM,NICAISE TUIKUE,,,,paris,nicaise t,ndam,france,inst rech dev umr 216 mere & enfant face infect trop,ndam n t,330
+229,0.99999996026357019,457,NDAM N T,NDAM,NICAISE TUIKUE,Inst Rech Dev  UMR 216  Mere & Enfant Face Infect Trop,Paris,France,paris,nicaise t,ndam,france,inst rech dev umr 216 mere & enfant face infect trop,ndam n t,330
+7,0.99999996594020302,458,BASHI J,BASHI,J,,,,cotonou,j,bashi,benin,pnls,bashi j,1219
+7,0.99999993188040592,459,BASHI J,BASHI,J,CHNU  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+108,0.99999990314245224,460,BALESTRE E,BALESTRE,E,Univ Victor Segalen  INSERM  U897,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+278,0.99999996026357019,461,MESSOU E,MESSOU,E,,,,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+278,0.99999962250391639,462,MESSOU E,MESSOU,E,ACONDA CePReF,Abidjan,Cote Ivoire,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+301,0.99999996026357019,463,MAIGA M,MAIGA,M,,,,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,463
+301,0.99999994039535522,464,MAIGA M,MAIGA,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,463
+67,0.99998376766840613,465,COFFIE P A,COFFIE,P A,Univ Victor Segalen  INSERM  U897,Bordeaux,France,abidjan,patrick a,coffie,cote ivoire,bur reg ledea w africa programme pacci,coffie p a,465
+67,0.99999862909317017,466,COFFIE P A,COFFIE,P A,Bur Reg leDEA W Africa  Programme PACCI,Abidjan,Cote Ivoire,abidjan,patrick a,coffie,cote ivoire,bur reg ledea w africa programme pacci,coffie p a,465
+2,0.99518544208712689,467,ZANNOU D M,ZANNOU,D M,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96710174694293882,468,ZANNOU D M,ZANNOU,D M,CHNU  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+395,,469,BAGOMIS O,BAGOMIS,O,,,,,,,,,,
+303,0.99999982118606567,470,TRAORE H A,TRAORE,H A,,,,bamako,h a,traore,mali,hop point g ctr prise charge personnes vivant avec vih,traore h a,625
+303,0.99999961256980896,471,TRAORE H A,TRAORE,H A,Hop point G  Ctr Prise Charge Personnes Vivant Avec VIH,Bamako,Mali,bamako,h a,traore,mali,hop point g ctr prise charge personnes vivant avec vih,traore h a,625
+220,0.99999995529651642,472,EHOLIE S,EHOLIE,S,,,,abidjan,serge,eholie,cote ivoire,chu treichville smit,eholie s,472
+220,0.99999994039535522,473,EHOLIE S,EHOLIE,S,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,serge,eholie,cote ivoire,chu treichville smit,eholie s,472
+109,0.99999995529651642,474,MINGA A,MINGA,A,,,,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+109,0.99999991804361343,475,MINGA A,MINGA,A,Ctr Med Suivi Donneurs Sang CNTS,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+307,0.9999984979629517,476,SOW P S,SOW,P S,,,,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+307,0.99999742507934575,477,SOW P S,SOW,P S,CHU FANN ISAARV  Serv Malad Infect,Dakar,Senegal,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+224,0.99999996026357019,478,BISSAGNENE E,BISSAGNENE,E,,,,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+224,0.99999992052714026,479,BISSAGNENE E,BISSAGNENE,E,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+118,0.9999999474076664,480,DABIS F,DABIS,F,Univ Victor Segalen  INSERM  U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+115,0.9987647815754539,481,EKOUEVI D K,EKOUEVI,D K,Univ Victor Segalen  INSERM  U897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99993407412579183,482,EKOUEVI D K,EKOUEVI,D K,Bur Reg leDEA W Africa  Programme PACCI,Abidjan,Cote Ivoire,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+58,0.99999996026357019,483,DICKO F,DICKO,FATOUMATA,Univ Gabriel Toure  Ctr Hosp  Serv Pediat,Bamako,Mali,bamako,fatoumata,dicko,mali,hop gabriel toure,dicko f,68
+69,1.0,484,DESMONDE S,DESMONDE,SOPHIE,,,,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+69,0.99999994701809358,485,DESMONDE S,DESMONDE,SOPHIE,Univ Bordeaux  INSERM  Ctr Inserm U897,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+69,0.99999994701809358,486,DESMONDE S,DESMONDE,SOPHIE,Univ Bordeaux  ISPED  Ctr Inserm U897,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+28,0.99999966621398928,487,KOUMAKPAI S,KOUMAKPAI,SIKIRATOU,Ctr Natl Hosp Univ  Serv Pediat,Cotonou,Benin,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+396,,488,DIORMBODJ H,DIORMBODJ,HELENE,,,,,,,,,,
+52,0.99999995529651642,489,KOUETA F,KOUETA,FLA,Hop Gen Gaulle  Serv Pediat,Ouagadougou,Burkina Faso,ouagadougou,fla,koueta,burkina faso,chu charles gaulle hop pediat,koueta f,63
+315,1.0,490,BAETA N,BAETA,NOVISI,,,,accra,novisi,baeta,ghana,korle bu teaching hosp,baeta n,490
+315,1.0,491,BAETA N,BAETA,NOVISI,Korle Bu Teaching Hosp,Accra,Ghana,accra,novisi,baeta,ghana,korle bu teaching hosp,baeta n,490
+397,,492,KONE N,KONE,NIABOULA,Univ Gabriel Toure  Ctr Hosp  Serv Pediat,Bamako,Mali,,,,,,,
+5,0.99999911051530099,493,AKAKPO J,AKAKPO,JOCELYN,Ctr Natl Hosp Univ  Serv Pediat,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+317,1.0,494,YE D,YE,DIARRA,,,,ouagadougou,diarra,ye,burkina faso,hop gen gaulle serv pediat,ye d,494
+317,1.0,495,YE D,YE,DIARRA,Hop Gen Gaulle  Serv Pediat,Ouagadougou,Burkina Faso,ouagadougou,diarra,ye,burkina faso,hop gen gaulle serv pediat,ye d,494
+63,0.99999996026357019,496,RENNER L,RENNER,LORNA,Korle Bu Teaching Hosp,Accra,Ghana,accra,lorna,renner,ghana,korle bu hosp,renner l,74
+284,0.99999995742525372,497,LEWDEN C,LEWDEN,CHARLOTTE,Univ Bordeaux  INSERM  Ctr Inserm U897,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+284,0.99999995742525372,498,LEWDEN C,LEWDEN,CHARLOTTE,Univ Bordeaux  ISPED  Ctr Inserm U897,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+26,0.99999996143228864,499,LEROY V,LEROY,VALERIANE,Univ Bordeaux  INSERM  Ctr Inserm U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,500,LEROY V,LEROY,VALERIANE,Univ Bordeaux  ISPED  Ctr Inserm U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+211,0.99999995529651642,501,JAQUET A,JAQUET,ANTOINE,Univ Bordeaux  ISPED  Ctr Epidemiol Biostat  INSERM U897,Bordeaux,France,bordeaux,antoine,jaquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,jaquet a,501
+115,0.99997889054448985,502,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux  ISPED  Ctr Epidemiol Biostat  INSERM U897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+5,0.99998569030028128,503,AKAKPO J,AKAKPO,JOCELYN,CNHU Cotonou  Ctr Prise Charge Personnes Vivant Avec VIH,Benin,Nigeria,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+319,1.0,504,ADOUBI I,ADOUBI,INNOCENT,,,,abidjan,innocent,adoubi,cote ivoire,chu treichville serv cancerol,adoubi i,504
+319,1.0,505,ADOUBI I,ADOUBI,INNOCENT,CHU Treichville  Serv Cancerol,Abidjan,Cote Ivoire,abidjan,innocent,adoubi,cote ivoire,chu treichville serv cancerol,adoubi i,504
+320,1.0,506,DIOMANDE I,DIOMANDE,ISIDORE,,,,abidjan,isidore,diomande,cote ivoire,chu cocody lab cytol & anatomopathol,diomande i,506
+320,1.0,507,DIOMANDE I,DIOMANDE,ISIDORE,CHU Cocody  Lab Cytol & Anatomopathol,Abidjan,Cote Ivoire,abidjan,isidore,diomande,cote ivoire,chu cocody lab cytol & anatomopathol,diomande i,506
+128,0.99999995231628414,508,HOUNGBE F,HOUNGBE,FABIEN,CNHU  Serv Med Interne,Cotonou,Benin,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+2,0.32903119703618489,509,ZANNOU M D,ZANNOU,MARCEL D,CNHU Cotonou  Ctr Prise Charge Personnes Vivant Avec VIH,Benin,Nigeria,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.82202530052603739,510,ZANNOU M D,ZANNOU,MARCEL D,CNHU  Serv Med Interne,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+222,0.99999883770942688,511,SASCO A J,SASCO,ANNIE J,Univ Bordeaux  ISPED  Ctr Epidemiol Biostat  INSERM U897,Bordeaux,France,bordeaux,annie j,sasco,france,univ bordeaux isped ctr inserm epidemiol biostat u897,sasco a j,316
+118,0.99999996844459982,512,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  ISPED  Ctr Epidemiol Biostat  INSERM U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+44,1.0,513,DRYLEWICZ J,DRYLEWICZ,JULIA,,,,f-33076 bordeaux,julia,drylewicz,france,inserm u897,drylewicz j,513
+44,1.0,514,DRYLEWICZ J,DRYLEWICZ,JULIA,INSERM  U897,F-33076 Bordeaux,France,f-33076 bordeaux,julia,drylewicz,france,inserm u897,drylewicz j,513
+220,0.99999997019767761,515,EHOLIE S,EHOLIE,SERGE,,,,abidjan,serge,eholie,cote ivoire,chu treichville smit,eholie s,472
+220,0.99999994039535522,516,EHOLIE S,EHOLIE,SERGE,CHU Treichville  SMIT,Abidjan,Cote Ivoire,abidjan,serge,eholie,cote ivoire,chu treichville smit,eholie s,472
+301,0.99999996026357019,517,MAIGA M,MAIGA,MOUSSA,,,,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,463
+301,0.99999994039535522,518,MAIGA M,MAIGA,MOUSSA,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,463
+2,0.94000567023347059,519,ZANNOU D M,ZANNOU,DJIMON MARCEL,Ctr Hosp Univ CHNU  Ctr Prise Charge Personnes Vivant Avec VIH PVVIH,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+307,0.99999969005584721,520,SOW P S,SOW,PAPA SALIF,,,,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+307,0.99999940395355225,521,SOW P S,SOW,PAPA SALIF,CHU Fann  SMIT,Dakar,Senegal,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+115,0.99999972393638215,522,EKOUEVI D K,EKOUEVI,DIDIER K,,,,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99988989453566701,523,EKOUEVI D K,EKOUEVI,DIDIER K,INSERM  U897,F-33076 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99999186867161804,524,EKOUEVI D K,EKOUEVI,DIDIER K,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+68,1.0,525,PETERSON K,PETERSON,KEVIN,,,,banjul,kevin,peterson,gambia,mrc,peterson k,525
+68,1.0,526,PETERSON K,PETERSON,KEVIN,MRC,Banjul,Gambia,banjul,kevin,peterson,gambia,mrc,peterson k,525
+118,0.99999998246922217,527,DABIS F,DABIS,FRANCOIS,INSERM  U897,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+179,0.99999998013178504,528,THIEBAUT R,THIEBAUT,RODOLPHE,Univ Bordeaux 2  ISPED  INSERM Epidemiol & Biostat U897,F-33076 Bordeaux,France,f-33076 bordeaux,rodolphe,thiebaut,france,univ bordeaux 2 isped inserm epidemiol & biostat u897,thiebaut r,244
+179,0.99999998013178504,529,THIEBAUT R,THIEBAUT,RODOLPHE,INSERM  U897,F-33076 Bordeaux,France,f-33076 bordeaux,rodolphe,thiebaut,france,univ bordeaux 2 isped inserm epidemiol & biostat u897,thiebaut r,244
+14,0.999998,530,HOUNTON S H,HOUNTON,SENNEN HOUESSEY,Ctr MURAZ  HIV RH,Bobo Dioulasso,Burkina Faso,bobo dioulasso,sennen houessey,hounton,burkina faso,ctr muraz hiv rh,hounton s h,530
+14,0.999998,531,HOUNTON S H,HOUNTON,SENNEN HOUESSEY,Univ Aberdeen,Aberdeen,Scotland,bobo dioulasso,sennen houessey,hounton,burkina faso,ctr muraz hiv rh,hounton s h,530
+170,0.99999997019767761,532,AKONDE A,AKONDE,ALAIN,PNLS,Cotonou,Benin,cotonou,alain,akonde,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,akonde a,234
+2,0.93885758010352527,533,ZANNOU D M,ZANNOU,DJIMON MARCEL,PNLS,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+7,0.99999992336545673,534,BASHI J,BASHI,JULES,PNLS,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+398,,535,MEDA N,MEDA,NICOLAS,Ctr MURAZ  HIV RH,Bobo Dioulasso,Burkina Faso,,,,,,,
+112,1.0,536,NEWLANDS D,NEWLANDS,DAVID,,,,aberdeen,david,newlands,scotland,univ aberdeen,newlands d,536
+112,1.0,537,NEWLANDS D,NEWLANDS,DAVID,Univ Aberdeen,Aberdeen,Scotland,aberdeen,david,newlands,scotland,univ aberdeen,newlands d,536
+248,0.99999091625213621,538,BATONA G,BATONA,G,Univ Laval  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+23,0.99999997019767761,539,SEMINI I,SEMINI,I,,,,washington,i,semini,wa usa,world bank,semini i,539
+23,0.84618031978607178,540,SEMINI I,SEMINI,I,World Bank,Washington,WA USA,washington,i,semini,wa usa,world bank,semini i,539
+399,,541,GAGNON M,GAGNON,M,Univ Laval  Quebec City,PQ,Canada,,,,,,,
+137,0.99999998013178504,542,GUEDOU F,GUEDOU,F,,,,cotonou,f,guedou,benin,dist,guedou f,542
+137,0.99998724460601807,543,GUEDOU F,GUEDOU,F,Dispensaire IST,Cotonou,Benin,cotonou,f,guedou,benin,dist,guedou f,542
+43,0.99999991367603169,544,ALARY M,ALARY,M,Univ Laval  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999991367603169,545,ALARY M,ALARY,M,CHU Quebec  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+29,1.0,546,ARRIVE E,ARRIVE,ELISE,,,,f-33076 bordeaux,elise,arrive,france,univ bordeaux 2 inserm isped u593,arrive e,546
+156,1.0,547,MARQUIS B,MARQUIS,BENOIT,Inst Sante Publ & Dev ISPED  INSERM  U897,Bordeaux,France,bordeaux,benoit,marquis,france,inst sante publ & dev isped inserm u897,marquis b,547
+31,1.0,548,TIMWESIGYE N,TIMWESIGYE,NATHAN,,,,kampala,nathan,timwesigye,uganda,african network care children affected aids,timwesigye n,548
+31,1.0,549,TIMWESIGYE N,TIMWESIGYE,NATHAN,African Network Care Children Affected AIDS,Kampala,Uganda,kampala,nathan,timwesigye,uganda,african network care children affected aids,timwesigye n,548
+33,1.0,550,BRINKHOF M W G,BRINKHOF,MARTIN W G,,,,ch-3012 bern,martin w g,brinkhof,switzerland,univ bern dept social & prevent med,brinkhof m w g,550
+33,1.0,551,BRINKHOF M W G,BRINKHOF,MARTIN W G,Univ Bern  Dept Social & Prevent Med,CH-3012 Bern,Switzerland,ch-3012 bern,martin w g,brinkhof,switzerland,univ bern dept social & prevent med,brinkhof m w g,550
+176,1.0,552,FASSINOU P,FASSINOU,PATRICIA,,,,abidjan,patricia,fassinou,cote ivoire,univ yopougon ctr hosp,fassinou p,552
+176,0.99999997019767761,553,FASSINOU P,FASSINOU,PATRICIA,Univ Yopougon  Ctr Hosp,Abidjan,Cote Ivoire,abidjan,patricia,fassinou,cote ivoire,univ yopougon ctr hosp,fassinou p,552
+184,1.0,554,COTTON M,COTTON,MARK,,,,cape town,mark,cotton,south africa,tygerberg childrens hosp,cotton m,554
+184,0.99999997019767761,555,COTTON M,COTTON,MARK,Tygerberg Childrens Hosp,Cape Town,South Africa,cape town,mark,cotton,south africa,tygerberg childrens hosp,cotton m,554
+311,1.0,556,WEMIN L,WEMIN,LOUISE,,,,abidjan,louise,wemin,cote ivoire,aconda ctr prise charge rech & format cepref enfants,wemin l,557
+311,0.99999997019767761,557,WEMIN L,WEMIN,LOUISE,ACONDA  Ctr Prise Charge Rech & Format CEPREF Enfants,Abidjan,Cote Ivoire,abidjan,louise,wemin,cote ivoire,aconda ctr prise charge rech & format cepref enfants,wemin l,557
+39,1.0,558,BOULLE A,BOULLE,ANDREW,,,,cape town,andrew,boulle,south africa,khayelitsha hosp,boulle a,558
+39,1.0,559,BOULLE A,BOULLE,ANDREW,Khayelitsha Hosp,Cape Town,South Africa,cape town,andrew,boulle,south africa,khayelitsha hosp,boulle a,558
+204,1.0,560,HOLLAND M,HOLLAND,MARGARET,,,,harare,margaret,holland,zimbabwe,connaught clin,holland m,560
+204,1.0,561,HOLLAND M,HOLLAND,MARGARET,Connaught Clin,Harare,Zimbabwe,harare,margaret,holland,zimbabwe,connaught clin,holland m,560
+42,1.0,562,KARIYO P,KARIYO,PIERRE,,,,bujumbura,pierre,kariyo,burundi,anss,kariyo p,562
+42,1.0,563,KARIYO P,KARIYO,PIERRE,ANSS,Bujumbura,Burundi,bujumbura,pierre,kariyo,burundi,anss,kariyo p,562
+219,1.0,564,AVEIKA A,AVEIKA,AKUM,,,,fajara,akum,aveika,gambia,mrc,aveika a,564
+219,1.0,565,AVEIKA A,AVEIKA,AKUM,MRC,Fajara,Gambia,fajara,akum,aveika,gambia,mrc,aveika a,564
+88,0.99999994891030453,566,AZONDEKON A,AZONDEKON,ALAIN,UPEIV  Hop Intruct Armees,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+230,1.0,567,CARTER R,CARTER,ROSALIND,,,,new york,rosalind,carter,usa,columbia univ mtct plus network,carter r,567
+230,1.0,568,CARTER R,CARTER,ROSALIND,Columbia Univ  MTCT Plus Network,New York,USA,new york,rosalind,carter,usa,columbia univ mtct plus network,carter r,567
+240,1.0,569,KIEFFER M P,KIEFFER,MAIYPAT,,,,,maiypat,kieffer,,,kieffer m p,569
+49,1.0,570,NAMALE L,NAMALE,LETICIA,,,,kampala,leticia,namale,uganda,anecca,namale l,570
+49,1.0,571,NAMALE L,NAMALE,LETICIA,ANECCA,Kampala,Uganda,kampala,leticia,namale,uganda,anecca,namale l,570
+400,,572,NEWELL M L,NEWELL,MARIELOUISE,,,,,,,,,,
+401,,573,MBORINGACHA D,MBORINGACHA,DOROTHY,,,,,,,,,,
+125,0.99999994039535522,574,ATADOKPEDE F,ATADOKPEDE,F,Hop Instruct Armees,Cotonou,Benin,cotonou,f,atadokpede,benin,hop instruct armees,atadokpede f,174
+265,1.0,575,ADEGBIDI H,ADEGBIDI,H,,,,cotonou,h,adegbidi,benin,natl teaching hosp hubert koutoukou maga dept dermatol venereol,adegbidi h,575
+265,1.0,576,ADEGBIDI H,ADEGBIDI,H,Natl Teaching Hosp Hubert Koutoukou Maga  Dept Dermatol Venereol,Cotonou,Benin,cotonou,h,adegbidi,benin,natl teaching hosp hubert koutoukou maga dept dermatol venereol,adegbidi h,575
+402,,577,SEHONOU J J,SEHONOU,J J,Hop Instruct Armees,Cotonou,Benin,,,,,,,
+56,1.0,578,KOUDOUKPO C,KOUDOUKPO,C,,,,parakou,c,koudoukpo,benin,teaching hosp parakou dept dermatol venereol,koudoukpo c,578
+56,1.0,579,KOUDOUKPO C,KOUDOUKPO,C,Teaching Hosp Parakou  Dept Dermatol Venereol,Parakou,Benin,parakou,c,koudoukpo,benin,teaching hosp parakou dept dermatol venereol,koudoukpo c,578
+403,,580,HOUENASSI D M,HOUENASSI,D M,Hop Instruct Armees,Cotonou,Benin,,,,,,,
+59,1.0,581,YEDOMON H G,YEDOMON,H G,,,,cotonou,h g,yedomon,benin,natl teaching hosp hubert koutoukou maga dept dermatol venereol,yedomon h g,581
+59,1.0,582,YEDOMON H G,YEDOMON,H G,Natl Teaching Hosp Hubert Koutoukou Maga  Dept Dermatol Venereol,Cotonou,Benin,cotonou,h g,yedomon,benin,natl teaching hosp hubert koutoukou maga dept dermatol venereol,yedomon h g,581
+404,,583,DO ANGOPADONOU F,DO ANGOPADONOU,F,,,,,,,,,,
+6,0.99999997615814207,584,AHOUADA C,AHOUADA,C,,,,cotonou,c,ahouada,benin,cta,ahouada c,8
+2,0.98506605625152588,585,ZANNOU M D,ZANNOU,M D,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+168,0.99999994039535522,586,GOUGOUNON A,GOUGOUNON,A,,,,cotonou,alice,gougounon,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,gougounon a,232
+5,0.99999995873524594,587,AKAKPO J,AKAKPO,J,,,,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+405,,588,ZINSOU R,ZINSOU,R,,,,,,,,,,
+406,,589,DALMEIDA C,DALMEIDA,C,,,,,,,,,,
+0,0.99999997019767761,590,AHOMADEGBE C,AHOMADEGBE,C,,,,cotonou,c,ahomadegbe,benin,cnhu hkm people living hivs ambulatory treatment ctr,ahomadegbe c,99
+79,1.0,591,AZONKOUANOU A,AZONKOUANOU,A,,,,,angele,azonkouanou,,,azonkouanou a,96
+310,1.0,592,GABILLARD D,GABILLARD,DELPHINE,INSERM  U897,Bordeaux,France,bordeaux,delphine,gabillard,france,inserm u897,gabillard d,592
+310,1.0,593,GABILLARD D,GABILLARD,DELPHINE,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,delphine,gabillard,france,inserm u897,gabillard d,592
+284,0.99999995742525372,594,LEWDEN C,LEWDEN,CHARLOTTE,INSERM  U897,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+71,0.99999997019767761,595,NDOYE I,NDOYE,IBRA,,,,dakar,ibra,ndoye,senegal,minist hlth natl aids programme,ndoye i,595
+71,0.99999997019767761,596,NDOYE I,NDOYE,IBRA,Minist Hlth  Natl AIDS Programme,Dakar,Senegal,dakar,ibra,ndoye,senegal,minist hlth natl aids programme,ndoye i,595
+72,1.0,597,MOH R,MOH,RAOUL,,,,abidjan,raoul,moh,cote ivoire,programme pacci,moh r,597
+72,1.0,598,MOH R,MOH,RAOUL,Programme PACCI,Abidjan,Cote Ivoire,abidjan,raoul,moh,cote ivoire,programme pacci,moh r,597
+73,1.0,599,SEGERAL O,SEGERAL,OLIVIER,,,,le kremlin bicetre,olivier,segeral,france,hop bicetre dept clin immunol,segeral o,600
+73,0.99999681115150452,600,SEGERAL O,SEGERAL,OLIVIER,Hop Bicetre  Dept Clin Immunol,Le Kremlin Bicetre,France,le kremlin bicetre,olivier,segeral,france,hop bicetre dept clin immunol,segeral o,600
+73,0.99999681115150452,601,SEGERAL O,SEGERAL,OLIVIER,ESTHER Calmette Hosp,Phnom Penh,Cambodia,le kremlin bicetre,olivier,segeral,france,hop bicetre dept clin immunol,segeral o,600
+407,,602,TONWEGOLD B,TONWEGOLD,BESIGIN,,,,,,,,,,
+408,,603,ETARD J F,ETARD,JEANFRANCOIS,,,,,,,,,,
+76,1.0,604,PAGNAROAT M,PAGNAROAT,MEN,,,,phnom penh,men,pagnaroat,cambodia,sharing experience adapted dev,pagnaroat m,604
+76,1.0,605,PAGNAROAT M,PAGNAROAT,MEN,Sharing Experience Adapted Dev,Phnom Penh,Cambodia,phnom penh,men,pagnaroat,cambodia,sharing experience adapted dev,pagnaroat m,604
+409,,606,FOURNIERNICOLLE I,FOURNIERNICOLLE,ISABELLE,,,,,,,,,,
+220,0.99999995529651642,607,EHOLIE S,EHOLIE,SERGE,Programme PACCI,Abidjan,Cote Ivoire,abidjan,serge,eholie,cote ivoire,chu treichville smit,eholie s,472
+242,1.0,608,KONATE I,KONATE,ISSOUF,,,,bobo dioulasso,issouf,konate,burkina faso,ctr muraz,konate i,608
+242,1.0,609,KONATE I,KONATE,ISSOUF,Ctr Muraz,Bobo Dioulasso,Burkina Faso,bobo dioulasso,issouf,konate,burkina faso,ctr muraz,konate i,608
+109,0.99999994039535522,610,MINGA A,MINGA,ALBERT,Programme PACCI,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+410,,611,MPOUDINGOLE E,MPOUDINGOLE,EITEL,,,,,,,,,,
+411,,612,KOULLASHIRO S,KOULLASHIRO,SINATA,,,,,,,,,,
+2,0.94281360870454367,613,ZANNOU D M,ZANNOU,DJIMON MARCEL,Ctr Natl Hosp Univ Cotonou,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+84,0.99999961256980896,614,ANGLARET X,ANGLARET,XAVIER,INSERM  U897,Bordeaux,France,bordeaux,xavier,anglaret,france,inserm u897,anglaret x,614
+84,0.99999961256980896,615,ANGLARET X,ANGLARET,XAVIER,Univ Bordeaux  ISPED,Bordeaux,France,bordeaux,xavier,anglaret,france,inserm u897,anglaret x,614
+84,0.9999992847442627,616,ANGLARET X,ANGLARET,XAVIER,Programme PACCI,Abidjan,Cote Ivoire,bordeaux,xavier,anglaret,france,inserm u897,anglaret x,614
+86,1.0,617,LAURENT C,LAURENT,CHRISTIAN,,,,montpellier,christian,laurent,france,univ montpellier i inst rech dev umi 233,laurent c,617
+86,1.0,618,LAURENT C,LAURENT,CHRISTIAN,Univ Montpellier I  Inst Rech Dev  UMI 233,Montpellier,France,montpellier,christian,laurent,france,univ montpellier i inst rech dev umi 233,laurent c,617
+211,0.99999995529651642,619,JAQUET A,JAQUET,ANTOINE,Univ Victor Segalen  ISPED  INSERM  CRE U897,Bordeaux,France,bordeaux,antoine,jaquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,jaquet a,501
+115,0.99997954933266886,620,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Victor Segalen  ISPED  INSERM  CRE U897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+7,0.99999993188040592,621,BASHI J,BASHI,JULES,CHNU  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+90,0.99999996026357019,622,ABOUBAKRINE M,ABOUBAKRINE,MAIGA,,,,bamako,maiga,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,1217
+90,0.99999994039535522,623,ABOUBAKRINE M,ABOUBAKRINE,MAIGA,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,maiga,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,1217
+278,0.99999982118606567,624,MESSOU E,MESSOU,EUGENE,ACONDA  CePReF,Abidjan,Cote Ivoire,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+303,0.99999973177909851,625,TRAORE H A,TRAORE,HAMAR ALASSANE,,,,bamako,h a,traore,mali,hop point g ctr prise charge personnes vivant avec vih,traore h a,625
+303,0.99999934434890747,626,TRAORE H A,TRAORE,HAMAR ALASSANE,Hop Point G  Ctr Prise Charge Personnes Vivant Avec VIH,Bamako,Mali,bamako,h a,traore,mali,hop point g ctr prise charge personnes vivant avec vih,traore h a,625
+2,0.93326026201248169,627,ZANNOU M D,ZANNOU,MARCEL DJIMON,,,,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.87175038384228221,628,ZANNOU M D,ZANNOU,MARCEL DJIMON,CHNU  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+96,0.99999996026357019,629,GUEHI C,GUEHI,CALIXTE,,,,abidjan,calixte,guehi,cote ivoire,usac,guehi c,1223
+96,0.99999994039535522,630,GUEHI C,GUEHI,CALIXTE,USAC,Abidjan,Cote Ivoire,abidjan,calixte,guehi,cote ivoire,usac,guehi c,1223
+151,1.0,631,BAGOMIS F O,BAGOMIS,FRANCK OLIVIER,,,,,franck olivier,bagomis,,,bagomis f o,631
+109,0.99999994039535522,632,MINGA A,MINGA,ALBERT,PRIMO CI  CNTS  Ctr Med Suivi Donneurs Sang,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+160,0.99999996026357019,633,ALLOU G,ALLOU,GERARD,,,,abidjan,gerard,allou,cote ivoire,chu treichville programme pac ci,allou g,1227
+160,0.99999994039535522,634,ALLOU G,ALLOU,GERARD,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,abidjan,gerard,allou,cote ivoire,chu treichville programme pac ci,allou g,1227
+221,0.99999974171320594,635,EHOLIE S P,EHOLIE,SERGE PAUL,,,,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+221,0.99999947349230445,636,EHOLIE S P,EHOLIE,SERGE PAUL,CHU Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+224,0.9999999304612478,637,BISSAGNENE E,BISSAGNENE,EMMANUEL,CHU Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+222,0.99999864399433136,638,SASCO A J,SASCO,ANNIE J,Univ Victor Segalen  ISPED  INSERM  CRE U897,Bordeaux,France,bordeaux,annie j,sasco,france,univ bordeaux isped ctr inserm epidemiol biostat u897,sasco a j,316
+118,0.99999996493844423,639,DABIS F,DABIS,FRANCOIS,Univ Victor Segalen  ISPED  INSERM  CRE U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+412,,640,CAPOCHICHI C D,CAPOCHICHI,CALLINICE D,,,,,,,,,,
+413,,641,AGUIDA B,AGUIDA,BLANCHE,Univ Abomey Calavi  Mol Biomarkers Canc & Nutr BMCN  Unit Biochem & Mol Biol UBBM  Inst Biomed Sci & Applicat ISBA Fac Sci & Technol  04BP488,Cotonou,Benin,,,,,,,
+414,,642,CHABI N W,CHABI,NICODEME W,Univ Abomey Calavi  Mol Biomarkers Canc & Nutr BMCN  Unit Biochem & Mol Biol UBBM  Inst Biomed Sci & Applicat ISBA Fac Sci & Technol  04BP488,Cotonou,Benin,,,,,,,
+415,,643,ACAPKOEZIN J,ACAPKOEZIN,JOCELYN,,,,,,,,,,
+416,,644,SOSSAHHIFFO J,SOSSAHHIFFO,JONAS,,,,,,,,,,
+155,0.99999997019767761,645,AGOSSOU V K,AGOSSOU,VIDEHOUENOU K,Natl Univ Hosp CNHU HKM,Cotonou,Benin,cotonou,videhouenou k,agossou,benin,ctr natl hosp univ hubert koutoukou maga clin univ gynecol obstet,agossou v k,209
+104,1.0,646,ANAGBLA T,ANAGBLA,TOUSSAIN,,,,cotonou,toussain,anagbla,benin,hosp menontin bp 160,anagbla t,646
+104,1.0,647,ANAGBLA T,ANAGBLA,TOUSSAIN,Hosp Menontin  BP 160,Cotonou,Benin,cotonou,toussain,anagbla,benin,hosp menontin bp 160,anagbla t,646
+106,0.99999996423721316,648,ZANNOU M,ZANNOU,MARCEL,,,,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+106,0.99999994039535522,649,ZANNOU M,ZANNOU,MARCEL,Natl Univ Hosp CNHU HKM,Cotonou,Benin,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+128,0.99999995231628414,650,HOUNGBE F,HOUNGBE,FABIEN,Natl Univ Hosp CNHU HKM,Cotonou,Benin,cotonou,fabien,houngbe,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,houngbe f,240
+417,,651,SANNI A,SANNI,AMBALIOU,Univ Abomey Calavi  Mol Biomarkers Canc & Nutr BMCN  Unit Biochem & Mol Biol UBBM  Inst Biomed Sci & Applicat ISBA Fac Sci & Technol  04BP488,Cotonou,Benin,,,,,,,
+418,,652,GLYNN J R,GLYNN,JR,,,,,,,,,,
+419,,653,CARAEL M,CARAEL,M,,,,,,,,,,
+292,0.99999996026357019,654,BUVE A,BUVE,A,,,,b-2000 antwerp,a,buve,belgium,inst trop med unit epidemiol & control hiv std,buve a,730
+420,,655,ZEKENG L,ZEKENG,L,,,,,,,,,,
+421,,656,KAHINDO M,KAHINDO,M,,,,,,,,,,
+422,,657,MUSONDA R,MUSONDA,R,,,,,,,,,,
+423,,658,WILLIAMS J,WILLIAMS,J,Univ London Imperial Coll Sci Technol & Med,London,England,,,,,,,
+113,1.0,659,BOILY M C,BOILY,M C,Univ London Imperial Coll Sci Technol & Med,London,England,london,m c,boily,england,univ london imperial coll sci technol & med,boily m c,659
+114,1.0,660,LOWNDES C,LOWNDES,C,,,,london,c,lowndes,england,hlth protect agcy,lowndes c,660
+114,1.0,661,LOWNDES C,LOWNDES,C,Hlth Protect Agcy,London,England,london,c,lowndes,england,hlth protect agcy,lowndes c,660
+269,1.0,662,CAMDEN S,CAMDEN,S,,,,pq,s,camden,canada,univ quebec cha ctr hosp affilie quebec city,camden s,662
+269,1.0,663,CAMDEN S,CAMDEN,S,Univ Quebec CHA  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,s,camden,canada,univ quebec cha ctr hosp affilie quebec city,camden s,662
+117,1.0,664,DEMERS E,DEMERS,E,,,,pq,e,demers,canada,univ quebec cha ctr hosp affilie quebec city,demers e,664
+117,1.0,665,DEMERS E,DEMERS,E,Univ Quebec CHA  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,e,demers,canada,univ quebec cha ctr hosp affilie quebec city,demers e,664
+274,0.99999995032946265,666,MINANI I,MINANI,I,,,,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+274,0.99999991059303284,667,MINANI I,MINANI,I,Dispensaire IST,Cotonou,Benin,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+106,0.99999996423721316,668,ZANNOU M,ZANNOU,M,,,,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+106,0.99999994039535522,669,ZANNOU M,ZANNOU,M,Dispensaire IST,Cotonou,Benin,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+122,1.0,670,LABBE A C,LABBE,A C,,,,cotonou,a c,labbe,benin,ctr natl hosp univ,labbe a c,670
+122,0.99998140335083008,671,LABBE A C,LABBE,A C,Ctr Natl Hosp Univ,Cotonou,Benin,cotonou,a c,labbe,benin,ctr natl hosp univ,labbe a c,670
+122,0.99998140335083008,672,LABBE A C,LABBE,A C,Hop Maison Neuve Rosemont  Montreal,PQ,Canada,cotonou,a c,labbe,benin,ctr natl hosp univ,labbe a c,670
+43,0.99999991367603169,673,ALARY M,ALARY,M,Univ Quebec CHA  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+300,1.0,674,ZONGO M,ZONGO,MAHAMOUD,Ctr Hosp Pneumophtisiol Akron  CRADES Ctr Rech & Appui Dev Sante Base,Benin,Nigeria,benin,mahamoud,zongo,nigeria,ctr hosp pneumophtisiol akron crades ctr rech & appui dev sante base,zongo m,674
+300,1.0,675,ZONGO M,ZONGO,MAHAMOUD,Ctr Hosp Pneumophtisiol Akron  Med Serv,Benin,Nigeria,benin,mahamoud,zongo,nigeria,ctr hosp pneumophtisiol akron crades ctr rech & appui dev sante base,zongo m,674
+126,1.0,676,CAPOCHICHI J,CAPOCHICHI,JUSTINE,,,,benin,justine,capochichi,nigeria,inst reg sante publ,capochichi j,676
+126,1.0,677,CAPOCHICHI J,CAPOCHICHI,JUSTINE,Inst Reg Sante Publ,Benin,Nigeria,benin,justine,capochichi,nigeria,inst reg sante publ,capochichi j,676
+312,1.0,678,GANDAHO P,GANDAHO,PROSPER,,,,parakou,prosper,gandaho,benin,chu parakou dept med & specialites med fac med,gandaho p,678
+312,0.99999972184499109,679,GANDAHO P,GANDAHO,PROSPER,Univ Parakou,Benin,Nigeria,parakou,prosper,gandaho,benin,chu parakou dept med & specialites med fac med,gandaho p,678
+130,1.0,680,COPPIETERS Y,COPPIETERS,YVES,,,,b-1070 brussels,yves,coppieters,belgium,univ libre bruxelles ecole sante publ dept epidemiol & promot sante,coppieters y,680
+130,1.0,681,COPPIETERS Y,COPPIETERS,YVES,Univ Libre Bruxelles  Ecole Sante Publ  Dept Epidemiol & Promot Sante,B-1070 Brussels,Belgium,b-1070 brussels,yves,coppieters,belgium,univ libre bruxelles ecole sante publ dept epidemiol & promot sante,coppieters y,680
+424,,682,CLELAND J G,CLELAND,JG,,,,,,,,,,
+425,,683,ALI M M,ALI,MM,,,,,,,,,,
+426,,684,CAPOCHICHI V,CAPOCHICHI,V,,,,,,,,,,
+427,,685,BATRAVILLE L A,BATRAVILLE,LAURIEANNE,,,,,,,,,,
+134,1.0,686,RICHARD J,RICHARD,JONATHAN,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq h2x 0a9,jonathan,richard,canada,crchum montreal,richard j,686
+134,1.0,687,RICHARD J,RICHARD,JONATHAN,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq h2x 0a9,jonathan,richard,canada,crchum montreal,richard j,686
+136,1.0,688,VEILLETTE M,VEILLETTE,MAXIME,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq h2x 0a9,maxime,veillette,canada,crchum montreal,veillette m,688
+136,1.0,689,VEILLETTE M,VEILLETTE,MAXIME,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq h2x 0a9,maxime,veillette,canada,crchum montreal,veillette m,688
+43,0.99999993217402494,690,ALARY M,ALARY,MICHEL,CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+137,0.99999995032946265,691,GUEDOU F,GUEDOU,FERNAND,,,,cotonou,f,guedou,benin,dist,guedou f,542
+137,0.99996755520502723,692,GUEDOU F,GUEDOU,FERNAND,Dispensaire IST,Cotonou,Benin,cotonou,f,guedou,benin,dist,guedou f,542
+236,1.0,693,KAUFMANN D E,KAUFMANN,DANIEL E,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq h2x 0a9,daniel e,kaufmann,canada,crchum montreal,kaufmann d e,693
+236,1.0,694,KAUFMANN D E,KAUFMANN,DANIEL E,Ragon Inst MGH MIT & Harvard,Cambridge,USA,pq h2x 0a9,daniel e,kaufmann,canada,crchum montreal,kaufmann d e,693
+139,1.0,695,POUDRIER J,POUDRIER,JOHANNE,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+139,0.99999996026357019,696,POUDRIER J,POUDRIER,JOHANNE,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+140,1.0,697,FINZI A,FINZI,ANDRES,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq,andres,finzi,canada,univ montreal dept microbiol infectiol & immunol montreal,finzi a,697
+140,0.99999997019767761,698,FINZI A,FINZI,ANDRES,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq,andres,finzi,canada,univ montreal dept microbiol infectiol & immunol montreal,finzi a,697
+140,0.99999997019767761,699,FINZI A,FINZI,ANDRES,McGill Univ  Dept Microbiol & Immunol  Montreal,PQ,Canada,pq,andres,finzi,canada,univ montreal dept microbiol infectiol & immunol montreal,finzi a,697
+258,1.0,700,ROGER M,ROGER,MICHEL,CRCHUM  Montreal,PQ H2X 0A9,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+258,0.99999996026357019,701,ROGER M,ROGER,MICHEL,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+43,0.99999993422935751,702,ALARY M,ALARY,MICHEL,CHU Quebec  Ctr Rech  URESP  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+268,0.9931249678134918,703,LOWNDES C M,LOWNDES,CATHERINE M,CHU Quebec  Ctr Rech  URESP  Quebec City,PQ,Canada,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+268,0.9995764315128326,704,LOWNDES C M,LOWNDES,CATHERINE M,Hlth Protect Agcy,London,England,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+145,1.0,705,VAN DE PERRE P,VAN DE PERRE,PHILIPPE,,,,montpellier,philippe,van de perre,france,univ montpellier i inserm u1058,van de perre p,705
+145,1.0,706,VAN DE PERRE P,VAN DE PERRE,PHILIPPE,Univ Montpellier I  INSERM  U1058,Montpellier,France,montpellier,philippe,van de perre,france,univ montpellier i inserm u1058,van de perre p,705
+270,0.99999994784593582,707,BEHANZIN L,BEHANZIN,LUC,CHU Quebec  Ctr Rech  URESP  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+270,0.99999994784593582,708,BEHANZIN L,BEHANZIN,LUC,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+248,0.99999609589576721,709,BATONA G,BATONA,GEORGES,CHU Quebec  Ctr Rech  URESP  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+248,0.99995327591896055,710,BATONA G,BATONA,GEORGES,Dispensaire IST,Cotonou,Benin,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+250,0.99998564720153804,711,GUEDOU F A,GUEDOU,FERNAND A,CHU Quebec  Ctr Rech  URESP  Quebec City,PQ,Canada,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+250,0.99997631311416624,712,GUEDOU F A,GUEDOU,FERNAND A,Dispensaire IST,Cotonou,Benin,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+150,1.0,713,TRAORE I,TRAORE,ISIDORE,,,,ouagadougou,isidore,traore,burkina faso,univ ouagadougou ctr rech int sante,traore i,713
+150,1.0,714,TRAORE I,TRAORE,ISIDORE,Univ Ouagadougou  Ctr Rech Int Sante,Ouagadougou,Burkina Faso,ouagadougou,isidore,traore,burkina faso,univ ouagadougou ctr rech int sante,traore i,713
+95,1.0,715,ASAMOAHADU C,ASAMOAHADU,COMFORT,,,,,c,asamoahadu,,,asamoahadu c,116
+152,0.99999996026357019,716,AKINOCHO E,AKINOCHO,EVELYNE,,,,cotonou,evelyne,akinocho,benin,programme natl lutte sida & les ist,akinocho e,716
+152,0.99999994039535522,717,AKINOCHO E,AKINOCHO,EVELYNE,Programme Natl Lutte Sida & Les IST,Cotonou,Benin,cotonou,evelyne,akinocho,benin,programme natl lutte sida & les ist,akinocho e,716
+154,1.0,718,NAGOT N,NAGOT,NICOLAS,,,,montpellier,nicolas,nagot,france,univ montpellier i inserm u1058,nagot n,718
+154,1.0,719,NAGOT N,NAGOT,NICOLAS,Univ Montpellier I  INSERM  U1058,Montpellier,France,montpellier,nicolas,nagot,france,univ montpellier i inserm u1058,nagot n,718
+428,,720,BALDRICHRUBIO E,BALDRICHRUBIO,E,,,,,,,,,,
+429,,721,STIRRUPS K,STIRRUPS,K,,,,,,,,,,
+430,,722,CANDOTTI D,CANDOTTI,D,,,,,,,,,,
+431,,723,LEE H,LEE,H,,,,,,,,,,
+432,,724,ALLAIN J P,ALLAIN,JP,,,,,,,,,,
+270,0.99999994784593582,725,BEHANZIN L,BEHANZIN,LUC,Univ Quebec  Ctr Rech FRSQ CHA  URESP  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+35,0.99999994784593582,726,DIABATE S,DIABATE,SOULEYMANE,Univ Quebec  Ctr Rech FRSQ CHA  URESP  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+274,0.99999994039535522,727,MINANI I,MINANI,ISAAC,Dispensaire IST,Cotonou,Benin,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+268,0.99286947250366209,728,LOWNDES C M,LOWNDES,CATHERINE M,Univ Quebec  Ctr Rech FRSQ CHA  URESP  Quebec City,PQ,Canada,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+292,0.99999996026357019,729,BUVE A,BUVE,ANNE,,,,b-2000 antwerp,a,buve,belgium,inst trop med unit epidemiol & control hiv std,buve a,730
+292,0.99999994039535522,730,BUVE A,BUVE,ANNE,Inst Trop Med  Unit Epidemiol & Control HIV STD,B-2000 Antwerp,Belgium,b-2000 antwerp,a,buve,belgium,inst trop med unit epidemiol & control hiv std,buve a,730
+43,0.99999993217402494,731,ALARY M,ALARY,MICHEL,Univ Quebec  Ctr Rech FRSQ CHA  URESP  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+270,0.99999990314245224,732,BEHANZIN L,BEHANZIN,L,Univ Quebec  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+292,0.99999994039535522,733,BUVE A,BUVE,A,Inst Trop Med,B-2000 Antwerp,Belgium,b-2000 antwerp,a,buve,belgium,inst trop med unit epidemiol & control hiv std,buve a,730
+268,0.98353353738784788,734,LOWNDES C M,LOWNDES,C M,Hlth Protect Agcy,London,England,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+2,0.9674273947390114,735,ZANNOU D M,ZANNOU,D M,Univ Abomey Calavi  Fac Sci Sante Cotonou,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+37,0.95771992206573486,736,ANAGONOU S,ANAGONOU,S,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+113,1.0,737,BOILY M C,BOILY,M C,,,,london,m c,boily,england,univ london imperial coll sci technol & med,boily m c,659
+164,0.99999994039535522,738,BITERA R,BITERA,R,Univ Quebec  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,r,bitera,canada,univ laval dept med sociale & prevent quebec city,bitera r,939
+43,0.99999991367603169,739,ALARY M,ALARY,M,Univ Quebec  Ctr Hosp Affilie  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+433,,740,CODJO K A,CODJO,K ADOLPHE,,,,,,,,,,
+434,,741,MISTOURATH S S,MISTOURATH,S S,,,,,,,,,,
+248,0.99998945593833921,742,BATONA G,BATONA,G,Univ Laval  Unite Rech Sante Populat URESP  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+167,1.0,743,MICHEL A,MICHEL,A,,,,pq,a,michel,canada,univ laval uresp cha quebec city,michel a,743
+167,1.0,744,MICHEL A,MICHEL,A,Univ Laval  URESP CHA  Quebec City,PQ,Canada,pq,a,michel,canada,univ laval uresp cha quebec city,michel a,743
+169,1.0,745,RENE K,RENE,K,,,,cotonou,k,rene,benin,programme natl lutte ist sida benin,rene k,745
+169,1.0,746,RENE K,RENE,K,Programme Natl Lutte IST Sida Benin,Cotonou,Benin,cotonou,k,rene,benin,programme natl lutte ist sida benin,rene k,745
+435,,747,MARIE G,MARIE,G,,,,,,,,,,
+172,1.0,748,EVELYNE A,EVELYNE,A,,,,cotonou,a,evelyne,benin,programme natl lutte ist sida benin,evelyne a,748
+172,1.0,749,EVELYNE A,EVELYNE,A,Programme Natl Lutte IST Sida Benin,Cotonou,Benin,cotonou,a,evelyne,benin,programme natl lutte ist sida benin,evelyne a,748
+173,1.0,750,CLEMENT A,CLEMENT,A,,,,cotonou,a,clement,benin,programme natl lutte ist sida benin,clement a,750
+173,1.0,751,CLEMENT A,CLEMENT,A,Programme Natl Lutte IST Sida Benin,Cotonou,Benin,cotonou,a,clement,benin,programme natl lutte ist sida benin,clement a,750
+175,1.0,752,KAMAYE I M,KAMAYE,I M,,,,niamey,i m,kamaye,niger,programme natl lutte ist sida niger,kamaye i m,752
+175,1.0,753,KAMAYE I M,KAMAYE,I M,Programme Natl Lutte IST Sida Niger,Niamey,Niger,niamey,i m,kamaye,niger,programme natl lutte ist sida niger,kamaye i m,752
+177,1.0,754,HASSANE D,HASSANE,D,,,,niamey,d,hassane,niger,programme natl lutte ist sida niger,hassane d,754
+177,1.0,755,HASSANE D,HASSANE,D,Programme Natl Lutte IST Sida Niger,Niamey,Niger,niamey,d,hassane,niger,programme natl lutte ist sida niger,hassane d,754
+293,1.0,756,DOVONOU C A,DOVONOU,COMLAN ALBERT,CHU Parakou  Serv Med Interne,Parakou,Benin,parakou,comlan albert,dovonou,benin,chu parakou serv med interne,dovonou c a,756
+293,1.0,757,DOVONOU C A,DOVONOU,COMLAN ALBERT,CHU Parakou  Dept Med & Specialites Med  Fac Med,Parakou,Benin,parakou,comlan albert,dovonou,benin,chu parakou serv med interne,dovonou c a,756
+298,1.0,758,AMIDOU S A,AMIDOU,SALIMANOU ARIYOH,CHU Parakou  Serv Med Interne,Parakou,Benin,parakou,salimanou ariyoh,amidou,benin,chu parakou serv med interne,amidou s a,758
+298,1.0,759,AMIDOU S A,AMIDOU,SALIMANOU ARIYOH,Ctr Informat Prospect & Conseils IST VIH Sida,Parakou,Benin,parakou,salimanou ariyoh,amidou,benin,chu parakou serv med interne,amidou s a,758
+436,,760,KPANGON A A,KPANGON,AMADOHOUE ARSENE,CHU Parakou  Serv Med Interne,Parakou,Benin,,,,,,,
+437,,761,TRAORE Y A,TRAORE,YACOUBOU ADAM,CHU Parakou  Serv Med Interne,Parakou,Benin,,,,,,,
+308,1.0,762,GODJEDO T P M,GODJEDO,TOGBEMABOU PRIMOUS MARTIAL,,,,parakou,togbemabou primous martial,godjedo,benin,ctr informat prospect & conseils ist vih sida,godjedo t p m,762
+308,1.0,763,GODJEDO T P M,GODJEDO,TOGBEMABOU PRIMOUS MARTIAL,Ctr Informat Prospect & Conseils IST VIH Sida,Parakou,Benin,parakou,togbemabou primous martial,godjedo,benin,ctr informat prospect & conseils ist vih sida,godjedo t p m,762
+314,1.0,764,SATONDJI A J,SATONDJI,ASSONGBA JOSEPH,,,,parakou,assongba joseph,satondji,benin,ctr informat prospect & conseils ist vih sida,satondji a j,764
+314,1.0,765,SATONDJI A J,SATONDJI,ASSONGBA JOSEPH,Ctr Informat Prospect & Conseils IST VIH Sida,Parakou,Benin,parakou,assongba joseph,satondji,benin,ctr informat prospect & conseils ist vih sida,satondji a j,764
+185,0.99999979138374329,766,WACHINOU A P,WACHINOU,ABLO PRUDENCE,,,,cotonou,ablo prudence,wachinou,benin,programme natl lutte tb,wachinou a p,766
+185,0.9999995231628418,767,WACHINOU A P,WACHINOU,ABLO PRUDENCE,Programme Natl Lutte TB,Cotonou,Benin,cotonou,ablo prudence,wachinou,benin,programme natl lutte tb,wachinou a p,766
+438,,768,ISSADJIBRIL F M,ISSADJIBRIL,FATIOULAYE MAHAMADI,,,,,,,,,,
+255,1.0,769,FOURN L,FOURN,LEONARD,,,,benin,leonard,fourn,nigeria,fac sci sante cotonou dept sante publ,fourn l,769
+255,1.0,770,FOURN L,FOURN,LEONARD,Fac Sci Sante Cotonou  Dept Sante Publ,Benin,Nigeria,benin,leonard,fourn,nigeria,fac sci sante cotonou dept sante publ,fourn l,769
+2,0.84296825600833425,771,ZANNOU D M,ZANNOU,DJIMON MARCEL,CNHU HKM Cotonou  Clin Univ Med Interne,Benin,Nigeria,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+312,0.99999984105428064,772,GANDAHO P,GANDAHO,PROSPER,CHU Parakou  Dept Med & Specialites Med  Fac Med,Parakou,Benin,parakou,prosper,gandaho,benin,chu parakou dept med & specialites med fac med,gandaho p,678
+312,0.99999984105428064,773,GANDAHO P,GANDAHO,PROSPER,CHU Parakou  Serv Psychiat,Parakou,Benin,parakou,prosper,gandaho,benin,chu parakou dept med & specialites med fac med,gandaho p,678
+270,0.99999994784593582,774,BEHANZIN L,BEHANZIN,LUC,CHA Univ Quebec  Ctr Rech FRQS CHA  Unite Rech Sante Populat  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+270,0.99999994784593582,775,BEHANZIN L,BEHANZIN,LUC,Univ Laval  Dept Social & Prevent Med  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+35,0.99999994784593582,776,DIABATE S,DIABATE,SOULEYMANE,CHA Univ Quebec  Ctr Rech FRQS CHA  Unite Rech Sante Populat  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+35,0.99999994784593582,777,DIABATE S,DIABATE,SOULEYMANE,Univ Laval  Dept Social & Prevent Med  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+275,0.99999994039535522,778,AHOUSSINOU C,AHOUSSINOU,CLEMENT,Programme Natl Lutte Sida & IST Benin,Cotonou,Benin,cotonou,clement,ahoussinou,benin,programme natl lutte sida & ist,ahoussinou c,888
+37,0.98046565718121004,779,ANAGONOU S,ANAGONOU,SEVERIN,Ctr Natl Hosp Univ  Dept Med Interne,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+2,0.89255365075134652,780,ZANNOU D M,ZANNOU,DJIMON M,Ctr Natl Hosp Univ  Dept Med Interne,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+268,0.99252327084541325,781,LOWNDES C M,LOWNDES,CATHERINE M,CHA Univ Quebec  Ctr Rech FRQS CHA  Unite Rech Sante Populat  Quebec City,PQ,Canada,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+43,0.99999993217402494,782,ALARY M,ALARY,MICHEL,CHA Univ Quebec  Ctr Rech FRQS CHA  Unite Rech Sante Populat  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,783,ALARY M,ALARY,MICHEL,Inst Natl Sante Publ Quebec  Direct Risques Biol & Environm  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+23,0.84618028998374939,784,SEMINI I,SEMINI,IRIS,World Bank,Washington,USA,washington,i,semini,wa usa,world bank,semini i,539
+248,0.99999998807907109,785,BATONA G,BATONA,GEORGES,,,,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+248,0.99999608993530276,786,BATONA G,BATONA,GEORGES,URESP  CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+248,0.99999608993530276,787,BATONA G,BATONA,GEORGES,Univ Laval  Fac Sci Infirm  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+196,1.0,788,LAFRANCE C,LAFRANCE,CHRISTIAN,,,,pq,christian,lafrance,canada,uresp chu quebec ctr rech quebec city,lafrance c,788
+196,1.0,789,LAFRANCE C,LAFRANCE,CHRISTIAN,URESP  CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,christian,lafrance,canada,uresp chu quebec ctr rech quebec city,lafrance c,788
+439,,790,KESSOU L,KESSOU,LEON,,,,,,,,,,
+440,,791,GBEDJI E,GBEDJI,EUGENE,,,,,,,,,,
+199,1.0,792,ANANI H,ANANI,HUBERT,,,,cotonou,hubert,anani,benin,dispensaire ist,anani h,792
+199,1.0,793,ANANI H,ANANI,HUBERT,Dispensaire IST,Cotonou,Benin,cotonou,hubert,anani,benin,dispensaire ist,anani h,792
+43,0.99999993217402494,794,ALARY M,ALARY,MICHEL,URESP  CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+284,1.0,795,LEWDEN C,LEWDEN,CHARLOTTE,Univ Bordeaux  ISPED  Ctr INSERM U897,F-33076 Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+284,0.99999995742525372,796,LEWDEN C,LEWDEN,CHARLOTTE,INSERM  Ctr INSERM U897,Bordeaux,France,bordeaux,charlotte,lewden,france,univ bordeaux isped ctr inserm u897,lewden c,497
+202,1.0,797,DRABO Y J,DRABO,YOUSSOUFOU J,,,,ouagadougou,youssoufou j,drabo,burkina faso,univ hosp yalgado ouedraogo dept internal med,drabo y j,797
+202,1.0,798,DRABO Y J,DRABO,YOUSSOUFOU J,Univ Hosp Yalgado Ouedraogo  Dept Internal Med,Ouagadougou,Burkina Faso,ouagadougou,youssoufou j,drabo,burkina faso,univ hosp yalgado ouedraogo dept internal med,drabo y j,797
+2,0.86633938550949097,799,ZANNOU D M,ZANNOU,DJIMON M,Ctr Natl Hosp,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.89301094340115061,800,ZANNOU D M,ZANNOU,DJIMON M,Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+148,1.0,801,MAIGA M Y,MAIGA,MOUSSA Y,,,,bamako,moussa y,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m y,801
+148,1.0,802,MAIGA M Y,MAIGA,MOUSSA Y,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,moussa y,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m y,801
+205,1.0,803,MINTA D K,MINTA,DAOUDA K,,,,bamako,daouda k,minta,mali,hop point g serv malad infect,minta d k,803
+205,1.0,804,MINTA D K,MINTA,DAOUDA K,Hop Point G  Serv Malad Infect,Bamako,Mali,bamako,daouda k,minta,mali,hop point g serv malad infect,minta d k,803
+307,0.99999880790710449,805,SOW P S,SOW,PAPA S,,,,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+307,0.99999799728393557,806,SOW P S,SOW,PAPA S,Fann Univ Hosp  Dept Infect Dis,Dakar,Senegal,dakar,papa salif,sow,senegal,chu fann smit,sow p s,476
+5,0.99999900964590216,807,AKAKPO J,AKAKPO,JOCELYN,Ctr Natl Hosp,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+5,0.99999915178005516,808,AKAKPO J,AKAKPO,JOCELYN,Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+118,0.99999998246922217,809,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  ISPED  Ctr INSERM U897,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999996493844423,810,DABIS F,DABIS,FRANCOIS,INSERM  Ctr INSERM U897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+221,0.99999884764353431,811,EHOLIE S P,EHOLIE,SERGE P,Treichville Univ Hosp  Dept Infect Dis,Abidjan,Cote Ivoire,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+131,0.99999849001566565,812,FOURCADE C,FOURCADE,CAMILLE,Univ Paris 05,Paris,France,paris,camille,fourcade,france,univ paris 05 fac pharm,fourcade c,324
+251,1.0,813,OGOUYEMIHOUNTO A,OGOUYEMIHOUNTO,AURORE,,,,,aurore,ogouyemihounto,,,ogouyemihounto a,813
+213,1.0,814,DALMEIDA M,DALMEIDA,MARCELLINE,,,,,marcelline,dalmeida,,,dalmeida m,814
+88,0.99999994891030453,815,AZONDEKON A,AZONDEKON,ALAIN,Hop Instruct Armees  Serv Pediat,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+214,1.0,816,ALAO M J,ALAO,MAROUF J,,,,cotonou,marouf j,alao,benin,hop mere & enfant lagune serv pediat,alao m j,816
+214,1.0,817,ALAO M J,ALAO,MAROUF J,Hop Mere & Enfant Lagune  Serv Pediat,Cotonou,Benin,cotonou,marouf j,alao,benin,hop mere & enfant lagune serv pediat,alao m j,816
+441,,818,DOSSOUGBETE V,DOSSOUGBETE,VERONIQUE,,,,,,,,,,
+115,0.99989611224124308,819,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux 2  INSERM  U89,F-33076 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99989261438972077,820,EKOUEVI D K,EKOUEVI,DIDIER K,Univ Bordeaux 2  ISPED,F-33076 Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+88,0.99999994891030453,821,AZONDEKON A,AZONDEKON,ALAIN,Hop Instruct Armees St Anne,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+58,0.99999996026357019,822,DICKO F,DICKO,FATOUMATA,Hop Gabriel Toure  Serv Pediat Bamako,Bamako,Mali,bamako,fatoumata,dicko,mali,hop gabriel toure,dicko f,68
+143,0.99999998807907109,823,MALATESTE K,MALATESTE,KAREN,Univ Bordeaux 2  INSERM  U89,F-33076 Bordeaux,France,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+143,0.99999998807907109,824,MALATESTE K,MALATESTE,KAREN,Univ Bordeaux 2  ISPED,F-33076 Bordeaux,France,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+1,1.0,825,TOURE P,TOURE,PETY,,,,abidjan,pety,toure,cote ivoire,aconda mtct plus initiat,toure p,825
+1,0.99999996026357019,826,TOURE P,TOURE,PETY,ACONDA  MTCT Plus Initiat,Abidjan,Cote Ivoire,abidjan,pety,toure,cote ivoire,aconda mtct plus initiat,toure p,825
+1,0.99999996026357019,827,TOURE P,TOURE,PETY,ACONDA  CePReF,Abidjan,Cote Ivoire,abidjan,pety,toure,cote ivoire,aconda mtct plus initiat,toure p,825
+141,0.99999997019767761,828,EBOUA F T,EBOUA,FRANCOIS T,CHU Yopougon  Serv Pediat,Abidjan,Cote Ivoire,abidjan,francois t,eboua,cote ivoire,chu yopougon,eboua f t,188
+223,1.0,829,KOUADIO K,KOUADIO,KOUAKOU,,,,abidjan,kouakou,kouadio,cote ivoire,cirba,kouadio k,829
+223,1.0,830,KOUADIO K,KOUADIO,KOUAKOU,CIRBA,Abidjan,Cote Ivoire,abidjan,kouakou,kouadio,cote ivoire,cirba,kouadio k,829
+63,0.99999996026357019,831,RENNER L,RENNER,LORNA,Korlebu Hosp  Pediat Ward,Accra,Ghana,accra,lorna,renner,ghana,korle bu hosp,renner l,74
+118,0.99999998246922217,832,DABIS F,DABIS,FRANCOIS,Univ Bordeaux 2  INSERM  U89,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+118,0.99999998246922217,833,DABIS F,DABIS,FRANCOIS,Univ Bordeaux 2  ISPED,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+26,0.99999998597537765,834,LEROY V,LEROY,VALERIANE,Univ Bordeaux 2  INSERM  U89,F-33076 Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999998597537765,835,LEROY V,LEROY,VALERIANE,Univ Bordeaux 2  ISPED,F-33076 Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+442,,836,DUGAS M,DUGAS,MARYLENE,CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,,,,,,,
+295,0.99999997019767761,837,BEDARD E,BEDARD,EMMANUELLE,,,,pq,emmanuelle,bedard,canada,univ quebec rimouski dept sci infirmieres levis,bedard e,837
+295,0.99999994039535522,838,BEDARD E,BEDARD,EMMANUELLE,Univ Quebec Rimouski  Dept Sci Infirmieres  Levis,PQ,Canada,pq,emmanuelle,bedard,canada,univ quebec rimouski dept sci infirmieres levis,bedard e,837
+248,0.99999624490737915,839,BATONA G,BATONA,GEORGES,CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+248,0.99999598860740657,840,BATONA G,BATONA,GEORGES,Univ Laval  Dept Sci Infirmieres  Quebec City,PQ,Canada,pq,georges,batona,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,batona g,742
+228,1.0,841,KPATCHAVI A C,KPATCHAVI,ADOLPHE C,,,,abomey calavi,adolphe c,kpatchavi,benin,univ abomey calavi fac lettres arts & sci humaines,kpatchavi a c,841
+228,1.0,842,KPATCHAVI A C,KPATCHAVI,ADOLPHE C,Univ Abomey Calavi  Fac Lettres Arts & Sci Humaines,Abomey Calavi,Benin,abomey calavi,adolphe c,kpatchavi,benin,univ abomey calavi fac lettres arts & sci humaines,kpatchavi a c,841
+250,0.99998577833175661,843,GUEDOU F A,GUEDOU,FERNAND A,CHU Quebec  Ctr Rech  Quebec City,PQ,Canada,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+231,1.0,844,DUBE E,DUBE,ERIC,,,,pq j1k 2r1,eric,dube,canada,univ sherbrooke dept med famille & med urgence fac med & sci sante sherbrooke,dube e,844
+231,1.0,845,DUBE E,DUBE,ERIC,Univ Sherbrooke  Dept Med Famille & Med Urgence  Fac Med & Sci Sante  Sherbrooke,PQ J1K 2R1,Canada,pq j1k 2r1,eric,dube,canada,univ sherbrooke dept med famille & med urgence fac med & sci sante sherbrooke,dube e,844
+443,,846,ADEOTHYKOUMAKPAI S,ADEOTHYKOUMAKPAI,S,,,,,,,,,,
+234,0.99999997019767761,847,MORIN D,MORIN,D,Univ Laval  Fac Nursing Sci  Quebec City,PQ G1K 7P4,Canada,pq g1k 7p4,diane,morin,canada,univ laval fac nursing sci quebec city,morin d,951
+235,1.0,848,GODIN G,GODIN,G,Univ Laval  Fac Nursing Sci  Quebec City,PQ G1K 7P4,Canada,pq gik 7p4,gaston,godin,canada,univ laval fac sci infirm quebec city,godin g,942
+43,0.99999991573136426,849,ALARY M,ALARY,M,Univ Laval  Dept Social & Prevent Med  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+444,,850,SAWADOGO M R,SAWADOGO,M R,,,,,,,,,,
+237,1.0,851,BERNIER M,BERNIER,M,,,,pq,m,bernier,canada,ccisd quebec city,bernier m,851
+237,1.0,852,BERNIER M,BERNIER,M,CCISD  Quebec City,PQ,Canada,pq,m,bernier,canada,ccisd quebec city,bernier m,851
+93,1.0,853,KHONDE N,KHONDE,N,WAPCAS,Accra,Ghana,accra,n,khonde,ghana,wapcas,khonde n,113
+239,0.99999996026357019,854,KINTIN F,KINTIN,F,,,,ouagadougou,f,kintin,burkina faso,ccisd,kintin f,854
+239,0.99999998013178504,855,KINTIN F,KINTIN,F,CCISD,Ouagadougou,Burkina Faso,ouagadougou,f,kintin,burkina faso,ccisd,kintin f,854
+92,1.0,856,KONE A,KONE,A,,,,niamey,a,kone,niger,ccisd,kone a,856
+92,1.0,857,KONE A,KONE,A,CCISD,Niamey,Niger,niamey,a,kone,niger,ccisd,kone a,856
+91,1.0,858,PEPIN J,PEPIN,J,Univ Sherbrooke  CHUS  Sherbrooke,PQ J1K 2R1,Canada,pq j1k 2r1,j,pepin,canada,univ sherbrooke chus sherbrooke,pepin j,111
+244,1.0,859,RACHED S,RACHED,S,,,,pq,s,rached,canada,univ montreal unite sante int montreal,rached s,859
+244,1.0,860,RACHED S,RACHED,S,Univ Montreal  Unite Sante Int  Montreal,PQ,Canada,pq,s,rached,canada,univ montreal unite sante int montreal,rached s,859
+245,1.0,861,SOBELA F,SOBELA,F,,,,lome,f,sobela,togo,wapcas,sobela f,861
+245,1.0,862,SOBELA F,SOBELA,F,WAPCAS,Lome,Togo,lome,f,sobela,togo,wapcas,sobela f,861
+247,1.0,863,SOTO J,SOTO,J,,,,pq,j,soto,canada,inst natl sante publ montreal,soto j,863
+247,1.0,864,SOTO J,SOTO,J,Inst Natl Sante Publ  Montreal,PQ,Canada,pq,j,soto,canada,inst natl sante publ montreal,soto j,863
+36,0.99999997019767761,865,SYLLA M,SYLLA,M,,,,pq,m,sylla,canada,ctr hosp univ montreal crchum ctr rech montreal,sylla m,865
+36,0.99999874830245972,866,SYLLA M,SYLLA,M,WAPCAS,Bamako,Mali,pq,m,sylla,canada,ctr hosp univ montreal crchum ctr rech montreal,sylla m,865
+249,1.0,867,TRAORE C,TRAORE,C,,,,dakar,c,traore,senegal,wapcas,traore c,867
+249,1.0,868,TRAORE C,TRAORE,C,WAPCAS,Dakar,Senegal,dakar,c,traore,senegal,wapcas,traore c,867
+29,1.0,869,ARRIVE E,ARRIVE,ELISE,Univ Bordeaux 2  INSERM  ISPED  U593,F-33076 Bordeaux,France,f-33076 bordeaux,elise,arrive,france,univ bordeaux 2 inserm isped u593,arrive e,546
+252,1.0,870,KYABAYINZE D J,KYABAYINZE,DANIEL J,,,,kampala,daniel j,kyabayinze,uganda,anecca,kyabayinze d j,870
+252,1.0,871,KYABAYINZE D J,KYABAYINZE,DANIEL J,ANECCA,Kampala,Uganda,kampala,daniel j,kyabayinze,uganda,anecca,kyabayinze d j,870
+156,1.0,872,MARQUIS B,MARQUIS,BENOIT,Univ Bordeaux 2  INSERM  ISPED  U593,F-33076 Bordeaux,France,bordeaux,benoit,marquis,france,inst sante publ & dev isped inserm u897,marquis b,547
+254,1.0,873,TUMWESIGYE N,TUMWESIGYE,NATHAN,,,,kampala,nathan,tumwesigye,uganda,anecca,tumwesigye n,873
+254,1.0,874,TUMWESIGYE N,TUMWESIGYE,NATHAN,ANECCA,Kampala,Uganda,kampala,nathan,tumwesigye,uganda,anecca,tumwesigye n,873
+240,1.0,875,KIEFFER M P,KIEFFER,MARYPAT,,,,,maiypat,kieffer,,,kieffer m p,569
+88,0.99999994891030453,876,AZONDEKON A,AZONDEKON,ALAIN,HIA  VIH UPEIV,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+311,0.99999997019767761,877,WEMIN L,WEMIN,LOUISE,CEPREF Enfants,Abidjan,Cote Ivoire,abidjan,louise,wemin,cote ivoire,aconda ctr prise charge rech & format cepref enfants,wemin l,557
+176,0.99999997019767761,878,FASSINOU P,FASSINOU,PATRICIA,Ctr Hosp Univ Yopougon,Abidjan,Cote Ivoire,abidjan,patricia,fassinou,cote ivoire,univ yopougon ctr hosp,fassinou p,552
+26,0.99999998597537765,879,LEROY V,LEROY,VALERIANE,Univ Bordeaux 2  INSERM  ISPED  U593,F-33076 Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+124,1.0,880,ABRAMS E J,ABRAMS,ELAINE J,,,,new york,elaine j,abrams,usa,columbia univ mailman sch publ hlth,abrams e j,880
+124,1.0,881,ABRAMS E J,ABRAMS,ELAINE J,Columbia Univ  Mailman Sch Publ Hlth,New York,USA,new york,elaine j,abrams,usa,columbia univ mailman sch publ hlth,abrams e j,880
+184,0.99999997019767761,882,COTTON M,COTTON,MARK,Univ Stellenbosch  Tygerberg Childrens Hosp  Dept Paediat & Child Hlth,Cape Town,South Africa,cape town,mark,cotton,south africa,tygerberg childrens hosp,cotton m,554
+39,1.0,883,BOULLE A,BOULLE,ANDREW,Univ Cape Town  Sch Publ Hlth & Family Med,ZA-7700 Rondebosch,South Africa,cape town,andrew,boulle,south africa,khayelitsha hosp,boulle a,558
+118,0.99999998246922217,884,DABIS F,DABIS,FRANCOIS,Univ Bordeaux 2  INSERM  ISPED  U593,F-33076 Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+261,0.99999922513961792,885,TOUNKARA F K,TOUNKARA,F K,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,f k,tounkara,canada,univ laval dept med sociale & prevent quebec city,tounkara f k,885
+261,0.99999936421712243,886,TOUNKARA F K,TOUNKARA,F K,CHU  URESP  Ctr Rech  Quebec City,PQ,Canada,pq,f k,tounkara,canada,univ laval dept med sociale & prevent quebec city,tounkara f k,885
+137,0.99998534719149268,887,GUEDOU F,GUEDOU,F,DIST,Cotonou,Benin,cotonou,f,guedou,benin,dist,guedou f,542
+275,0.99999995529651642,888,AHOUSSINOU C,AHOUSSINOU,C,,,,cotonou,clement,ahoussinou,benin,programme natl lutte sida & ist,ahoussinou c,888
+275,0.99999992549419403,889,AHOUSSINOU C,AHOUSSINOU,C,Programme Natl Lutte Sida & IST,Cotonou,Benin,cotonou,clement,ahoussinou,benin,programme natl lutte sida & ist,ahoussinou c,888
+2,0.96726492556130017,890,ZANNOU D M,ZANNOU,D M,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+165,0.99999996026357019,891,KPATCHAVI A,KPATCHAVI,A,,,,cotonou,a,kpatchavi,benin,univ abomey calavi dept sociol,kpatchavi a,891
+165,0.99999998013178504,892,KPATCHAVI A,KPATCHAVI,A,Univ Abomey Calavi  Dept Sociol,Cotonou,Benin,cotonou,a,kpatchavi,benin,univ abomey calavi dept sociol,kpatchavi a,891
+266,1.0,893,KINTIN F D,KINTIN,F D,,,,cotonou,f d,kintin,benin,bur appui sante publ basp 96,kintin f d,893
+266,1.0,894,KINTIN F D,KINTIN,F D,Bur Appui Sante Publ BASP 96,Cotonou,Benin,cotonou,f d,kintin,benin,bur appui sante publ basp 96,kintin f d,893
+267,1.0,895,AVERY L,AVERY,L,,,,mb,l,avery,canada,univ manitoba fac med winnipeg,avery l,895
+267,1.0,896,AVERY L,AVERY,L,Univ Manitoba  Fac Med  Winnipeg,MB,Canada,mb,l,avery,canada,univ manitoba fac med winnipeg,avery l,895
+295,0.99999992549419403,897,BEDARD E,BEDARD,E,Univ Quebec Rimouski  Dept Sci Infirmieres  Levis,PQ,Canada,pq,emmanuelle,bedard,canada,univ quebec rimouski dept sci infirmieres levis,bedard e,837
+164,0.99999994039535522,898,BITERA R,BITERA,R,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,r,bitera,canada,univ laval dept med sociale & prevent quebec city,bitera r,939
+164,0.99999994039535522,899,BITERA R,BITERA,R,CHU  URESP  Ctr Rech  Quebec City,PQ,Canada,pq,r,bitera,canada,univ laval dept med sociale & prevent quebec city,bitera r,939
+43,0.99999991573136426,900,ALARY M,ALARY,M,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999991367603169,901,ALARY M,ALARY,M,CHU  URESP  Ctr Rech  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+207,0.99999998013178504,902,LAJOIE J,LAJOIE,J,Ctr Hosp Univ Montreal CHUM  Ctr Rech  Lab Immunogenet  Montreal,PQ,Canada,pq h3c 3j7,j,lajoie,canada,univ montreal dept microbiol & immunol montreal,lajoie j,902
+207,0.99999998013178504,903,LAJOIE J,LAJOIE,J,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq h3c 3j7,j,lajoie,canada,univ montreal dept microbiol & immunol montreal,lajoie j,902
+139,0.99999994039535522,904,POUDRIER J,POUDRIER,J,Ctr Hosp Univ Montreal CHUM  Ctr Rech  Lab Immunogenet  Montreal,PQ,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+139,0.99999998013178504,905,POUDRIER J,POUDRIER,J,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+61,1.0,906,MASSINGALOEMBE M,MASSINGALOEMBE,M,,,,,marguerite,massingaloembe,,,massingaloembe m,97
+137,0.99996817111968994,907,GUEDOU F,GUEDOU,F,Univ Quebec  Ctr Hosp  Unite Rech Sante Populat  Quebec City,PQ,Canada,cotonou,f,guedou,benin,dist,guedou f,542
+137,0.9999720652898153,908,GUEDOU F,GUEDOU,F,Univ Laval  Quebec City,PQ,Canada,cotonou,f,guedou,benin,dist,guedou f,542
+445,,909,AGOSSAGBENAFA C,AGOSSAGBENAFA,C,,,,,,,,,,
+43,0.99999991367603169,910,ALARY M,ALARY,M,Univ Quebec  Ctr Hosp  Unite Rech Sante Populat  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+258,0.99999994039535522,911,ROGER M,ROGER,M,Ctr Hosp Univ Montreal CHUM  Ctr Rech  Lab Immunogenet  Montreal,PQ,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+258,0.99999998013178504,912,ROGER M,ROGER,M,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+446,,913,HEYNDRICKX L,HEYNDRICKX,L,,,,,,,,,,
+447,,914,JANSSENS W,JANSSENS,W,,,,,,,,,,
+448,,915,VAN DER AUWERA G,VAN DER AUWERA,G,,,,,,,,,,
+449,,916,COPPENS S,COPPENS,S,,,,,,,,,,
+450,,917,VEREECKEN K,VEREECKEN,K,,,,,,,,,,
+451,,918,DE WITTE K,DE WITTE,K,,,,,,,,,,
+452,,919,VAN RAMPELBERGH R,VAN RAMPELBERGH,R,,,,,,,,,,
+453,,920,MORISON L,MORISON,L,,,,,,,,,,
+454,,921,MCCUTCHAN F E,MCCUTCHAN,FE,,,,,,,,,,
+455,,922,CARR J K,CARR,JK,,,,,,,,,,
+456,,923,ALBERT J,ALBERT,J,,,,,,,,,,
+457,,924,ESSEX M,ESSEX,M,,,,,,,,,,
+458,,925,GOUDSMIT J,GOUDSMIT,J,,,,,,,,,,
+459,,926,ASJO B,ASJO,B,,,,,,,,,,
+460,,927,SALMINEN M,SALMINEN,M,,,,,,,,,,
+461,,928,VAN DER GROEN G,VAN DER GROEN,G,,,,,,,,,,
+261,0.99999974171320594,929,TOUNKARA F K,TOUNKARA,FATOUMATA K,CHU Quebec  URESP  Ctr Rech  Quebec City,PQ G1S 4L8,Canada,pq,f k,tounkara,canada,univ laval dept med sociale & prevent quebec city,tounkara f k,885
+261,0.99999888737996423,930,TOUNKARA F K,TOUNKARA,FATOUMATA K,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,f k,tounkara,canada,univ laval dept med sociale & prevent quebec city,tounkara f k,885
+35,1.0,931,DIABATE S,DIABATE,SOULEYMANE,CHU Quebec  URESP  Ctr Rech  Quebec City,PQ G1S 4L8,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+250,0.99999997615814207,932,GUEDOU F A,GUEDOU,FERNAND A,CHU Quebec  URESP  Ctr Rech  Quebec City,PQ G1S 4L8,Canada,pq,fernand a,guedou,canada,ctr hosp univ quebec res ctr axe sante populat & prat optimales sante quebec city,guedou f a,712
+239,0.99999996026357019,933,KINTIN F,KINTIN,FREDERIC,,,,ouagadougou,f,kintin,burkina faso,ccisd,kintin f,854
+239,0.99999998013178504,934,KINTIN F,KINTIN,FREDERIC,Dispensaire IST,Cotonou,Benin,ouagadougou,f,kintin,burkina faso,ccisd,kintin f,854
+2,0.96675545122565287,935,ZANNOU D M,ZANNOU,DJIMON M,Univ Abomey Calavi  Fac Sci Sante,Godomey,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+165,0.99999996026357019,936,KPATCHAVI A,KPATCHAVI,ADOLPHE,,,,cotonou,a,kpatchavi,benin,univ abomey calavi dept sociol,kpatchavi a,891
+165,0.99999998013178504,937,KPATCHAVI A,KPATCHAVI,ADOLPHE,Univ Abomey Calavi  Dept Sociol,Godomey,Benin,cotonou,a,kpatchavi,benin,univ abomey calavi dept sociol,kpatchavi a,891
+295,0.99999994039535522,938,BEDARD E,BEDARD,EMMANUELLE,Univ Quebec Rimouski  Dept Sci Infirm  Levis,PQ,Canada,pq,emmanuelle,bedard,canada,univ quebec rimouski dept sci infirmieres levis,bedard e,837
+164,1.0,939,BITERA R,BITERA,RAPHAEL,CHU Quebec  URESP  Ctr Rech  Quebec City,PQ G1S 4L8,Canada,pq,r,bitera,canada,univ laval dept med sociale & prevent quebec city,bitera r,939
+164,0.99999991059303284,940,BITERA R,BITERA,RAPHAEL,Univ Laval  Dept Med Sociale & Prevent  Quebec City,PQ,Canada,pq,r,bitera,canada,univ laval dept med sociale & prevent quebec city,bitera r,939
+43,0.99999999794466743,941,ALARY M,ALARY,MICHEL,CHU Quebec  URESP  Ctr Rech  Quebec City,PQ G1S 4L8,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+235,0.99999997019767761,942,GODIN G,GODIN,GASTON,Univ Laval  Canada Res Chair Behav & Hlth  Quebec City,PQ GIK 7P4,Canada,pq gik 7p4,gaston,godin,canada,univ laval fac sci infirm quebec city,godin g,942
+235,0.99999997019767761,943,GODIN G,GODIN,GASTON,Univ Laval  Chaire Rech Canada Comportements & St  Quebec City,PQ GIK 7P4,Canada,pq gik 7p4,gaston,godin,canada,univ laval fac sci infirm quebec city,godin g,942
+235,0.99999997019767761,944,GODIN G,GODIN,GASTON,Univ Laval  Fac Sci Infirm  Quebec City,PQ GIK 7P4,Canada,pq gik 7p4,gaston,godin,canada,univ laval fac sci infirm quebec city,godin g,942
+235,1.0,945,GODIN G,GODIN,GASTON,Hop St Sacrement CHA  Unite Rech St Populat  Quebec City,PQ,Canada,pq gik 7p4,gaston,godin,canada,univ laval fac sci infirm quebec city,godin g,942
+289,1.0,946,BAH A T,BAH,AISSATOU TINKA,,,,bamako,aissatou tinka,bah,mali,cellule sectorielle lutte sida minist st mali,bah a t,946
+289,1.0,947,BAH A T,BAH,AISSATOU TINKA,Cellule Sectorielle Lutte Sida Minist St Mali,Bamako,Mali,bamako,aissatou tinka,bah,mali,cellule sectorielle lutte sida minist st mali,bah a t,946
+291,1.0,948,SOW A,SOW,AMADOU,,,,thies,amadou,sow,senegal,ctr hosp reg thies dept soins infirm,sow a,948
+291,1.0,949,SOW A,SOW,AMADOU,Ctr Hosp Reg Thies  Dept Soins Infirm,Thies,Senegal,thies,amadou,sow,senegal,ctr hosp reg thies dept soins infirm,sow a,948
+274,0.99999994039535522,950,MINANI I,MINANI,ISAAC,Ctr St Cotonou 1  Dispensaire & Lab IST,Cotonou,Benin,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+234,0.99999997019767761,951,MORIN D,MORIN,DIANE,,,,pq g1k 7p4,diane,morin,canada,univ laval fac nursing sci quebec city,morin d,951
+234,1.0,952,MORIN D,MORIN,DIANE,Univ Laval  Fac Sci Infirm  Quebec City,PQ GIK 7P4,Canada,pq g1k 7p4,diane,morin,canada,univ laval fac nursing sci quebec city,morin d,951
+43,0.99999993217402494,953,ALARY M,ALARY,MICHEL,Hop St Sacrement CHA  Unite Rech St Populat  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+294,1.0,954,THIBODEAU V,THIBODEAU,VALERIE,CRCHUM  Immunogenet Lab  Montreal,PQ,Canada,pq,valerie,thibodeau,canada,crchum immunogenet lab montreal,thibodeau v,954
+294,1.0,955,THIBODEAU V,THIBODEAU,VALERIE,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,valerie,thibodeau,canada,crchum immunogenet lab montreal,thibodeau v,954
+207,0.99999996026357019,956,LAJOIE J,LAJOIE,JULIE,,,,pq h3c 3j7,j,lajoie,canada,univ montreal dept microbiol & immunol montreal,lajoie j,902
+207,1.0,957,LAJOIE J,LAJOIE,JULIE,Univ Manitoba  Dept Med Microbiol  Winnipeg,MB,Canada,pq h3c 3j7,j,lajoie,canada,univ montreal dept microbiol & immunol montreal,lajoie j,902
+2,0.82104990540481193,958,ZANNOU M D,ZANNOU,MARCEL D,Univ Abomey Calavi  Natl Ctr  Hosp Univ Hubert K Maga,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+296,1.0,959,FOWKE K R,FOWKE,KEITH R,,,,mb,keith r,fowke,canada,univ manitoba dept med microbiol winnipeg,fowke k r,959
+296,1.0,960,FOWKE K R,FOWKE,KEITH R,Univ Manitoba  Dept Med Microbiol  Winnipeg,MB,Canada,mb,keith r,fowke,canada,univ manitoba dept med microbiol winnipeg,fowke k r,959
+43,0.99999993217402494,961,ALARY M,ALARY,MICHEL,Affilie Univ Quebec  Unite Rech Sante Populat  Ctr Hosp  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,962,ALARY M,ALARY,MICHEL,Univ Laval  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+139,0.99999996026357019,963,POUDRIER J,POUDRIER,JOHANNE,CRCHUM  Immunogenet Lab  Montreal,PQ,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+139,0.99999998013178504,964,POUDRIER J,POUDRIER,JOHANNE,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+258,0.99999996026357019,965,ROGER M,ROGER,MICHEL,CRCHUM  Immunogenet Lab  Montreal,PQ,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+258,0.99999998013178504,966,ROGER M,ROGER,MICHEL,Univ Montreal  Dept Microbiol & Immunol  Montreal,PQ H3C 3J7,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+270,0.99999994784593582,967,BEHANZIN L,BEHANZIN,LUC,URESP  CHU Quebec  Ctr Rech FRQS  Quebec City,PQ,Canada,pq,luc,behanzin,canada,univ laval fac med dept med sociale & prevent ctr hosp univ quebec unite rech sante populat quebec city,behanzin l,707
+35,0.99999994784593582,968,DIABATE S,DIABATE,SOULEYMANE,URESP  CHU Quebec  Ctr Rech FRQS  Quebec City,PQ,Canada,pq,souleymane,diabate,canada,cha univ quebec ctr rech frqs cha unite rech sante populat quebec city,diabate s,90
+274,0.99999994039535522,969,MINANI I,MINANI,ISAAC,Ctr Sante Communal Cotonou 1  Dispensaire IST,Cotonou,Benin,cotonou,isaac,minani,benin,dispensaire ist,minani i,667
+268,0.99307461380958562,970,LOWNDES C M,LOWNDES,CATHERINE M,URESP  CHU Quebec  Ctr Rech FRQS  Quebec City,PQ,Canada,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+268,0.99961815476417537,971,LOWNDES C M,LOWNDES,CATHERINE M,Hlth Protect Agcy  Dept HIV & STIs,London,England,london wc1,catherine m,lowndes,england,hlth protect agcy,lowndes c m,781
+43,0.99999993422935751,972,ALARY M,ALARY,MICHEL,URESP  CHU Quebec  Ctr Rech FRQS  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+43,0.99999993217402494,973,ALARY M,ALARY,MICHEL,Inst Natl Sante Publ Quebec  Unite Rech Sante Populat URESP  Quebec City,PQ,Canada,pq,michel,alary,canada,univ laval quebec city,alary m,54
+462,,974,SABOURINPOIRIER C,SABOURINPOIRIER,CATHERINE,,,,,,,,,,
+159,1.0,975,FOURCADE L,FOURCADE,LYVIA,CRCHUM  Lab Immunogenet  Montreal,PQ,Canada,pq,lyvia,fourcade,canada,crchum lab immunogenet montreal,fourcade l,975
+159,1.0,976,FOURCADE L,FOURCADE,LYVIA,Univ Montreal  Dept Microbiol Infectiol & Immunol  Montreal,PQ,Canada,pq,lyvia,fourcade,canada,crchum lab immunogenet montreal,fourcade l,975
+463,,977,CHAGNONCHOQUET J,CHAGNONCHOQUET,JOSIANE,,,,,,,,,,
+139,0.99999996026357019,978,POUDRIER J,POUDRIER,JOHANNE,CRCHUM  Lab Immunogenet  Montreal,PQ,Canada,pq,johanne,poudrier,canada,crchum montreal,poudrier j,905
+258,0.99999996026357019,979,ROGER M,ROGER,MICHEL,CRCHUM  Lab Immunogenet  Montreal,PQ,Canada,pq,michel,roger,canada,crchum montreal,roger m,911
+464,,980,RENNER L A,RENNER,LORNA A,Univ Ghana  Sch Med  Dept Child Hlth  Korle Bu Teaching Hosp,Accra,Ghana,,,,,,,
+52,0.99999995529651642,981,KOUETA F,KOUETA,FLA,CHU Charles de Gaulle,Ouagadougou,Burkina Faso,ouagadougou,fla,koueta,burkina faso,chu charles gaulle hop pediat,koueta f,63
+143,1.0,982,MALATESTE K,MALATESTE,KAREN,,,,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+143,0.99999997615814207,983,MALATESTE K,MALATESTE,KAREN,Univ Bordeaux Segalen  Inst Sante Publ Epidemiol & Dev  INSERM  U897,Bordeaux,France,bordeaux,karen,malateste,france,univ bordeaux segalen inst sante publ epidemiol & dev inserm u897,malateste k,823
+304,1.0,984,GUEYE R D,GUEYE,RAMATOULAYE D,,,,dakar,ramatoulaye d,gueye,senegal,hop enfants albert royer,gueye r d,984
+304,1.0,985,GUEYE R D,GUEYE,RAMATOULAYE D,Hop Enfants Albert Royer,Dakar,Senegal,dakar,ramatoulaye d,gueye,senegal,hop enfants albert royer,gueye r d,984
+55,1.0,986,AKA E,AKA,EDMOND,,,,abidjan,edmond,aka,cote ivoire,ctr prise charge rech & format cepref,aka e,986
+55,1.0,987,AKA E,AKA,EDMOND,Ctr Prise Charge Rech & Format CePReF,Abidjan,Cote Ivoire,abidjan,edmond,aka,cote ivoire,ctr prise charge rech & format cepref,aka e,986
+210,1.0,988,EBOUA T K,EBOUA,TANOH K,,,,abidjan,tanoh k,eboua,cote ivoire,chu yopougon pediat ward,eboua t k,988
+210,1.0,989,EBOUA T K,EBOUA,TANOH K,CHU Yopougon  Pediat Ward,Abidjan,Cote Ivoire,abidjan,tanoh k,eboua,cote ivoire,chu yopougon pediat ward,eboua t k,988
+88,0.99999994891030453,990,AZONDEKON A,AZONDEKON,ALAIN,Hop Instruct Armees  UPEIV,Cotonou,Benin,cotonou,alain,azondekon,benin,hop instruct armees cotonou serv pediat,azondekon a,163
+309,1.0,991,OKOMO U,OKOMO,UDUOK,,,,fajara,uduok,okomo,gambia,mrc unit,okomo u,991
+309,1.0,992,OKOMO U,OKOMO,UDUOK,MRC Unit,Fajara,Gambia,fajara,uduok,okomo,gambia,mrc unit,okomo u,991
+1,0.99999996026357019,993,TOURE P,TOURE,PETY,MTCT Plus Network,Abidjan,Cote Ivoire,abidjan,pety,toure,cote ivoire,aconda mtct plus initiat,toure p,825
+232,1.0,994,EKOUEVI D,EKOUEVI,DIDIER,,,,abidjan,didier,ekouevi,cote ivoire,iedea reg ctr programme pacci,ekouevi d,994
+232,1.0,995,EKOUEVI D,EKOUEVI,DIDIER,IeDEA Reg Ctr  Programme PACCI,Abidjan,Cote Ivoire,abidjan,didier,ekouevi,cote ivoire,iedea reg ctr programme pacci,ekouevi d,994
+26,0.99999996143228864,996,LEROY V,LEROY,VALERIANE,Univ Bordeaux Segalen  Inst Sante Publ Epidemiol & Dev  INSERM  U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+251,1.0,997,OGOUYEMIHOUNTO A,OGOUYEMIHOUNTO,A,,,,,aurore,ogouyemihounto,,,ogouyemihounto a,813
+2,0.96773184218057773,998,ZANNOU D M,ZANNOU,D M,Ctr Natl Hosp Univ Koutoukou Maga CNHU HKM  Serv Med Interne  03BP386,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.96647571209000382,999,ZANNOU D M,ZANNOU,D M,CTA,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+313,1.0,1000,AYIHOUNTON G,AYIHOUNTON,G,,,,cotonou,g,ayihounton,benin,cta,ayihounton g,1000
+313,1.0,1001,AYIHOUNTON G,AYIHOUNTON,G,CTA,Cotonou,Benin,cotonou,g,ayihounton,benin,cta,ayihounton g,1000
+6,0.99999994039535522,1002,AHOUADA C,AHOUADA,C,CTA,Cotonou,Benin,cotonou,c,ahouada,benin,cta,ahouada c,8
+316,1.0,1003,ACAKPO J,ACAKPO,J,,,,cotonou,j,acakpo,benin,cta,acakpo j,1003
+316,1.0,1004,ACAKPO J,ACAKPO,J,CTA,Cotonou,Benin,cotonou,j,acakpo,benin,cta,acakpo j,1003
+465,,1005,DE TOVE Y S S,DE TOVE,Y SISSINTO SAVI,Ctr Natl Hosp Univ Koutoukou Maga CNHU HKM  Lab Parasitol Mycol  03BP386,Cotonou,Benin,,,,,,,
+466,,1006,GAZARD D K,GAZARD,D KINDE,Ctr Natl Hosp Univ Koutoukou Maga CNHU HKM  Lab Parasitol Mycol  03BP386,Cotonou,Benin,,,,,,,
+467,,1007,MONNYKOSSO C N,MONNYKOSSO,CN,,,,,,,,,,
+213,1.0,1008,DALMEIDA M,DALMEIDA,M,,,,,marcelline,dalmeida,,,dalmeida m,814
+468,,1009,HOUANSOU J,HOUANSOU,J,,,,,,,,,,
+469,,1010,BATOSSI G,BATOSSI,G,,,,,,,,,,
+470,,1011,HODONOU I,HODONOU,I,,,,,,,,,,
+471,,1012,AGOSSOU R,AGOSSOU,R,,,,,,,,,,
+472,,1013,ADEYANJU I,ADEYANJU,I,,,,,,,,,,
+473,,1014,TESTA J,TESTA,J,,,,,,,,,,
+474,,1015,PORTAL J L,PORTAL,JL,,,,,,,,,,
+475,,1016,HOUNHOUEDO T,HOUNHOUEDO,T,,,,,,,,,,
+476,,1017,LAGARDE E,LAGARDE,E,,,,,,,,,,
+477,,1018,AUVERT B,AUVERT,B,,,,,,,,,,
+478,,1019,LAOUROU M,LAOUROU,M,,,,,,,,,,
+479,,1020,FERRY B,FERRY,B,,,,,,,,,,
+480,,1021,AKAM E,AKAM,E,,,,,,,,,,
+481,,1022,SUKWA T,SUKWA,T,,,,,,,,,,
+482,,1023,MAURY B,MAURY,B,,,,,,,,,,
+483,,1024,CHEGE J,CHEGE,J,,,,,,,,,,
+71,0.99999994039535522,1025,NDOYE I,NDOYE,I,,,,dakar,ibra,ndoye,senegal,minist hlth natl aids programme,ndoye i,595
+484,,1026,KEITCHION A S,KEITCHION,A SESSOU,,,,,,,,,,
+485,,1027,SAGUI A,SAGUI,A,,,,,,,,,,
+486,,1028,SINGBO A T,SINGBO,A TOUDONOU,,,,,,,,,,
+487,,1029,MONZORGUI AMKZ,MONZORGUI,A M KORA ZIME,,,,,,,,,,
+4,1.0,1030,AGODOKPESSI G,AGODOKPESSI,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,g,agodokpessi,benin,ctr natl hosp pneumophtisiol,agodokpessi g,1030
+4,1.0,1031,AGODOKPESSI G,AGODOKPESSI,G,Fac Sci Sante,Cotonou,Benin,cotonou,g,agodokpessi,benin,ctr natl hosp pneumophtisiol,agodokpessi g,1030
+123,0.99999994039535522,1032,ADE G,ADE,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+123,0.99999992847442631,1033,ADE G,ADE,G,Fac Sci Sante,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp & univ hubert koutoukou maga serv med interne,ade g,236
+488,,1034,ADE S,ADE,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,,,,,,,
+185,0.99999931454658508,1035,WACHINOU A P,WACHINOU,A P,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,ablo prudence,wachinou,benin,programme natl lutte tb,wachinou a p,766
+9,0.99999996026357019,1036,AFFOLABI D,AFFOLABI,D,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,d,affolabi,benin,ctr natl hosp pneumophtisiol,affolabi d,1036
+9,0.99999996026357019,1037,AFFOLABI D,AFFOLABI,D,Fac Sci Sante,Cotonou,Benin,cotonou,d,affolabi,benin,ctr natl hosp pneumophtisiol,affolabi d,1036
+37,0.95636404222912264,1038,ANAGONOU S,ANAGONOU,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+37,0.95432278182771468,1039,ANAGONOU S,ANAGONOU,S,Fac Sci Sante,Cotonou,Benin,cotonou,severin,anagonou,benin,ctr natl hosp univ,anagonou s,43
+12,0.99999996026357019,1040,GNINAFON M,GNINAFON,M,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,m,gninafon,benin,fac sci sante,gninafon m,1040
+12,0.99999996026357019,1041,GNINAFON M,GNINAFON,M,Fac Sci Sante,Cotonou,Benin,cotonou,m,gninafon,benin,fac sci sante,gninafon m,1040
+489,,1042,DRABO K M,DRABO,KOINE MAXIME,Minist Rech Sci & Innovat  Inst Rech Sci Sante,Ouagadougou,Burkina Faso,,,,,,,
+15,1.0,1043,HIEN H,HIEN,HERVE,,,,ouagadougou,herve,hien,burkina faso,cnrst irss,hien h,1043
+15,1.0,1044,HIEN H,HIEN,HERVE,CNRST  IRSS,Ouagadougou,Burkina Faso,ouagadougou,herve,hien,burkina faso,cnrst irss,hien h,1043
+17,1.0,1045,KONFE S,KONFE,SALIFOU,,,,ouagadougou,salifou,konfe,burkina faso,minist sante,konfe s,1045
+17,1.0,1046,KONFE S,KONFE,SALIFOU,Minist Sante,Ouagadougou,Burkina Faso,ouagadougou,salifou,konfe,burkina faso,minist sante,konfe s,1045
+19,1.0,1047,NANA W M F,NANA,WENDIN MANEGDE FELICITE,,,,ouagadougou,wendin manegde felicite,nana,burkina faso,minist sante,nana w m f,1047
+19,1.0,1048,NANA W M F,NANA,WENDIN MANEGDE FELICITE,Minist Sante,Ouagadougou,Burkina Faso,ouagadougou,wendin manegde felicite,nana,burkina faso,minist sante,nana w m f,1047
+21,1.0,1049,OUEDRAOGO T L,OUEDRAOGO,TINOAGA LAURENT,,,,ouidah,tinoaga laurent,ouedraogo,benin,irsp,ouedraogo t l,1049
+21,1.0,1050,OUEDRAOGO T L,OUEDRAOGO,TINOAGA LAURENT,IRSP,Ouidah,Benin,ouidah,tinoaga laurent,ouedraogo,benin,irsp,ouedraogo t l,1049
+490,,1051,DE PASCHALE M,DE PASCHALE,MASSIMO,Hosp Legnano  Microbiol Unit,I-20025 Milan,Italy,,,,,,,
+209,1.0,1052,CERIANI C,CERIANI,CRISTINA,,,,milan,cristina,ceriani,italy,irccs galeazzi orthopaed inst lab expt biochem & mol biol,ceriani c,1052
+209,1.0,1053,CERIANI C,CERIANI,CRISTINA,IRCCS Galeazzi Orthopaed Inst  Lab Expt Biochem & Mol Biol,Milan,Italy,milan,cristina,ceriani,italy,irccs galeazzi orthopaed inst lab expt biochem & mol biol,ceriani c,1052
+491,,1054,CERULLI T,CERULLI,TERESA,Hosp Legnano  Microbiol Unit,I-20025 Milan,Italy,,,,,,,
+492,,1055,CAGNIN D,CAGNIN,DEBORA,Hosp Legnano  Microbiol Unit,I-20025 Milan,Italy,,,,,,,
+493,,1056,CAVALLARI S,CAVALLARI,SERENA,Hosp Legnano  Microbiol Unit,I-20025 Milan,Italy,,,,,,,
+233,1.0,1057,NDAYAKE J,NDAYAKE,JOSEPH,,,,tanguieta,joseph,ndayake,benin,st jean de dieu hosp,ndayake j,1057
+233,1.0,1058,NDAYAKE J,NDAYAKE,JOSEPH,St Jean de Dieu Hosp,Tanguieta,Benin,tanguieta,joseph,ndayake,benin,st jean de dieu hosp,ndayake j,1057
+82,1.0,1059,ZAONGO D,ZAONGO,DIEUDONNE,,,,tanguieta,dieudonne,zaongo,benin,st jean de dieu hosp,zaongo d,1059
+82,1.0,1060,ZAONGO D,ZAONGO,DIEUDONNE,St Jean de Dieu Hosp,Tanguieta,Benin,tanguieta,dieudonne,zaongo,benin,st jean de dieu hosp,zaongo d,1059
+161,1.0,1061,PRIULI G,PRIULI,GIANBATTISTA,,,,tanguieta,gianbattista,priuli,benin,st jean de dieu hosp,priuli g,1061
+161,1.0,1062,PRIULI G,PRIULI,GIANBATTISTA,St Jean de Dieu Hosp,Tanguieta,Benin,tanguieta,gianbattista,priuli,benin,st jean de dieu hosp,priuli g,1061
+171,1.0,1063,VIGANO P,VIGANO,PAOLO,,,,i-20025 milan,paolo,vigano,italy,hosp legnano dept infect dis,vigano p,1063
+171,1.0,1064,VIGANO P,VIGANO,PAOLO,Hosp Legnano  Dept Infect Dis,I-20025 Milan,Italy,i-20025 milan,paolo,vigano,italy,hosp legnano dept infect dis,vigano p,1063
+494,,1065,CLERICI P,CLERICI,PIERANGELO,Hosp Legnano  Microbiol Unit,I-20025 Milan,Italy,,,,,,,
+495,,1066,FERROUSSIER O,FERROUSSIER,O,Int Union Against TB & Lung Dis,F-75006 Paris,France,,,,,,,
+496,,1067,DLODLO R A,DLODLO,R A,Int Union Against TB & Lung Dis,F-75006 Paris,France,,,,,,,
+497,,1068,CAPOCHICHI D,CAPOCHICHI,D,,,,,,,,,,
+498,,1069,BOILLOT F,BOILLOT,F,Int Union Against TB & Lung Dis,F-75006 Paris,France,,,,,,,
+12,1.0,1070,GNINAFON M,GNINAFON,M,,,,cotonou,m,gninafon,benin,fac sci sante,gninafon m,1040
+12,0.99999996026357019,1071,GNINAFON M,GNINAFON,M,Programme Natl Lutte TB,Cotonou,Benin,cotonou,m,gninafon,benin,fac sci sante,gninafon m,1040
+499,,1072,TREBUCQ A,TREBUCQ,A,Int Union Against TB & Lung Dis,F-75006 Paris,France,,,,,,,
+500,,1073,FUJIWARA P I,FUJIWARA,P I,Int Union Against TB & Lung Dis,F-75006 Paris,France,,,,,,,
+501,,1074,DOSSOU J P,DOSSOU,JEANPAUL,,,,,,,,,,
+216,1.0,1075,ASSARAG B,ASSARAG,BOUCHRA,,,,rabat,bouchra,assarag,morocco,ecole natl sante publ rue lamfadel cherkaoui,assarag b,1075
+216,1.0,1076,ASSARAG B,ASSARAG,BOUCHRA,Ecole Natl Sante Publ  Rue Lamfadel Cherkaoui,Rabat,Morocco,rabat,bouchra,assarag,morocco,ecole natl sante publ rue lamfadel cherkaoui,assarag b,1075
+45,1.0,1077,DELAMOU A,DELAMOU,ALEXANDRE,,,,forecariah,alexandre,delamou,guinea,ctr natl format & rech sante rurale maferinyah,delamou a,1077
+45,0.99999859929084778,1078,DELAMOU A,DELAMOU,ALEXANDRE,Ctr Natl Format & Rech Sante Rurale Maferinyah,Forecariah,Guinea,forecariah,alexandre,delamou,guinea,ctr natl format & rech sante rurale maferinyah,delamou a,1077
+45,0.99999859929084778,1079,DELAMOU A,DELAMOU,ALEXANDRE,Inst Trop Med  Woman & Child Hlth Res Ctr  155 Nationalstr,B-2000 Antwerp,Belgium,forecariah,alexandre,delamou,guinea,ctr natl format & rech sante rurale maferinyah,delamou a,1077
+47,1.0,1080,VAN DER VEKEN K,VAN DER VEKEN,KAREN,,,,b-2000 antwerp,karen,van der veken,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,van der veken k,1080
+47,1.0,1081,VAN DER VEKEN K,VAN DER VEKEN,KAREN,Inst Trop Med  Woman & Child Hlth Res Ctr  155 Nationalstr,B-2000 Antwerp,Belgium,b-2000 antwerp,karen,van der veken,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,van der veken k,1080
+178,1.0,1082,BELAID L,BELAID,LOUBNA,,,,b-2000 antwerp,loubna,belaid,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,belaid l,1082
+178,0.99999651312828064,1083,BELAID L,BELAID,LOUBNA,Inst Trop Med  Woman & Child Hlth Res Ctr  155 Nationalstr,B-2000 Antwerp,Belgium,b-2000 antwerp,loubna,belaid,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,belaid l,1082
+178,0.99999651312828064,1084,BELAID L,BELAID,LOUBNA,Univ Montreal  Ecole Sante Publ  7101 Av Parc  Montreal,PQ H3N1X9,Canada,b-2000 antwerp,loubna,belaid,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,belaid l,1082
+51,1.0,1085,OUEDRAOGO M,OUEDRAOGO,MOCTAR,,,,bobo dioulasso,moctar,ouedraogo,burkina faso,agence format rech & expertise sante afrique 773 rue guillaume ouedraogo,ouedraogo m,1085
+51,1.0,1086,OUEDRAOGO M,OUEDRAOGO,MOCTAR,Agence Format Rech & Expertise Sante Afrique  773 Rue Guillaume Ouedraogo,Bobo Dioulasso,Burkina Faso,bobo dioulasso,moctar,ouedraogo,burkina faso,agence format rech & expertise sante afrique 773 rue guillaume ouedraogo,ouedraogo m,1085
+272,1.0,1087,KHALFALLAH S,KHALFALLAH,SONIA,,,,nabeul,sonia,khalfallah,tunisia,direct reg sante nabeul rue revolut,khalfallah s,1087
+272,1.0,1088,KHALFALLAH S,KHALFALLAH,SONIA,Direct Reg Sante Nabeul  Rue Revolut,Nabeul,Tunisia,nabeul,sonia,khalfallah,tunisia,direct reg sante nabeul rue revolut,khalfallah s,1087
+271,1.0,1089,AOURAS H,AOURAS,HAYET,,,,annaba,hayet,aouras,algeria,univ annaba chu registre canc annaba,aouras h,1089
+271,1.0,1090,AOURAS H,AOURAS,HAYET,Univ Annaba  CHU  Registre Canc Annaba,Annaba,Algeria,annaba,hayet,aouras,algeria,univ annaba chu registre canc annaba,aouras h,1089
+57,1.0,1091,DIADHIOU M,DIADHIOU,MOHAMED,,,,dakar,mohamed,diadhiou,senegal,maternite hop aristide le dantec ctr reg format rech & plaidoyer sante reprod,diadhiou m,1091
+57,1.0,1092,DIADHIOU M,DIADHIOU,MOHAMED,Maternite Hop Aristide Le Dantec  Ctr Reg Format Rech & Plaidoyer Sante Reprod,Dakar,Senegal,dakar,mohamed,diadhiou,senegal,maternite hop aristide le dantec ctr reg format rech & plaidoyer sante reprod,diadhiou m,1091
+281,1.0,1093,FASSASSI R,FASSASSI,RAIMI,,,,abidjan,raimi,fassassi,cote ivoire,ecole natl super stat & econ blvd mitterrand,fassassi r,1093
+281,1.0,1094,FASSASSI R,FASSASSI,RAIMI,Ecole Natl Super Stat & Econ  Blvd Mitterrand,Abidjan,Cote Ivoire,abidjan,raimi,fassassi,cote ivoire,ecole natl super stat & econ blvd mitterrand,fassassi r,1093
+286,1.0,1095,DELVAUX T,DELVAUX,THERESE,,,,b-2000 antwerp,therese,delvaux,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,delvaux t,1095
+286,1.0,1096,DELVAUX T,DELVAUX,THERESE,Inst Trop Med  Woman & Child Hlth Res Ctr  155 Nationalstr,B-2000 Antwerp,Belgium,b-2000 antwerp,therese,delvaux,belgium,inst trop med woman & child hlth res ctr 155 nationalstr,delvaux t,1095
+48,0.99999996026357019,1097,JESSON J,JESSON,JULIE,INSERM  Ctr Inserm  U897  Epidemiol Biostat,Bordeaux,France,bordeaux,julie,jesson,france,univ bordeaux ctr inserm epidemiol biostat u897 isped,jesson j,1097
+48,1.0,1098,JESSON J,JESSON,JULIE,Univ Bordeaux Segalen  INSERM  Ctr Rech  ISPED U897,F-33076 Bordeaux,France,bordeaux,julie,jesson,france,univ bordeaux ctr inserm epidemiol biostat u897 isped,jesson j,1097
+64,1.0,1099,MASSON D,MASSON,DAVID,,,,paris,david,masson,france,growing programme sidact & initiat dev,masson d,1099
+64,1.0,1100,MASSON D,MASSON,DAVID,Growing Programme Sidact & Initiat Dev,Paris,France,paris,david,masson,france,growing programme sidact & initiat dev,masson d,1099
+66,1.0,1101,ADONON A,ADONON,ARSENE,,,,cotonou,arsene,adonon,benin,racines,adonon a,1101
+66,1.0,1102,ADONON A,ADONON,ARSENE,RACINES,Cotonou,Benin,cotonou,arsene,adonon,benin,racines,adonon a,1101
+306,1.0,1103,TRAN C,TRAN,CAROLINE,,,,paris,caroline,tran,france,growing programme sidact & initiat dev,tran c,1103
+306,1.0,1104,TRAN C,TRAN,CAROLINE,Growing Programme Sidact & Initiat Dev,Paris,France,paris,caroline,tran,france,growing programme sidact & initiat dev,tran c,1103
+70,1.0,1105,HABARUGIRA C,HABARUGIRA,CAPITOLINE,,,,bujumbura,capitoline,habarugira,burundi,anss assoc natl soutien seropositifs & malad siad,habarugira c,1105
+70,1.0,1106,HABARUGIRA C,HABARUGIRA,CAPITOLINE,ANSS Assoc Natl Soutien Seropositifs & Malad Siad,Bujumbura,Burundi,bujumbura,capitoline,habarugira,burundi,anss assoc natl soutien seropositifs & malad siad,habarugira c,1105
+318,1.0,1107,ZIO R,ZIO,REJANE,,,,paris,rejane,zio,france,growing programme sidact & initiat dev,zio r,1107
+318,1.0,1108,ZIO R,ZIO,REJANE,Growing Programme Sidact & Initiat Dev,Paris,France,paris,rejane,zio,france,growing programme sidact & initiat dev,zio r,1107
+321,1.0,1109,NICIMPAYE L,NICIMPAYE,LEONCIE,,,,bujumbura,leoncie,nicimpaye,burundi,apecos,nicimpaye l,1109
+321,1.0,1110,NICIMPAYE L,NICIMPAYE,LEONCIE,APECOS,Bujumbura,Burundi,bujumbura,leoncie,nicimpaye,burundi,apecos,nicimpaye l,1109
+69,0.99999994701809358,1111,DESMONDE S,DESMONDE,SOPHIE,INSERM  Ctr Inserm  U897  Epidemiol Biostat,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+74,1.0,1112,SERURAKUBA G,SERURAKUBA,GORETH,,,,f-33076 bordeaux,goreth,serurakuba,france,univ bordeaux segalen inserm ctr rech isped u897,serurakuba g,1112
+74,0.99999743700027466,1113,SERURAKUBA G,SERURAKUBA,GORETH,Univ Bordeaux Segalen  INSERM  Ctr Rech  ISPED U897,F-33076 Bordeaux,France,f-33076 bordeaux,goreth,serurakuba,france,univ bordeaux segalen inserm ctr rech isped u897,serurakuba g,1112
+74,0.99999743700027466,1114,SERURAKUBA G,SERURAKUBA,GORETH,SWAA,Bujumbura,Burundi,f-33076 bordeaux,goreth,serurakuba,france,univ bordeaux segalen inserm ctr rech isped u897,serurakuba g,1112
+75,1.0,1115,KWAYEP R,KWAYEP,ROSINE,,,,douala,rosine,kwayep,cameroon,swaa littoral soc women aids africa,kwayep r,1115
+75,1.0,1116,KWAYEP R,KWAYEP,ROSINE,SWAA Littoral Soc Women AIDS Africa,Douala,Cameroon,douala,rosine,kwayep,cameroon,swaa littoral soc women aids africa,kwayep r,1115
+77,1.0,1117,SARE E,SARE,EDITH,,,,ivory coast,edith,sare,cote ivoire,csas bouake,sare e,1117
+77,1.0,1118,SARE E,SARE,EDITH,CSAS  Bouake,Ivory Coast,Cote Ivoire,ivory coast,edith,sare,cote ivoire,csas bouake,sare e,1117
+78,1.0,1119,KONATE T,KONATE,TIEFING,,,,bamako,tiefing,konate,mali,arcad assoc rech commun & accompagnement dominici,konate t,1119
+78,1.0,1120,KONATE T,KONATE,TIEFING,ARCAD Assoc Rech Commun & Accompagnement Dominici,Bamako,Mali,bamako,tiefing,konate,mali,arcad assoc rech commun & accompagnement dominici,konate t,1119
+80,1.0,1121,NIMAGA A,NIMAGA,ABDOULAYE,,,,sikasso,abdoulaye,nimaga,mali,aks,nimaga a,1121
+80,1.0,1122,NIMAGA A,NIMAGA,ABDOULAYE,AKS,Sikasso,Mali,sikasso,abdoulaye,nimaga,mali,aks,nimaga a,1121
+81,1.0,1123,SAINA P,SAINA,PHILEMON,,,,tchad,philemon,saina,chad,adn moundou,saina p,1123
+81,1.0,1124,SAINA P,SAINA,PHILEMON,ADN  Moundou,Tchad,Chad,tchad,philemon,saina,chad,adn moundou,saina p,1123
+83,1.0,1125,KPADE A,KPADE,AKOSSIWA,,,,lome,akossiwa,kpade,togo,amc,kpade a,1125
+83,1.0,1126,KPADE A,KPADE,AKOSSIWA,AMC,Lome,Togo,lome,akossiwa,kpade,togo,amc,kpade a,1125
+85,1.0,1127,BASSUKA A,BASSUKA,ANDREE,,,,lome,andree,bassuka,togo,evt,bassuka a,1127
+85,1.0,1128,BASSUKA A,BASSUKA,ANDREE,EVT,Lome,Togo,lome,andree,bassuka,togo,evt,bassuka a,1127
+285,1.0,1129,GOUGOUYOR G,GOUGOUYOR,GUSTAVE,,,,lome,gustave,gougouyor,togo,crips,gougouyor g,1129
+285,1.0,1130,GOUGOUYOR G,GOUGOUYOR,GUSTAVE,CRIPS,Lome,Togo,lome,gustave,gougouyor,togo,crips,gougouyor g,1129
+26,0.99999996143228864,1131,LEROY V,LEROY,VALERIANE,INSERM  Ctr Inserm  U897  Epidemiol Biostat,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999998597537765,1132,LEROY V,LEROY,VALERIANE,Univ Bordeaux Segalen  INSERM  Ctr Rech  ISPED U897,F-33076 Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+89,1.0,1133,MERLE C S,MERLE,C S,WHO  TDR,Geneva,Switzerland,geneva,c s,merle,switzerland,who tdr,merle c s,1133
+89,1.0,1134,MERLE C S,MERLE,C S,London Sch Hyg & Trop Med  IDEU,London,England,geneva,c s,merle,switzerland,who tdr,merle c s,1133
+305,1.0,1135,FLOYD S,FLOYD,S,,,,london,s,floyd,england,london sch hyg & trop med ideu,floyd s,1135
+305,1.0,1136,FLOYD S,FLOYD,S,London Sch Hyg & Trop Med  IDEU,London,England,london,s,floyd,england,london sch hyg & trop med ideu,floyd s,1135
+253,1.0,1137,NDIAYE A,NDIAYE,A,,,,dakar,a,ndiaye,senegal,natl tb programme,ndiaye a,1137
+253,1.0,1138,NDIAYE A,NDIAYE,A,Natl TB Programme,Dakar,Senegal,dakar,a,ndiaye,senegal,natl tb programme,ndiaye a,1137
+94,1.0,1139,GALPERINE T,GALPERINE,T,,,,paris,t,galperine,france,tenon hosp,galperine t,1139
+94,1.0,1140,GALPERINE T,GALPERINE,T,Tenon Hosp,Paris,France,paris,t,galperine,france,tenon hosp,galperine t,1139
+144,1.0,1141,FURCO A,FURCO,A,,,,london,a,furco,england,ucl,furco a,1141
+144,1.0,1142,FURCO A,FURCO,A,UCL,London,England,london,a,furco,england,ucl,furco a,1141
+107,1.0,1143,DE JONG B C,DE JONG,B C,,,,antwerp,b c,de jong,belgium,inst trop med,de jong b c,1143
+107,1.0,1144,DE JONG B C,DE JONG,B C,Inst Trop Med,Antwerp,Belgium,antwerp,b c,de jong,belgium,inst trop med,de jong b c,1143
+98,1.0,1145,MCILLERON H,MCILLERON,H,,,,cape town,h,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,1145
+98,1.0,1146,MCILLERON H,MCILLERON,H,Univ Cape Town  Clin Pharmacol Lab,Cape Town,South Africa,cape town,h,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,1145
+502,,1147,GLYNN J,GLYNN,J,,,,,,,,,,
+100,1.0,1148,SARR M,SARR,M,,,,dakar,m,sarr,senegal,natl tb programme,sarr m,1148
+100,1.0,1149,SARR M,SARR,M,Natl TB Programme,Dakar,Senegal,dakar,m,sarr,senegal,natl tb programme,sarr m,1148
+503,,1150,BAHSOW O,BAHSOW,O,,,,,,,,,,
+9,1.0,1151,AFFOLABI D,AFFOLABI,D,,,,cotonou,d,affolabi,benin,ctr natl hosp pneumophtisiol,affolabi d,1036
+9,0.99999996026357019,1152,AFFOLABI D,AFFOLABI,D,Natl TB Programme,Cotonou,Benin,cotonou,d,affolabi,benin,ctr natl hosp pneumophtisiol,affolabi d,1036
+189,1.0,1153,LA RUCHE G,LA RUCHE,GUY,Minist Sante  Programme Natl Lutte Contre Sida,Cotonou,Benin,cotonou,guy,la ruche,benin,minist sante programme natl lutte contre sida,la ruche g,1153
+189,1.0,1154,LA RUCHE G,LA RUCHE,GUY,Ambassade France SCAC,Cotonou,Benin,cotonou,guy,la ruche,benin,minist sante programme natl lutte contre sida,la ruche g,1153
+103,1.0,1155,AGONNOUDE M,AGONNOUDE,MAURICE,,,,cotonou,maurice,agonnoude,benin,basp 96,agonnoude m,1155
+103,1.0,1156,AGONNOUDE M,AGONNOUDE,MAURICE,BASP 96,Cotonou,Benin,cotonou,maurice,agonnoude,benin,basp 96,agonnoude m,1155
+504,,1157,HOUANGNI C,HOUANGNI,CORNEILLE,Minist Sante  Programme Natl Lutte Contre Sida,Cotonou,Benin,,,,,,,
+505,,1158,ASSANI A,ASSANI,ANTOINETTE,Minist Sante  Programme Natl Lutte Contre Sida,Cotonou,Benin,,,,,,,
+105,1.0,1159,CATRAYE J,CATRAYE,JOSEPH,,,,cotonou,joseph,catraye,benin,basp 96,catraye j,1159
+105,1.0,1160,CATRAYE J,CATRAYE,JOSEPH,BASP 96,Cotonou,Benin,cotonou,joseph,catraye,benin,basp 96,catraye j,1159
+106,0.99999994039535522,1161,ZANNOU M,ZANNOU,MARCEL,Minist Sante  Programme Natl Lutte Contre Sida,Cotonou,Benin,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+69,0.99999994701809358,1162,DESMONDE S,DESMONDE,SOPHIE,Univ Bordeaux,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+69,0.99999994701809358,1163,DESMONDE S,DESMONDE,SOPHIE,INSERM  ISPED  Ctr Inserm  Epidemiol Biostat U897,Bordeaux,France,bordeaux,sophie,desmonde,france,univ bordeaux,desmonde s,186
+108,0.99999994784593582,1164,BALESTRE E,BALESTRE,ERIC,Univ Bordeaux,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+108,0.99999994784593582,1165,BALESTRE E,BALESTRE,ERIC,INSERM  ISPED  Ctr Inserm  Epidemiol Biostat U897,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+506,,1166,AMANIBOSSE C,AMANIBOSSE,CLARISSE,,,,,,,,,,
+54,1.0,1167,AKA E A,AKA,EDMOND A,,,,abidjan,edmond a,aka,cote ivoire,ctr prise charge rech & format cepref,aka e a,1167
+54,1.0,1168,AKA E A,AKA,EDMOND A,Ctr Prise Charge Rech & Format CePReF,Abidjan,Cote Ivoire,abidjan,edmond a,aka,cote ivoire,ctr prise charge rech & format cepref,aka e a,1167
+28,0.99999966621398928,1169,KOUMAKPAI S,KOUMAKPAI,SIRIATOU,,,,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+28,0.99999922513961792,1170,KOUMAKPAI S,KOUMAKPAI,SIRIATOU,Ctr Natl Hosp Univ Hubert K Maga,Cotonou,Benin,cotonou,sikiratou,koumakpai,benin,ctr natl hosp univ hubert k maga,koumakpai s,1170
+26,0.99999996143228864,1171,LEROY V,LEROY,VALERIANE,Univ Bordeaux,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+26,0.99999996143228864,1172,LEROY V,LEROY,VALERIANE,INSERM  ISPED  Ctr Inserm  Epidemiol Biostat U897,Bordeaux,France,bordeaux,valeriane,leroy,france,univ bordeaux,leroy v,1131
+507,,1173,HAAS A D,HAAS,ANDREAS D,Univ Bern  Inst Social & Prevent Med,CH-3012 Bern,Switzerland,,,,,,,
+108,0.99999994784593582,1174,BALESTRE E,BALESTRE,ERIC,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev  INSERM  Ctr Rech U897 Epidemiol Biostat,Bordeaux,France,bordeaux,eric,balestre,france,univ bordeaux isped ctr inserm epidemiol biostat u897,balestre e,1164
+116,1.0,1175,BROWN S,BROWN,STEVE,,,,indianapolis,steve,brown,in 46202 usa,indiana univ sch med,brown s,1175
+116,1.0,1176,BROWN S,BROWN,STEVE,Indiana Univ Sch Med,Indianapolis,IN 46202 USA,indianapolis,steve,brown,in 46202 usa,indiana univ sch med,brown s,1175
+224,0.9999999304612478,1177,BISSAGNENE E,BISSAGNENE,EMMANUEL,Ctr Hosp Univ Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+119,1.0,1178,CHIMBETETE C,CHIMBETETE,CLEOPHAS,,,,harare,cleophas,chimbetete,zimbabwe,newlands clin,chimbetete c,1178
+119,1.0,1179,CHIMBETETE C,CHIMBETETE,CLEOPHAS,Newlands Clin,Harare,Zimbabwe,harare,cleophas,chimbetete,zimbabwe,newlands clin,chimbetete c,1178
+118,0.99999996493844423,1180,DABIS F,DABIS,FRANCOIS,Univ Bordeaux  Inst Sante Publ Epidemiol & Dev  INSERM  Ctr Rech U897 Epidemiol Biostat,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+287,1.0,1181,HOFFMANN C J,HOFFMANN,CHRISTOPHER J,,,,baltimore,christopher j,hoffmann,usa,johns hopkins univ,hoffmann c j,1181
+287,1.0,1182,HOFFMANN C J,HOFFMANN,CHRISTOPHER J,Johns Hopkins Univ,Baltimore,USA,baltimore,christopher j,hoffmann,usa,johns hopkins univ,hoffmann c j,1181
+287,1.0,1183,HOFFMANN C J,HOFFMANN,CHRISTOPHER J,Aurum Inst,Johannesburg,South Africa,baltimore,christopher j,hoffmann,usa,johns hopkins univ,hoffmann c j,1181
+297,1.0,1184,OYARO P,OYARO,PATRICK,,,,kisumu,patrick,oyaro,kenya,kenya govt med res ctr rctp faces program,oyaro p,1184
+297,1.0,1185,OYARO P,OYARO,PATRICK,Kenya Govt Med Res Ctr  RCTP FACES Program,Kisumu,Kenya,kisumu,patrick,oyaro,kenya,kenya govt med res ctr rctp faces program,oyaro p,1184
+508,,1186,PARKESRATANSHI R,PARKESRATANSHI,ROSALIND,,,,,,,,,,
+203,1.0,1187,REYNOLDS S J,REYNOLDS,STEVEN J,Rakai Hlth Sci Program,Entebbe,Uganda,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+203,1.0,1188,REYNOLDS S J,REYNOLDS,STEVEN J,NIAID  Div Intramural Res  NIH,Bethesda,USA,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+203,0.99999999006589257,1189,REYNOLDS S J,REYNOLDS,STEVEN J,Johns Hopkins Univ  Sch Med,Baltimore,USA,baltimore,steven j,reynolds,usa,niaid,reynolds s j,288
+25,1.0,1190,SIKAZWE I,SIKAZWE,IZUKANJI,,,,lusaka,izukanji,sikazwe,zambia,ctr infect dis res zambia,sikazwe i,1190
+25,1.0,1191,SIKAZWE I,SIKAZWE,IZUKANJI,Ctr Infect Dis Res Zambia,Lusaka,Zambia,lusaka,izukanji,sikazwe,zambia,ctr infect dis res zambia,sikazwe i,1190
+509,,1192,WOOLSKALOUSTIAN K,WOOLSKALOUSTIAN,KARA,,,,,,,,,,
+2,0.96976373689930617,1193,ZANNOU D M,ZANNOU,D MARCEL,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+2,0.97009371112032639,1194,ZANNOU D M,ZANNOU,D MARCEL,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Ctr Traitement Ambulatoire,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+132,0.99999997019767761,1195,WANDELER G,WANDELER,GILLES,Univ Bern  Inst Social & Prevent Med,CH-3012 Bern,Switzerland,ch-3012 bern,gilles,wandeler,switzerland,univ bern,wandeler g,1195
+132,1.0,1196,WANDELER G,WANDELER,GILLES,Univ Hosp Bern  Dept Infect Dis,CH-3010 Bern,Switzerland,ch-3012 bern,gilles,wandeler,switzerland,univ bern,wandeler g,1195
+132,0.99999997019767761,1197,WANDELER G,WANDELER,GILLES,Univ Bern,CH-3012 Bern,Switzerland,ch-3012 bern,gilles,wandeler,switzerland,univ bern,wandeler g,1195
+206,0.99999944368998206,1198,EGGER M,EGGER,MATTHIAS,Univ Bern  Inst Social & Prevent Med,CH-3012 Bern,Switzerland,bern,matthias,egger,switzerland,univ bern,egger m,1198
+206,0.99982738494873047,1199,EGGER M,EGGER,MATTHIAS,Univ Cape Town  Ctr Infect Dis Epidemiol & Res,ZA-7925 Cape Town,South Africa,bern,matthias,egger,switzerland,univ bern,egger m,1198
+510,,1200,ADJOVI C,ADJOVI,C,,,,,,,,,,
+511,,1201,KANHONOU L,KANHONOU,L,,,,,,,,,,
+512,,1202,VAN DAMME L,VAN DAMME,L,,,,,,,,,,
+513,,1203,RAMJEE G,RAMJEE,G,,,,,,,,,,
+514,,1204,VUYLSTEKE B,VUYLSTEKE,B,,,,,,,,,,
+515,,1205,CHANDEYING V,CHANDEYING,V,,,,,,,,,,
+516,,1206,REES H,REES,H,,,,,,,,,,
+517,,1207,SIRIVONGRANGSON P,SIRIVONGRANGSON,P,,,,,,,,,,
+518,,1208,ETTIEGNETRAORE V,ETTIEGNETRAORE,V,,,,,,,,,,
+519,,1209,UAHEOWITCHAI C,UAHEOWITCHAI,C,,,,,,,,,,
+520,,1210,KARIM S S A,KARIM,SSA,,,,,,,,,,
+521,,1211,MASSE B,MASSE,B,,,,,,,,,,
+522,,1212,PERRIENS J,PERRIENS,J,,,,,,,,,,
+523,,1213,LAGA M,LAGA,M,,,,,,,,,,
+211,0.99999994039535522,1214,JAQUET A,JAQUET,A,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,bordeaux,antoine,jaquet,france,univ bordeaux isped ctr inserm epidemiol biostat u897,jaquet a,501
+115,0.99876255110690471,1215,EKOUEVI D K,EKOUEVI,D K,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+115,0.99993454468877696,1216,EKOUEVI D K,EKOUEVI,D K,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,bordeaux,didier k,ekouevi,france,inserm u897,ekouevi d k,1215
+90,0.99999996026357019,1217,ABOUBAKRINE M,ABOUBAKRINE,M,,,,bamako,maiga,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,1217
+90,0.99999994039535522,1218,ABOUBAKRINE M,ABOUBAKRINE,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,maiga,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,1217
+7,0.99999992336545673,1219,BASHI J,BASHI,J,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,j,bashi,benin,pnls,bashi j,1219
+278,0.99999960263570153,1220,MESSOU E,MESSOU,E,ACONDA Ctr Prise Charge Rech & Format,Abidjan,Cote Ivoire,abidjan,eugene,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,407
+303,0.99999961256980896,1221,TRAORE H A,TRAORE,H A,Hop du Point G  Ctr Prise Charge Personnes Vivant Avec VIH,Bamako,Mali,bamako,h a,traore,mali,hop point g ctr prise charge personnes vivant avec vih,traore h a,625
+106,0.99999994039535522,1222,ZANNOU M,ZANNOU,M,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,marcel,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,648
+96,0.99999996026357019,1223,GUEHI C,GUEHI,C,,,,abidjan,calixte,guehi,cote ivoire,usac,guehi c,1223
+96,0.99999994039535522,1224,GUEHI C,GUEHI,C,Unite Soins Ambulatoires & Conseil,Abidjan,Cote Ivoire,abidjan,calixte,guehi,cote ivoire,usac,guehi c,1223
+151,1.0,1225,BAGOMIS F O,BAGOMIS,F O,,,,,franck olivier,bagomis,,,bagomis f o,631
+109,0.99999991804361343,1226,MINGA A,MINGA,A,Ctr Natl Transfus Sanguine  Ctr Med Suivi Donneurs Sang  PRIMO CI,Abidjan,Cote Ivoire,abidjan,albert,minga,cote ivoire,cmsds,minga a,1226
+160,0.99999996026357019,1227,ALLOU G,ALLOU,G,,,,abidjan,gerard,allou,cote ivoire,chu treichville programme pac ci,allou g,1227
+160,0.99999994039535522,1228,ALLOU G,ALLOU,G,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,abidjan,gerard,allou,cote ivoire,chu treichville programme pac ci,allou g,1227
+221,0.99999878803888953,1229,EHOLIE S P,EHOLIE,S P,,,,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+221,0.99999745686848962,1230,EHOLIE S P,EHOLIE,S P,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,serge paul,eholie,cote ivoire,chu treichville serv malad infect & trop,eholie s p,315
+118,0.9999999474076664,1231,DABIS F,DABIS,F,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,bordeaux,francois,dabis,france,univ bordeaux isped ctr inserm epidemiol biostat u897,dabis f,1231
+224,0.99999992052714026,1232,BISSAGNENE E,BISSAGNENE,E,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,emmanuel,bissagnene,cote ivoire,chu treichville serv malad infect & trop,bissagnene e,1177
+222,0.99999751150608063,1233,SASCO A J,SASCO,A J,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,bordeaux,annie j,sasco,france,univ bordeaux isped ctr inserm epidemiol biostat u897,sasco a j,316
+2,0.96797007176934224,1234,ZANNOU D M,ZANNOU,D M,Ambulatory Treatment Ctr PLWHIV CNHU,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+524,,1235,ALAYE O M,ALAYE,O M,Ambulatory Treatment Ctr PLWHIV CNHU,Cotonou,Benin,,,,,,,
+5,0.99999791383743286,1236,AKAKPO J,AKAKPO,J,Ambulatory Treatment Ctr PLWHIV CNHU,Cotonou,Benin,cotonou,jocelyn,akakpo,benin,ctr natl hosp,akakpo j,7
+157,1.0,1237,AZON D,AZON,D,,,,cotonou,d,azon,benin,natl program fight aids,azon d,1237
+157,1.0,1238,AZON D,AZON,D,Natl Program Fight AIDS,Cotonou,Benin,cotonou,d,azon,benin,natl program fight aids,azon d,1237
+152,0.99999996026357019,1239,AKINOCHO E,AKINOCHO,E,,,,cotonou,evelyne,akinocho,benin,programme natl lutte sida & les ist,akinocho e,716
+152,0.99999994039535522,1240,AKINOCHO E,AKINOCHO,E,Natl Program Fight AIDS,Cotonou,Benin,cotonou,evelyne,akinocho,benin,programme natl lutte sida & les ist,akinocho e,716
+127,0.995034,1241,ANAGONOUY S,ANAGONOUY,S,,,,,sy,anagonou,,,anagonou s y,165
+525,,1242,ABEGA S C,ABEGA,SC,,,,,,,,,,
+526,,1243,DONNE G D,DONNE,GNONLONFOUN DIEU,,,,,,,,,,
+527,,1244,CONSTANT A,CONSTANT,ADJIEN,,,,,,,,,,
+528,,1245,THIERRY A,THIERRY,ADOUKONOU,,,,,,,,,,
+529,,1246,DISMAND H,DISMAND,HOUINATO,,,,,,,,,,
+530,,1247,GILBERT A,GILBERT,AVODE,,,,,,,,,,
+162,1.0,1248,PARSONS M S,PARSONS,MATTHEW S,McGill Univ  Res Inst  Ctr Hlth  Montreal,PQ H3G 1A4,Canada,pq h3g 1a4,matthew s,parsons,canada,mcgill univ res inst ctr hlth montreal,parsons m s,1248
+162,1.0,1249,PARSONS M S,PARSONS,MATTHEW S,Univ Melbourne  Dept Microbiol & Immunol  Parkville,Vic 3052,Australia,pq h3g 1a4,matthew s,parsons,canada,mcgill univ res inst ctr hlth montreal,parsons m s,1248
+142,1.0,1250,CENTER R J,CENTER,ROBERT J,,,,vic 3052,robert j,center,australia,univ melbourne dept microbiol & immunol parkville,center r j,1250
+142,1.0,1251,CENTER R J,CENTER,ROBERT J,Univ Melbourne  Dept Microbiol & Immunol  Parkville,Vic 3052,Australia,vic 3052,robert j,center,australia,univ melbourne dept microbiol & immunol parkville,center r j,1250
+531,,1252,ROUTY J P,ROUTY,JEANPIERRE,,,,,,,,,,
+166,1.0,1253,ROULEAU D,ROULEAU,DANIELLE,,,,pq,danielle,rouleau,canada,ctr hosp univ montreal dept microbiol montreal,rouleau d,1253
+166,0.99999997019767761,1254,ROULEAU D,ROULEAU,DANIELLE,Ctr Hosp Univ Montreal  Dept Microbiol  Montreal,PQ,Canada,pq,danielle,rouleau,canada,ctr hosp univ montreal dept microbiol montreal,rouleau d,1253
+166,0.99999997019767761,1255,ROULEAU D,ROULEAU,DANIELLE,Ctr Hosp Univ Montreal  Dept Infectiol  Montreal,PQ,Canada,pq,danielle,rouleau,canada,ctr hosp univ montreal dept microbiol montreal,rouleau d,1253
+27,1.0,1256,LEBLANC R,LEBLANC,ROGER,McGill Univ  Res Inst  Ctr Hlth  Montreal,PQ H3G 1A4,Canada,pq h3g 1a4,roger,leblanc,canada,mcgill univ res inst ctr hlth montreal,leblanc r,1256
+27,1.0,1257,LEBLANC R,LEBLANC,ROGER,Clin LORI  Montreal,PQ,Canada,pq h3g 1a4,roger,leblanc,canada,mcgill univ res inst ctr hlth montreal,leblanc r,1256
+279,1.0,1258,WAINBERG M A,WAINBERG,MARK A,,,,pq h3t 1e2,mark a,wainberg,canada,mcgill univ jewish gen hosp aids ctr lady davis inst montreal,wainberg m a,1258
+279,1.0,1259,WAINBERG M A,WAINBERG,MARK A,McGill Univ  Jewish Gen Hosp  AIDS Ctr  Lady Davis Inst  Montreal,PQ H3T 1E2,Canada,pq h3t 1e2,mark a,wainberg,canada,mcgill univ jewish gen hosp aids ctr lady davis inst montreal,wainberg m a,1258
+302,1.0,1260,TREMBLAY C L,TREMBLAY,CECILE L,,,,pq,cecile l,tremblay,canada,ctr rech ctr hosp univ montreal hop st luc montreal,tremblay c l,1260
+302,1.0,1261,TREMBLAY C L,TREMBLAY,CECILE L,Ctr Rech Ctr Hosp Univ Montreal  Hop St Luc  Montreal,PQ,Canada,pq,cecile l,tremblay,canada,ctr rech ctr hosp univ montreal hop st luc montreal,tremblay c l,1260
+2,0.84627084179622369,1262,ZANNOU M D,ZANNOU,MARCEL D,Univ Abomey Calavi  Fac Sci Sante,Cotonou,Benin,cotonou,djimon marcel,zannou,benin,cta,zannou d m,4
+174,1.0,1263,KENT S J,KENT,STEPHEN J,,,,vic 3052,stephen j,kent,australia,univ melbourne dept microbiol & immunol parkville,kent s j,1263
+174,1.0,1264,KENT S J,KENT,STEPHEN J,Univ Melbourne  Dept Microbiol & Immunol  Parkville,Vic 3052,Australia,vic 3052,stephen j,kent,australia,univ melbourne dept microbiol & immunol parkville,kent s j,1263
+283,1.0,1265,GRANT M D,GRANT,MICHAEL D,,,,nf,michael d,grant,canada,mem univ newfoundland fac med div biomed sci immunol & infect dis program st john,grant m d,1265
+283,1.0,1266,GRANT M D,GRANT,MICHAEL D,Mem Univ Newfoundland  Fac Med  Div Biomed Sci  Immunol & Infect Dis Program  St John,NF,Canada,nf,michael d,grant,canada,mem univ newfoundland fac med div biomed sci immunol & infect dis program st john,grant m d,1265
+226,1.0,1267,BERNARD N F,BERNARD,NICOLE F,McGill Univ  Res Inst  Ctr Hlth  Montreal,PQ H3G 1A4,Canada,pq h3g 1a4,nicole f,bernard,canada,mcgill univ res inst ctr hlth montreal,bernard n f,1267
+226,1.0,1268,BERNARD N F,BERNARD,NICOLE F,McGill Univ  Div Expt Med  Montreal,PQ H3G 1A4,Canada,pq h3g 1a4,nicole f,bernard,canada,mcgill univ res inst ctr hlth montreal,bernard n f,1267

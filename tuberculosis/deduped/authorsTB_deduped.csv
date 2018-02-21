@@ -1,0 +1,444 @@
+Cluster ID,confidence_score,Id,init_name,last_name,first_name,affiliation,city,country,canonical_city,canonical_first_name,canonical_last_name,canonical_country,canonical_affiliation,canonical_init_name,canonical_Id
+0,0.984479638,1,AFFOLABI D,AFFOLABI,DISSOU,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.968721934,2,AFFOLABI D,AFFOLABI,DISSOU,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.983101384,25,AFFOLABI D,AFFOLABI,DISSOU,Natl TB Programme,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.98723412,64,AFFOLABI D,AFFOLABI,D,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.986547542,65,AFFOLABI D,AFFOLABI,D,Fac Sci Sante,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.989861548,69,AFFOLABI D,AFFOLABI,D,,,,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.984561427,70,AFFOLABI D,AFFOLABI,D,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.972424908,82,AFFOLABI D,AFFOLABI,DISSOU,Inst Trop Med,Antwerp,Belgium,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.968333447,99,AFFOLABI D,AFFOLABI,D,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.982607981,129,AFFOLABI D,AFFOLABI,DISSOU,Nat TB Programme,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.983144391,176,AFFOLABI D,AFFOLABI,D,Natl TB Programme,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.989997566,185,AFFOLABI D,AFFOLABI,DISSOU,,,,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.986047331,247,AFFOLABI D,AFFOLABI,D,Programme Natl TB,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.983620898,277,AFFOLABI D,AFFOLABI,D,Natl TB Programme  BP321,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.988202715,313,AFFOLABI D,AFFOLABI,D,Abomey Calavi Univ  Fac Hlth Sci,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+0,0.986029383,423,AFFOLABI D,AFFOLABI,DISSOU,Programme Natl TB,Cotonou,Benin,cotonou,d,affolabi,benin,nat tb programme,affolabi d,2
+1,0.987586021,3,ODOUN M,ODOUN,MATHIEU,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,m,odoun,benin,lab reference mycobacteries,odoun m,3
+1,0.989885867,72,ODOUN M,ODOUN,M,,,,cotonou,m,odoun,benin,lab reference mycobacteries,odoun m,3
+1,0.987393305,73,ODOUN M,ODOUN,M,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,m,odoun,benin,lab reference mycobacteries,odoun m,3
+1,0.991056636,250,ODOUN M,ODOUN,M,Programme Natl TB,Cotonou,Benin,cotonou,m,odoun,benin,lab reference mycobacteries,odoun m,3
+1,0.990136057,305,ODOUN M,ODOUN,MATHIEU,,,,cotonou,m,odoun,benin,lab reference mycobacteries,odoun m,3
+2,0.990431,4,SANOUSSI N,SANOUSSI,NDIRA,,,,cotonou,ndira,sanoussi,benin,lab reference mycobacteries,sanoussi n,4
+2,0.990431,103,SANOUSSI N,SANOUSSI,N,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,ndira,sanoussi,benin,lab reference mycobacteries,sanoussi n,4
+3,0.989385486,5,MARTIN A,MARTIN,ANANDI,,,,antwerp,anandi,martin,belgium,univ ghent dept biochem & microbiol microbiol lab,martin a,395
+3,0.973288854,6,MARTIN A,MARTIN,ANANDI,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,anandi,martin,belgium,univ ghent dept biochem & microbiol microbiol lab,martin a,395
+3,0.967155715,7,MARTIN A,MARTIN,ANANDI,Med Sans Frontieres,Paris,France,antwerp,anandi,martin,belgium,univ ghent dept biochem & microbiol microbiol lab,martin a,395
+3,0.967403948,395,MARTIN A,MARTIN,ANANDI,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium,antwerp,anandi,martin,belgium,univ ghent dept biochem & microbiol microbiol lab,martin a,395
+4,0.989385486,8,PALOMINO J C,PALOMINO,JUAN CARLOS,,,,antwerp,juan carlos,palomino,belgium,inst trop med mycobacteriol unit,palomino j c,419
+4,0.977499187,9,PALOMINO J C,PALOMINO,JUAN CARLOS,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,juan carlos,palomino,belgium,inst trop med mycobacteriol unit,palomino j c,419
+4,0.977499187,419,PALOMINO J C,PALOMINO,JUAN CARLOS,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium,antwerp,juan carlos,palomino,belgium,inst trop med mycobacteriol unit,palomino j c,419
+5,0.989953399,10,KESTENS L,KESTENS,LUC,,,,antwerp,luc,kestens,belgium,inst trop med immunol unit,kestens l,10
+5,0.983753368,11,KESTENS L,KESTENS,LUC,Inst Trop Med  Immunol Unit,Antwerp,Belgium,antwerp,luc,kestens,belgium,inst trop med immunol unit,kestens l,10
+5,0.984009832,90,KESTENS L,KESTENS,LUC,Inst Trop Med,Antwerp,Belgium,antwerp,luc,kestens,belgium,inst trop med immunol unit,kestens l,10
+5,0.990237355,108,KESTENS L,KESTENS,L,,,,antwerp,luc,kestens,belgium,inst trop med immunol unit,kestens l,10
+5,0.984365895,109,KESTENS L,KESTENS,L,Inst Trop Med  Immunol Unit,Antwerp,Belgium,antwerp,luc,kestens,belgium,inst trop med immunol unit,kestens l,10
+6,0.990162748,12,ANAGONOU S,ANAGONOU,SEVERIN,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.989146429,26,ANAGONOU S,ANAGONOU,SEVERIN,Natl TB Programme,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.991825855,35,ANAGONOU S,ANAGONOU,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.991275746,66,ANAGONOU S,ANAGONOU,S,Fac Sci Sante,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.989885867,78,ANAGONOU S,ANAGONOU,S,,,,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.990098774,79,ANAGONOU S,ANAGONOU,S,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.989985943,96,ANAGONOU S,ANAGONOU,SEVERIN,,,,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.990275931,97,ANAGONOU S,ANAGONOU,SEVERIN,Programme Natl TB,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.989049464,130,ANAGONOU S,ANAGONOU,SEVERIN,Nat TB Programme,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.99019053,255,ANAGONOU S,ANAGONOU,S,Programme Natl TB,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+6,0.988967013,286,ANAGONOU S,ANAGONOU,S,Natl TB Programme  BP321,Cotonou,Benin,cotonou,s,anagonou,benin,nat tb programme,anagonou s,255
+7,0.989774871,13,PORTAELS F,PORTAELS,FRANCOISE,,,,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+7,0.984377313,14,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+7,0.982567298,91,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med,Antwerp,Belgium,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+7,0.990164256,110,PORTAELS F,PORTAELS,F,,,,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+7,0.985027897,111,PORTAELS F,PORTAELS,F,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+7,0.986445475,239,PORTAELS F,PORTAELS,FRANCOISE,Inst Trop Med  Dept Microbiol,Antwerp,Belgium,antwerp,francoise,portaels,belgium,inst trop med,portaels f,110
+8,0.979217485,15,ADE S,ADE,SERGE,Natl TB Programme,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.984127879,62,ADE S,ADE,S,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.979203939,123,ADE S,ADE,SERGE,Nat TB Programme,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.979099065,124,ADE S,ADE,SERGE,Univ Parakou  Fac Med,Parakou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.97279875,125,ADE S,ADE,SERGE,Int Union TB & Lung Dis,Paris,France,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.981434613,274,ADE S,ADE,S,Natl TB Programme  BP321,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.976574712,275,ADE S,ADE,S,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.972140171,276,ADE S,ADE,S,Int Union TB & Lung Dis,Paris,France,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+8,0.979170278,292,ADE S,ADE,S,Natl TB Programme,Cotonou,Benin,cotonou,s,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade s,124
+9,0.991922299,16,HARRIES A D,HARRIES,ANTHONY D,,,,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.978790621,17,HARRIES A D,HARRIES,ANTHONY D,Int Union TB & Lung Dis,Paris,France,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.98262612,18,HARRIES A D,HARRIES,ANTHONY D,London Sch Hyg & Trop Med,London,England,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.991288096,287,HARRIES A D,HARRIES,A D,,,,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.975432406,288,HARRIES A D,HARRIES,A D,Int Union TB & Lung Dis,Paris,France,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.981259704,289,HARRIES A D,HARRIES,A D,London Sch Hyg & Trop Med,London,England,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+9,0.974795302,291,HARRIES A D,HARRIES,A D,London Sch Hyg & Trop Med  Fac Infect & Trop Dis  Dept Clin Res,London,England,london,a d,harries,england,london sch hyg & trop med fac infect & trop dis dept clin res,harries a d,18
+10,0.990235597,19,TREBUCQ A,TREBUCQ,ARNAUD,,,,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.983229965,20,TREBUCQ A,TREBUCQ,ARNAUD,Int Union TB & Lung Dis,Paris,France,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.985926112,118,TREBUCQ A,TREBUCQ,A,Int Union Against TB & Lung Dis,Paris,France,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.98972553,120,TREBUCQ A,TREBUCQ,A,,,,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.982958059,244,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis  Dept TB Control & Prevent,Paris,France,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.982206682,257,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis,Paris,France,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+10,0.982206682,361,TREBUCQ A,TREBUCQ,A,Int Union TB & Lung Dis,Paris,France,paris,a,trebucq,france,int union tb & lung dis,trebucq a,20
+11,0.989385,21,HINDERAKER S G,HINDERAKER,SVEN GUDMUND,,,,bergen,sven gudmund,hinderaker,norway,univ bergen,hinderaker s g,21
+11,0.989385,22,HINDERAKER S G,HINDERAKER,SVEN GUDMUND,Univ Bergen,Bergen,Norway,bergen,sven gudmund,hinderaker,norway,univ bergen,hinderaker s g,21
+12,0.988165773,23,ADE G,ADE,GABRIEL,Natl TB Programme,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.98907312,60,ADE G,ADE,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.988825992,61,ADE G,ADE,G,Fac Sci Sante,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.988705344,126,ADE G,ADE,GABRIEL,Nat TB Programme,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.989635676,211,ADE G,ADE,G,,,,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.989124782,212,ADE G,ADE,G,Ctr Natl Hosp Pneumophysiol,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.990064427,223,ADE G,ADE,G,Fac Sci Sante Cotonou,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.988456301,284,ADE G,ADE,G,Natl TB Programme  BP321,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+12,0.987384893,285,ADE G,ADE,G,Ctr Natl Hosp Univ Hubert Koutoukou Maga  Serv Med Interne,Cotonou,Benin,cotonou,g,ade,benin,ctr natl hosp univ hubert koutoukou maga serv med interne,ade g,211
+13,0.98721,24,AGODOKPESSI G,AGODOKPESSI,GILDAS,Natl TB Programme,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+13,0.991739511,58,AGODOKPESSI G,AGODOKPESSI,G,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+13,0.988922048,59,AGODOKPESSI G,AGODOKPESSI,G,Fac Sci Sante,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+13,0.987847054,127,AGODOKPESSI G,AGODOKPESSI,GILDAS,Nat TB Programme,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+13,0.989962935,222,AGODOKPESSI G,AGODOKPESSI,G,Fac Sci Sante Cotonou,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+13,0.987350965,278,AGODOKPESSI G,AGODOKPESSI,G,Natl TB Programme  BP321,Cotonou,Benin,cotonou,g,agodokpessi,benin,natl tb programme,agodokpessi g,222
+14,0.989385,28,MASSEREY E,MASSEREY,E,,,,vaud,e,masserey,switzerland,serv sante publ,masserey e,28
+14,0.989385,29,MASSEREY E,MASSEREY,E,Serv Sante Publ,Vaud,Switzerland,vaud,e,masserey,switzerland,serv sante publ,masserey e,28
+15,0.991422,30,ADJONOU C,ADJONOU,C,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,c,adjonou,benin,ctr natl hosp pneumophtisiol,adjonou c,30
+15,0.991422,420,ADJONOU C,ADJONOU,CHRISTINE,Natl TB Programme,Cotonou,Benin,cotonou,c,adjonou,benin,ctr natl hosp pneumophtisiol,adjonou c,30
+16,0.989385,31,GBENAGNON G,GBENAGNON,G,,,,akron,g,gbenagnon,benin,ctr hosp pneumophtisiol akron,gbenagnon g,31
+16,0.989385,32,GBENAGNON G,GBENAGNON,G,Ctr Hosp Pneumophtisiol Akron,Akron,Benin,akron,g,gbenagnon,benin,ctr hosp pneumophtisiol akron,gbenagnon g,31
+17,0.989385,33,SCHWOEBEL V,SCHWOEBEL,V,,,,paris,v,schwoebel,france,int union tb & lung dis,schwoebel v,33
+17,0.989385,34,SCHWOEBEL V,SCHWOEBEL,V,Int Union TB & Lung Dis,Paris,France,paris,v,schwoebel,france,int union tb & lung dis,schwoebel v,33
+18,0.989385,36,ZELLWEGER J P,ZELLWEGER,J P,,,,bern,j p,zellweger,switzerland,ligue pulm suisse,zellweger j p,36
+18,0.989385,264,ZELLWEGER J P,ZELLWEGER,J P,Ligue Pulm Suisse,Bern,Switzerland,bern,j p,zellweger,switzerland,ligue pulm suisse,zellweger j p,36
+19,0.984616697,38,MERLE C S,MERLE,CORINNE S,,,,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.971787855,39,MERLE C S,MERLE,CORINNE S,Univ London London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.970170729,131,MERLE C S,MERLE,CORINNE S,London Sch Hyg & Trop Med,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.952158175,158,MERLE C S,MERLE,C S,WHO  TDR,Geneva,Switzerland,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.977066167,159,MERLE C S,MERLE,C S,London Sch Hyg & Trop Med  IDEU,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.981860802,193,MERLE C,MERLE,CORINNE,,,,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.963069774,194,MERLE C,MERLE,CORINNE,London Sch Hyg & Trop Med,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.956103519,229,MERLE C S C,MERLE,CORINNE S C,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+19,0.960386738,270,MERLE C,MERLE,CORINNE,London Sch Hyg & Trop Med  Dept Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England,london,corinne s c,merle,england,london sch hyg & trop med fac epidemiol & populat hlth trop epidemiol grp,merle c s,193
+20,0.989385486,40,RUSTOMJEE R,RUSTOMJEE,ROXANA,,,,durban,roxana,rustomjee,south africa,mrc unit clin & biomed tb res,rustomjee r,41
+20,0.956282814,41,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC  Unit Clin & Biomed TB Res,Durban,South Africa,durban,roxana,rustomjee,south africa,mrc unit clin & biomed tb res,rustomjee r,41
+20,0.959351858,148,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC,Durban,South Africa,durban,roxana,rustomjee,south africa,mrc unit clin & biomed tb res,rustomjee r,41
+20,0.933750749,241,RUSTOMJEE R,RUSTOMJEE,ROXANA,MRC  Unit Clin & Biomed TB Res,Overport,South Africa,durban,roxana,rustomjee,south africa,mrc unit clin & biomed tb res,rustomjee r,41
+21,0.99001326,42,GNINAFON M,GNINAFON,MARTIN,,,,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.98945332,43,GNINAFON M,GNINAFON,MARTIN,Programme Natl Lutte TB,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.98880959,67,GNINAFON M,GNINAFON,M,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.990193697,68,GNINAFON M,GNINAFON,M,Fac Sci Sante,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989856316,116,GNINAFON M,GNINAFON,M,,,,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989328316,117,GNINAFON M,GNINAFON,M,Programme Natl Lutte TB,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.988952119,135,GNINAFON M,GNINAFON,MARTIN,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.992439784,186,GNINAFON M,GNINAFON,MARTIN,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989404917,210,GNINAFON M,GNINAFON,M,Ctr Natl Hosp Pneumophysiol,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.991365772,228,GNINAFON M,GNINAFON,M,Fac Sci Sante Cotonou,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989136118,233,GNINAFON M,GNINAFON,MARTIN,Ctr Natl Hosp Pneumo Phtisiol,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989090461,256,GNINAFON M,GNINAFON,M,Programme Natl TB,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.991501143,267,GNINAFON M,GNINAFON,M,Natl TB Programme,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+21,0.989184329,433,GNINAFON M,GNINAFON,MARTIN,Programme Natl TB,Cotonou,Benin,cotonou,m,gninafon,benin,ctr natl hosp pneumophtisiol,gninafon m,43
+22,0.989587933,44,LO M B,LO,MAME BOCAR,,,,dakar,mame bocar,lo,senegal,programme natl lutte tb,lo m b,136
+22,0.970655248,45,LO M B,LO,MAME BOCAR,Programme Natl Lutte TB,Dakar,Senegal,dakar,mame bocar,lo,senegal,programme natl lutte tb,lo m b,136
+22,0.989689156,136,LO M B,LO,MAME B,,,,dakar,mame bocar,lo,senegal,programme natl lutte tb,lo m b,136
+22,0.971310422,137,LO M B,LO,MAME B,Programme Natl Lutte TB,Dakar,Senegal,dakar,mame bocar,lo,senegal,programme natl lutte tb,lo m b,136
+22,0.958865866,235,LO M B,LO,MAME BOCAR,Programme Natl Lutte TB  Dakar,Fann,Senegal,dakar,mame bocar,lo,senegal,programme natl lutte tb,lo m b,136
+23,0.990431,46,BAHSOW O,BAHSOW,OUMOU,,,,,oumou,bahsow,,,bahsow o,46
+23,0.990431,175,BAHSOW O,BAHSOW,O,,,,,oumou,bahsow,,,bahsow o,46
+24,0.98502481,47,OLLIARO P L,OLLIARO,PIERO L,,,,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.922982444,48,OLLIARO P L,OLLIARO,PIERO L,WHO  UNICEF  UNDP  World Bank WHO Special Programme Res & Training T,Zurich,Switzerland,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.971167425,156,OLLIARO P L,OLLIARO,PIERO L,WHO  Special Program Res & Training Trop Dis,Geneva,Switzerland,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.983571251,195,OLLIARO P,OLLIARO,PIERO,,,,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.966585239,196,OLLIARO P,OLLIARO,PIERO,WHO  Special Programme Res & Training Trop Dis TDR  UNICEF  UNDP World Bank,Geneva,Switzerland,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.953472336,240,OLLIARO P,OLLIARO,PIERO,WHO  TDR,Geneva,Switzerland,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+24,0.965824495,272,OLLIARO P L,OLLIARO,PIERO L,WHO  UNICEF UNDP World Bank WHO Special Programme Res,Geneva,Switzerland,geneva,piero l,olliaro,switzerland,who tdr,olliaro p l,196
+25,0.989385486,49,LIENHARDT C,LIENHARDT,CHRISTIAN,,,,paris,christian,lienhardt,france,ird,lienhardt c,242
+25,0.96690172,50,LIENHARDT C,LIENHARDT,CHRISTIAN,IRD,Paris,France,paris,christian,lienhardt,france,ird,lienhardt c,242
+25,0.966768682,157,LIENHARDT C,LIENHARDT,CHRISTIAN,Inst Rech Dev,Marseille,France,paris,christian,lienhardt,france,ird,lienhardt c,242
+25,0.957695469,242,LIENHARDT C,LIENHARDT,CHRISTIAN,WHO Stop TB Partnership 213,Geneva,Switzerland,paris,christian,lienhardt,france,ird,lienhardt c,242
+25,0.969279155,273,LIENHARDT C,LIENHARDT,CHRISTIAN,Inst Rech Dev,Paris,France,paris,christian,lienhardt,france,ird,lienhardt c,242
+26,0.989385,51,HORTON J,HORTON,JOHN,,,,hitchin,john,horton,england,trop projects,horton j,51
+26,0.989385,52,HORTON J,HORTON,JOHN,Trop Projects,Hitchin,England,hitchin,john,horton,england,trop projects,horton j,51
+27,0.988743742,54,MCILLERON H,MCILLERON,HELEN,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa,cape town,helen,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,170
+27,0.989510556,55,MCILLERON H,MCILLERON,HELEN,Univ Cape Town  Inst Infect Dis & Mol Med,Cape Town,South Africa,cape town,helen,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,170
+27,0.99008282,170,MCILLERON H,MCILLERON,H,,,,cape town,helen,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,170
+27,0.988688648,171,MCILLERON H,MCILLERON,H,Univ Cape Town  Clin Pharmacol Lab,Cape Town,South Africa,cape town,helen,mcilleron,south africa,univ cape town clin pharmacol lab,mcilleron h,170
+28,0.989385,56,SIMONSSON U S H,SIMONSSON,ULRIKA S H,,,,uppsala,ulrika s h,simonsson,sweden,uppsala univ dept pharmaceut biosci,simonsson u s h,56
+28,0.989385,57,SIMONSSON U S H,SIMONSSON,ULRIKA S H,Uppsala Univ  Dept Pharmaceut Biosci,Uppsala,Sweden,uppsala,ulrika s h,simonsson,sweden,uppsala univ dept pharmaceut biosci,simonsson u s h,56
+29,0.907745083,63,WACHINOU A P,WACHINOU,A P,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.924020112,128,WACHINOU P,WACHINOU,PRUDENCE,Nat TB Programme,Cotonou,Benin,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.892960976,220,WACHINOU A P,WACHINOU,A P,,,,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.909978161,221,WACHINOU A P,WACHINOU,A P,Natl Hosp TB & Lung Dis,Cotonou,Benin,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.917188793,253,WACHINOU P,WACHINOU,P,,,,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.929080635,254,WACHINOU P,WACHINOU,P,Programme Natl TB,Cotonou,Benin,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+29,0.928229133,279,WACHINOU P,WACHINOU,P,Natl TB Programme  BP321,Cotonou,Benin,cotonou,p,wachinou,benin,nat tb programme,wachinou p,220
+30,0.989385,74,SENOU N,SENOU,N,,,,cotonou,n,senou,benin,lab reference mycobacteries,senou n,74
+30,0.989385,75,SENOU N,SENOU,N,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,n,senou,benin,lab reference mycobacteries,senou n,74
+31,0.989385,76,LIGALI M A,LIGALI,M ALI,,,,cotonou,m ali,ligali,benin,lab reference mycobacteries,ligali m a,76
+31,0.989385,77,LIGALI M A,LIGALI,M ALI,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,m ali,ligali,benin,lab reference mycobacteries,ligali m a,76
+32,0.964992,80,VAN DEUN A,VAN DEUN,A,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,a,van deun,belgium,inst trop med mycobacteriol unit,van deun a,80
+32,0.964992,81,VAN DEUN A,VAN DEUN,A,Int Union TB & Lung Dis,Paris,France,antwerp,a,van deun,belgium,inst trop med mycobacteriol unit,van deun a,80
+33,0.986967385,83,FAIHUN F,FAIHUN,FRANK,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,frank,faihun,benin,lab reference mycobacteries,faihun f,102
+33,0.987076759,102,FAIHUN F,FAIHUN,F,Lab Reference Mycobacteries,Cotonou,Benin,cotonou,frank,faihun,benin,lab reference mycobacteries,faihun f,102
+33,0.992207706,280,FAIHUN F,FAIHUN,F,Natl TB Programme  BP321,Cotonou,Benin,cotonou,frank,faihun,benin,lab reference mycobacteries,faihun f,102
+33,0.99008282,304,FAIHUN F,FAIHUN,FRANK,,,,cotonou,frank,faihun,benin,lab reference mycobacteries,faihun f,102
+34,0.990065575,84,ANYO G,ANYO,GLADYS,,,,antwerp,gladys,anyo,belgium,inst trop med,anyo g,100
+34,0.986339748,85,ANYO G,ANYO,GLADYS,Inst Trop Med,Antwerp,Belgium,antwerp,gladys,anyo,belgium,inst trop med,anyo g,100
+34,0.990065575,100,ANYO G,ANYO,G,,,,antwerp,gladys,anyo,belgium,inst trop med,anyo g,100
+34,0.986339748,101,ANYO G,ANYO,G,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,gladys,anyo,belgium,inst trop med,anyo g,100
+35,0.991583943,86,SHAMPUTA I C,SHAMPUTA,ISDORE CHOLA,,,,antwerp,isdore chola,shamputa,belgium,inst trop med,shamputa i c,104
+35,0.988728364,87,SHAMPUTA I C,SHAMPUTA,ISDORE CHOLA,Inst Trop Med,Antwerp,Belgium,antwerp,isdore chola,shamputa,belgium,inst trop med,shamputa i c,104
+35,0.991583943,104,SHAMPUTA I C,SHAMPUTA,I C,,,,antwerp,isdore chola,shamputa,belgium,inst trop med,shamputa i c,104
+35,0.988728364,105,SHAMPUTA I C,SHAMPUTA,I C,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,isdore chola,shamputa,belgium,inst trop med,shamputa i c,104
+36,0.990106821,88,RIGOUTS L,RIGOUTS,LEEN,,,,antwerp,leen,rigouts,belgium,inst trop med,rigouts l,106
+36,0.986404538,89,RIGOUTS L,RIGOUTS,LEEN,Inst Trop Med,Antwerp,Belgium,antwerp,leen,rigouts,belgium,inst trop med,rigouts l,106
+36,0.990106821,106,RIGOUTS L,RIGOUTS,L,,,,antwerp,leen,rigouts,belgium,inst trop med,rigouts l,106
+36,0.986404538,107,RIGOUTS L,RIGOUTS,L,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,antwerp,leen,rigouts,belgium,inst trop med,rigouts l,106
+37,0.980639,92,LAOKRI S,LAOKRI,SAMIA,Univ Libre Bruxelles,Brussels,Belgium,brussels,samia,laokri,belgium,univ libre bruxelles,laokri s,92
+37,0.980639,434,LAOKRI S,LAOKRI,SAMIA,Univ Libre Brussels  Sch Publ Hlth  Res Ctr Hlth Policy & Syst Int Hlth,Brussels,Belgium,brussels,samia,laokri,belgium,univ libre bruxelles,laokri s,92
+38,0.989872217,94,KASSA F,KASSA,FERDINAND,,,,cotonou,ferdinand,kassa,benin,ctr natl hosp pneumophtisiol,kassa f,94
+38,0.991022617,95,KASSA F,KASSA,FERDINAND,Programme Natl TB,Cotonou,Benin,cotonou,ferdinand,kassa,benin,ctr natl hosp pneumophtisiol,kassa f,94
+38,0.990659595,146,KASSA F,KASSA,FERDINAND,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,cotonou,ferdinand,kassa,benin,ctr natl hosp pneumophtisiol,kassa f,94
+38,0.990115583,259,KASSA F,KASSA,F,,,,cotonou,ferdinand,kassa,benin,ctr natl hosp pneumophtisiol,kassa f,94
+38,0.99101007,265,KASSA F,KASSA,F,Natl TB Programme,Cotonou,Benin,cotonou,ferdinand,kassa,benin,ctr natl hosp pneumophtisiol,kassa f,94
+39,0.980639,98,DUJARDIN B,DUJARDIN,BRUNO,Univ Libre Bruxelles,Brussels,Belgium,brussels,bruno,dujardin,belgium,univ libre bruxelles,dujardin b,98
+39,0.980639,443,DUJARDIN B,DUJARDIN,BRUNO,Univ Libre Brussels  Sch Publ Hlth  Res Ctr Hlth Policy & Syst Int Hlth,Brussels,Belgium,brussels,bruno,dujardin,belgium,univ libre bruxelles,dujardin b,98
+40,0.97712,132,FIELDING K,FIELDING,KATHERINE,London Sch Hyg & Trop Med,London,England,london,katherine,fielding,england,london sch hyg & trop med,fielding k,132
+40,0.97712,243,FIELDING K,FIELDING,KATHERINE,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England,london,katherine,fielding,england,london sch hyg & trop med,fielding k,132
+41,0.990956411,133,SOW O B,SOW,OMOU BAH,,,,conakry,oumou bah,sow,guinea,hop ignace deen serv pneumophtisiol,sow o b,231
+41,0.986380577,134,SOW O B,SOW,OMOU BAH,Hop Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea,conakry,oumou bah,sow,guinea,hop ignace deen serv pneumophtisiol,sow o b,231
+41,0.990432769,231,SOW O B,SOW,OUMOU BAH,,,,conakry,oumou bah,sow,guinea,hop ignace deen serv pneumophtisiol,sow o b,231
+41,0.985697493,232,SOW O B,SOW,OUMOU BAH,Hop Ignace Deen  Serv Pneumo Phtisiol,Conakry,Guinea,conakry,oumou bah,sow,guinea,hop ignace deen serv pneumophtisiol,sow o b,231
+41,0.985965192,271,SOW O B,SOW,OUMOU BAH,CHU Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea,conakry,oumou bah,sow,guinea,hop ignace deen serv pneumophtisiol,sow o b,231
+42,0.989385,138,MTHIYANE T,MTHIYANE,THULI,,,,durban,thuli,mthiyane,south africa,mrc,mthiyane t,138
+42,0.989385,139,MTHIYANE T,MTHIYANE,THULI,MRC,Durban,South Africa,durban,thuli,mthiyane,south africa,mrc,mthiyane t,138
+43,0.989385,140,ODHIAMBO J,ODHIAMBO,JOSEPH,,,,nairobi,joseph,odhiambo,kenya,kenya govt med res ctr,odhiambo j,140
+43,0.989385,141,ODHIAMBO J,ODHIAMBO,JOSEPH,Kenya Govt Med Res Ctr,Nairobi,Kenya,nairobi,joseph,odhiambo,kenya,kenya govt med res ctr,odhiambo j,140
+44,0.989385,142,AMUKOYE E,AMUKOYE,EVANS,,,,nairobi,evans,amukoye,kenya,kenya govt med res ctr,amukoye e,142
+44,0.989385,143,AMUKOYE E,AMUKOYE,EVANS,Kenya Govt Med Res Ctr,Nairobi,Kenya,nairobi,evans,amukoye,kenya,kenya govt med res ctr,amukoye e,142
+45,0.989385,144,BAH B,BAH,BOUBACAR,,,,conakry,boubacar,bah,guinea,hop ignace deen serv pneumophtisiol,bah b,144
+45,0.989385,145,BAH B,BAH,BOUBACAR,Hop Ignace Deen  Serv Pneumophtisiol,Conakry,Guinea,conakry,boubacar,bah,guinea,hop ignace deen serv pneumophtisiol,bah b,144
+46,0.990371108,147,NDIAYE A,NDIAYE,ALIMATOU,,,,dakar,a,ndiaye,senegal,natl tb programme,ndiaye a,162
+46,0.989878297,162,NDIAYE A,NDIAYE,A,,,,dakar,a,ndiaye,senegal,natl tb programme,ndiaye a,162
+46,0.989878297,163,NDIAYE A,NDIAYE,A,Natl TB Programme,Dakar,Senegal,dakar,a,ndiaye,senegal,natl tb programme,ndiaye a,162
+47,0.991524398,149,DE JONG B C,DE JONG,BOUKE C,,,,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.970186959,150,DE JONG B C,DE JONG,BOUKE C,Inst Trop Med,Antwerp,Belgium,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.992237369,168,DE JONG B C,DE JONG,B C,,,,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.970500638,169,DE JONG B C,DE JONG,B C,Inst Trop Med,Antwerp,Belgium,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.967813561,206,DE JONG B C,DE JONG,BOUKE C,NYU,New York,USA,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.973309209,308,DE JONG B C,DE JONG,BOUKE C,MRC Unit,Fajara,Gambia,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+47,0.95841668,319,DE JONG B C,DE JONG,B C,Inst Trop Med  Dept Biomed Sci  Unit Mycobacteriol,Ghent,Belgium,antwerp,bouke c,de jong,belgium,inst trop med dept biomed sci unit mycobacteriol,de jong b c,169
+48,0.989385486,151,PERRONNE C,PERRONNE,CHRISTIAN,,,,paris,christian,perronne,france,hop univ paris ile de france ouest assistance publ hop paris,perronne c,151
+48,0.988649338,152,PERRONNE C,PERRONNE,CHRISTIAN,Hop Univ Paris Ile de France Ouest  Assistance Publ Hop Paris,Paris,France,paris,christian,perronne,france,hop univ paris ile de france ouest assistance publ hop paris,perronne c,151
+48,0.988649338,238,PERRONNE C,PERRONNE,CHRISTIAN,Univ Versailles  Raymond Poincare Hosp  AP HP  Dept Infect Dis,Saint-Quentin-en-Yvelines,France,paris,christian,perronne,france,hop univ paris ile de france ouest assistance publ hop paris,perronne c,151
+49,0.97712,153,SISMANIDIS C,SISMANIDIS,CHARALAMBOS,London Sch Hyg & Trop Med,London,England,london,charalambos,sismanidis,england,london sch hyg & trop med,sismanidis c,153
+49,0.97712,230,SISMANIDIS C,SISMANIDIS,CHARALAMBOS,London Sch Hyg & Trop Med  Fac Epidemiol & Populat Hlth  Trop Epidemiol Grp,London,England,london,charalambos,sismanidis,england,london sch hyg & trop med,sismanidis c,153
+50,0.989385486,154,LAPUJADE O,LAPUJADE,OLIVIER,,,,marseille,olivier,lapujade,france,inst rech dev,lapujade o,154
+50,0.979033262,155,LAPUJADE O,LAPUJADE,OLIVIER,Inst Rech Dev,Marseille,France,marseille,olivier,lapujade,france,inst rech dev,lapujade o,154
+50,0.979033262,234,LAPUJADE O,LAPUJADE,OLIVIER,WHO  TDR,Geneva,Switzerland,marseille,olivier,lapujade,france,inst rech dev,lapujade o,154
+51,0.989385,160,FLOYD S,FLOYD,S,,,,london,s,floyd,england,london sch hyg & trop med ideu,floyd s,160
+51,0.989385,161,FLOYD S,FLOYD,S,London Sch Hyg & Trop Med  IDEU,London,England,london,s,floyd,england,london sch hyg & trop med ideu,floyd s,160
+52,0.989385,164,GALPERINE T,GALPERINE,T,,,,paris,t,galperine,france,tenon hosp,galperine t,164
+52,0.989385,165,GALPERINE T,GALPERINE,T,Tenon Hosp,Paris,France,paris,t,galperine,france,tenon hosp,galperine t,164
+53,0.989385,166,FURCO A,FURCO,A,,,,london,a,furco,england,ucl,furco a,166
+53,0.989385,167,FURCO A,FURCO,A,UCL,London,England,london,a,furco,england,ucl,furco a,166
+54,0.99008282,173,SARR M,SARR,M,,,,dakar,m,sarr,senegal,natl tb programme,sarr m,173
+54,0.985959629,174,SARR M,SARR,M,Natl TB Programme,Dakar,Senegal,dakar,m,sarr,senegal,natl tb programme,sarr m,173
+54,0.99008282,199,SARR M,SARR,MARIE,,,,dakar,m,sarr,senegal,natl tb programme,sarr m,173
+54,0.985959629,200,SARR M,SARR,MARIE,Natl TB Programme,Dakar,Senegal,dakar,m,sarr,senegal,natl tb programme,sarr m,173
+55,0.968669057,177,GEHRE F,GEHRE,FLORIAN,Inst Trop Med,Antwerp,Belgium,fajara,florian,gehre,gambia,mrc unit,gehre f,177
+55,0.978745669,178,GEHRE F,GEHRE,FLORIAN,MRC  Gambia Unit,Fajara,Gambia,fajara,florian,gehre,gambia,mrc unit,gehre f,177
+55,0.97515294,302,GEHRE F,GEHRE,FLORIAN,MRC Unit,Fajara,Gambia,fajara,florian,gehre,gambia,mrc unit,gehre f,177
+56,0.989385,181,DE RIJK P,DE RIJK,PIM,Inst Trop Med,Antwerp,Belgium,antwerp,pim,de rijk,belgium,inst trop med,de rijk p,181
+56,0.989385,307,DE RIJK P,DE RIJK,PIM,,,,antwerp,pim,de rijk,belgium,inst trop med,de rijk p,181
+57,0.989385,182,UWIZEYE C,UWIZEYE,CECILE,Inst Trop Med,Antwerp,Belgium,antwerp,cecile,uwizeye,belgium,inst trop med,uwizeye c,182
+57,0.989385,306,UWIZEYE C,UWIZEYE,CECILE,,,,antwerp,cecile,uwizeye,belgium,inst trop med,uwizeye c,182
+58,0.989385,187,LINGOUPOU F M,LINGOUPOU,FANNY M,,,,bangui,fanny m,lingoupou,central african republic,inst pasteur lab mycobacteries,lingoupou f m,187
+58,0.989385,188,LINGOUPOU F M,LINGOUPOU,FANNY M,Inst Pasteur  Lab Mycobacteries,Bangui,Central African Republic,bangui,fanny m,lingoupou,central african republic,inst pasteur lab mycobacteries,lingoupou f m,187
+59,0.989385,189,BARRY M D,BARRY,MAMADOU DIAN,,,,conakry,mamadou dian,barry,guinea,lab reference mycobacteries,barry m d,189
+59,0.989385,190,BARRY M D,BARRY,MAMADOU DIAN,Lab Reference Mycobacteries,Conakry,Guinea,conakry,mamadou dian,barry,guinea,lab reference mycobacteries,barry m d,189
+60,0.989385,191,SOW O,SOW,OUMOU,,,,conakry,oumou,sow,guinea,lab reference mycobacteries,sow o,191
+60,0.989385,192,SOW O,SOW,OUMOU,Lab Reference Mycobacteries,Conakry,Guinea,conakry,oumou,sow,guinea,lab reference mycobacteries,sow o,191
+61,0.989385,197,BA F,BA,FATOUMATA,,,,dakar,fatoumata,ba,senegal,lab reference mycobacteries,ba f,197
+61,0.989385,198,BA F,BA,FATOUMATA,Lab Reference Mycobacteries,Dakar,Senegal,dakar,fatoumata,ba,senegal,lab reference mycobacteries,ba f,197
+62,0.989385,201,PIUBELLO A,PIUBELLO,ALBERTO,,,,niamey,alberto,piubello,niger,damien fdn,piubello a,201
+62,0.989385,202,PIUBELLO A,PIUBELLO,ALBERTO,Damien Fdn,Niamey,Niger,niamey,alberto,piubello,niger,damien fdn,piubello a,201
+63,0.989385486,204,ANTONIO M,ANTONIO,MARTIN,,,,fajara,martin,antonio,gambia,mrc gambia unit,antonio m,204
+63,0.987307519,205,ANTONIO M,ANTONIO,MARTIN,MRC  Gambia Unit,Fajara,Gambia,fajara,martin,antonio,gambia,mrc gambia unit,antonio m,204
+63,0.987307519,303,ANTONIO M,ANTONIO,MARTIN,MRC Unit,Fajara,Gambia,fajara,martin,antonio,gambia,mrc gambia unit,antonio m,204
+64,0.989385,216,BAGUIDI R,BAGUIDI,R,,,,parakou,r,baguidi,benin,natl program againt tb,baguidi r,216
+64,0.989385,217,BAGUIDI R,BAGUIDI,R,Natl Program Againt TB,Parakou,Benin,parakou,r,baguidi,benin,natl program againt tb,baguidi r,216
+65,0.989385,218,CARSON S S,CARSON,S S,,,,chapel hill,s s,carson,usa,univ north carolina chapel hill,carson s s,218
+65,0.989385,219,CARSON S S,CARSON,S S,Univ North Carolina Chapel Hill,Chapel Hill,USA,chapel hill,s s,carson,usa,univ north carolina chapel hill,carson s s,218
+66,0.989385,224,NGAHANE B H M,NGAHANE,B H MBATCHOU,,,,douala,b h mbatchou,ngahane,cameroon,hop gen douala serv med interne,ngahane b h m,224
+66,0.989385,225,NGAHANE B H M,NGAHANE,B H MBATCHOU,Hop Gen Douala  Serv Med Interne,Douala,Cameroon,douala,b h mbatchou,ngahane,cameroon,hop gen douala serv med interne,ngahane b h m,224
+67,0.989385,226,BOHISSOU F,BOHISSOU,F,,,,cotonou,f,bohissou,benin,fac sci sante cotonou,bohissou f,226
+67,0.989385,227,BOHISSOU F,BOHISSOU,F,Fac Sci Sante Cotonou,Cotonou,Benin,cotonou,f,bohissou,benin,fac sci sante cotonou,bohissou f,226
+68,0.989385,236,MITCHINSON D A,MITCHINSON,DENIS A,,,,london,denis a,mitchinson,england,univ london ctr infect,mitchinson d a,236
+68,0.989385,237,MITCHINSON D A,MITCHINSON,DENIS A,Univ London  Ctr Infect,London,England,london,denis a,mitchinson,england,univ london ctr infect,mitchinson d a,236
+69,0.978559,245,RIEDER H L,RIEDER,H L,Int Union TB & Lung Dis  Dept TB Control & Prevent,Paris,France,paris,h l,rieder,france,int union tb & lung dis dept tb control & prevent,rieder h l,245
+69,0.978559,246,RIEDER H L,RIEDER,H L,Univ Zurich  Inst Social & Prevent Med,Zurich,Switzerland,paris,h l,rieder,france,int union tb & lung dis dept tb control & prevent,rieder h l,245
+70,0.989385,248,AKPONA R,AKPONA,R,,,,cotonou,r,akpona,benin,programme natl tb,akpona r,248
+70,0.989385,249,AKPONA R,AKPONA,R,Programme Natl TB,Cotonou,Benin,cotonou,r,akpona,benin,programme natl tb,akpona r,248
+71,0.989385,251,ALIDJINOU K,ALIDJINOU,K,,,,cotonou,k,alidjinou,benin,programme natl tb,alidjinou k,251
+71,0.989385,252,ALIDJINOU K,ALIDJINOU,K,Programme Natl TB,Cotonou,Benin,cotonou,k,alidjinou,benin,programme natl tb,alidjinou k,251
+72,0.990467489,258,TAWO L,TAWO,L,,,,cotonou,leon,tawo,benin,programme natl tb,tawo l,441
+72,0.989926487,441,TAWO L,TAWO,LEON,,,,cotonou,leon,tawo,benin,programme natl tb,tawo l,441
+72,0.989926487,442,TAWO L,TAWO,LEON,Programme Natl TB,Cotonou,Benin,cotonou,leon,tawo,benin,programme natl tb,tawo l,441
+73,0.989385,263,LAMBREGTS K,LAMBREGTS,K,,,,the hague,k,lambregts,netherlands,royal netherlands tb assoc kncv,lambregts k,263
+73,0.989385,266,LAMBREGTS K,LAMBREGTS,K,Royal Netherlands TB Assoc KNCV,The Hague,Netherlands,the hague,k,lambregts,netherlands,royal netherlands tb assoc kncv,lambregts k,263
+74,0.989385,268,KHANDELWAL A,KHANDELWAL,AKASH,,,,uppsala,akash,khandelwal,sweden,uppsala univ dept pharmaceut biosci,khandelwal a,268
+74,0.989385,269,KHANDELWAL A,KHANDELWAL,AKASH,Uppsala Univ  Dept Pharmaceut Biosci,Uppsala,Sweden,uppsala,akash,khandelwal,sweden,uppsala univ dept pharmaceut biosci,khandelwal a,268
+75,0.989385,293,BURNEY P,BURNEY,P,,,,london,p,burney,england,imperial coll natl heart & lung inst,burney p,293
+75,0.989385,294,BURNEY P,BURNEY,P,Imperial Coll  Natl Heart & Lung Inst,London,England,london,p,burney,england,imperial coll natl heart & lung inst,burney p,293
+76,0.973744,295,HOA N B,HOA,N B,Int Union TB & Lung Dis,Paris,France,paris,n b,hoa,france,int union tb & lung dis,hoa n b,295
+76,0.973744,296,HOA N B,HOA,N B,Natl TB Control Programme,Hanoi,Vietnam,paris,n b,hoa,france,int union tb & lung dis,hoa n b,295
+77,0.989385486,297,SCHLUGER N W,SCHLUGER,N W,,,,new york,n w,schluger,usa,columbia univ med ctr div pulm allergy & crit care med,schluger n w,297
+77,0.988763124,298,SCHLUGER N W,SCHLUGER,N W,Columbia Univ  Med Ctr  Div Pulm Allergy & Crit Care Med,New York,USA,new york,n w,schluger,usa,columbia univ med ctr div pulm allergy & crit care med,schluger n w,297
+77,0.988763124,299,SCHLUGER N W,SCHLUGER,N W,Vital Strategies,New York,USA,new york,n w,schluger,usa,columbia univ med ctr div pulm allergy & crit care med,schluger n w,297
+78,0.970254,300,CASTRO J L,CASTRO,J L,Int Union TB & Lung Dis,Paris,France,paris,j l,castro,france,int union tb & lung dis,castro j l,300
+78,0.970254,301,CASTRO J L,CASTRO,J L,Vital Strategies,New York,USA,paris,j l,castro,france,int union tb & lung dis,castro j l,300
+79,0.983874053,309,ANDRE E,ANDRE,E,Catholic Univ Louvain  Inst Rech Expt & Clin  Pole Microbiol Med,Brussels,Belgium,brussels,e,andre,belgium,clin univ st luc dept biol clin serv microbiol,andre e,310
+79,0.979826629,310,ANDRE E,ANDRE,E,Clin Univ St Luc  Dept Biol Clin  Serv Microbiol,Brussels,Belgium,brussels,e,andre,belgium,clin univ st luc dept biol clin serv microbiol,andre e,310
+79,0.975255519,311,ANDRE E,ANDRE,E,ESCMID  European Soc Clin Microbiol & Infect Dis ESCMID  Study Grp Mycobacterial Infect ESGMYC,Basel,Switzerland,brussels,e,andre,belgium,clin univ st luc dept biol clin serv microbiol,andre e,310
+80,0.989385,314,ALAGNA R,ALAGNA,R,,,,milan,r,alagna,italy,ist ricovero & cura carattere sci san raffaele sc tb supranat reference lab,alagna r,314
+80,0.989385,315,ALAGNA R,ALAGNA,R,Ist Ricovero & Cura Carattere Sci San Raffaele Sc  TB Supranat Reference Lab,Milan,Italy,milan,r,alagna,italy,ist ricovero & cura carattere sci san raffaele sc tb supranat reference lab,alagna r,314
+81,0.989385486,316,BROCKMANN D,BROCKMANN,D,,,,berlin,d,brockmann,germany,humboldt univ inst theoret biol dept biol,brockmann d,316
+81,0.990734845,317,BROCKMANN D,BROCKMANN,D,Humboldt Univ  Inst Theoret Biol  Dept Biol,Berlin,Germany,berlin,d,brockmann,germany,humboldt univ inst theoret biol dept biol,brockmann d,316
+81,0.990734845,318,BROCKMANN D,BROCKMANN,D,Robert Koch Inst  Epidemiol Modelling Infect Dis,Berlin,Germany,berlin,d,brockmann,germany,humboldt univ inst theoret biol dept biol,brockmann d,316
+82,0.989385486,320,CAMBAU E,CAMBAU,E,,,,paris,e,cambau,france,univ paris diderot inst natl sante & rech med umr 1137 infect antimicrobiens modelisat evolut,cambau e,320
+82,0.988374293,321,CAMBAU E,CAMBAU,E,Univ Paris Diderot  Inst Natl Sante & Rech Med  UMR 1137  Infect Antimicrobiens Modelisat Evolut,Paris,France,paris,e,cambau,france,univ paris diderot inst natl sante & rech med umr 1137 infect antimicrobiens modelisat evolut,cambau e,320
+82,0.988374293,322,CAMBAU E,CAMBAU,E,Hop Lariboisiere  AP HP  Bacteriol,Paris,France,paris,e,cambau,france,univ paris diderot inst natl sante & rech med umr 1137 infect antimicrobiens modelisat evolut,cambau e,320
+83,0.989385,323,CHURCHYARD G,CHURCHYARD,G,,,,johannesburg,g,churchyard,south africa,aurum inst,churchyard g,323
+83,0.989385,324,CHURCHYARD G,CHURCHYARD,G,Aurum Inst,Johannesburg,South Africa,johannesburg,g,churchyard,south africa,aurum inst,churchyard g,323
+84,0.989385,325,COHEN T,COHEN,T,,,,new haven,t,cohen,usa,yale univ yale sch publ hlth,cohen t,325
+84,0.989385,326,COHEN T,COHEN,T,Yale Univ  Yale Sch Publ Hlth,New Haven,USA,new haven,t,cohen,usa,yale univ yale sch publ hlth,cohen t,325
+85,0.988445,327,DELMEE M,DELMEE,M,Catholic Univ Louvain  Inst Rech Expt & Clin  Pole Microbiol Med,Brussels,Belgium,brussels,m,delmee,belgium,catholic univ louvain inst rech expt & clin pole microbiol med,delmee m,327
+85,0.988445,328,DELMEE M,DELMEE,M,Clin Univ St Luc  Dept Biol Clin  Serv Microbiol,Brussels,Belgium,brussels,m,delmee,belgium,catholic univ louvain inst rech expt & clin pole microbiol med,delmee m,327
+86,0.989385,330,FARHAT M,FARHAT,M,,,,boston,m,farhat,usa,massachusetts gen hosp,farhat m,330
+86,0.989385,331,FARHAT M,FARHAT,M,Massachusetts Gen Hosp,Boston,USA,boston,m,farhat,usa,massachusetts gen hosp,farhat m,330
+87,0.989385,332,HABIB A,HABIB,A,,,,karachi,a,habib,pakistan,interact hlth solut,habib a,332
+87,0.989385,333,HABIB A,HABIB,A,Interact Hlth Solut,Karachi,Pakistan,karachi,a,habib,pakistan,interact hlth solut,habib a,332
+88,0.989385,334,HOLME R,HOLME,R,,,,seoul,r,holme,south korea,sungkyunkwan univ,holme r,334
+88,0.989385,335,HOLME R,HOLME,R,Sungkyunkwan Univ,Seoul,South Korea,seoul,r,holme,south korea,sungkyunkwan univ,holme r,334
+89,0.989385,336,KESHAVJEE S,KESHAVJEE,S,,,,dubai,s,keshavjee,united arab emirates,harvard med sch ctr global hlth delivery,keshavjee s,336
+89,0.989385,337,KESHAVJEE S,KESHAVJEE,S,Harvard Med Sch  Ctr Global Hlth Delivery,Dubai,United Arab Emirates,dubai,s,keshavjee,united arab emirates,harvard med sch ctr global hlth delivery,keshavjee s,336
+90,0.989385,338,KHAN A,KHAN,A,,,,karachi,a,khan,pakistan,interact res & dev,khan a,338
+90,0.989385,339,KHAN A,KHAN,A,Interact Res & Dev,Karachi,Pakistan,karachi,a,khan,pakistan,interact res & dev,khan a,338
+91,0.989385,340,LIGHTFOOT P,LIGHTFOOT,P,,,,geneva,p,lightfoot,switzerland,fdn innovat new diagnost,lightfoot p,340
+91,0.989385,341,LIGHTFOOT P,LIGHTFOOT,P,Fdn Innovat New Diagnost,Geneva,Switzerland,geneva,p,lightfoot,switzerland,fdn innovat new diagnost,lightfoot p,340
+92,0.989385,342,MOORE D,MOORE,D,,,,london,d,moore,england,london sch hyg & trop med tb ctr,moore d,342
+92,0.989385,343,MOORE D,MOORE,D,London Sch Hyg & Trop Med  TB Ctr,London,England,london,d,moore,england,london sch hyg & trop med tb ctr,moore d,342
+93,0.989385,344,MORENO Y,MORENO,Y,,,,zaragoza,y,moreno,spain,univ zaragoza inst biocomputat & phys complex syst bifi,moreno y,344
+93,0.989385,345,MORENO Y,MORENO,Y,Univ Zaragoza  Inst Biocomputat & Phys Complex Syst BIFI,Zaragoza,Spain,zaragoza,y,moreno,spain,univ zaragoza inst biocomputat & phys complex syst bifi,moreno y,344
+94,0.989385,346,MUNDADE Y,MUNDADE,Y,,,,geneva,y,mundade,switzerland,unitaid,mundade y,346
+94,0.989385,347,MUNDADE Y,MUNDADE,Y,UNITAID,Geneva,Switzerland,geneva,y,mundade,switzerland,unitaid,mundade y,346
+95,0.989385486,348,PAI M,PAI,M,,,,quebec,m,pai,canada,mcgill univ mcgill int tb ctr montreal,pai m,348
+95,0.987544775,349,PAI M,PAI,M,McGill Univ  McGill Int TB Ctr  Montreal,Quebec,Canada,quebec,m,pai,canada,mcgill univ mcgill int tb ctr montreal,pai m,348
+95,0.987544775,350,PAI M,PAI,M,McGill Univ  McGill Global Hlth Programs  Montreal,Quebec,Canada,quebec,m,pai,canada,mcgill univ mcgill int tb ctr montreal,pai m,348
+96,0.989385,351,PATEL S,PATEL,S,,,,hants,s,patel,england,univ hosp southampton nhs fdn trust southampton,patel s,351
+96,0.989385,352,PATEL S,PATEL,S,Univ Hosp Southampton NHS Fdn Trust  Southampton,Hants,England,hants,s,patel,england,univ hosp southampton nhs fdn trust southampton,patel s,351
+97,0.989385,353,NYARUHIRIRA A U,NYARUHIRIRA,A U,,,,gauteng,a u,nyaruhirira,south africa,management sci hlth,nyaruhirira a u,353
+97,0.989385,354,NYARUHIRIRA A U,NYARUHIRIRA,A U,Management Sci Hlth,Gauteng,South Africa,gauteng,a u,nyaruhirira,south africa,management sci hlth,nyaruhirira a u,353
+98,0.989385486,355,ROCHA L E C,ROCHA,L E C,,,,namur,l e c,rocha,spain,univ zaragoza dept theoret phys fac sci,rocha l e c,355
+98,0.962599039,356,ROCHA L E C,ROCHA,L E C,Univ Zaragoza  Dept Theoret Phys  Fac Sci,Zaragoza,Spain,namur,l e c,rocha,spain,univ zaragoza dept theoret phys fac sci,rocha l e c,355
+98,0.971853614,357,ROCHA L E C,ROCHA,L E C,Karolinska Inst,Stockholm,Sweden,namur,l e c,rocha,spain,univ zaragoza dept theoret phys fac sci,rocha l e c,355
+98,0.970965266,358,ROCHA L E C,ROCHA,L E C,Univ Namur,Namur,Belgium,namur,l e c,rocha,spain,univ zaragoza dept theoret phys fac sci,rocha l e c,355
+99,0.989385,359,TAKLE J,TAKLE,J,,,,somerville,j,takle,usa,global connect llc,takle j,359
+99,0.989385,360,TAKLE J,TAKLE,J,Global Connect LLC,Somerville,USA,somerville,j,takle,usa,global connect llc,takle j,359
+100,0.989385,362,CRESWELL J,CRESWELL,J,,,,geneva,j,creswell,switzerland,stop tb partnership,creswell j,362
+100,0.989385,363,CRESWELL J,CRESWELL,J,Stop TB Partnership,Geneva,Switzerland,geneva,j,creswell,switzerland,stop tb partnership,creswell j,362
+101,0.989385,364,BOEHME C,BOEHME,C,,,,geneva,c,boehme,switzerland,fdn innovat new diagnost,boehme c,364
+101,0.989385,365,BOEHME C,BOEHME,C,Fdn Innovat New Diagnost,Geneva,Switzerland,geneva,c,boehme,switzerland,fdn innovat new diagnost,boehme c,364
+102,0.969744,368,EKOUEVI D K,EKOUEVI,D K,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,bordeaux,d k,ekouevi,france,univ victor segalen inserm inst sante publ epidemiol & dev cre u 897,ekouevi d k,368
+102,0.969744,369,EKOUEVI D K,EKOUEVI,D K,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,bordeaux,d k,ekouevi,france,univ victor segalen inserm inst sante publ epidemiol & dev cre u 897,ekouevi d k,368
+103,0.989385,370,ABOUBAKRINE M,ABOUBAKRINE,M,,,,bamako,m,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,370
+103,0.989385,371,ABOUBAKRINE M,ABOUBAKRINE,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,m,aboubakrine,mali,hop gabriel toure serv hepatogastroenterol,aboubakrine m,370
+104,0.989385,372,BASHI J,BASHI,J,,,,cotonou,j,bashi,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,bashi j,372
+104,0.989385,373,BASHI J,BASHI,J,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,j,bashi,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,bashi j,372
+105,0.989385,374,MESSOU E,MESSOU,E,,,,abidjan,e,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,374
+105,0.989385,375,MESSOU E,MESSOU,E,ACONDA Ctr Prise Charge Rech & Format,Abidjan,Cote Ivoire,abidjan,e,messou,cote ivoire,aconda ctr prise charge rech & format,messou e,374
+106,0.989385,376,MAIGA M,MAIGA,M,,,,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,376
+106,0.989385,377,MAIGA M,MAIGA,M,Hop Gabriel Toure  Serv Hepatogastroenterol,Bamako,Mali,bamako,m,maiga,mali,hop gabriel toure serv hepatogastroenterol,maiga m,376
+107,0.989385,378,TRAORE H A,TRAORE,H A,,,,bamako,h a,traore,mali,hop du point g ctr prise charge personnes vivant avec vih,traore h a,378
+107,0.989385,379,TRAORE H A,TRAORE,H A,Hop du Point G  Ctr Prise Charge Personnes Vivant Avec VIH,Bamako,Mali,bamako,h a,traore,mali,hop du point g ctr prise charge personnes vivant avec vih,traore h a,378
+108,0.989385,380,ZANNOU M,ZANNOU,M,,,,cotonou,m,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,380
+108,0.989385,381,ZANNOU M,ZANNOU,M,Ctr Hosp Natl Univ  Ctr Prise Charge Personnes Vivant Avec VIH,Cotonou,Benin,cotonou,m,zannou,benin,ctr hosp natl univ ctr prise charge personnes vivant avec vih,zannou m,380
+109,0.989385,382,GUEHI C,GUEHI,C,,,,abidjan,c,guehi,cote ivoire,unite soins ambulatoires & conseil,guehi c,382
+109,0.989385,383,GUEHI C,GUEHI,C,Unite Soins Ambulatoires & Conseil,Abidjan,Cote Ivoire,abidjan,c,guehi,cote ivoire,unite soins ambulatoires & conseil,guehi c,382
+110,0.989385,385,MINGA A,MINGA,A,,,,abidjan,a,minga,cote ivoire,ctr natl transfus sanguine ctr med suivi donneurs sang primo ci,minga a,385
+110,0.989385,386,MINGA A,MINGA,A,Ctr Natl Transfus Sanguine  Ctr Med Suivi Donneurs Sang  PRIMO CI,Abidjan,Cote Ivoire,abidjan,a,minga,cote ivoire,ctr natl transfus sanguine ctr med suivi donneurs sang primo ci,minga a,385
+111,0.989385,387,ALLOU G,ALLOU,G,,,,abidjan,g,allou,cote ivoire,chu treichville programme pac ci,allou g,387
+111,0.989385,388,ALLOU G,ALLOU,G,CHU Treichville  Programme PAC CI,Abidjan,Cote Ivoire,abidjan,g,allou,cote ivoire,chu treichville programme pac ci,allou g,387
+112,0.989385,389,EHOLIE S P,EHOLIE,S P,,,,abidjan,s p,eholie,cote ivoire,hop treichville serv malad infect & trop,eholie s p,389
+112,0.989385,390,EHOLIE S P,EHOLIE,S P,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,s p,eholie,cote ivoire,hop treichville serv malad infect & trop,eholie s p,389
+113,0.989385,392,BISSAGNENE E,BISSAGNENE,E,,,,abidjan,e,bissagnene,cote ivoire,hop treichville serv malad infect & trop,bissagnene e,392
+113,0.989385,393,BISSAGNENE E,BISSAGNENE,E,Hop Treichville  Serv Malad Infect & Trop,Abidjan,Cote Ivoire,abidjan,e,bissagnene,cote ivoire,hop treichville serv malad infect & trop,bissagnene e,392
+114,0.989385,396,IMPERIALE B,IMPERIALE,BELEN,,,,df,belen,imperiale,argentina,hosp dr antonio cetrangolo lab referencia programa control tb buenos aires,imperiale b,396
+114,0.989385,397,IMPERIALE B,IMPERIALE,BELEN,Hosp Dr Antonio Cetrangolo  Lab Referencia Programa Control TB  Buenos Aires,DF,Argentina,df,belen,imperiale,argentina,hosp dr antonio cetrangolo lab referencia programa control tb buenos aires,imperiale b,396
+115,0.989385,398,RAVOLONANDRIANA P,RAVOLONANDRIANA,PASCALINE,,,,antananarivo,pascaline,ravolonandriana,madagascar,inst pasteur madagascar,ravolonandriana p,398
+115,0.989385,399,RAVOLONANDRIANA P,RAVOLONANDRIANA,PASCALINE,Inst Pasteur Madagascar,Antananarivo,Madagascar,antananarivo,pascaline,ravolonandriana,madagascar,inst pasteur madagascar,ravolonandriana p,398
+116,0.989385,400,COBAN A Y,COBAN,AHMET YILMAZ,,,,samsun,ahmet yilmaz,coban,turkey,ondokuz mayis univ sch med dept med microbiol,coban a y,400
+116,0.989385,401,COBAN A Y,COBAN,AHMET YILMAZ,Ondokuz Mayis Univ  Sch Med  Dept Med Microbiol,Samsun,Turkey,samsun,ahmet yilmaz,coban,turkey,ondokuz mayis univ sch med dept med microbiol,coban a y,400
+117,0.989385,402,AKGUNES A,AKGUNES,ALPER,,,,samsun,alper,akgunes,turkey,chest dis hosp clin microbiol lab,akgunes a,402
+117,0.989385,403,AKGUNES A,AKGUNES,ALPER,Chest Dis Hosp  Clin Microbiol Lab,Samsun,Turkey,samsun,alper,akgunes,turkey,chest dis hosp clin microbiol lab,akgunes a,402
+118,0.989385,404,IKRAM A,IKRAM,AAMER,,,,dera ismail khan,aamer,ikram,pakistan,combined mil hosp dept pathol,ikram a,404
+118,0.989385,405,IKRAM A,IKRAM,AAMER,Combined Mil Hosp  Dept Pathol,Dera Ismail Khan,Pakistan,dera ismail khan,aamer,ikram,pakistan,combined mil hosp dept pathol,ikram a,404
+119,0.989385,406,SATTI L,SATTI,LUQMAN,,,,dera ismail khan,luqman,satti,pakistan,combined mil hosp dept pathol,satti l,406
+119,0.989385,407,SATTI L,SATTI,LUQMAN,Combined Mil Hosp  Dept Pathol,Dera Ismail Khan,Pakistan,dera ismail khan,luqman,satti,pakistan,combined mil hosp dept pathol,satti l,406
+120,0.989385,408,PANDEY P,PANDEY,POOJA,,,,new delhi,pooja,pandey,india,all india inst med sci dept microbiol,pandey p,408
+120,0.989385,409,PANDEY P,PANDEY,POOJA,All India Inst Med Sci  Dept Microbiol,New Delhi,India,new delhi,pooja,pandey,india,all india inst med sci dept microbiol,pandey p,408
+121,0.989385,410,MISHRA M,MISHRA,MANVI,,,,new delhi,manvi,mishra,india,all india inst med sci dept microbiol,mishra m,410
+121,0.989385,411,MISHRA M,MISHRA,MANVI,All India Inst Med Sci  Dept Microbiol,New Delhi,India,new delhi,manvi,mishra,india,all india inst med sci dept microbiol,mishra m,410
+122,0.989385,412,SINGH U,SINGH,URVASHI,,,,new delhi,urvashi,singh,india,all india inst med sci dept microbiol,singh u,412
+122,0.989385,413,SINGH U,SINGH,URVASHI,All India Inst Med Sci  Dept Microbiol,New Delhi,India,new delhi,urvashi,singh,india,all india inst med sci dept microbiol,singh u,412
+123,0.989385,414,RASOLOFO V,RASOLOFO,VOAHANGY,,,,antananarivo,voahangy,rasolofo,madagascar,inst pasteur madagascar,rasolofo v,414
+123,0.989385,415,RASOLOFO V,RASOLOFO,VOAHANGY,Inst Pasteur Madagascar,Antananarivo,Madagascar,antananarivo,voahangy,rasolofo,madagascar,inst pasteur madagascar,rasolofo v,414
+124,0.989385,416,MORCILLO N,MORCILLO,NORA,,,,df,nora,morcillo,argentina,hosp dr antonio cetrangolo lab referencia programa control tb buenos aires,morcillo n,416
+124,0.989385,417,MORCILLO N,MORCILLO,NORA,Hosp Dr Antonio Cetrangolo  Lab Referencia Programa Control TB  Buenos Aires,DF,Argentina,df,nora,morcillo,argentina,hosp dr antonio cetrangolo lab referencia programa control tb buenos aires,morcillo n,416
+125,0.989385,424,AWOKOU F,AWOKOU,FANTCHE,,,,lome,fantche,awokou,togo,minist sante togo natl tb control programme,awokou f,424
+125,0.989385,425,AWOKOU F,AWOKOU,FANTCHE,Minist Sante Togo  Natl TB Control Programme,Lome,Togo,lome,fantche,awokou,togo,minist sante togo natl tb control programme,awokou f,424
+126,0.989385,426,NOLNA D,NOLNA,DESIRE,,,,yaounde,desire,nolna,cameroon,natl tb control programme,nolna d,426
+126,0.989385,427,NOLNA D,NOLNA,DESIRE,Natl TB Control Programme,Yaounde,Cameroon,yaounde,desire,nolna,cameroon,natl tb control programme,nolna d,426
+127,0.989385,428,MANOUAN B A P,MANOUAN,BILE ADOU PHILIPPE,,,,abidjan,bile adou philippe,manouan,cote ivoire,programme natl lutte tb,manouan b a p,428
+127,0.989385,429,MANOUAN B A P,MANOUAN,BILE ADOU PHILIPPE,Programme Natl Lutte TB,Abidjan,Cote Ivoire,abidjan,bile adou philippe,manouan,cote ivoire,programme natl lutte tb,manouan b a p,428
+128,0.989385486,430,ACHO Y B,ACHO,YAPO BLAISE,,,,abidjan,yapo blaise,acho,cote ivoire,ctr hosp univ cocody,acho y b,430
+128,0.991830736,431,ACHO Y B,ACHO,YAPO BLAISE,Ctr Hosp Univ Cocody,Abidjan,Cote Ivoire,abidjan,yapo blaise,acho,cote ivoire,ctr hosp univ cocody,acho y b,430
+128,0.991830736,432,ACHO Y B,ACHO,YAPO BLAISE,Direct Gen Hyg Publ,Abidjan,Cote Ivoire,abidjan,yapo blaise,acho,cote ivoire,ctr hosp univ cocody,acho y b,430
+129,0.989385,435,AMOUSSOUHUI A,AMOUSSOUHUI,ARNAUD,,,,ouidah,arnaud,amoussouhui,benin,inst reg sante publ unite rech,amoussouhui a,435
+129,0.989385,436,AMOUSSOUHUI A,AMOUSSOUHUI,ARNAUD,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin,ouidah,arnaud,amoussouhui,benin,inst reg sante publ unite rech,amoussouhui a,435
+130,0.989385,437,OUENDO E M,OUENDO,EDGARD M,,,,ouidah,edgard m,ouendo,benin,inst reg sante publ unite rech,ouendo e m,437
+130,0.989385,438,OUENDO E M,OUENDO,EDGARD M,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin,ouidah,edgard m,ouendo,benin,inst reg sante publ unite rech,ouendo e m,437
+131,0.989385,439,HOUNNANKAN A C,HOUNNANKAN,ATHANASE COSSI,,,,ouidah,athanase cossi,hounnankan,benin,inst reg sante publ unite rech,hounnankan a c,439
+131,0.989385,440,HOUNNANKAN A C,HOUNNANKAN,ATHANASE COSSI,Inst Reg Sante Publ  Unite Rech,Ouidah,Benin,ouidah,athanase cossi,hounnankan,benin,inst reg sante publ unite rech,hounnankan a c,439
+132,,27,ADJOBIMEY M,ADJOBIMEY,M,Ctr Natl Hosp Pneumophtisiol,Cotonou,Benin,,,,,,,
+133,,37,SMYTHE W,SMYTHE,WYNAND,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa,,,,,,,
+134,,53,SMITH P,SMITH,PETER,Univ Cape Town  Dept Med  Div Clin Pharmacol,Cape Town,South Africa,,,,,,,
+135,,71,TORREA G,TORREA,G,Inst Trop Med  Mycobacteriol Unit,Antwerp,Belgium,,,,,,,
+136,,93,DRAMAIXWILMET M,DRAMAIXWILMET,MICHELE,,,,,,,,,,
+137,,112,FERROUSSIER O,FERROUSSIER,O,Int Union Against TB & Lung Dis,Paris,France,,,,,,,
+138,,113,DLODLO R A,DLODLO,R A,Int Union Against TB & Lung Dis,Paris,France,,,,,,,
+139,,114,CAPOCHICHI D,CAPOCHICHI,D,,,,,,,,,,
+140,,115,BOILLOT F,BOILLOT,F,Int Union Against TB & Lung Dis,Paris,France,,,,,,,
+141,,119,FUJIWARA P I,FUJIWARA,P I,Int Union Against TB & Lung Dis,Paris,France,,,,,,,
+142,,121,AITKHALED N,AITKHALED,N,,,,,,,,,,
+143,,122,LOUIS J P,LOUIS,JP,,,,,,,,,,
+144,,172,GLYNN J,GLYNN,J,,,,,,,,,,
+145,,179,EJO M,EJO,MEBRAT,Inst Trop Med,Antwerp,Belgium,,,,,,,
+146,,180,FISSETTE K,FISSETTE,KRISTINA,Inst Trop Med,Antwerp,Belgium,,,,,,,
+147,,183,NDUWAMAHORO E,NDUWAMAHORO,ELIE,Inst Trop Med,Antwerp,Belgium,,,,,,,
+148,,184,GOOVAERTS O,GOOVAERTS,ODIN,Inst Trop Med,Antwerp,Belgium,,,,,,,
+149,,203,NOESKE J,NOESKE,JUERGEN,,,,,,,,,,
+150,,207,ADJAGBA OABG,ADJAGBA,O A B G,,,,,,,,,,
+151,,208,TANIMOMOKLEDJO B,TANIMOMOKLEDJO,B,,,,,,,,,,
+152,,209,ANAGONOU S Y,ANAGONOU,S Y,,,,,,,,,,
+153,,213,ENARSON D A,ENARSON,D A,Int Union TB & Lung Dis,Paris,France,,,,,,,
+154,,214,CHIANG C Y,CHIANG,CY,,,,,,,,,,
+155,,215,AMIDOU S A,AMIDOU,S A,Natl Program HIV,Parakou,Benin,,,,,,,
+156,,260,MONTEIRO G R,MONTEIRO,GR,,,,,,,,,,
+157,,261,ZELLWEGER J R,ZELLWEGER,JR,,,,,,,,,,
+158,,262,SHANG H,SHANG,H,,,,,,,,,,
+159,,281,TOUNDOH N,TOUNDOH,N,Natl TB Programme  BP321,Cotonou,Benin,,,,,,,
+160,,282,BEKOU W,BEKOU,W,Natl TB Programme  BP321,Cotonou,Benin,,,,,,,
+161,,283,MAKPENON A,MAKPENON,A,Natl TB Programme  BP321,Cotonou,Benin,,,,,,,
+162,,290,KOUKPEMEDJI L,KOUKPEMEDJI,LOUIS,Lab Reference Mycobacteries,Cotonou,Benin,,,,,,,
+163,,312,ISAACS C,ISAACS,C,,,,,,,,,,
+164,,329,DELVENNE J C,DELVENNE,J C,,,,,,,,,,
+165,,366,BOULAHBAL F,BOULAHBAL,F,,,,,,,,,,
+166,,367,JAQUET A,JAQUET,A,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,,,,,,,
+167,,384,BAGOMIS F O,BAGOMIS,F O,,,,,,,,,,
+168,,391,DABIS F,DABIS,F,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,,,,,,,
+169,,394,SASCO A J,SASCO,A J,Univ Victor Segalen  INSERM  Inst Sante Publ Epidemiol & Dev  CRE U 897,Bordeaux,France,,,,,,,
+170,,418,VANDAMME P,VANDAMME,PETER,Univ Ghent  Dept Biochem & Microbiol  Microbiol Lab,Ghent,Belgium,,,,,,,
+171,,421,AZON S,AZON,SOPHIE,Natl TB Programme,Cotonou,Benin,,,,,,,
+172,,422,ROBERT J,ROBERT,JEROME,Univ Paris 06  Hop La Pitie Salpetriere  Equipe Accueil 1541 Lab Bacteriol Hyg Hosp  AP HP Ctr Natl Reference Mycobacteries & Resista,Paris,France,,,,,,,

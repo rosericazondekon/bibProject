@@ -1,0 +1,658 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Massougbodji, A
+   Kinde-Gazard, D
+   Same-Ekobo, A
+   Cambon, N
+   Mueller, EA
+AF Massougbodji, A
+   Kinde-Gazard, D
+   Same-Ekobo, A
+   Cambon, N
+   Mueller, EA
+TI A randomized, double-blind study on the efficacy and safety of a
+   practical three-day regimen with artesunate and mefloquine for the
+   treatment of uncomplicated Plasmodium falciparum malaria in Africa
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE malaria; Plasmodium falciparum; chemotherapy; artesunate; resistance;
+   efficacy; mefloquine; Africa
+ID NIGERIAN CHILDREN; RESISTANCE; COMBINATION; CHLOROQUINE; THAILAND
+AB A randomized, double-blind, parallel-group study in 104 hospitalized patients with acute, uncomplicated Plasmodium falciparum malaria was performed in West and Central Africa from March to July 2001. Patients were randomized to receive simultaneous dosing (artesunate 200 mg/d plus mefloquine 250 mg/d from the first to the third day [investigational group]) or sequential dosing (artesunate 200 mg/d for 3 d plus mefloquine 250 mg on the second and 500 mg on the third day [reference group]). Patients were followed-up for 28 d, and clinical and parasitological outcomes were assessed. The 14-d cure rate was 100% in the investigational group and 98% in the reference group with no recrudescence until day 28. Mean times to fever and parasite clearance were similar between the 2 groups (32 h vs. 26 h and 45 h vs. 48 h) and tolerability was good in both groups. The number of patients with vomiting was statistically significantly lower in the investigational group compared to the reference group (3.8% vs. 19.2%, P = 0014). A 3-d once-daily co-administration of artesunate and mefloquine starting on day one offers a practical dosing regimen, which is highly effective and well tolerated in patients with uncomplicated P. falciparum malaria.
+C1 Mepha Ltd, Dept Med, CH-4147 Aesch, Switzerland.
+   Ctr Natl Hosp & Univ, Cotonou, Benin.
+   Inst Pasteur, Antenne Cocody, Abidjan, Cote Ivoire.
+   Fac Med & Biomed Sci, Parasitol Lab, Yaounde, Cameroon.
+RP Cambon, N (reprint author), Mepha Ltd, Dept Med, POB 445, CH-4147 Aesch, Switzerland.
+NR 21
+TC 17
+Z9 17
+U1 0
+U2 2
+PU ROYAL SOC TROPICAL MEDICINE
+PI LONDON
+PA MANSON HOUSE 26 PORTLAND PLACE, LONDON W1N 1EY, ENGLAND
+SN 0035-9203
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD NOV-DEC
+PY 2002
+VL 96
+IS 6
+BP 655
+EP 659
+DI 10.1016/S0035-9203(02)90344-5
+PG 5
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 648RW
+UT WOS:000181165200020
+PM 12625145
+ER
+
+PT J
+AU Ekala, MT
+   Jouin, H
+   Lekoulou, F
+   Issifou, S
+   Mercereau-Puijalon, O
+   Ntoumi, F
+AF Ekala, MT
+   Jouin, H
+   Lekoulou, F
+   Issifou, S
+   Mercereau-Puijalon, O
+   Ntoumi, F
+TI Plasmodium falciparum merozoite surface protein 1 (MSP1): genotyping and
+   humoral responses to allele-specific variants
+SO ACTA TROPICA
+LA English
+DT Article
+DE Falciparum malaria; merozoite surface protein 1; IgG; specific variants;
+   Gabon
+ID MALARIA VACCINE; CLINICAL MALARIA; IMMUNE-RESPONSE; CHILDREN; ANTIBODY;
+   POPULATION; TARGET; AREA; INFECTIONS; ANTIGENS
+AB The present study is the first to investigate Plasmodium falciparum merozoite surface protein I (MSPI) allele-specific humoral responses in residents of central Africa. In endemic areas, acquired immune responses to malaria are assumed to reflect the need to be infected with a large number of antigenically diverse parasite populations. In the work presented here, the relationship between antibody specificity and the infecting parasite genotype was investigated in asymptomatic subjects and patients with uncomplicated malaria in order to possibly clarify the relationship between anti-MSP1 block2 antibodies and clinical malaria. Overall isolates were typed by nested PCR using allele-specific primers of the P. falciparum MSPI gene to identify the infecting parasite genotype. The K1 type was the predominant allelic family in both clinical groups. Polyinfection (number of isolates with more than one parasite genotype) and the complexity of infections (mean number of parasite genotype per infected subject) were higher in isolates from asymptomatic individuals. Total immunoglobulins G (IgG) responses to schizont crude extract antigens and to MSPI variant-specific peptides were assessed by ELISA test. More than 90% of the sera reacted against schizont extract, whatever the clinical group and the K1 seroprevalence was the highest in both clinical groups. Our results showed an age-dependence in the number of different variants of MSPI block2 recognised by serum. Indeed, isolates from older (> 14 years) subjects showed lower multiplicity of infection and higher was the mean number of different MSPI variants recognised by their serum. This corresponded to the age reported for the acquisition of anti-parasite immunity under high malaria endemicity. The contribution of variant-specific immunity in asymptomatic malaria infections is discussed. (C) 2002 Published by Elsevier Science B.V.
+C1 Ctr Int Rech Med, CIRMF, Franceville, Gabon.
+   Inst Pasteur, Unite Immunol Mol Parasites, F-75724 Paris 15, France.
+   Ctr Reg Dev & Sante, CREDESA, SSP, Cotonou, Benin.
+RP Ntoumi, F (reprint author), Univ Tubingen, Hop Albert Schweitzer, Lamberene Gabon Sekt Humanparasitol, Inst Trop Med, Wilhelmstr 27, D-72074 Tubingen, Germany.
+NR 38
+TC 29
+Z9 29
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0001-706X
+J9 ACTA TROP
+JI Acta Trop.
+PD JAN
+PY 2002
+VL 81
+IS 1
+BP 33
+EP 46
+DI 10.1016/S0001-706X(01)00188-7
+PG 14
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA 516QK
+UT WOS:000173568100005
+PM 11755430
+ER
+
+PT J
+AU Kocken, CHM
+   Narum, DL
+   Massougbodji, A
+   Ayivi, B
+   Dubbeld, MA
+   van der Wel, A
+   Conway, DJ
+   Sanni, A
+   Thomas, AW
+AF Kocken, CHM
+   Narum, DL
+   Massougbodji, A
+   Ayivi, B
+   Dubbeld, MA
+   van der Wel, A
+   Conway, DJ
+   Sanni, A
+   Thomas, AW
+TI Molecular characterisation of Plasmodium reichenowi apical membrane
+   antigen-1 (AMA-1), comparison with P-falciparum AMA-1, and
+   antibody-mediated inhibition of red cell invasion
+SO MOLECULAR AND BIOCHEMICAL PARASITOLOGY
+LA English
+DT Article
+DE malaria; Plasmodium reichenowi; Plasmodium falciparum; apical membrane
+   antigen-1; polymorphism; red cell invasion
+ID FULL-LENGTH; DNA; EVOLUTION; KNOWLESI; POLYMORPHISM; LOCALIZATION;
+   PF83/AMA-1; PHYLOGENY; CHABAUDI
+AB Apical membrane antigen 1 is a candidate vaccine component for malaria. It is encoded by a single copy gene and has been characterised in a number of malaria species as either an 83-kDa de novo product (Plasmodium falciparum: Pf AMA-1) or a 66-kDa product (all other species). All members of the AMA-1 family are expressed during merozoite formation in maturing schizonts and are initially routed to the rhoptries. Processed forms may subsequently be associated with the merozoite surface. Because of the unique occurrence of the 83-kDa form in P. falciparum we were interested to determine whether the phylogenetically closely related chimpanzee malaria plasmodium reichenowi shared characteristics with Pf AMA-1. Here we show that the molecular structure, the localisation and processing are similar to that of Pf AMA-1 and that in vitro growth inhibitory mAbs reactive with Pf AMA-1 also inhibit P. reichenowi growth in an in vitro assay. Polymorphism in the 83-kDa AMA-1 family was analysed through comparison of Pr ama-1 with Pf ama-1 alleles, which showed the most significant evidence for selection maintaining polymorphism in Domains I-III of AMA-1 in P. falciparum. The most substantial divergence between Pr AMA-1 and Pf AMA-1 sequences was in the N-terminal region unique to the 83-kDa form of AMA-1. It was confirmed that the specific Pr ama-1-type allele was not present among P. falciparum parasites in an African population, and an allele coding for lysine at amino acid 187 was uniquely associated with field isolates in this population. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Biomed Primate Res Ctr, Dept Parasitol, NL-2280 GH Rijswijk, Netherlands.
+   Natl Hosp & Univ CNHU, Parasitol Ctr, Cotonou, Benin.
+   Univ London London Sch Hyg & Trop Med, Dept Infect & Trop Dis, London WC1E 7HT, England.
+   UNB, Fac Sci & Tech, Dept Biochim & Biol Cellulaire, Cotonou, Benin.
+RP Thomas, AW (reprint author), Biomed Primate Res Ctr, Dept Parasitol, Postbox 3306, NL-2280 GH Rijswijk, Netherlands.
+OI Conway, David/0000-0002-8711-3037
+NR 29
+TC 68
+Z9 69
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-6851
+J9 MOL BIOCHEM PARASIT
+JI Mol. Biochem. Parasitol.
+PD JUL
+PY 2000
+VL 109
+IS 2
+BP 147
+EP 156
+DI 10.1016/S0166-6851(00)00250-4
+PG 10
+WC Biochemistry & Molecular Biology; Parasitology
+SC Biochemistry & Molecular Biology; Parasitology
+GA 340QE
+UT WOS:000088545300006
+PM 10960173
+ER
+
+PT J
+AU Akogbeto, M
+   Yakoubou, S
+AF Akogbeto, M
+   Yakoubou, S
+TI Resistance of malaria vectors to pyrethroids used for impregnated
+   bednets, Benin, west Africa.
+SO BULLETIN DE LA SOCIETE DE PATHOLOGIE EXOTIQUE
+LA French
+DT Article
+DE resistance; Anopheles gambiae s.s.; Anopheles melas; pyrethroid;
+   chemioresistance; vector; Malaria; Bednet; Benin; west Africa
+ID ANOPHELES-GAMBIAE COMPLEX; BED NETS; SUSCEPTIBILITY; CURTAINS; KENYA;
+   AREA
+AB Impregnated bednets can be considered a major tool for reducing Anopheles bites, malaria morbidity and overall mortality. The resistance of Anopheles gambiae to pyrethroids used to impregnate bednets and curtains has already been noted in the urban area of Cotonou in Benin (18, 21). In this study we wished to find out if the resistance observed in Cotonou is localized only in this town or is already extensive throughout Benin, in this case, such resistance would be a handicap to the promotion of impregnated bednets in Benin.
+   The study was carried out in 15 localities throughout the different ecological zones of Benin. The study has also taken into account environmental factors favouring the emergence of resistance. We did susceptibility tests with WHO test kits for adult mosquitoes using impregnated papers. The papers were impregnated with permethrin 0,25%, deltamethrin 0,025% and lambdacyhalothrin 0,1 %. We also tested DDT 4% to find out if there was a cross resistance between DDT and the pyrethroids. Two mosquito species were tested: An. gambiae and An. melas.
+   In northern Benin, where farmers use insecticides against cotton pests vectors are susceptible to deltamethrin and lambdacyhalothrin and resistant to permethrin.
+   In the south, An. gambiae is resistant to deltamethrin and permethrin. This resistance is high in the urban zone of Cotonou, in the coastal and lagoon areas and at Krake, a frontier village with Nigeria. The resistance observed in southern Benin is confirmed by the lengthening of the knock-down time of mosquitoes which were exposed for 1 hour to insecticide in impregnated WHO test tubes, and by a reduction of permethrin and deltamethrin remanence effect.
+C1 OCCGE Cotonou, Ctr Rech Entomol, Cotonou, Benin.
+RP Akogbeto, M (reprint author), OCCGE Cotonou, Ctr Rech Entomol, 06 BP 2604, Cotonou, Benin.
+NR 32
+TC 46
+Z9 48
+U1 0
+U2 5
+PU S P E
+PI PARIS
+PA 25 RUE DU DOCTEUR ROUX, 75015 PARIS, FRANCE
+SN 0037-9085
+J9 B SOC PATHOL EXOT
+JI Bull. Soc. Pathol. Exot.
+PD MAY
+PY 1999
+VL 92
+IS 2
+BP 123
+EP 130
+PG 8
+WC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+SC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+GA 207HN
+UT WOS:000080931500013
+PM 10399604
+ER
+
+PT J
+AU Clavier, N
+   Rahimy, C
+   Falanga, P
+   Ayivi, B
+   Payen, D
+AF Clavier, N
+   Rahimy, C
+   Falanga, P
+   Ayivi, B
+   Payen, D
+TI No evidence for cerebral hypoperfusion during cerebral malaria
+SO CRITICAL CARE MEDICINE
+LA English
+DT Article
+DE malaria; cerebral malaria; cerebral blood flow; transcranial Doppler;
+   cerebral oxygenation; jugular bulb oxygen saturation; cerebral hyperemia
+ID AFRICAN CHILDREN; OXYGEN-TRANSPORT; NITRIC-OXIDE; BRAIN; HEMODYNAMICS;
+   INDICATORS; SURGERY; KENYANS; FLOW
+AB Objective: Among the mechanisms suggested for altered consciousness during cerebral malaria is the hypothesis of cerebral ischemia, which remains controversial, with little supportive O-2 conflicting hemodynamic data, The purpose of this Study was to test the hypothesis that cerebral ischemia is a main mechanism for altered consciousness during cerebral malaria,
+   Setting: University hospital pediatric ward in a region with endemic cerebral malaria,
+   Design: Prospective evaluation of cerebral hemodynamics and cerebral oxygenation during cerebral malaria compared with severe malaria anemia without altered consciousness.
+   Patients: During a 2-wk period, we evaluated all patients who were admitted for cerebral malaria (n = 5), Age-matched patients admitted for severe malaria anemia without altered consciousness (n = 3) and outpatients (n = 3) were investigated for comparison,
+   Interventions: All patients received the usual treatment according to their needs, which was determined by the physician in charge. Repeated neurologic evaluations were performed:during the early management period in patients with cerebral malaria.
+   Methods and Main Results: We repeatedly measured cerebral blood flow velocity (transcranial Doppler) and simultaneous systemic determinants of cerebral blood flow (arterial pressure, arterial oxygen saturation, Pace,, rectal temperature, and hemoglobin concentration). The adequacy of cerebral blood flow to oxygen demands during cerebral malaria was assessed by continuous recording of jugular bulb venous oxygen saturation (using a fiberoptic device), Marked cerebral vasodilation was observed during cerebral malaria (systolic velocity, 1.45 +/- 0.09 mis; diastolic velocity, 0.75 +/- 0.08 mis; n = 4) and during severe malaria anemia (systolic velocity, 1.18 +/- 0.14 m/s; diastolic velocity, 0.55 +/- 0.05 mis; n = 3) compared with control children (systolic velocity, 0.84 +/- 0.13 m/s; diastolic velocity, 0.35 +/- 0.06 m/s; n = 3; p < .05), During cerebral malaria, jugular bulb venous oxygen saturation remained stable, including during neurologic recovery, with initial values of 67.5 +/- 4.3%.
+   Conclusions:Because jugular bulb Venous oxygen saturation remained within the normal range, cerebral hyperemia seems to be an adaptive response to altered systemic determinants, which argues against a hemodynamic mechanism for altered conscious ness during cerebral malaria.
+C1 Lariboisiere Univ Hosp, Dept Anesthesiol & Crit Care Med, Paris, France.
+   Natl Univ Benin, Dept Pediatry & Genet Dis, Cotonou, Benin.
+   Museum Natl Hist Nat, Chemotherapy & Biol Parasites Lab, F-75231 Paris, France.
+RP Payen, D (reprint author), Hop Lariboisiere, Dept Anesthesiol & Crit Care Med, AP HP, 2 Rue Ambroise Pare, F-75475 Paris 10, France.
+NR 26
+TC 22
+Z9 22
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0090-3493
+J9 CRIT CARE MED
+JI Crit. Care Med.
+PD MAR
+PY 1999
+VL 27
+IS 3
+BP 628
+EP 632
+DI 10.1097/00003246-199903000-00047
+PG 5
+WC Critical Care Medicine
+SC General & Internal Medicine
+GA 182LH
+UT WOS:000079500100041
+PM 10199546
+ER
+
+PT J
+AU Akogbeto, M
+   Romano, R
+AF Akogbeto, M
+   Romano, R
+TI Anopheles melas infestation rate for Plasmodium falciparum in the
+   coastal and lagoon area of Benin, West Africa.
+SO BULLETIN DE LA SOCIETE DE PATHOLOGIE EXOTIQUE
+LA French
+DT Article
+DE infestation rate; Anopheles melas; Anopheles gambiae; Plasmodium
+   falciparum; malaria; Benin; Africa
+ID GAMBIAE
+AB In this article An. melas infestation rate for P. falciparum is compared to the rate of An. gambiae in the coastal and lagoon area of Benin where the two species are sympatric. We studied the variation of An. gambiae complex infestation rate in three zones where the two species occur in different proportions. This infestation rate is higher in areas where An. gambiae is prevalent. In a second experiment we separated An. melas and An. gambiae according to cytogenetic and biometrical analysis. Then we established the infestation rate of each species by microscope examination of salivary glands and presence of P. falciparum C.S. antigens by ELISA method.
+   In areas where An. melas is the most abundant species (80-90% the sporozoitic index and antigen C.S. + P. falciparum rate are significantly lower. These results are confirmed by the infestation rates observed for each species.
+   In conclusion, An. melas infestation rate is significantly lower than the An. gambiae one. An. gambiae is the best malaria vector in Africa. in spite of an environment such as Ganvie where animals are rare, which increases anthropophilic and endophilic tendancies of An. melas, antigens CS P, falciparum rate of An. gambiae (3.5%) are significantly higher than An. melas (1.9%).
+C1 Ctr OCCGE Cotonou, Cotonou, Benin.
+RP Akogbeto, M (reprint author), Ctr OCCGE Cotonou, 06 BP 2604, Cotonou, Benin.
+NR 20
+TC 10
+Z9 10
+U1 0
+U2 1
+PU S P E
+PI PARIS
+PA 25 RUE DU DOCTEUR ROUX, 75015 PARIS, FRANCE
+SN 0037-9085
+J9 B SOC PATHOL EXOT
+JI Bull. Soc. Pathol. Exot.
+PD FEB
+PY 1999
+VL 92
+IS 1
+BP 57
+EP 61
+PG 5
+WC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+SC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+GA 249HQ
+UT WOS:000083327600017
+PM 10214525
+ER
+
+PT J
+AU Chandre, F
+   Darrier, F
+   Manga, L
+   Akogbeto, M
+   Faye, O
+   Mouchet, J
+   Guillet, P
+AF Chandre, F
+   Darrier, F
+   Manga, L
+   Akogbeto, M
+   Faye, O
+   Mouchet, J
+   Guillet, P
+TI Status of pyrethroid resistance in Anopheles gambiae sensu lato
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID CULICIDAE; DIPTERA
+AB The present study confirms the presence of pyrethroid resistance among Anopheles gambiae s.l mosquitos in Gate d'Ivoire and reports the observation of such resistance in two other countries in West Africa (Benin and Burkina Faso). Malaria vector populations from Cameroon (Central Africa), Senegal (West Africa) and Botswana (southern Africa) were found to be susceptible to pyrethroids. In the most resistant mosquito populations, resistance to permethrin was associated with reduced mortality, not only with respect to this compound but also towards deltamethrin. Moreover, a significant increase in knockdown time was observed in some mosquito populations before any decrease in mortality, suggesting that knockdown time could be a good indicator for the early detection of pyrethroid resistance. In view of the current extension of such resistance, there is an urgent need to set up a network in Africa to evaluate its development. it is also Vital that the impact of this resistance on pyrethroid-impregnated bednets be assessed.
+C1 ORSTOM, Lab Lutte Insectes Nuisibles, Inst Francais Rech Sci Dev Cooperat, F-34032 Montpellier 1, France.
+   Inst Pierre Richet, OCCGE, Bouake, Cote Ivoire.
+   OCEAC, Lab Paludisme, Yaounde, Cameroon.
+   OCCGE, Ctr Rech Entomol, Cotonou, Benin.
+   Univ CAD, Lab Paludol, Dakar, Senegal.
+   ORSTOM, F-75010 Paris, France.
+RP Chandre, F (reprint author), ORSTOM, Lab Lutte Insectes Nuisibles, Inst Francais Rech Sci Dev Cooperat, BP5045, F-34032 Montpellier 1, France.
+NR 16
+TC 207
+Z9 219
+U1 2
+U2 11
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA DISTRIBUTION AND SALES, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PY 1999
+VL 77
+IS 3
+BP 230
+EP 234
+PG 5
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 181JF
+UT WOS:000079437700005
+PM 10212513
+ER
+
+PT J
+AU Dossou-Gbete, L
+   Amoussou, J
+AF Dossou-Gbete, L
+   Amoussou, J
+TI Presumptive treatment habits for uncomplicated malaria in Porto-Novo,
+   Benin
+SO MEDECINE ET MALADIES INFECTIEUSES
+LA French
+DT Letter
+DE malaria; presumptive treatment; self treatment
+AB A prospective and descriptive study was made to assess the presumptive treatment habits for uncomplicated malaria in Porto-Novo, Benin. Self-treatment was frequent (47.13 %). The treatment was prescribed by physicians in only 24.2 % of the cases. Self or prescribed treatment was frequently subtherapeutic (57 %): low dosage and/or low duration (< 5days). We suggest avoiding self-treatment and to update physicians on recommended malaria treatment, in order to reduce malaria resistance.
+C1 Clin Louis Pasteur, Porto Novo, Benin.
+RP Dossou-Gbete, L (reprint author), Clin Louis Pasteur, Boite Postale 165, Porto Novo, Benin.
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 0
+PU EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS CEDEX 15
+PA 23 RUE LINOIS, 75724 PARIS CEDEX 15, FRANCE
+SN 0399-077X
+J9 MED MALADIES INFECT
+JI Med. Mal. Infect.
+PD DEC
+PY 1998
+VL 28
+IS 12
+BP 1000
+EP 1001
+DI 10.1016/S0399-077X(98)80153-4
+PG 3
+WC Infectious Diseases
+SC Infectious Diseases
+GA 160NL
+UT WOS:000078236700012
+ER
+
+PT J
+AU Rahimy, MC
+   Dan, V
+   Akpona, S
+   Massougbodji, A
+   Falanga, PB
+AF Rahimy, MC
+   Dan, V
+   Akpona, S
+   Massougbodji, A
+   Falanga, PB
+TI Partial exchange transfusion prior to treating cerebral malaria in an
+   African child with glucose-6-phosphate dehydrogenase deficiency
+SO TRANSFUSION
+LA English
+DT Letter
+C1 NATL UNIV BENIN,FAC HLTH SCI COTONOU,DEPT CLIN BIOCHEM,COTONOU,BENIN.
+   NATL UNIV BENIN,FAC HLTH SCI COTONOU,DEPT PARASITOL,COTONOU,BENIN.
+   MUSEUM NATL HIST NAT,LAB BIOL PARASITAIRE & CHIMIOTHERAPIE,F-75231 PARIS,FRANCE.
+RP Rahimy, MC (reprint author), NATL UNIV BENIN,FAC HLTH SCI COTONOU,DEPT PEDIAT,COTONOU,BENIN.
+NR 3
+TC 3
+Z9 3
+U1 0
+U2 0
+PU AMER ASSOC BLOOD BANKS
+PI BETHESDA
+PA 8101 GLENBROOK RD, BETHESDA, MD 20814-2749
+SN 0041-1132
+J9 TRANSFUSION
+JI Transfusion
+PD SEP
+PY 1997
+VL 37
+IS 9
+BP 984
+EP 985
+DI 10.1046/j.1537-2995.1997.37997454029.x
+PG 2
+WC Hematology
+SC Hematology
+GA XW211
+UT WOS:A1997XW21100020
+PM 9308649
+ER
+
+PT J
+AU Rashed, S
+   Johnson, H
+   Dongier, P
+   Gbaguidi, CC
+   Laleye, S
+   Tchobo, S
+   Gyorkos, TW
+   Maclean, JD
+   Moreau, R
+AF Rashed, S
+   Johnson, H
+   Dongier, P
+   Gbaguidi, CC
+   Laleye, S
+   Tchobo, S
+   Gyorkos, TW
+   Maclean, JD
+   Moreau, R
+TI Sustaining malaria prevention in Benin: Local production of bednets
+SO HEALTH POLICY AND PLANNING
+LA English
+DT Article
+ID IMPREGNATED BED NETS; PRIMARY HEALTH-CARE; DEVELOPING-COUNTRIES;
+   ACCEPTABILITY; IMPACT; TRIAL; AREA
+AB Through a Benin-Canada participatory research initiative which included both Benin and Canadian nongovernmental organizations, a local capacity to produce and market bednets for the prevention of malaria was developed. The development process began following a community-based assessment of local needs and skills. All materials for the manufacture and distribution of the bednets were obtained locally with the exception of the netting which was imported from Canada. The sustainability of the enterprise is enhanced by the community's recognition of the importance of malaria and the culturally acceptable practice of bednet use.
+C1 MCGILL UNIV,MONTREAL GEN HOSP,CTR TROP DIS,MONTREAL,PQ H3G 1A4,CANADA.
+   CAC INT,MANAGEMENT & SOCIAL DIMENS,MONTREAL,PQ,CANADA.
+   HOP ST LUC,CLIN SANTE ACCUEIL,MONTREAL,PQ H2X 1P1,CANADA.
+   ORG SAVALOISE SOLIDAR & DEV,SAVALOU,BENIN.
+   HOP SAVALOU,CTR PROMOT SOCIALE,SAVALOU,BENIN.
+   MCGILL UNIV,DEPT BIOSTAT & EPIDEMIOL,MONTREAL,PQ H3A 2T5,CANADA.
+   MONTREAL GEN HOSP,DIV CLIN EPIDEMIOL,MONTREAL,PQ H3G 1A4,CANADA.
+RP Rashed, S (reprint author), HOP MAISON NEUVE ROSEMONT,DEPT PEDIAT,5415 BOUL ASSOMPT,MONTREAL,PQ H1T 2M4,CANADA.
+NR 14
+TC 12
+Z9 12
+U1 0
+U2 1
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD, ENGLAND OX2 6DP
+SN 0268-1080
+J9 HEALTH POLICY PLANN
+JI Health Policy Plan.
+PD MAR
+PY 1997
+VL 12
+IS 1
+BP 67
+EP 76
+DI 10.1093/heapol/12.1.67
+PG 10
+WC Health Care Sciences & Services; Health Policy & Services
+SC Health Care Sciences & Services
+GA WM799
+UT WOS:A1997WM79900007
+PM 10166104
+ER
+
+PT J
+AU GleleKakai, C
+   Garbarz, M
+   Lecomte, MC
+   Leborgne, S
+   Galand, C
+   Bournier, O
+   Devaux, I
+   Gautero, H
+   Zohoun, I
+   Gallagher, PG
+   Forget, BG
+   Dhermy, D
+AF GleleKakai, C
+   Garbarz, M
+   Lecomte, MC
+   Leborgne, S
+   Galand, C
+   Bournier, O
+   Devaux, I
+   Gautero, H
+   Zohoun, I
+   Gallagher, PG
+   Forget, BG
+   Dhermy, D
+TI Epidemiological studies of spectrin mutations related to hereditary
+   elliptocytosis and spectrin polymorphisms in Benin
+SO BRITISH JOURNAL OF HAEMATOLOGY
+LA English
+DT Article
+DE spectrin; mutation; elliptocytosis; polymorphism
+ID HUMAN-ERYTHROCYTE SPECTRIN; HETERODIMER CONTACT SITE; RED-CELL SPECTRIN;
+   ALPHA-SPECTRIN; BETA-SPECTRIN; PLASMODIUM-FALCIPARUM; TRYPTIC PEPTIDE;
+   MOLECULAR-BASIS; VARIANT; EXPRESSION
+AB We studied an African population in Benin and discovered an unexpectedly high frequency (1.6%) of hereditary elliptocytosis (HE) among the 1447 subjects studied. In approximately two-thirds of HE individuals we identified molecular defects, primarily those in erythrocyte alpha-spectrin (dupL154, L260P and L207P mutations), as well as a novel mutation of erythrocyte beta-spectrin (beta-W2061R mutation). We also identified the genetic basis of a previously identified protein polymorphism of the alpha III domain of spectrin (R1331I mutation). The genetic background of HE in the African population was studied using a number of polymorphisms of the alpha-spectrin gene, including the alpha III domain polymorphism. These studies suggest that the HE mutations appear to have originated from separate genetic backgrounds in this population.
+C1 FAC XAVIER BICHAT, INSERM, U409, F-75870 PARIS 18, FRANCE.
+   CTR NATL HOSP & UNIV, COTONOU, BENIN.
+   YALE UNIV, SCH MED, DEPT PEDIAT, NEW HAVEN, CT 06510 USA.
+   YALE UNIV, SCH MED, DEPT INTERNAL MED, NEW HAVEN, CT 06510 USA.
+   YALE UNIV, SCH MED, DEPT GENET, NEW HAVEN, CT 06510 USA.
+NR 54
+TC 27
+Z9 27
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0007-1048
+J9 BRIT J HAEMATOL
+JI Br. J. Haematol.
+PD OCT
+PY 1996
+VL 95
+IS 1
+BP 57
+EP 66
+DI 10.1046/j.1365-2141.1996.d01-1869.x
+PG 10
+WC Hematology
+SC Hematology
+GA VM980
+UT WOS:A1996VM98000010
+PM 8857939
+ER
+
+PT J
+AU Dossougbete, L
+   Dossougbete, V
+AF Dossougbete, L
+   Dossougbete, V
+TI Febrile otalgia as the first manifestation of malaria attack
+SO ARCHIVES DE PEDIATRIE
+LA French
+DT Letter
+RP Dossougbete, L (reprint author), CABINET MED,BOITE POSTALE 06,COTONOU 2547,BENIN.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EDITIONS SCIENTIFIQUES ELSEVIER
+PI PARIS CEDEX 15
+PA 141 RUE JAVEL, 75747 PARIS CEDEX 15, FRANCE
+SN 0929-693X
+J9 ARCH PEDIATRIE
+JI Arch. Pediatr.
+PD MAY
+PY 1996
+VL 3
+IS 5
+BP 509
+EP 509
+DI 10.1016/0929-693X(96)86416-5
+PG 1
+WC Pediatrics
+SC Pediatrics
+GA UM501
+UT WOS:A1996UM50100021
+PM 8763728
+ER
+
+PT J
+AU Akogbeto, M
+   Nahum, A
+AF Akogbeto, M
+   Nahum, A
+TI Impact of insecticide treated nets on malaria transmission in a coastal
+   lagoon area, Ganvie, Republic of Benin.
+SO BULLETIN DE LA SOCIETE DE PATHOLOGIE EXOTIQUE
+LA French
+DT Article
+DE treated-net; malaria; anopheline density; deltamethrin; Ganvie; Benin
+ID ANOPHELES-GAMBIAE; BURKINA-FASO; BED NETS
+AB We have measured the entomological impact of insecticide treated nets on malaria transmission at Ganvie, a village in the coastal and lagoon area of Benin. The nets we have impregnated belong to the population of this village. Men and women of Ganvie used the nets everyday against nuisance biting. Then, the nets we have impregnated are not experimental nets introduced in the village.
+   We have treated 3,230 nets, that means 79 % of the nets of this village which counts 20,000 inhabitants. After treating the nets, the inoculation rate due to Anopheles gambiae s.s. and A. melas has decreased from 11 to 4.6 infected bites per man/year, that represents 58.5 % of reduction of malaria transmission. We have also observed that the parturity rate of anopheles has decreased from 45.3 to 38.8 %.
+   We are sure that the entomological performances due to the impregnation will increase more if the inhabitants of Ganvie change their behaviours. They must reduce the frequency of impregnated net wash and retail the teared nets.
+RP Akogbeto, M (reprint author), CTR OCCGE COTONOU,BP 2604,COTONOU 06,BENIN.
+NR 23
+TC 7
+Z9 7
+U1 0
+U2 0
+PU S P E
+PI PARIS
+PA 25 RUE DU DOCTEUR ROUX, 75015 PARIS, FRANCE
+SN 0037-9085
+J9 B SOC PATHOL EXOT
+JI Bull. Soc. Pathol. Exot.
+PY 1996
+VL 89
+IS 4
+BP 291
+EP 298
+PG 8
+WC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+SC Public, Environmental & Occupational Health; Infectious Diseases;
+   Pathology; Tropical Medicine
+GA XJ390
+UT WOS:A1996XJ39000012
+ER
+
+EF

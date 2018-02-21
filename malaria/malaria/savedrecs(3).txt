@@ -1,0 +1,3059 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Ngufor, C
+   N'Guessan, R
+   Fagbohoun, J
+   Odjo, A
+   Malone, D
+   Akogbeto, M
+   Rowland, M
+AF Ngufor, Corine
+   N'Guessan, Raphael
+   Fagbohoun, Josias
+   Odjo, Abibatou
+   Malone, David
+   Akogbeto, Martin
+   Rowland, Mark
+TI Olyset Duo (R) (a Pyriproxyfen and Permethrin Mixture Net): An
+   Experimental Hut Trial against Pyrethroid Resistant Anopheles gambiae
+   and Culex quinquefasciatus in Southern Benin
+SO PLOS ONE
+LA English
+DT Article
+ID INSECTICIDE-TREATED NETS; COMBINATION NET; MALARIA CONTROL; POTENTIAL
+   USE; WEST-AFRICA; MOSQUITOS; CULICIDAE; DIPTERA; CARBAMATE; EFFICACY
+AB Background: Alternative compounds which can complement pyrethroids on long-lasting insecticidal nets (LN) in the control of pyrethroid resistant malaria vectors are urgently needed. Pyriproxyfen (PPF), an insect growth regulator, reduces the fecundity and fertility of adult female mosquitoes. LNs containing a mixture of pyriproxyfen and pyrethroid could provide personal protection through the pyrethroid component and reduce vector abundance in the next generation through the sterilizing effect of pyriproxyfen.
+   Method: The efficacy of Olyset Duo, a newly developed mixture LN containing pyriproxyfen and permethrin, was evaluated in experimental huts in southern Benin against pyrethroid resistant Anopheles gambiae and Culex quinquefasciatus. Comparison was made with Olyset Net (R) (permethrin alone) and a LN with pyriproxyfen alone (PPF LN). Laboratory tunnel tests were performed to substantiate the findings in the experimental huts.
+   Results: Overall mortality of wild pyrethroid resistant An. gambiae s.s. was significantly higher with Olyset Duo than with Olyset Net (50% vs. 27%, P=0.01). Olyset DUO was more protective than Olyset Net (71% vs. 3%, P < 0.001). The oviposition rate of surviving blood-fed An. gambiae from the control hut was 37% whereas none of those from Olyset Duo and PPF LN huts laid eggs. The tunnel test results were consistent with the experimental hut results. Olyset Duo was more protective than Olyset Net in the huts against wild pyrethroid resistant Cx. quinquefasciatus although mortality rates of this species did not differ significantly between Olyset Net and Olyset Duo. There was no sterilizing effect on surviving blood-fed Cx. quinquefasciatus with the PPF-treated nets.
+   Conclusion: Olyset Duo was superior to Olyset Net in terms of personal protection and killing of pyrethroid resistant An. gambiae, and sterilized surviving blood-fed mosquitoes. Mixing pyrethroid and pyriproxyfen on a LN shows potential for malaria control and management of pyrethroid resistant vectors by preventing further selection of pyrethroid resistant phenotypes.
+C1 [Ngufor, Corine; N'Guessan, Raphael; Rowland, Mark] London Sch Hyg & Trop Med, London WC1, England.
+   [Ngufor, Corine; N'Guessan, Raphael; Fagbohoun, Josias; Odjo, Abibatou; Akogbeto, Martin] CREC, Cotonou, Benin.
+   [Ngufor, Corine; N'Guessan, Raphael; Rowland, Mark] Pan African Malaria Vector Res Consortium PAMVERC, London, England.
+   [Malone, David] Innovat Vector Control Consortium IVCC, Liverpool, Merseyside, England.
+RP Ngufor, C (reprint author), London Sch Hyg & Trop Med, London WC1, England.
+EM corine.ngufor@lshtm.ac.uk
+FU Innovative Vector Control Consortium, Liverpool, UK; Bill & Melinda
+   Gates Foundation
+FX Project grant from Innovative Vector Control Consortium, Liverpool, UK
+   funded by a programme grant of the Bill & Melinda Gates Foundation.
+   http://www.ivcc.com/. The Bill & Melinda Gates Foundation had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript. However, the IVCC did advise on the study
+   design via their Expert Scientific Committee.
+NR 30
+TC 14
+Z9 14
+U1 1
+U2 10
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 3
+PY 2014
+VL 9
+IS 4
+AR e93603
+DI 10.1371/journal.pone.0093603
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AE6LR
+UT WOS:000334105000079
+PM 24699827
+ER
+
+PT J
+AU Palafox, B
+   Patouillard, E
+   Tougher, S
+   Goodman, C
+   Hanson, K
+   Kleinschmidt, I
+   Rueda, ST
+   Kiefer, S
+   O'Connell, KA
+   Zinsou, C
+   Phok, S
+   Akulayi, L
+   Arogundade, E
+   Buyungo, P
+   Mpasela, F
+   Chavasse, D
+AF Palafox, Benjamin
+   Patouillard, Edith
+   Tougher, Sarah
+   Goodman, Catherine
+   Hanson, Kara
+   Kleinschmidt, Immo
+   Rueda, Sergio Torres
+   Kiefer, Sabine
+   O'Connell, Kathryn A.
+   Zinsou, Cyprien
+   Phok, Sochea
+   Akulayi, Louis
+   Arogundade, Ekundayo
+   Buyungo, Peter
+   Mpasela, Felton
+   Chavasse, Desmond
+TI Understanding Private Sector Antimalarial Distribution Chains: A
+   Cross-Sectional Mixed Methods Study in Six Malaria-Endemic Countries
+SO PLOS ONE
+LA English
+DT Article
+ID CASE-MANAGEMENT; COMBINATION THERAPIES; FEBRILE ILLNESS; ANTI-MALARIALS;
+   RETAIL SECTOR; MARKET SHARE; DRUG SHOPS; HEALTH; PROVIDERS; UGANDA
+AB Background: Private for-profit outlets are important treatment sources for malaria in most endemic countries. However, these outlets constitute only the last link in a chain of businesses that includes manufacturers, importers and wholesalers, all of which influence the availability, price and quality of antimalarials patients can access. We present evidence on the composition, characteristics and operation of these distribution chains and of the businesses that comprise them in six endemic countries (Benin, Cambodia, Democratic Republic of Congo, Nigeria, Uganda and Zambia).
+   Methods and Findings: We conducted nationally representative surveys of antimalarial wholesalers during 2009-2010 using an innovative sampling approach that captured registered and unregistered distribution channels, complemented by in-depth interviews with a range of stakeholders. Antimalarial distribution chains were pyramidal in shape, with antimalarials passing through a maximum of 4-6 steps between manufacturer and retailer; however, most likely pass through 2-3 steps. Less efficacious non-artemisinin therapies (e. g. chloroquine) dominated weekly sales volumes among African wholesalers, while volumes for more efficacious artemisinin-based combination therapies (ACTs) were many times smaller. ACT sales predominated only in Cambodia. In all countries, consumer demand was the principal consideration when selecting products to stock. Selling prices and reputation were key considerations regarding supplier choice. Business practices varied across countries, with large differences in the proportions of wholesalers offering credit and delivery services to customers, and the types of distribution models adopted by businesses. Regulatory compliance also varied across countries, particularly with respect to licensing. The proportion of wholesalers possessing any up-to-date licence from national regulators was lowest in Benin and Nigeria, where vendors in traditional markets are important antimalarial supply sources.
+   Conclusions: The structure and characteristics of antimalarial distribution chains vary across countries; therefore, understanding the wholesalers that comprise them should inform efforts aiming to improve access to quality treatment through the private sector.
+C1 [Palafox, Benjamin; Patouillard, Edith; Tougher, Sarah; Goodman, Catherine; Hanson, Kara; Kleinschmidt, Immo; Rueda, Sergio Torres] London Sch Hyg & Trop Med, London WC1, England.
+   [Kiefer, Sabine] Swiss Trop & Publ Hlth Inst, Basel, Switzerland.
+   [O'Connell, Kathryn A.; Chavasse, Desmond] Populat Serv Int, Malaria & Child Survival Dept, Nairobi, Kenya.
+   [Zinsou, Cyprien] Populat Serv Int, Assoc Beninoise Mkt Social, Cotonou, Benin.
+   [Phok, Sochea] Populat Serv Int Cambodia, Phnom Penh, Cambodia.
+   [Akulayi, Louis] Assoc Sante Familiale, Kinshasa, Congo.
+   [Arogundade, Ekundayo] Soc Family Hlth, Abuja, Nigeria.
+   [Buyungo, Peter] Programme Accessible Hlth Commun & Educ, Kampala, Uganda.
+   [Mpasela, Felton] Soc Family Hlth, Lusaka, Zambia.
+RP Palafox, B (reprint author), London Sch Hyg & Trop Med, London WC1, England.
+EM benjamin.palafox@lshtm.ac.uk
+FU Bill and Melinda Gates Foundation [058992]
+FX ACTwatch is funded by the Bill and Melinda Gates Foundation
+   (www.gatesfoundation.org, grant #058992). The funders had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 3
+PY 2014
+VL 9
+IS 4
+AR e93763
+DI 10.1371/journal.pone.0093763
+PG 13
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AE6LR
+UT WOS:000334105000102
+PM 24699934
+ER
+
+PT J
+AU Assogba, BS
+   Djogbenou, L
+   Saizonou, J
+   Diabate, A
+   Dabire, RK
+   Moiroux, N
+   Gilles, JRL
+   Makoutode, M
+   Baldet, T
+AF Assogba, Benoit S.
+   Djogbenou, Luc
+   Saizonou, Jacques
+   Diabate, Abdoulaye
+   Dabire, Roch K.
+   Moiroux, Nicolas
+   Gilles, Jeremie R. L.
+   Makoutode, Michel
+   Baldet, Thierry
+TI Characterization of swarming and mating behaviour between Anopheles
+   coluzzii and Anopheles melas in a sympatry area of Benin
+SO ACTA TROPICA
+LA English
+DT Article
+DE Anopheles gambiae; Swarm; Malaria vector control
+ID MALARIA VECTOR CONTROL; LEK-BREEDING BIRD; TREATED BED NETS; MOLECULAR
+   M-FORM; GAMBIAE COMPLEX; INCIPIENT SPECIATION; BURKINA-FASO;
+   WEST-AFRICA; GENETIC DIFFERENTIATION; INSECTICIDE RESISTANCE
+AB The swarm structure of two sibling species, Anopheles gambiae coluzzii and Anopheles melas, was characterize to explore the ecological and environmental parameters associated with the formation of swarms and their spatial distribution. Swarms and breeding sites were searched and sampled between January and December 2010, and larval and adult samples were identified by PCR. During the dry season, 456 swarms of An. gambiae s.l. were sampled from 38 swarm sites yielding a total of 23,274 males and 76 females. Of these 38 swarming sites, 18 were composed exclusively of An. gambiae coluzzii and 20 exclusively of An. melas, presenting clear evidence of reproductive swarm segregation. The species makeup of couples sampled from swarms also demonstrated assortative mating. The swarm site localization was close to human dwellings in the case of the An. gambiae coluzzii and on salt production sites for An. melas. At the peak of the rainy season, swarms of An. melas were absent. These findings offer evidence that the ecological speciation of these two sibling species of mosquitoes is associated with spatial swarm segregation and assortative mating, providing strong support for the hypothesis that mate recognition is currently maintaining adaptive differentiation and promoting ecological speciation. Further studies on the swarming and mating systems of An. gambiae, with the prospect of producing a predictive model of swarm distribution, are needed to inform any future efforts to implement strategies based on the use of GMM or SIT.
+   Copyright (C) International Atomic Energy Agency 2013. Published by Elsevier B.V. All rights reserved.
+C1 [Assogba, Benoit S.; Djogbenou, Luc; Saizonou, Jacques; Makoutode, Michel] Univ Abomey Calavi, Inst Reg Sante Publ, Cotonou, Benin.
+   [Baldet, Thierry] Ctr Rech Entomol Cotonou, Inst Rech Dev, UMR224, Cotonou, Benin.
+   [Diabate, Abdoulaye; Dabire, Roch K.] Ctr Muraz, Inst Rech Sci Sante, Bobo Dioulasso, Burkina Faso.
+   [Gilles, Jeremie R. L.] IAEA, Joint FAO IAEA Div Nucl Tech Food, Insect Pest Control Lab, A-1400 Vienna, Austria.
+   [Moiroux, Nicolas; Baldet, Thierry] UMR UM1 UM2 CNRS 5290 IRD 224, Inst Rech Dev, Montpellier, France.
+RP Djogbenou, L (reprint author), Univ Abomey Calavi, Inst Reg Sante Publ, 01BP918, Cotonou, Benin.
+EM ldjogbenou22002@yahoo.fr
+OI Moiroux, Nicolas/0000-0001-6755-6167
+FU TDR/WHO [A80690]; IAEA [16412/R0];  [CRP G43002]
+FX This work was supported by a grant from TDR/WHO ID: A80690 and by IAEA
+   Research Contract No. 16412/R0 under the CRP G43002. Authors are
+   grateful to L. Djossou for his technical assistance during laboratory
+   assays and mosquito collections.
+NR 82
+TC 5
+Z9 5
+U1 1
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0001-706X
+EI 1873-6254
+J9 ACTA TROP
+JI Acta Trop.
+PD APR
+PY 2014
+VL 132
+SU S
+SI SI
+BP S53
+EP S63
+DI 10.1016/j.actatropica.2013.09.006
+PG 11
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AG0NK
+UT WOS:000335112000008
+PM 24113221
+ER
+
+PT J
+AU Lees, RS
+   Knols, B
+   Bellini, R
+   Benedict, MQ
+   Bheecarry, A
+   Bossin, HC
+   Chadee, DD
+   Charlwood, J
+   Dabire, RK
+   Djogbenou, L
+   Egyir-Yawson, A
+   Gato, R
+   Gouagna, LC
+   Hassan, MM
+   Khan, SA
+   Koekemoer, LL
+   Lemperiere, G
+   Manoukis, NC
+   Mozuraitis, R
+   Pitts, RJ
+   Simard, F
+   Gilles, JRL
+AF Lees, Rosemary Susan
+   Knols, Bart
+   Bellini, Romeo
+   Benedict, Mark Q.
+   Bheecarry, Ambicadutt
+   Bossin, Herve Christophe
+   Chadee, Dave D.
+   Charlwood, Jacques
+   Dabire, Roch K.
+   Djogbenou, Luc
+   Egyir-Yawson, Alexander
+   Gato, Rene
+   Gouagna, Louis Clement
+   Hassan, Mo'awia Mukhtar
+   Khan, Shakil Ahmed
+   Koekemoer, Lizette L.
+   Lemperiere, Guy
+   Manoukis, Nicholas C.
+   Mozuraitis, Raimondas
+   Pitts, R. Jason
+   Simard, Frederic
+   Gilles, Jeremie R. L.
+TI Review: Improving our knowledge of male mosquito biology in relation to
+   genetic control programmes
+SO ACTA TROPICA
+LA English
+DT Review
+ID AEDES-ALBOPICTUS DIPTERA; STERILE INSECT TECHNIQUE; MALE
+   ANOPHELES-GAMBIAE; INTEGRATED VECTOR MANAGEMENT; CHIKUNGUNYA OUTBREAK
+   AREA; POPULATION-SIZE SURVEY; ITALIAN URBAN AREAS; RICE-GROWING AREA;
+   FRENCH-POLYNESIA; MALARIA CONTROL
+AB The enormous burden placed on populations worldwide by mosquito-borne diseases, most notably malaria and dengue, is currently being tackled by the use of insecticides sprayed in residences or applied to bednets, and in the case of dengue vectors through reduction of larval breeding sites or larviciding with insecticides thereof. However, these methods are under threat from, amongst other issues, the development of insecticide resistance and the practical difficulty of maintaining long-term community-wide efforts. The sterile insect technique (SIT), whose success hinges on having a good understanding of the biology and behaviour of the male mosquito, is an additional weapon in the limited arsenal against mosquito vectors. The successful production and release of sterile males, which is the mechanism of population suppression by SIT, relies on the release of mass-reared sterile males able to confer sterility in the target population by mating with wild females. A five year Joint FAO/IAEA Coordinated Research Project brought together researchers from around the world to investigate the pre-mating conditions of male mosquitoes (physiology and behaviour, resource acquisition and allocation, and dispersal), the mosquito mating systems and the contribution of molecular or chemical approaches to the understanding of male mosquito mating behaviour. A summary of the existing knowledge and the main novel findings of this group is reviewed here, and further presented in the reviews and research articles that form this Acta Tropica special issue. Copyright (C) International Atomic Energy Agency 2013. Published by Elsevier B.V. All rights reserved..
+C1 [Lees, Rosemary Susan; Gilles, Jeremie R. L.] IAEA, Joint FAO IAEA Div Nucl Tech Food & Agr, Insect Pest Control Lab, FAO IAEM Agr & Biotechnol Labs, A-1400 Vienna, Austria.
+   [Knols, Bart] In2Care BV, NL-6702 AA Wageningen, Netherlands.
+   [Bellini, Romeo] Ctr Agr Ambiente G Nicoli, I-40014 Crevalcore, Italy.
+   [Benedict, Mark Q.] Polo Innovaz Genom Genet & Biol SCaRL, I-06132 Perugia, Italy.
+   [Bheecarry, Ambicadutt] Minist Hlth & Qual Life, Vector Biol & Control Div, Curepipe, Mauritius.
+   [Bossin, Herve Christophe] Inst Louis Malarde, Lab Rech Entomol Med, Papeete, Tahiti, Fr Polynesia.
+   [Chadee, Dave D.] Univ W Indies, Dept Life Sci, St Augustine, Trinid & Tobago.
+   [Charlwood, Jacques] DBL Inst Hlth Res & Dev, DK-2920 Charlottenlund, Denmark.
+   [Dabire, Roch K.] Ctr Muraz Org Cooperat & Coordinat Lutte Grandes, Bobo Dioulasso, Burkina Faso.
+   [Djogbenou, Luc] Univ Abomey Calavi, Inst Reg Sante Publ LRSP, Cotonou, Benin.
+   [Egyir-Yawson, Alexander] Ghana Atom Energy Commiss, Biotechnol & Nucl Agr Res Inst, Accra, Ghana.
+   [Gato, Rene] Inst Med Trop Pedro Kouri, Havana, Cuba.
+   [Gouagna, Louis Clement; Lemperiere, Guy] Ctr Rech & Veille Malad Emergentes Ocean Indien C, MIVEGEC Malad Infect & Vecteurs Ecol Genet Evolut, UMR 5290 224, Inst Rech Dev, St Clotilde, Reunion.
+   [Hassan, Mo'awia Mukhtar] Res Inst Trop Med, Dept Epidemiol, Khartoum, Sudan.
+   [Khan, Shakil Ahmed] Bangladesh Atom Energy Commiss, Atom Energy Res Estab, Inst Food & Radiat Biol, Dhaka 1344, Bangladesh.
+   [Koekemoer, Lizette L.] Natl Hlth Lab Serv, Natl Inst Communicate Dis, ZA-2131 Johannesburg, South Africa.
+   [Koekemoer, Lizette L.] Univ Witwatersrand, Fac Hlth Sci, Wits Res Inst Malaria, Johannesburg, South Africa.
+   [Manoukis, Nicholas C.] USDA ARS, US Pacific Basin Agr Res Ctr, Hilo, HI USA.
+   [Mozuraitis, Raimondas] Royal Inst Technol, Dept Chem, S-10044 Stockholm, Sweden.
+   [Pitts, R. Jason] Vanderbilt Univ, Dept Biol Sci, Nashville, TN 37232 USA.
+   [Simard, Frederic] Inst Rech Dev, UMR 5290 224, MIVEGEC Malad Infect & Vecteurs Ecol Genet Evol &, F-34394 Montpellier, France.
+RP Lees, RS (reprint author), Polo Innovaz Genom Genet & Biol SCaRL, Edificio D, I-06132 Perugia, Italy.
+EM louis-clement.gouagna@ird.fr; bart@in2care.org; rbellini@caa.it;
+   mqbenedict@yahoo.com; abheecarry.vbcd@mail.gov.mu; hbossin@ilm.pf;
+   dave.chadee@sta.uwi.edu; jdcharlwood@gmail.com; dabire_roch@hotmail.com;
+   ldjogbenou22002@yahoo.fr; egyiryawson@hotmail.com; rene@ipk.sld.cu;
+   louis-clement.gouagna@ird.fr; moawia65@hotmail.com; ibd@aitlbd.net;
+   lizettek@nicd.ac.za; guy.lemperiere@ird.fr;
+   nicholas.manoukis@ars.usda.gov; raimis@kth.se; j.pitts@vanderbilt.edu;
+   frederic.simard@ird.fr; j.gilles@iaea.org
+RI SIMARD, Frederic/J-9489-2016; 
+OI SIMARD, Frederic/0000-0002-2871-5329; Manoukis,
+   Nicholas/0000-0001-5062-7256; Lees, Rosemary/0000-0002-4232-9125;
+   /0000-0002-1719-2294; BOSSIN, Herve/0000-0002-3655-0923
+NR 165
+TC 15
+Z9 18
+U1 2
+U2 43
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0001-706X
+EI 1873-6254
+J9 ACTA TROP
+JI Acta Trop.
+PD APR
+PY 2014
+VL 132
+SU S
+SI SI
+BP S2
+EP S11
+DI 10.1016/j.actatropica.2013.11.005
+PG 10
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AG0NK
+UT WOS:000335112000002
+PM 24252487
+ER
+
+PT J
+AU Yahouedo, GA
+   Djogbenou, L
+   Saizonou, J
+   Assogba, BS
+   Makoutode, M
+   Gilles, JRL
+   Maiga, H
+   Mouline, K
+   Soukou, BK
+   Simard, F
+AF Yahouedo, Gildas A.
+   Djogbenou, Luc
+   Saizonou, Jacques
+   Assogba, Benoit S.
+   Makoutode, Michel
+   Gilles, Jeremie R. L.
+   Maiga, Hamidou
+   Mouline, Karine
+   Soukou, Bhonna K.
+   Simard, Frederic
+TI Effect of three larval diets on larval development and male sexual
+   performance of Anopheles gambiae s.s.
+SO ACTA TROPICA
+LA English
+DT Article
+DE Anopheles gambiae s.s.; Larval development; Male fitness; Sexual
+   competition; SIT; Larval diets
+ID STERILE INSECT TECHNIQUE; FEMALE BODY-SIZE; MOLECULAR M-FORM;
+   AEDES-ALBOPICTUS; DIPTERA-CULICIDAE; BURKINA-FASO; FECUNDITY; MOSQUITO;
+   MALARIA; MASS
+AB Population replacement/elimination strategies based on mass-release of sterile or otherwise genetically modified (male) mosquitoes are being considered in order to expand the malaria vector control arsenal on the way to eradication. A challenge in this context, is to produce male mosquitoes that will be able to compete and mate with wild females more efficiently than their wild counterparts, i.e. high fitness males. This study explored the effect of three larval food diets developed by the International Atomic Energy Agency on the overall fitness and mating performance of male Anopheles gambiae s.s. mosquitoes (Kisumu strain). Larval development (pupation and emergence rate, development time) was monitored, and adult wing length and energy reserves at emergence (i.e. lipids, sugars, glycogen and proteins) were measured. Male sexual performance was assessed through an insemination test whereby one male and 10 virgin females were maintained together in the same cage in order to record the number of inseminated females per 24 h. Our results show that males reared on Diets 2 and 3 performed best during larval development. Males provided with treatment 2.2 had a shorter development time and performed best in insemination tests. However, these males had the lowest overall lifespan, suggesting a trade-off between longevity and sexual performances which needs to be taken into consideration when planning release. The results from this work were discussed in the context of sterile insect techniques or genetic control methods which is today one of the strategy in the overall mosquito control and elimination efforts. Copyright (C) International Atomic Energy Agency 2013. Published by Elsevier B.V. All rights reserved.
+C1 [Yahouedo, Gildas A.; Djogbenou, Luc; Saizonou, Jacques; Assogba, Benoit S.; Makoutode, Michel] Univ Abomey Calavi, Inst Reg Sante Publ, Cotonou, Benin.
+   [Soukou, Bhonna K.] CREC, Cotonou, Benin.
+   [Gilles, Jeremie R. L.] IAEA, Joint FAO IAEA Div Nucl Tech Food, Insect Pest Control Lab, A-1400 Vienna, Austria.
+   [Maiga, Hamidou; Mouline, Karine] Ctr Muraz, Inst Rech Sci Sante, Bobo Dioulasso, Burkina Faso.
+   [Mouline, Karine; Simard, Frederic] IRD, UMR UM1 UM2, CNRS 5290, IRD 224, Montpellier, France.
+RP Djogbenou, L (reprint author), Univ Abomey Calavi, Inst Reg Sante Publ, BP 384 Ouidah & 01 BP 918, Cotonou, Benin.
+EM ldjogbenou22002@yahoo.fr
+RI SIMARD, Frederic/J-9489-2016
+OI SIMARD, Frederic/0000-0002-2871-5329
+FU IAEA [16412/RO]; LSD [14777/RO]; FS; CRP [G43002]
+FX This work was supported by a grant by IAEA research contracts no.
+   16412/RO to LSD and no. 14777/RO to FS under the CRP G43002. Authors are
+   grateful to L. Djossou for technical assistance during laboratory assays
+   and mosquito collections and to C. Brengues for metabolic dosage
+   assistance.
+NR 42
+TC 6
+Z9 6
+U1 3
+U2 19
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0001-706X
+EI 1873-6254
+J9 ACTA TROP
+JI Acta Trop.
+PD APR
+PY 2014
+VL 132
+SU S
+SI SI
+BP S96
+EP S101
+DI 10.1016/j.actatropica.2013.11.014
+PG 6
+WC Parasitology; Tropical Medicine
+SC Parasitology; Tropical Medicine
+GA AG0NK
+UT WOS:000335112000014
+PM 24291460
+ER
+
+PT J
+AU Boussari, O
+   Subtil, F
+   Moiroux, N
+   Djenontin, A
+   Iwaz, J
+   Corbel, V
+   Fonton, N
+   Garcia, A
+   Etard, JF
+   Ecochard, R
+AF Boussari, Olayide
+   Subtil, Fabien
+   Moiroux, Nicolas
+   Djenontin, Armel
+   Iwaz, Jean
+   Corbel, Vincent
+   Fonton, Noel
+   Garcia, Andre
+   Etard, Jean-Francois
+   Ecochard, Rene
+TI Modeling the seasonality of Anopheles gambiae s.s. biting rates in a
+   South Benin sanitary zone
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE Anopheles gambiae s.s.; Biting rate; Classification; Latent trajectory
+   modeling; Malaria vectors; South Benin
+ID POLYMERASE-CHAIN-REACTION; MALARIA TRANSMISSION; TEMPORAL DYNAMICS;
+   COTE-DIVOIRE; WEST-AFRICA; RISK; EPIDEMIOLOGY; LIKELIHOOD; VECTORS;
+   COMPLEX
+AB Background: Efficient malaria vector control requires knowledge of spatio-temporal vector dynamics. We have classified village groups according to the biting rate profiles of both Anopheles coluzzii and An. gambiae, the major malaria vectors in these villages.
+   Mosquitoes were captured by human bait in 28 South Benin villages during 2009. Both An. coluzzii and An. gambiae counts in each village were standardized to focus on changes in the vector biting rate over time. Latent class trajectory modeling, allowing for random intercept at the village level, was adjusted to standardized values.
+   The villages could be classified into two groups with distinct vector biting rate profiles (continuous/transient). This classification helped creating a map of vector biting rates in the area. The biting rate profiles were found to be significantly correlated with mean rainfall, altitude, average number of larval sites, and average normalized difference vegetation index.
+   In highly malaria-prone regions, knowledge of vector biting rate profiles is important to improve vector control interventions. A similar methodology may be applied to study the biting rate profiles of other vector-borne infections.
+C1 [Boussari, Olayide; Fonton, Noel] Univ Abomey Calavi, Lab Etude & Rech Stat Appl & Modelisat, Int Chair Math Phys & Applicat, Abomey Calavi, Benin.
+   [Boussari, Olayide; Subtil, Fabien; Iwaz, Jean; Ecochard, Rene] Univ Lyon, F-69000 Lyon, France.
+   [Boussari, Olayide; Subtil, Fabien; Iwaz, Jean; Ecochard, Rene] Univ Lyon 1, F-69100 Villeurbanne, France.
+   [Boussari, Olayide; Subtil, Fabien; Iwaz, Jean; Ecochard, Rene] CNRS, Lab Biometrie & Biol Evolut, UMR5558, F-69100 Villeurbanne, France.
+   [Boussari, Olayide; Subtil, Fabien; Iwaz, Jean; Ecochard, Rene] Hosp Civils Lyon, Serv Biostat, F-69003 Lyon, France.
+   [Moiroux, Nicolas; Djenontin, Armel; Corbel, Vincent] IRD 224 CNRS 5290 UM1 UM2, MIVEGEC, Inst Rech Dev, Cotonou, Benin.
+   [Moiroux, Nicolas] IRD 224 CNRS 5290 UM1 UM2, MIVEGEC, Inst Rech Dev, Montpellier, France.
+   [Djenontin, Armel; Corbel, Vincent] Ctr Rech Entomol Cotonou, Minist Sante, Cotonou, Benin.
+   [Garcia, Andre] Inst Rech Dev, UMR Mere & Enfant Face Infect Trop 216, Paris, France.
+   [Etard, Jean-Francois] Epictr, Paris, France.
+   [Etard, Jean-Francois] Univ Montpellier I, UMI TransVIHMI 233, Inst Rech Dev, Montpellier, France.
+RP Boussari, O (reprint author), Univ Abomey Calavi, Lab Etude & Rech Stat Appl & Modelisat, Int Chair Math Phys & Applicat, Abomey Calavi, Benin.
+EM olayideb@yahoo.fr
+RI Corbel, VIncent/G-9576-2016; Garcia, Andre/S-2959-2016; 
+OI Garcia, Andre/0000-0002-1808-472X; Moiroux, Nicolas/0000-0001-6755-6167
+FU Ministere Francais des Affaires Etrangeres; Hospices Civils de Lyon
+FX We thank the Ministere Francais des Affaires Etrangeres and Hospices
+   Civils de Lyon for their financial support to Olayide Boussari.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD APR
+PY 2014
+VL 108
+IS 4
+BP 237
+EP 243
+DI 10.1093/trstmh/tru027
+PG 7
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA AD2TQ
+UT WOS:000333088700010
+PM 24578284
+ER
+
+PT J
+AU Aikpon, R
+AF Aikpon, R.
+TI Malaria vector control
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Meeting Abstract
+C1 [Aikpon, R.] CREC, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD APR
+PY 2014
+VL 21
+SU 1
+MA 43.013
+BP 142
+EP 142
+DI 10.1016/j.ijid.2014.03.720
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA V43TP
+UT WOS:000209704000305
+ER
+
+PT J
+AU Anges, Y
+   Raphael, N
+   Martin, A
+AF Anges, Y.
+   Raphael, N.
+   Martin, A.
+TI impact of the expansion of urban vegetable farming on malaria
+   transmission in major cities of Benin
+SO INTERNATIONAL JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Meeting Abstract
+C1 [Anges, Y.] Univ Parakou, Cotonou, Benin.
+   [Raphael, N.] CREC, London Sch Hyg & Trop Med, Cotonou, Benin.
+   [Martin, A.] CREC, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1201-9712
+EI 1878-3511
+J9 INT J INFECT DIS
+JI Int. J. Infect. Dis.
+PD APR
+PY 2014
+VL 21
+SU 1
+MA 43.017
+BP 144
+EP 144
+DI 10.1016/j.ijid.2014.03.724
+PG 1
+WC Infectious Diseases
+SC Infectious Diseases
+GA V43TP
+UT WOS:000209704000309
+ER
+
+PT J
+AU Govoetchan, R
+   Gnanguenon, V
+   Ogouwale, E
+   Oke-Agbo, F
+   Azondekon, R
+   Sovi, A
+   Attolou, R
+   Badirou, K
+   Youssouf, RA
+   Osse, R
+   Akogbeto, M
+AF Govoetchan, Renaud
+   Gnanguenon, Virgile
+   Ogouwale, Euloge
+   Oke-Agbo, Frederic
+   Azondekon, Roseric
+   Sovi, Arthur
+   Attolou, Roseline
+   Badirou, Kefilath
+   Youssouf, Ramziyath Agbanrin
+   Osse, Razaki
+   Akogbeto, Martin
+TI Dry season refugia for anopheline larvae and mapping of the seasonal
+   distribution in mosquito larval habitats in Kandi, northeastern Benin
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Larvae; Habitats; Anopheline; Drought; Refugia; Breeding
+ID MALARIA TRANSMISSION; CLIMATE-CHANGE; WESTERN KENYA; RURAL-AREAS;
+   AFRICA; URBAN; URBANIZATION; SENEGAL; RISK
+AB Background: The dynamics of mosquito populations depends on availability of suitable surface water for oviposition. It is well known that suitable management of mosquito larval habitats in the sub-Saharan countries, particularly during droughts, could help to suppress vector densities and malaria transmission. We conducted a field survey to investigate the spatial and seasonal distribution of mosquito larval habitats and identify drought-refugia for anopheline larvae.
+   Methods: A GIS approach was used to identify, geo-reference and follow up longitudinally from May 2012 to May 2013, all mosquito breeding sites in two rural sites (Yondarou and Thui), one urban (Kossarou), and one peri-urban (Pede) site at Kandi, a municipality in northeastern Benin. In Kandi, droughts are excessive with no rain for nearly six months and a lot of sunshine. A comprehensive record of mosquito larval habitats was conducted periodically in all sites for the identification of drought-refugia of anopheline larval stages. With geospatialisation data, seasonal larval distribution maps were generated for each study site with the software ArcGIS version 10.2.
+   Results: Overall, 187 mosquito breeding sites were identified of which 29.95% were recorded during drought. In rural, peri-urban and urban sites, most of the drought-refugia of anopheline larvae were domestic in nature (61.54%). Moreover, in rural settings, anopheline larvae were also sampled in cisterns and wells (25% of larval habitats sampled during drought in Yondarou and 20% in Thui). The mapping showed a significant decrease in the spatial distribution of mosquito larval habitats in rural, peri-urban and urban sites during drought, except in Yondarou (rural) where the aridity did not seem to influence the distribution of larval habitats.
+   Conclusion: Our data showed that the main drought-refugia of anopheline larvae were of a domestic nature as well as wells and cisterns. A suitable management of mosquito larvae in sub-Saharan countries, particularly during droughts, should target such larval habitats for a meaningful impact on the dynamics of mosquito populations and malaria transmission.
+C1 [Govoetchan, Renaud; Gnanguenon, Virgile; Oke-Agbo, Frederic; Azondekon, Roseric; Sovi, Arthur; Attolou, Roseline; Badirou, Kefilath; Youssouf, Ramziyath Agbanrin; Osse, Razaki; Akogbeto, Martin] Ctr Rech Entomol Cotonou CREC, Cotonou, Benin.
+   [Govoetchan, Renaud; Gnanguenon, Virgile; Sovi, Arthur; Attolou, Roseline; Badirou, Kefilath; Youssouf, Ramziyath Agbanrin; Osse, Razaki; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Calavi, Benin.
+   [Ogouwale, Euloge] Univ Abomey Calavi, Dept Geog, Calavi, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+RP Govoetchan, R (reprint author), Ctr Rech Entomol Cotonou CREC, 06 BP 2604, Cotonou, Benin.
+EM renaud292@yahoo.fr
+FU PMI (President's Malaria Initiative) through USAID
+FX This work was financially supported by PMI (President's Malaria
+   Initiative) through USAID. We thank the Ministry of Higher Education and
+   Scientific Research (MESRS) and the team of CREC for their technical
+   assistance during this survey. We also thank the people of Kandi for
+   their collaboration.
+NR 31
+TC 3
+Z9 3
+U1 3
+U2 13
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD MAR 31
+PY 2014
+VL 7
+AR 137
+PG 10
+WC Parasitology
+SC Parasitology
+GA AG3TN
+UT WOS:000335342700003
+PM 24684886
+ER
+
+PT J
+AU Mitchell, SN
+   Rigden, DJ
+   Dowd, AJ
+   Lu, F
+   Wilding, CS
+   Weetman, D
+   Dadzie, S
+   Jenkins, AM
+   Regna, K
+   Boko, P
+   Djogbenou, L
+   Muskavitch, MAT
+   Ranson, H
+   Paine, MJI
+   Mayans, O
+   Donnelly, MJ
+AF Mitchell, Sara N.
+   Rigden, Daniel J.
+   Dowd, Andrew J.
+   Lu, Fang
+   Wilding, Craig S.
+   Weetman, David
+   Dadzie, Samuel
+   Jenkins, Adam M.
+   Regna, Kimberly
+   Boko, Pelagie
+   Djogbenou, Luc
+   Muskavitch, Marc A. T.
+   Ranson, Hilary
+   Paine, Mark J. I.
+   Mayans, Olga
+   Donnelly, Martin J.
+TI Metabolic and Target-Site Mechanisms Combine to Confer Strong DDT
+   Resistance in Anopheles gambiae
+SO PLOS ONE
+LA English
+DT Article
+ID GLUTATHIONE S-TRANSFERASES; PROTEIN STABILITY CHANGES; AMINO-ACID
+   SUBSTITUTION; INSECTICIDE RESISTANCE; MALARIA VECTOR;
+   DROSOPHILA-MELANOGASTER; KDR MUTATION; WEB SERVER; IDENTIFICATION;
+   POPULATIONS
+AB The development of resistance to insecticides has become a classic exemplar of evolution occurring within human time scales. In this study we demonstrate how resistance to DDT in the major African malaria vector Anopheles gambiae is a result of both target-site resistance mechanisms that have introgressed between incipient species (the M-and S-molecular forms) and allelic variants in a DDT-detoxifying enzyme. Sequencing of the detoxification enzyme, Gste2, from DDT resistant and susceptible strains of An. gambiae, revealed a non-synonymous polymorphism (I114T), proximal to the DDT binding domain, which segregated with strain phenotype. Recombinant protein expression and DDT metabolism analysis revealed that the proteins from the susceptible strain lost activity at higher DDT concentrations, characteristic of substrate inhibition. The effect of I114T on GSTE2 protein structure was explored through X-ray crystallography. The amino acid exchange in the DDT-resistant strain introduced a hydroxyl group nearby the hydrophobic DDT-binding region. The exchange does not result in structural alterations but is predicted to facilitate local dynamics and enzyme activity. Expression of both wild-type and 114T alleles the allele in Drosophila conferred an increase in DDT tolerance. The 114T mutation was significantly associated with DDT resistance in wild caught M-form populations and acts in concert with target-site mutations in the voltage gated sodium channel (Vgsc-1575Y and Vgsc-1014F) to confer extreme levels of DDT resistance in wild caught An. gambiae.
+C1 [Mitchell, Sara N.; Dowd, Andrew J.; Wilding, Craig S.; Weetman, David; Dadzie, Samuel; Boko, Pelagie; Ranson, Hilary; Paine, Mark J. I.; Donnelly, Martin J.] Univ Liverpool, Liverpool Sch Trop Med, Dept Vector Biol, Liverpool L3 5QA, Merseyside, England.
+   [Rigden, Daniel J.; Lu, Fang; Mayans, Olga] Univ Liverpool, Inst Integrat Biol, Liverpool L69 3BX, Merseyside, England.
+   [Dadzie, Samuel] Univ Ghana, Noguchi Mem Inst Med Res, Legon, Ghana.
+   [Jenkins, Adam M.; Regna, Kimberly; Muskavitch, Marc A. T.] Boston Coll, Chestnut Hill, MA 02167 USA.
+   [Djogbenou, Luc] Univ Dabomey Calavi, Inst Reg Sante Publ Ouidah, Cotonou, Benin.
+   [Muskavitch, Marc A. T.] Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA.
+   [Donnelly, Martin J.] Wellcome Trust Sanger Inst, Malaria Programme, Cambridge, England.
+RP Mayans, O (reprint author), Univ Liverpool, Inst Integrat Biol, Liverpool L69 3BX, Merseyside, England.
+EM olga.mayans@liv.ac.uk; m.j.donnelly@liv.ac.uk
+RI Wilding, Craig/C-5500-2012; Weetman, David/M-1261-2014; Paine, Mark John
+   Ingraham/D-3360-2013; 
+OI Wilding, Craig/0000-0001-5818-2706; Weetman, David/0000-0002-5820-1388;
+   Mayans, Olga/0000-0001-6876-8532; Ranson, Hilary/0000-0003-2332-8247;
+   Rigden, Daniel/0000-0002-7565-8937; Paine, Mark John
+   Ingraham/0000-0003-2061-7713; Mitchell, Sara/0000-0002-7926-1881
+FU Biotechnology and Biological Sciences Research Council; Innovative
+   Vector Control Consortium; National Institute of Allergy and Infectious
+   Diseases [R01AI082734]; UNICEF/UNDP/World Bank/WHO Special Programme for
+   Research and Training in Tropical Diseases (WHO/TDR) [A70588]
+FX This work was funded by a Biotechnology and Biological Sciences Research
+   Council studentship (to S.N.M.), by the Innovative Vector Control
+   Consortium and the National Institute of Allergy and Infectious Diseases
+   Grant R01AI082734. Funding for the mosquito collections from Burkina
+   Faso was provided by UNICEF/UNDP/World Bank/WHO Special Programme for
+   Research and Training in Tropical Diseases (WHO/TDR), Grant A70588. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 51
+TC 17
+Z9 18
+U1 3
+U2 27
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 27
+PY 2014
+VL 9
+IS 3
+AR e92662
+DI 10.1371/journal.pone.0092662
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AE0SW
+UT WOS:000333677500032
+PM 24675797
+ER
+
+PT J
+AU Moiroux, N
+   Djenontin, A
+   Bio-Bangana, AS
+   Chandre, F
+   Corbel, V
+   Guis, H
+AF Moiroux, Nicolas
+   Djenontin, Armel
+   Bio-Bangana, Abdul S.
+   Chandre, Fabrice
+   Corbel, Vincent
+   Guis, Helene
+TI Spatio-temporal analysis of abundances of three malaria vector species
+   in southern Benin using zero-truncated models
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Malaria; Anopheles; Modelling; Abundance; Zero-truncated; Vector
+   control; Map
+ID POLYMERASE-CHAIN-REACTION; INSECTICIDE-TREATED NETS; ANOPHELES-GAMBIAE;
+   MOLECULAR-FORMS; WESTERN KENYA; CULICIDAE; DIPTERA; MOSQUITOS;
+   TRANSMISSION; PROTECTION
+AB Background: A better understanding of the ecology and spatial-temporal distribution of malaria vectors is essential to design more effective and sustainable strategies for malaria control and elimination. In a previous study, we analyzed presence-absence data of An. funestus, An. coluzzii, and An. gambiae s.s. in an area of southern Benin with high coverage of vector control measures. Here, we further extend the work by analysing the positive values of the dataset to assess the determinants of the abundance of these three vectors and to produce predictive maps of vector abundance.
+   Methods: Positive counts of the three vectors were assessed using negative-binomial zero-truncated (NBZT) mixed-effect models according to vector control measures and environmental covariates derived from field and remote sensing data. After 8-fold cross-validation of the models, predictive maps of abundance of the sympatric An. funestus, An. coluzzii, and An. gambiae s.s. were produced.
+   Results: Cross-validation of the NBZT models showed a satisfactory predictive accuracy. Almost all changes in abundance between two surveys in the same village were well predicted by the models but abundances for An. gambiae s.s. were slightly underestimated. During the dry season, predictive maps showed that abundance greater than 1 bite per person per night were observed only for An. funestus and An. coluzzii. During the rainy season, we observed both increase and decrease in abundance of An. funestus, which are dependent on the ecological setting. Abundances of both An. coluzzii and An. gambiae s. s. increased during the rainy season but not in the same areas.
+   Conclusions: Our models helped characterize the ecological preferences of three major African malaria vectors. This works highlighted the importance to study independently the binomial and the zero-truncated count processes when evaluating vector control strategies. The study of the bio-ecology of malaria vector species in time and space is critical for the implementation of timely and efficient vector control strategies.
+C1 [Moiroux, Nicolas; Chandre, Fabrice; Corbel, Vincent] MIVEGEC IRD 224 CNRS 5290 UM1 UM2, Inst Rech Dev, F-34394 Montpellier, France.
+   [Djenontin, Armel] MIVEGEC IRD 224 CNRS 5290 UM1 UM2, Inst Rech Dev, Cotonou, Benin.
+   [Djenontin, Armel; Bio-Bangana, Abdul S.] Minist Sante, Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [Corbel, Vincent] Kasetsart Univ, Fac Agr, Dept Entomol, Bangkok 10900, Thailand.
+   [Guis, Helene] CIRAD, UMR CMAEE, F-34398 Montpellier, France.
+   [Guis, Helene] INRA, UMR, CMAEEF 1309, F-34398 Montpellier, France.
+RP Moiroux, N (reprint author), MIVEGEC IRD 224 CNRS 5290 UM1 UM2, Inst Rech Dev, BP64501, F-34394 Montpellier, France.
+EM nicolas.moiroux@ird.fr
+RI Corbel, VIncent/G-9576-2016; 
+OI Moiroux, Nicolas/0000-0001-6755-6167; Chandre,
+   Fabrice/0000-0002-1994-9705
+FU French ministry of foreign affairs through the SCAC programme; IRD; EU
+   [FP7-261504]; EDENext Steering Committee [Edenext202]
+FX We thank populations of the villages for their kind support and
+   collaboration. We also thank all the field and laboratory staff for
+   their strong commitment to this project. We thank the French ministry of
+   foreign affairs through the SCAC programme and IRD for their financial
+   support. NM thank Mr Francois Lacoste and Mrs Paule Hamploy for their
+   financial support. This study was partially funded by EU grant
+   FP7-261504 EDENext and is catalogued by the EDENext Steering Committee
+   as Edenext202 ( http://www.edenext.eu). The contents of this publication
+   are the sole responsibility of the authors and don't necessarily reflect
+   the views of the European Commission. We thank the ISIS programme of
+   CNES for providing us the SPOT image.
+NR 47
+TC 2
+Z9 2
+U1 2
+U2 8
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD MAR 12
+PY 2014
+VL 7
+AR 103
+DI 10.1186/1756-3305-7-103
+PG 11
+WC Parasitology
+SC Parasitology
+GA AG0AC
+UT WOS:000335074900001
+PM 24620714
+ER
+
+PT J
+AU Edi, CV
+   Djogbenou, L
+   Jenkins, AM
+   Regna, K
+   Muskavitch, MAT
+   Poupardin, R
+   Jones, CM
+   Essandoh, J
+   Ketoh, GK
+   Paine, MJI
+   Koudou, BG
+   Donnelly, MJ
+   Ranson, H
+   Weetman, D
+AF Edi, Constant V.
+   Djogbenou, Luc
+   Jenkins, Adam M.
+   Regna, Kimberly
+   Muskavitch, Marc A. T.
+   Poupardin, Rodolphe
+   Jones, Christopher M.
+   Essandoh, John
+   Ketoh, Guillaume K.
+   Paine, Mark J. I.
+   Koudou, Benjamin G.
+   Donnelly, Martin J.
+   Ranson, Hilary
+   Weetman, David
+TI CYP6 P450 Enzymes and ACE-1 Duplication Produce Extreme and Multiple
+   Insecticide Resistance in the Malaria Mosquito Anopheles gambiae
+SO PLOS GENETICS
+LA English
+DT Article
+ID GATED SODIUM-CHANNEL; COTE-DIVOIRE; BURKINA-FASO; WEST-AFRICA;
+   MICROARRAY EXPERIMENTS; PYRETHROID-RESISTANCE; CARBAMATE RESISTANCE;
+   CROSS-RESISTANCE; DDT RESISTANCE; VECTOR CONTROL
+AB Malaria control relies heavily on pyrethroid insecticides, to which susceptibility is declining in Anopheles mosquitoes. To combat pyrethroid resistance, application of alternative insecticides is advocated for indoor residual spraying (IRS), and carbamates are increasingly important. Emergence of a very strong carbamate resistance phenotype in Anopheles gambiae from Tiassale, Cote d'Ivoire, West Africa, is therefore a potentially major operational challenge, particularly because these malaria vectors now exhibit resistance to multiple insecticide classes. We investigated the genetic basis of resistance to the most commonly-applied carbamate, bendiocarb, in An. gambiae from Tiassale. Geographically-replicated whole genome microarray experiments identified elevated P450 enzyme expression as associated with bendiocarb resistance, most notably genes from the CYP6 subfamily. P450s were further implicated in resistance phenotypes by induction of significantly elevated mortality to bendiocarb by the synergist piperonyl butoxide (PBO), which also enhanced the action of pyrethroids and an organophosphate. CYP6P3 and especially CYP6M2 produced bendiocarb resistance via transgenic expression in Drosophila in addition to pyrethroid resistance for both genes, and DDT resistance for CYP6M2 expression. CYP6M2 can thus cause resistance to three distinct classes of insecticide although the biochemical mechanism for carbamates is unclear because, in contrast to CYP6P3, recombinant CYP6M2 did not metabolise bendiocarb in vitro. Strongly bendiocarb resistant mosquitoes also displayed elevated expression of the acetylcholinesterase ACE-1 gene, arising at least in part from gene duplication, which confers a survival advantage to carriers of additional copies of resistant ACE-1 G119S alleles. Our results are alarming for vector-based malaria control. Extreme carbamate resistance in Tiassale An. gambiae results from coupling of over-expressed target site allelic variants with heightened CYP6 P450 expression, which also provides resistance across contrasting insecticides. Mosquito populations displaying such a diverse basis of extreme and cross-resistance are likely to be unresponsive to standard insecticide resistance management practices.
+C1 [Edi, Constant V.; Djogbenou, Luc; Poupardin, Rodolphe; Jones, Christopher M.; Essandoh, John; Paine, Mark J. I.; Donnelly, Martin J.; Ranson, Hilary; Weetman, David] Univ Liverpool, Liverpool Sch Trop Med, Vector Biol Dept, Liverpool L3 5QA, Merseyside, England.
+   [Edi, Constant V.; Koudou, Benjamin G.] Ctr Suisse Rech Sci Cote Ivoire, Abidjan, Cote Ivoire.
+   [Djogbenou, Luc] Univ Abomey Calavi, Inst Reg Sante Publ, Ouidah, Benin.
+   [Jenkins, Adam M.; Regna, Kimberly; Muskavitch, Marc A. T.] Boston Coll, Dept Biol, Chestnut Hill, MA 02167 USA.
+   [Essandoh, John] Univ Cape Coast, Dept Entomol & Wildlife, Cape Coast, Ghana.
+   [Ketoh, Guillaume K.] Univ Lome, Fac Sci, Unite Rech Ecotoxicol URET, Lome, Togo.
+   [Koudou, Benjamin G.] Univ Liverpool, Liverpool Sch Trop Med, Ctr Neglected Trop Dis, Liverpool L3 5QA, Merseyside, England.
+   [Koudou, Benjamin G.] Univ Nangui Abrogoua, UFR Sci Nat, Abidjan, Cote Ivoire.
+   [Donnelly, Martin J.] Wellcome Trust Sanger Inst, Malaria Programme, Cambridge, England.
+RP Edi, CV (reprint author), Univ Liverpool, Liverpool Sch Trop Med, Vector Biol Dept, Pembroke Pl, Liverpool L3 5QA, Merseyside, England.
+EM dweetman@liv.ac.uk
+RI Jones, Christopher/C-8931-2013; Weetman, David/M-1261-2014; Poupardin,
+   Rodolphe/K-3138-2014; Paine, Mark John Ingraham/D-3360-2013; 
+OI Weetman, David/0000-0002-5820-1388; Poupardin,
+   Rodolphe/0000-0001-5195-5155; Paine, Mark John
+   Ingraham/0000-0003-2061-7713; Ranson, Hilary/0000-0003-2332-8247
+FU European Union [265660]; Wellcome Trust [WT093755]; NIAID
+   [1R01AI082734-01]
+FX CVE was supported by European Union FP7 grant 265660 (AvecNet). LD was
+   supported by Wellcome Trust grant WT093755. DW was supported by NIAID
+   grant 1R01AI082734-01. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+NR 70
+TC 49
+Z9 52
+U1 9
+U2 49
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1553-7390
+EI 1553-7404
+J9 PLOS GENET
+JI PLoS Genet.
+PD MAR
+PY 2014
+VL 10
+IS 3
+AR e1004236
+DI 10.1371/journal.pgen.1004236
+PG 12
+WC Genetics & Heredity
+SC Genetics & Heredity
+GA AI8FM
+UT WOS:000337144700057
+PM 24651294
+ER
+
+PT J
+AU Anani, LY
+   Bigot, A
+   Latoundji, S
+   Ahlonsou, E
+   de Souza, J
+   Akplogan, S
+   Lawson, J
+   Py, JY
+   Zohoun, I
+AF Anani, L. Y.
+   Bigot, A.
+   Latoundji, S.
+   Ahlonsou, E.
+   de Souza, J.
+   Akplogan, S.
+   Lawson, J.
+   Py, J. Y.
+   Zohoun, I.
+TI Reality and importance of transfusion-transmitted malaria in a stable
+   endemic context: Cotonou case in Benin
+SO TRANSFUSION CLINIQUE ET BIOLOGIQUE
+LA French
+DT Article
+DE Transfusion; Malaria; Steady endemic; Prevention; Cotonou
+ID BLOOD-DONORS; AFRICA
+AB Malaria endemic status of our countries supports avoiding malaria screening for the blood qualification. But this attitude makes young children, pregnant women and people without semi-immunity incur a high risk of malaria. The goal of the survey was to value the reality and the importance of transfusion-transmitted malaria and to assess its determining factors. The study included 141 packed-red-cells units transfused to 77 hospitalized recipients, not suffering from malaria and not having been transfused the last two weeks. Every packed-red-cells assigned to a patient was tested for malaria before use. Thick and thin blood film were performed 96 hours after transfusion. A clinical follow-up was undertaken as well as in the hospital and at home after release. In all, 13.47% of the transfused packed-red-cells were positive for the thick blood film. Plasmodium research in patients was negative 96 hours after transfusion, even in the 19 patients who had received parasitized blood units ! The home follow-up had permitted to note that 15.78% of blood recipients had developed clinical malaria. Parasitic density >= 240 parasites/mm(3) seems to be a determining factor. Transfusion-transmitted malaria is a reality we ought to consider. Introduction of malaria screening in donated blood, qualification testings simultaneously with a framing of the blood donors appear the lasting solution to hope in the future to limit the waited excessive blood evictions. (C) 2013 Elsevier Masson SAS. All rights reserved.
+C1 [Anani, L. Y.; Latoundji, S.; Zohoun, I.] FSS Cotonou, UFR Hematol, Cotonou, Benin.
+   [Bigot, A.] FSS Cotonou, UFR Immunol, Cotonou, Benin.
+   [Ahlonsou, E.] Agence Natl Transfus Sanguine, Cotonou, Benin.
+   [de Souza, J.] UFR Gynecol Obstetr, Cotonou, Benin.
+   [Akplogan, S.] CNHU HKM, Hematol Lab, Cotonou, Benin.
+   [Lawson, J.] CNHU HKM, Banque Sang, Cotonou, Benin.
+   [Py, J. Y.] EFS Ctr Atlant, Orleans, France.
+RP Anani, LY (reprint author), FSS Cotonou, UFR Hematol, Cotonou, Benin.
+EM ananily2002@yahoo.fr
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 4
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 1246-7820
+J9 TRANSFUS CLIN BIOL
+JI Transfu. Clin. Biol.
+PD MAR
+PY 2014
+VL 21
+IS 1
+BP 23
+EP 30
+DI 10.1016/j.tracli.2013.10.003
+PG 8
+WC Hematology; Immunology
+SC Hematology; Immunology
+GA AG3AX
+UT WOS:000335289300003
+PM 24360799
+ER
+
+PT J
+AU Tokponnon, FT
+   Ogouyemi, AH
+   Sissinto, Y
+   Sovi, A
+   Gnanguenon, V
+   Cornelie, S
+   Adeothy, AA
+   Osse, R
+   Wakpo, A
+   Gbenou, D
+   Oke, M
+   Kinde-Gazard, D
+   Kleinschmidt, I
+   Akogbeto, MC
+   Massougbodji, A
+AF Tokponnon, Filemon T.
+   Ogouyemi, Aurore Hounto
+   Sissinto, Yolande
+   Sovi, Arthur
+   Gnanguenon, Virgile
+   Cornelie, Sylvie
+   Adeothy, Adicath Adeola
+   Osse, Razaki
+   Wakpo, Abel
+   Gbenou, Dina
+   Oke, Mariam
+   Kinde-Gazard, Dorothee
+   Kleinschmidt, Immo
+   Akogbeto, Martin C.
+   Massougbodji, Achille
+TI Impact of long-lasting, insecticidal nets on anaemia and prevalence of
+   Plasmodium falciparum among children under five years in areas with
+   highly resistant malaria vectors
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Malaria; Prevalence of Plasmodium falciparum; Anaemia; Resistance; LLINs
+ID ANOPHELES-GAMBIAE COMPLEX; PYRETHROID RESISTANCE; MASS-DISTRIBUTION;
+   SOUTHERN BENIN; TREATED NETS; WEST-AFRICA; TRANSMISSION; IDENTIFICATION;
+   DIVERSITY; CULICIDAE
+AB Background: The widespread use of insecticide-treated nets (LLINs) leads to the development of vector resistance to insecticide. This resistance can reduce the effectiveness of LLIN based interventions and perhaps reverse progress in reducing malaria morbidity. To prevent such difficulty, it is important to know the real impact of resistance in the effectiveness of mosquito nets. Therefore, an assessment of LLIN efficacy was conducted in malaria prevention among children in high and low resistance areas.
+   Methods: The study was conducted in four rural districts and included 32 villages categorized as low or high resistance areas in Plateau Department, south-western Benin. Larvae collection was conducted to measure vector susceptibility to deltamethrin and knockdown resistance (kdr) frequency. In each resistance area, around 500 children were selected to measure the prevalence of malaria infection as well as the prevalence of anaemia associated with the use of LLINs.
+   Results: Observed mortalities of Anopheles gambiae s. s population exposed to deltamethrin ranged from 19 to 96%. Knockdown resistance frequency was between 38 and 84%. The prevalence of malaria infection in children under five years was 22.4% (19.9-25.1). This prevalence was 17.3% (14.2-20.9) in areas of high resistance and 27.1% (23.5-31.1) in areas of low resistance (p = 0.04). Eight on ten children that were aged six - 30 months against seven on ten of those aged 31-59 months were anaemic. The anaemia observed in the six to 30-month old children was significantly higher than in the 31-59 month old children (p = 0.00) but no difference associated with resistance areas was observed (p = 0.35). The net use rate was 71%. The risk of having malaria was significantly reduced (p < 0.05) with LLIN use in both low and high resistance areas. The preventive effect of LLINs in high resistance areas was 60% (95% CI: 40-70), and was significantly higher than that observed in low resistance areas (p < 0.05).
+   Conclusion: The results of this study showed that the resistance of malaria vectors seems to date not have affected the impact of LLINs and the use of LLINs was highly associated with reduced malaria prevalence irrespective of resistance.
+C1 [Tokponnon, Filemon T.; Oke, Mariam] Natl Malaria Control Programme, Cotonou, Benin.
+   [Tokponnon, Filemon T.; Oke, Mariam; Kinde-Gazard, Dorothee] Minist Hlth, Cotonou, Benin.
+   [Ogouyemi, Aurore Hounto; Sissinto, Yolande; Adeothy, Adicath Adeola; Wakpo, Abel; Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Calavi, Benin.
+   [Gbenou, Dina] World Hlth Org, Cotonou, Benin.
+   [Tokponnon, Filemon T.; Sovi, Arthur; Gnanguenon, Virgile; Osse, Razaki; Akogbeto, Martin C.] Univ Abomey Calavi, Fac Sci & Tech, Calavi, Benin.
+   [Tokponnon, Filemon T.; Sovi, Arthur; Gnanguenon, Virgile; Osse, Razaki; Akogbeto, Martin C.] CREC, Cotonou, Benin.
+   [Cornelie, Sylvie] UM1 CNRS, IRD 224 5290, MIVEGEC, Inst Rech Dev, Cotonou, Benin.
+   [Kleinschmidt, Immo] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London WC1, England.
+RP Tokponnon, FT (reprint author), Natl Malaria Control Programme, Cotonou, Benin.
+EM filemont@yahoo.fr
+FU Bill & Melinda Gates Foundation
+FX The authors are grateful to the children who participated in this study
+   as well as their parents and guardians. Funding for the main research
+   trial from which data were used for this analysis was funded by Bill &
+   Melinda Gates Foundation.
+NR 38
+TC 10
+Z9 10
+U1 1
+U2 7
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD MAR 1
+PY 2014
+VL 13
+AR 76
+DI 10.1186/1475-2875-13-76
+PG 11
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA AC8II
+UT WOS:000332776300001
+PM 24581394
+ER
+
+PT J
+AU Sovi, A
+   Djegbe, I
+   Soumanou, L
+   Tokponnon, F
+   Gnanguenon, V
+   Azondekon, R
+   Oke-Agbo, F
+   Oke, M
+   Adechoubou, A
+   Massougbodji, A
+   Corbel, V
+   Akogbeto, M
+AF Sovi, Arthur
+   Djegbe, Innocent
+   Soumanou, Lawal
+   Tokponnon, Filemon
+   Gnanguenon, Virgile
+   Azondekon, Roseric
+   Oke-Agbo, Frederic
+   Oke, Mariam
+   Adechoubou, Alioun
+   Massougbodji, Achille
+   Corbel, Vincent
+   Akogbeto, Martin
+TI Microdistribution of the resistance of malaria vectors to deltamethrin
+   in the region of Plateau (southeastern Benin) in preparation for an
+   assessment of the impact of resistance on the effectiveness of Long
+   Lasting Insecticidal Nets (LLINs)
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+DE An. gambiae s.s; Deltamethrin; Insecticide resistance; kdr mutation;
+   Plateau; Benin
+ID ANOPHELES-GAMBIAE; WEST-AFRICA; TREATED NETS; PYRETHROID RESISTANCE;
+   SOUTHERN BENIN; BURKINA-FASO; MUTATION; AREA; IDENTIFICATION;
+   POPULATIONS
+AB Background: This study aims to research two areas, one with a resistant and the other with a susceptible profile of An. gambiae to deltamethrin in the region of Plateau (southern Benin). In each area, eight localities were sought. Both areas were needed for the assessment of the impact of malaria vector resistance to pyrethroids on the effectiveness of Long Lasting Insecticidal Nets (LLINs). The susceptible area of An. gambiae to deltamethrin was used as a control.
+   Methods: In total, 119 localities in the region of Plateau were screened by sampling An. gambiae s.l larvae. Female mosquitoes resulting from these larvae were exposed to 0.05% deltamethrin following WHO standards. PCR was used to identify species and molecular forms of the dead and alive mosquitoes. Finally, we identified kdr mutations (1014 F and 1014S) using the HOLA technique.
+   Results: Fifty-six out of 119 prospected localities tested positive for Anopheles gambae s.l breeding sites. The results showed that An. gambiae was resistant to deltamethrin in 39 localities and susceptible in only 2 localities; resistance to deltamethrin was suspected in 15 localities. The HOLA technique confirmed the presence of kdr 1014 F mutation and the absence of kdr 1014S mutation. The kdr 1014 F mutation was found in both M and S molecular forms at relatively high frequencies therefore confirming the susceptibility tests.
+   Conclusion: We were unable to identify the eight susceptible areas due to the overall resistance of An. gambiae to deltamethrin in the region of Plateau. To implement the study, we kept two areas, one with high resistance (R+++) and the other with low resistance (R+) of An. gambiae to deltamethrin.
+C1 [Sovi, Arthur; Soumanou, Lawal; Gnanguenon, Virgile; Oke-Agbo, Frederic; Akogbeto, Martin] Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [Djegbe, Innocent] Int Inst Trop Agr, Calavi, Benin.
+   [Tokponnon, Filemon; Oke, Mariam; Adechoubou, Alioun] Programme Natl Lutte Paludisme, Cotonou, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Corbel, Vincent] Malad Infect & Vecteurs Ecol Genet Evolut & Contr, Inst Rech Dev, Montpellier, France.
+   [Corbel, Vincent] Kasetsart Univ, Fac Agr, Dept Entomol, Bangkok, Thailand.
+RP Sovi, A (reprint author), Ctr Rech Entomol Cotonou, Cotonou, Benin.
+EM sart52005@yahoo.fr
+RI Corbel, VIncent/G-9576-2016
+FU Bill & Melinda GATES Foundation; Ministry of the Higher Education and of
+   Scientific Research
+FX We are grateful to the Bill & Melinda GATES Foundation which supported
+   financially this study. Arthur SOVI obtained financial support for his
+   doctoral training from Ministry of the Higher Education and of
+   Scientific Research.
+NR 38
+TC 2
+Z9 3
+U1 1
+U2 13
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD FEB 25
+PY 2014
+VL 14
+AR 103
+DI 10.1186/1471-2334-14-103
+PG 10
+WC Infectious Diseases
+SC Infectious Diseases
+GA AC6JR
+UT WOS:000332629100001
+PM 24564260
+ER
+
+PT J
+AU Govoetchan, R
+   Gnanguenon, V
+   Azondekon, R
+   Agossa, RF
+   Sovi, A
+   Oke-Agbo, F
+   Osse, R
+   Akogbeto, M
+AF Govoetchan, Renaud
+   Gnanguenon, Virgile
+   Azondekon, Roseric
+   Agossa, Rodrigue Fiacre
+   Sovi, Arthur
+   Oke-Agbo, Frederic
+   Osse, Razaki
+   Akogbeto, Martin
+TI Evidence for perennial malaria in rural and urban areas under the
+   Sudanian climate of Kandi, Northeastern Benin
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Drought; Malaria; Prevalence; Domestic larval habitat; Vulnerability;
+   Children
+ID RAPID DIAGNOSTIC-TESTS; DRY-SEASON; ANOPHELES-GAMBIAE; WESTERN KENYA;
+   VECTOR DENSITY; TRANSMISSION; AFRICA; SURVIVAL; URBANIZATION; PREVALENCE
+AB Background: In arid settings, droughts usually lead to periods of very low or no malaria transmission. However, in rural Kandi (Sonsoro) in northeastern Benin, several malaria cases are often diagnosed during dry seasons. The underlying factors accounting for this phenomenon remain unknown.
+   Methods: The entomological profile of Sonsoro has been studied compared to a location in urban Kandi (Gansosso) for a period of one year. During this period, Anopheles larval habitats were investigated and populations of Anopheles gambiae s.l. were sampled by human landing catches in both areas. Enzyme-linked immunosorbent assays (ELISA) for Plasmodium falciparum circumsporozoite protein (CSP) were conducted on vector specimens and the entomological inoculation rates (EIR) were determined per season (wet versus dry) in each area. In addition, during the severe drought period, Rapid Diagnostic Tests (RDTs) were conducted on school children under the age 10 years in these areas to provide a global view of drought-malaria prevalence and to perform a crossing with entomological data in Kandi.
+   Results: Overall, An. gambiae s.l. was particularly abundant in rural Kandi compared to the urban area with a significant decrease of vector density in both sites during the dry season. In this period, larval sampling data identified household water sources as potential breeding sites in urban and rural Kandi. We also observed a significant seasonal variation of the infectivity rate in both areas but for each period (season), the EIR was higher in the rural site than in the urban. Data of P. falciparum detection was the reflection of entomological findings. The drought-malaria prevalence was 5.5 times higher in rural Kandi as compared to urban Kandi. The presence of a permanent water site and the low level of urbanization in rural Kandi were identified as a risk factor.
+   Conclusion: Our data showed a high level of malaria transmission in the municipality of Kandi. Household water source plays an important role in maintaining the breeding of anopheles larvae and the malaria transmission in Kandi. In rural settings, the proximity to permanent water sites could probably be the aggravating factor.
+C1 [Govoetchan, Renaud; Gnanguenon, Virgile; Azondekon, Roseric; Agossa, Rodrigue Fiacre; Sovi, Arthur; Oke-Agbo, Frederic; Osse, Razaki; Akogbeto, Martin] CREC, Cotonou, Benin.
+   [Govoetchan, Renaud; Gnanguenon, Virgile; Agossa, Rodrigue Fiacre; Sovi, Arthur; Osse, Razaki; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Calavi, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+RP Govoetchan, R (reprint author), CREC, 06 BP 2604, Cotonou, Benin.
+EM renaud292@yahoo.fr
+FU Ministry of the Higher Education and of Scientific Research (MESRS);
+   Ministry of the Higher Education and of Scientific Research
+FX We thank the Ministry of Higher Education and Scientific Research
+   (MESRS) and the team of CREC for their technical assistance during this
+   survey. We also thank the people of Kandi for their collaboration.
+   Renaud GOVOETCHAN obtained financial support for his doctoral training
+   from Ministry of the Higher Education and of Scientific Research.
+NR 40
+TC 1
+Z9 1
+U1 1
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD FEB 24
+PY 2014
+VL 7
+AR 79
+DI 10.1186/1756-3305-7-79
+PG 12
+WC Parasitology
+SC Parasitology
+GA AF9XX
+UT WOS:000335069100001
+PM 24564957
+ER
+
+PT J
+AU Knox, TB
+   Juma, EO
+   Ochomo, EO
+   Jamet, HP
+   Ndungo, L
+   Chege, P
+   Bayoh, NM
+   N'Guessan, R
+   Christian, RN
+   Hunt, RH
+   Coetzee, M
+AF Knox, Tessa B.
+   Juma, Elijah O.
+   Ochomo, Eric O.
+   Jamet, Helen Pates
+   Ndungo, Laban
+   Chege, Patrick
+   Bayoh, Nabie M.
+   N'Guessan, Raphael
+   Christian, Riann N.
+   Hunt, Richard H.
+   Coetzee, Maureen
+TI An online tool for mapping insecticide resistance in major Anopheles
+   vectors of human malaria parasites and review of resistance status for
+   the Afrotropical region
+SO PARASITES & VECTORS
+LA English
+DT Review
+DE Africa; Anopheles; Insecticide resistance; IR Mapper; Mechanisms;
+   Malaria; Target site
+ID GAMBIAE-SENSU-STRICTO; NICHE MODELS; COMPLEX; AFRICA; ARABIENSIS;
+   MOSQUITOS; RISK; MAP; ENDEMICITY; FUNESTUS
+AB Background: Malaria control programmes across Africa and beyond are facing increasing insecticide resistance in the major anopheline vectors. In order to preserve or prolong the effectiveness of the main malaria vector interventions, up-to-date and easily accessible insecticide resistance data that are interpretable at operationally-relevant scales are critical. Herein we introduce and demonstrate the usefulness of an online mapping tool, IR Mapper.
+   Methods: A systematic search of published, peer-reviewed literature was performed and Anopheles insecticide susceptibility and resistance mechanisms data were extracted and added to a database after a two-level verification process. IR Mapper (www. irmapper. com) was developed using the ArcGIS for JavaScript Application Programming Interface and ArcGIS Online platform for exploration and projection of these data.
+   Results: Literature searches yielded a total of 4,084 susceptibility data points for 1,505 populations, and 2,097 resistance mechanisms data points for 1,000 populations of Anopheles spp. tested via recommended WHO methods from 54 countries between 1954 and 2012. For the Afrotropical region, data were most abundant for populations of An. gambiae, and pyrethroids and DDT were more often used in susceptibility assays (51.1 and 26.8% of all reports, respectively) than carbamates and organophosphates. Between 2001 and 2012, there was a clear increase in prevalence and distribution of confirmed resistance of An. gambiae s. l. to pyrethroids (from 41 to 87% of the mosquito populations tested) and DDT (from 64 to 91%) throughout the Afrotropical region. Metabolic resistance mechanisms were detected in western and eastern African populations and the two kdr mutations (L1014S and L1014F) were widespread. For An. funestus s. l., relatively few populations were tested, although in 2010-2012 resistance was reported in 50% of 10 populations tested. Maps are provided to illustrate the use of IR Mapper and the distribution of insecticide resistance in malaria vectors in Africa.
+   Conclusions: The increasing pyrethroid and DDT resistance in Anopheles in the Afrotropical region is alarming. Urgent attention should be afforded to testing An. funestus populations especially for metabolic resistance mechanisms. IR Mapper is a useful tool for investigating temporal and spatial trends in Anopheles resistance to support the pragmatic use of insecticidal interventions.
+C1 [Knox, Tessa B.; Juma, Elijah O.] Vestergaard Frandsen Ltd East Africa, Nairobi, Kenya.
+   [Knox, Tessa B.; Jamet, Helen Pates] Vestergaard Frandsen SA, CH-1006 Lausanne, Switzerland.
+   [Ochomo, Eric O.; Bayoh, Nabie M.] KEMRI CDC Res & Publ Hlth Collaborat, Kisumu 40100, Kenya.
+   [Ochomo, Eric O.] Maseno Univ, Dept Biomed Sci, Maseno, Kenya.
+   [Ndungo, Laban; Chege, Patrick] Esri Eastern Africa, Nairobi 00200, Kenya.
+   [N'Guessan, Raphael] London Sch Hyg & Trop Med, Dis Control Dept, London WC1E 7HT, England.
+   [N'Guessan, Raphael] Ctr Rech Entomol Cotonou, Cotonou 06, Benin.
+   [Christian, Riann N.; Hunt, Richard H.; Coetzee, Maureen] Univ Witwatersrand, Fac Hlth Sci, Sch Pathol, Wits Res Inst Malaria, Johannesburg, South Africa.
+   [Christian, Riann N.; Coetzee, Maureen] Natl Hlth Lab Serv, Natl Inst Communicable Dis, Vector Control Reference Lab, Johannesburg, South Africa.
+RP Coetzee, M (reprint author), Univ Witwatersrand, Fac Hlth Sci, Sch Pathol, Wits Res Inst Malaria, Johannesburg, South Africa.
+EM maureenc@nicd.ac.za
+FU DST/NRF Research Chair Initiative grant
+FX a\ Christen Fornadel of the President's Malaria Initiative and Emmanuel
+   Dialynas of VectorBase are thanked for sharing unpublished data for
+   inclusion on IR Mapper, and Marianne Sinka of the Malaria Atlas Project
+   is thanked for providing access to the Plasmodium endemicity and vector
+   distribution data files. William Brogdon of the Centres for Disease
+   Control and Prevention kindly assisted with formulation of Figure 3. MC
+   is supported by a DST/NRF Research Chair Initiative grant. David Kim
+   provided advice for data interpretation.
+NR 37
+TC 26
+Z9 26
+U1 4
+U2 24
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD FEB 21
+PY 2014
+VL 7
+AR 76
+DI 10.1186/1756-3305-7-76
+PG 14
+WC Parasitology
+SC Parasitology
+GA AF9XQ
+UT WOS:000335068400002
+PM 24559061
+ER
+
+PT J
+AU Gnanguenon, V
+   Azondekon, R
+   Oke-Agbo, F
+   Beach, R
+   Akogbeto, M
+AF Gnanguenon, Virgile
+   Azondekon, Roseric
+   Oke-Agbo, Frederic
+   Beach, Raymond
+   Akogbeto, Martin
+TI Durability assessment results suggest a serviceable life of two, rather
+   than three, years for the current long-lasting insecticidal (mosquito)
+   net (LLIN) intervention in Benin
+SO BMC INFECTIOUS DISEASES
+LA English
+DT Article
+DE Long-lasting Insecticidal Net (LLIN); Survivorship; Fabric integrity;
+   LLIN intervention serviceable life; Durability
+ID DISTRIBUTION PROGRAM; PHYSICAL CONDITION; WESTERN KENYA; TREATED NETS;
+   AFRICA; UGANDA
+AB Background: LLIN distribution, every three years, is a key intervention of Benin's malaria control strategy. However, data from the field indicate that LLIN lifespan appears to vary based on both intrinsic (to the LLIN) and extrinsic factors.
+   Methods: We monitored two indicators of LLIN durability, survivorship and integrity, to validate the three-year-serviceable-life assumption. Interviews with net owners were used to identify factors associated with loss of integrity.
+   Results: Observed survivorship, after 18 months, was significantly less (p<0.0001) than predicted, based on the assumption that nets last three years. Instead, it was closer to predicted survivorship based on a two-year LLIN serviceable life assumption (p=0.03). Furthermore, the integrity of nearly one third of 'surviving' nets was so degraded that they were in need of replacement. Five factors: washing frequency, proximity to water for washing, location of kitchen, type of cooking fuel, and low net maintenance were associated with loss of fabric integrity.
+   Conclusion: A two-year serviceable life for the current LLIN intervention in Benin would be a more realistic program assumption.
+C1 [Gnanguenon, Virgile; Azondekon, Roseric; Oke-Agbo, Frederic; Akogbeto, Martin] Ctr Rech Entomolog Cotonou, Cotonou, Benin.
+   [Gnanguenon, Virgile; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Abomey Calavi, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Beach, Raymond] Ctr Dis Control & Prevent, Atlanta, GA USA.
+RP Gnanguenon, V (reprint author), Ctr Rech Entomolog Cotonou, Cotonou, Benin.
+EM amerusangel@yahoo.fr
+FU President's Malaria Initiative via the Bureau for Global Health, U.S.
+   Agency for International Development
+FX Our thanks are addressed to the Village Health Workers, Benin National
+   Malaria Control Program. This research was made possible through support
+   provided by the President's Malaria Initiative via the Bureau for Global
+   Health, U.S. Agency for International Development. The opinions
+   expressed herein are those of the author(s) and do not necessarily
+   reflect the views of the U.S. Agency for International Development.
+NR 19
+TC 12
+Z9 12
+U1 0
+U2 2
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2334
+J9 BMC INFECT DIS
+JI BMC Infect. Dis.
+PD FEB 8
+PY 2014
+VL 14
+AR 69
+DI 10.1186/1471-2334-14-69
+PG 10
+WC Infectious Diseases
+SC Infectious Diseases
+GA AA6KR
+UT WOS:000331207700002
+PM 24507444
+ER
+
+PT J
+AU Djenontin, A
+   Pennetier, C
+   Zogo, B
+   Soukou, KB
+   Ole-Sangba, M
+   Akogbeto, M
+   Chandre, F
+   Yadav, R
+   Corbel, V
+AF Djenontin, Armel
+   Pennetier, Cedric
+   Zogo, Barnabas
+   Soukou, Koffi Bhonna
+   Ole-Sangba, Marina
+   Akogbeto, Martin
+   Chandre, Fabrice
+   Yadav, Rajpal
+   Corbel, Vincent
+TI Field Efficacy of Vectobac GR as a Mosquito Larvicide for the Control of
+   Anopheline and Culicine Mosquitoes in Natural Habitats in Benin, West
+   Africa
+SO PLOS ONE
+LA English
+DT Article
+ID MALARIA CONTROL; THURINGIENSIS-ISRAELENSIS; BACILLUS-SPHAERICUS;
+   BURKINA-FASO; PREVENTION; TOXINS; NETS
+AB Introduction: The efficacy of Vectobac GR (potency 200 ITU/mg), a new formulation of bacterial larvicide Bacillus thuringiensis var. israelensis Strain AM65-52, was evaluated against Anopheles gambiae and Culex quinquefasciatus in simulated field and natural habitats in Benin.
+   Methods: In simulated field conditions, Vectobac GR formulation was tested at 3 dosages (0.6, 0.9, 1.2 g granules/m(2) against An. gambiae and 1, 1.5, 2 g granules/m(2) against Cx. quinquefasciatus) according to manufacturer's product label recommendations. The dosage giving optimum efficacy under simulated field conditions were evaluated in the field. The efficacy of Vectobac GR in terms of emergence inhibition in simulated field conditions and of reduction of larval and pupal densities in rice fields and urban cesspits was measured following WHO guidelines for testing and evaluation of mosquito larvicides.
+   Results: Vectobac GR caused emergence inhibition of >= 80% until 21 [20-22] days for An. gambiae at 1.2 g/m(2) dose and 28 [27-29] days for Cx. quinquefasciatus at 2 g/m(2) in simulated field habitats. The efficacy of Vectobac GR in natural habitats was for 2 to 3 days against larvae and up to 10 days against pupae.
+   Conclusions: Treatment with Vectobac GR caused complete control of immature mosquito within 2-3 days but did not show prolonged residual action. Larviciding can be an option for malaria and filariasis vector control particularly in managing pyrethroid-resistance in African malaria vectors. Since use of larvicides among several African countries is being emphasized through Economic Community of West Africa States, their epidemiological impact should be carefully investigated.
+C1 [Djenontin, Armel] Univ Abomey Calavi, Ctr Rech Entomol Cotonou, Fac Sci & Tech MIVEGEC IRD CNRS UM1 UM2 224 5290, Cotonou, Benin.
+   [Pennetier, Cedric; Zogo, Barnabas; Soukou, Koffi Bhonna; Ole-Sangba, Marina] Ctr Rech Entomol Cotonou, MIVEGEC IRD CNRS UM1 UM2 224 5290, Cotonou, Benin.
+   [Akogbeto, Martin] Univ Abomey Calavi, Ctr Rech Entomol Cotonou, Fac Sci & Tech, Cotonou, Benin.
+   [Chandre, Fabrice] MIVEGEC IRD 224 CNRS 5290 UM1 UM2, Lab Lutte Insectes Nuisibles LIN, Montpellier, France.
+   [Yadav, Rajpal] WHO, Dept Control Neglected Trop Dis, CH-1211 Geneva, Switzerland.
+   [Corbel, Vincent] Kasetsart Univ, Dept Entomol, MIVEGEC IRD CNRS UM1 UM2 224 5290, Ladyaow Chatuchak Bangko, Thailand.
+RP Djenontin, A (reprint author), Univ Abomey Calavi, Ctr Rech Entomol Cotonou, Fac Sci & Tech MIVEGEC IRD CNRS UM1 UM2 224 5290, Cotonou, Benin.
+EM armeldj@yahoo.fr; vincent.corbel@ird.fr
+RI Pennetier, Cedric/K-2010-2016; Corbel, VIncent/G-9576-2016; 
+OI Chandre, Fabrice/0000-0002-1994-9705
+FU World Health Organization [001]
+NR 25
+TC 3
+Z9 3
+U1 0
+U2 6
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 5
+PY 2014
+VL 9
+IS 2
+AR e87934
+DI 10.1371/journal.pone.0087934
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AA1AT
+UT WOS:000330829200086
+PM 24505334
+ER
+
+PT J
+AU N'Guessan, R
+   Ngufor, C
+   Kudom, AA
+   Boko, P
+   Odjo, A
+   Malone, D
+   Rowland, M
+AF N'Guessan, Raphael
+   Ngufor, Corine
+   Kudom, Andreas A.
+   Boko, Pelagie
+   Odjo, Abibathou
+   Malone, David
+   Rowland, Mark
+TI Mosquito Nets Treated with a Mixture of Chlorfenapyr and
+   Alphacypermethrin Control Pyrethroid Resistant Anopheles gambiae and
+   Culex quinquefasciatus Mosquitoes in West Africa
+SO PLOS ONE
+LA English
+DT Article
+ID PYRROLE INSECTICIDE CHLORFENAPYR; EXPERIMENTAL HUT EVALUATION;
+   COMBINATION NET; BED NETS; BENIN; CULICIDAE; DIPTERA; TRIAL;
+   IDENTIFICATION; CARBAMATE
+AB Background: The effectiveness of insecticide treated nets is under threat across Africa south of the Sahara from the selection of pyrethroid resistance in Anopheles gambiae mosquitoes. To maintain progress against malaria it is necessary to identify alternative residual insecticides for mosquito nets. Mixtures of pyrethroid and insecticides with novel mode of action provide scope for both improved control and management of resistance through concurrent exposure to unrelated insecticides.
+   Methods: The pyrrole chlorfenapyr and the pyrethroid alphacypermethrin were tested individually and as a mixture on mosquito nets in an experimental hut trial in southern Benin against pyrethroid resistant An gambiae and Culex quinquefasciatus mosquitoes. The nets were deliberately holed to simulate the effect of wear and tear.
+   Results: The nets treated with the mixture of chlorfenapyr 200 mg/m(2) and alphacypermethrin 25 mg/m(2) killed a proportion of An gambiae (77%, 95% CI: 66-86%) significantly greater than nets treated with alphacypermethrin 25 mg/m(2) (30%, 95% CI: 21-41%) but not significantly different from nets treated with chlorfenapyr 200 mg/m(2) (69%, 95% CI: 57-78%). The nets treated with the mixtures procured personal protection against An gambiae biting(58-62%) by a greater margin than the alphacypermethrin treated net (39%), whereas the chlorfenapyr treated net was not protective. A similar trend in mortality and blood feeding inhibition between treatments was observed in Cx quinquefasciatus to that seen in An. gambiae, although the effects were lower. A mixture of alphacypermethrin with chlorfenapyr applied at 100 mg/m(2) had an effect similar to the mixture with chlorfenapyr at 200 mg/m(2).
+   Conclusion: The effectiveness of ITNs against pyrethroid resistant mosquitoes was restored by the mixture: the alphacypermethrin component reduced human-vector contact while the chlorfenapyr controlled pyrethroid-resistant mosquitoes. The complementary action of these unrelated insecticides demonstrates that the combination on nets has potential for preventing malaria transmission in areas compromised by the spread of pyrethroid resistance.
+C1 [N'Guessan, Raphael; Ngufor, Corine; Boko, Pelagie; Odjo, Abibathou] Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [N'Guessan, Raphael; Ngufor, Corine; Rowland, Mark] Univ London London Sch Hyg & Trop Med, London WC1E 7HT, England.
+   [N'Guessan, Raphael; Ngufor, Corine; Rowland, Mark] Pan African Malaria Vector Res Consortium PAMVERC, London, England.
+   [Kudom, Andreas A.] Univ Cape Coast, Sch Biol Sci, Dept Entomol & Wildlife, Cape Coast, Ghana.
+   [Malone, David] Innovat Vector Control Consortium, Liverpool, Merseyside, England.
+RP N'Guessan, R (reprint author), Ctr Rech Entomol Cotonou, Cotonou, Benin.
+EM Raphael.N'Guessan@lshtm.ac.uk
+FU Innovative Vector Control Consortium (IVCC), Liverpool, UK from the Bill
+   & Melinda Gates Foundation
+FX Project grant was obtained from Innovative Vector Control Consortium
+   (IVCC), Liverpool, UK from a programme grant of the Bill & Melinda Gates
+   Foundation (http://www.ivcc.com/). The Bill & Melinda Gates Foundation
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript. However the IVCC did advise
+   on the study design via their Expert Scientific Committee.
+NR 31
+TC 9
+Z9 9
+U1 2
+U2 14
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 3
+PY 2014
+VL 9
+IS 2
+AR e87710
+DI 10.1371/journal.pone.0087710
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 302TD
+UT WOS:000330626900106
+PM 24498360
+ER
+
+PT J
+AU Denoeud-Ndam, L
+   Zannou, DM
+   Fourcade, C
+   Taron-Brocard, C
+   Porcher, R
+   Atadokpede, F
+   Komongui, DG
+   Dossou-Gbete, L
+   Afangnihoun, A
+   Ndam, NT
+   Girard, PM
+   Cot, M
+AF Denoeud-Ndam, Lise
+   Zannou, Djimon-Marcel
+   Fourcade, Camille
+   Taron-Brocard, Clement
+   Porcher, Raphael
+   Atadokpede, Felix
+   Komongui, Didier G.
+   Dossou-Gbete, Lucien
+   Afangnihoun, Aldric
+   Ndam, Nicaise T.
+   Girard, Pierre-Marie
+   Cot, Michel
+TI Cotrimoxazole Prophylaxis Versus Mefloquine Intermittent Preventive
+   Treatment to Prevent Malaria in HIV-Infected Pregnant Women: Two
+   Randomized Controlled Trials
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article
+DE malaria during pregnancy; mefloquine; cotrimoxazole; HIV; randomized
+   controlled trial
+ID TO-CHILD TRANSMISSION; SUB-SAHARAN AFRICA; SULFADOXINE-PYRIMETHAMINE;
+   PLACENTAL MALARIA; ANTIRETROVIRAL THERAPY; FALCIPARUM-MALARIA; MOLECULAR
+   MARKERS; UGANDAN ADULTS; BIRTH-WEIGHT; IMPACT
+AB Background: Malaria during pregnancy has serious consequences that are worsened by HIV infection. Malaria preventive measures for HIV-infected pregnant women include cotrimoxazole (CTX) prophylaxis given to prevent HIV-related opportunistic infections and also protective against malaria, or intermittent preventive treatment (IPTp) with an antimalarial drug. Here, we present the first study evaluating CTX efficacy versus mefloquine (MQ)-IPTp, alone and in combination, in HIV-infected pregnant women. Methods: We conducted 2 randomized, open-label, noninferiority trials in Benin. In the CTX-mandatory trial, HIV-infected women with CD4 counts of <350 per cubic millimeter received CTX either alone or with MQ-IPTp (N = 292). In the CTX-not-mandatory trial (CD4 count >350/mm(3)), CTX was compared with MQ-IPTp (N = 140). In both the trials, the primary end point was microscopic placental parasitemia. Results: At delivery, 1 woman in each CTX-alone treatment group exhibited placental parasitemia, versus no women in the groups receiving MQ. CTX alone demonstrated noninferiority in the CTX-mandatory trial. However, polymerase chain reaction-detected placental parasitemia was markedly reduced in the CTX + MQ group compared with CTX alone (0/105 vs. 5/103, P = 0.03). Because of insufficient recruitment in the CTX-not-mandatory trial, noninferiority could not be conclusively assessed. Dizziness and vomiting of moderate intensity were reported by 34%-37% of women receiving MQ in both the trials, versus 0%-3% in CTX groups (P < 0.0001). No serious adverse events related to these drugs were found. Conclusions: CTX alone provided adequate protection against malaria in HIV-infected pregnant women, although MQ-IPTp showed higher efficacy against placental infection. Although more frequently associated with dizziness and vomiting, MQ-IPTp may be an effective alternative given concerns about parasite resistance to CTX.
+C1 [Denoeud-Ndam, Lise; Fourcade, Camille; Taron-Brocard, Clement; Ndam, Nicaise T.; Cot, Michel] Inst Rech Dev, UMR 216, Paris, France.
+   [Denoeud-Ndam, Lise; Fourcade, Camille; Taron-Brocard, Clement; Ndam, Nicaise T.; Cot, Michel] Univ Paris 05, Fac Pharm, Paris, France.
+   [Zannou, Djimon-Marcel] Ctr Natl Hosp Univ Hubert Koutoukou Maga, Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Zannou, Djimon-Marcel] Univ Abomey Calavi, Fac Sci Sante, Abomey Calavi, Benin.
+   [Porcher, Raphael] Hop St Louis, INSERM, U717, Paris, France.
+   [Atadokpede, Felix] Hop Instruct Armees, Serv Med Interne, Cotonou, Benin.
+   [Komongui, Didier G.] Hop Mere & Enfant Lagune, Gynecol Serv, Cotonou, Benin.
+   [Dossou-Gbete, Lucien] Clin Louis Pasteur, Porto Novo, Benin.
+   [Afangnihoun, Aldric] Hop Zone Suru Lere, Ctr Traitement Ambulatoire, Cotonou, Benin.
+   [Girard, Pierre-Marie] Hop St Antoine, APHP, Serv Malad Infect & Trop, F-75571 Paris, France.
+   [Girard, Pierre-Marie] Univ Paris 06, INSERM, U707, Paris, France.
+RP Denoeud-Ndam, L (reprint author), Epicentre, Dept Clin Res, 8 Rue St Sabin, F-75012 Paris, France.
+EM lisedenoeud@yahoo.fr
+OI DENOEUD-NDAM, Lise/0000-0002-9482-1461; Tuikue Ndam,
+   Nicaise/0000-0003-2646-2513
+FU Sidaction Grant [AI19-3-01528]
+FX Supported by Sidaction Grant AI19-3-01528.
+NR 42
+TC 13
+Z9 13
+U1 0
+U2 9
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1525-4135
+EI 1077-9450
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD FEB 1
+PY 2014
+VL 65
+IS 2
+BP 198
+EP 206
+DI 10.1097/QAI.0000000000000058
+PG 9
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA AG8DZ
+UT WOS:000335650300023
+PM 24220287
+ER
+
+PT J
+AU Padonou, G
+   Le Port, A
+   Cottrell, G
+   Guerra, J
+   Choudat, I
+   Rachas, A
+   Bouscaillou, J
+   Massougbodji, A
+   Garcia, A
+   Martin-Prevel, Y
+AF Padonou, Geraud
+   Le Port, Agnes
+   Cottrell, Gilles
+   Guerra, Jose
+   Choudat, Isabelle
+   Rachas, Antoine
+   Bouscaillou, Julie
+   Massougbodji, Achille
+   Garcia, Andre
+   Martin-Prevel, Yves
+TI Prematurity, intrauterine growth retardation and low birth weight: risk
+   factors in a malaria-endemic area in southern Benin
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE Intrauterine growth restriction; Low birth weight; Maternal
+   undernutrition; Prematurity; Risk factors; Small for gestational age
+ID PRETERM BIRTH; FETAL-GROWTH; PREGNANCY; UNDERNUTRITION; COUNTRIES;
+   MORTALITY; INFANTS; ANEMIA
+AB Background: The aim of this study was to describe the contribution of prematurity and small for gestational age (SGA) to low birth weight (LBW) as well as to identify risk factors associated with preterm birth and SGA and to explore their impact on birth weight.
+   Methods: A cross-sectional study was carried out in southern Benin between June 2007 and July 2008. At delivery, women's characteristics and newborn's anthropometric measurements were collected. Gestational age was estimated using the Ballard method; SGA was defined using the William's reference curve. Analyses were performed by multiple logistic and linear regressions.
+   Results: In total, 526 mother-infant pairs were enrolled. LBW (<2500 g), prematurity (<37 weeks) and SGA accounted for 9.1%, 10.3% and 25.3% of the sample, respectively. Infant's male gender was associated with a lower risk of prematurity (p=0.03). Low maternal anthropometric status (p<0.001), primiparity (p=0.017) and infant's male gender (p=0.015) were associated with an increased risk of SGA. Only low maternal anthropometric status and primiparity were associated with an increased risk of LBW, and their effect on LBW was mediated by SGA.
+   Conclusions: SGA was the main mechanism mediating the effect of risk factors on LBW. Maternal undernutrition (either short stature or low anthropometric status) was the most important of them.
+C1 [Padonou, Geraud; Le Port, Agnes; Cottrell, Gilles; Guerra, Jose; Choudat, Isabelle; Rachas, Antoine; Bouscaillou, Julie; Garcia, Andre] Inst Rech Dev, UMR216, Paris, France.
+   [Padonou, Geraud; Le Port, Agnes; Cottrell, Gilles; Guerra, Jose; Choudat, Isabelle; Rachas, Antoine; Bouscaillou, Julie; Garcia, Andre] Univ Paris 05, Fac Pharm, Paris, France.
+   [Padonou, Geraud; Le Port, Agnes] Univ Paris 06, Ecole Doctorale 393, F-75252 Paris 05, France.
+   [Padonou, Geraud; Cottrell, Gilles; Massougbodji, Achille] Ctr Etud & Rech Paludisme Associe Grossesse & Enf, Cotonou, Benin.
+   [Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Martin-Prevel, Yves] IRD UM2 UM1, IRD UMR204 Nutripass, Montpellier, France.
+RP Padonou, G (reprint author), Inst Rech Dev, UMR216, Paris, France.
+EM geraudpad@yahoo.fr
+RI Martin-Prevel, Yves/E-7637-2011; Garcia, Andre/S-2959-2016
+OI Martin-Prevel, Yves/0000-0002-4689-7867; Garcia,
+   Andre/0000-0002-1808-472X
+FU Agence nationale de la recherche (ANR) [SEST 2006/040/001]
+FX This work was supported by Agence nationale de la recherche (ANR),
+   [project SEST 2006/040/001].
+NR 29
+TC 3
+Z9 4
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD FEB
+PY 2014
+VL 108
+IS 2
+BP 77
+EP 83
+DI 10.1093/trstmh/trt099
+PG 7
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA AA1ZF
+UT WOS:000330894000004
+PM 24336697
+ER
+
+PT J
+AU Agossa, FR
+   Aikpon, R
+   Azondekon, R
+   Govoetchan, R
+   Padonnou, GG
+   Oussou, O
+   Oke-Agbo, F
+   Akogbeto, MC
+AF Agossa, Fiacre R.
+   Aikpon, Rock
+   Azondekon, Roseric
+   Govoetchan, Renaud
+   Padonnou, Gil Germais
+   Oussou, Olivier
+   Oke-Agbo, Frederic
+   Akogbeto, Martin C.
+TI Efficacy of various insecticides recommended for indoor residual
+   spraying: pirimiphos methyl, potential alternative to bendiocarb for
+   pyrethroid resistance management in Benin, West Africa
+SO TRANSACTIONS OF THE ROYAL SOCIETY OF TROPICAL MEDICINE AND HYGIENE
+LA English
+DT Article
+DE Anopheles gambiae; Benin; Experimental huts; Pyrethroid resistance
+ID ANOPHELES-GAMBIAE S.S.; CULEX-QUINQUEFASCIATUS; MALARIA VECTORS;
+   SOUTHERN BENIN; MOSQUITO NETS; COTE-DIVOIRE; AREA; CULICIDAE; DIPTERA
+AB Background: Using the same insecticide for multiple successive indoor residual spraying (IRS) cycles is not recommended; instead, the National Malaria Control Program (NMCP) has decided to select another insecticide (insecticide B) in addition to bendiocarb for indoor residual spraying.
+   Methods: An experimental hut trial comparing the effectiveness of three classes of insecticides (one carbamate [bendiocarb], two organophosphates [fenitrothion and pirimiphos methyl] and one pyrethroid [lambdacyalothrin]) was conducted in Malanville, northern Benin, against wild free entered resistant Anopheles gambiae s.l. population to pyrethroids.
+   Results: Fenitrothion and pirimiphos methyl yielded the highest rate of deterrence. Their mean rates were respectively 46.6% and 35.4%. Regarding blood feeding inhibition, only fenitrothion has induced a significant inhibition rate (25.4% as mean rate). As regards the exophily rates, only lambdacyhalothrin has induced the highest rate (39.7%). Pirimiphos methyl showed the highest mortality rate and also induced a mortality rate of at least 80% in blood fed An. gambiae population after 24 h observation time. Furthermore, the huts treated with pirimiphos methyl showed the highest residual effect, followed by lambdacyhalothrin.
+   Conclusion: Benin NMCP has selected pirimiphos methyl as insecticide B to alternate or combine to bendiocarb (carbamate) because of the adverse effects of fenitrothion on the sleepers and its short residual effect on walls.
+C1 [Agossa, Fiacre R.; Aikpon, Rock; Azondekon, Roseric; Govoetchan, Renaud; Padonnou, Gil Germais; Oussou, Olivier; Oke-Agbo, Frederic; Akogbeto, Martin C.] Minist Sante, Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [Agossa, Fiacre R.; Aikpon, Rock; Govoetchan, Renaud; Padonnou, Gil Germais; Akogbeto, Martin C.] Univ Abomey Calavi, Fac Sci & Tech, Godomey, Benin.
+RP Agossa, FR (reprint author), Minist Sante, Ctr Rech Entomol Cotonou, 06 BP 2604, Cotonou, Benin.
+EM rofargossa@yahoo.fr
+FU US President's Malaria Initiative [PMI/PNLP/CREC/Insecticide B/2011]
+FX The research leading to these results was financially supported by the
+   US President's Malaria Initiative [grant no. PMI/PNLP/CREC/Insecticide
+   B/2011].
+NR 23
+TC 5
+Z9 5
+U1 3
+U2 13
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0035-9203
+EI 1878-3503
+J9 T ROY SOC TROP MED H
+JI Trans. Roy. Soc. Trop. Med. Hyg.
+PD FEB
+PY 2014
+VL 108
+IS 2
+BP 84
+EP 91
+DI 10.1093/trstmh/trt117
+PG 8
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA AA1ZF
+UT WOS:000330894000005
+PM 24463582
+ER
+
+PT J
+AU Kpoviessi, S
+   Bero, J
+   Agbani, P
+   Gbaguidi, F
+   Kpadonou-Kpoviessi, B
+   Sinsin, B
+   Accrombessi, G
+   Frederich, M
+   Moudachirou, M
+   Quetin-Leclercq, J
+AF Kpoviessi, Salome
+   Bero, Joanne
+   Agbani, Pierre
+   Gbaguidi, Fernand
+   Kpadonou-Kpoviessi, Benedicta
+   Sinsin, Brice
+   Accrombessi, Georges
+   Frederich, Michel
+   Moudachirou, Mansourou
+   Quetin-Leclercq, Joelle
+TI Chemical composition, cytotoxicity and in vitro antitrypanosomal and
+   antiplasmodial activity of the essential oils of four Cymbopogon species
+   from Benin
+SO JOURNAL OF ETHNOPHARMACOLOGY
+LA English
+DT Article
+DE Cymbopogon species; Essential oils; Chemical composition;
+   Antitrypanosomal activity; Antiplasmodial activity; Cytotoxicity
+ID ANTIMICROBIAL ACTIVITY; NARDUS L; CITRATUS; PLANTS; TOXICITY; MALARIA;
+   CULTURE; ASSAY; MICE; LEAF
+AB Ethnopharmacological relevance: Cymbopogon species are largely used in folk medicine for the treatment of many diseases some of which related to parasitical diseases as fevers and headaches. As part of our research on antiparasitic essential oils from Beninese plants, we decided to evaluate the in vitro antiplasmodial and antitrypanosomal activities of essential oils of four Cymbopogon species used in traditional medicine as well as their cytotoxicity.
+   Materials and methods: The essential oils of four Cymbopogon species Cymbopogon citratus (I), Cymbopogon giganteus (II), Cymbopogon nardus (III) and Cymbopogon schoenantus (IV) from Benin obtained by hydrodistillation were analysed by GC/MS and GC/FID and were tested in vitro against Trypanosoma brucei brucei and Plasmodium falciparum respectively for antitrypanosomal and antiplasmodial activities. Cytotoxicity was evaluated in vitro against Chinese Hamster Ovary (CHO) cells and the human non cancer fibroblast cell line (WI38) through MIT assay to evaluate the selectivity.
+   Results: All tested oils showed a strong antitrypanosomal activity with a good selectivity. Sample II was the most active against Trypanosoma brucei brucei and could be considered as a good candidate. It was less active against Plasmodium falciparum. Samples II, III and IV had low or no cytotoxicity, but the essential oil of Cymbopogon citratus (I), was toxic against CHO cells and moderately toxic against WI38 cells and needs further toxicological studies. Sample I (29 compounds) was characterised by the presence as main constituents of geranial, neral, beta-pinene and cis-geraniol; sample II (53 compounds) by trans-p-mentha-1(7),8-dien-2-ol, trans-carveol, trans-p-mentha-2,8-dienol, cis-p-mentha-2,8-dienol, cis-pmentha-1(7),8-dien-2-ol, limonene, cis-carveol and cis-carvone; sample III (28 compounds) by beta-citronellal, nerol, beta-citronellol, elemol and limonene and sample IV (41 compounds) by piperitone, (+)-2-carene, limonene, elemol and beta-eudesmol.
+   Conclusions: Our study shows that essential oils of Cymbopogon genus can be a good source of antitrypanosomal agents. This is the first report on the activity of these essential oils against Trypanosoma brucei brucei, Plasmodium falciparum and analysis of their cytotoxicity. (C) 2013 Elsevier Ireland Ltd. All rights reserved.
+C1 [Kpoviessi, Salome; Gbaguidi, Fernand; Kpadonou-Kpoviessi, Benedicta; Accrombessi, Georges] UAC, Fac Sci & Tech FAST, Lab Phys & Synth Organ Chem LaCOPS, Cotonou, Benin.
+   [Kpoviessi, Salome; Bero, Joanne; Quetin-Leclercq, Joelle] Catholic Univ Louvain, Louvain Drug Res Inst, Pharmacognosy Res Grp, B-1200 Brussels, Belgium.
+   [Kpoviessi, Salome; Gbaguidi, Fernand; Moudachirou, Mansourou] UAC, Fac Hlth Sci FSS, Fac Sci & Tech FAST, Lab Pharmacognosy & Essential Oils LAPHE, Cotonou, Benin.
+   [Agbani, Pierre] UAC, Fac Agron Sci FSA, Lab Appl Ecol LEA, Cotonou, Benin.
+   [Frederich, Michel] Univ Liege, Drug Res Ctr, Lab Pharmacognosie, B-4000 Liege, Belgium.
+RP Quetin-Leclercq, J (reprint author), Catholic Univ Louvain, Louvain Drug Res Inst, Pharmacognosy Res Grp, B1 7203 Av E Mounier 72, B-1200 Brussels, Belgium.
+EM joelle.leclercq@uclouvain.be
+OI FREDERICH, Michel/0000-0002-0770-9990
+FU CUD-PIC (Commission Universitaire pour le Developpement - Projet Inter
+   universitaire Cible); CIUF (Cooperation Institutionnelle Universitaire
+   Francophone); Belgian National Fund for Scientific Research (FNRS)
+   [T.0190.13]; Faculty of Pharmacy and Biomedical Sciences of UCL
+FX The authors are grateful to Ramazan Colak for skillful technical
+   assistance. We would also like to thank the Malaria's team from
+   University of Liege for cell lines and continuous culture. This work was
+   supported by the CUD-PIC (Commission Universitaire pour le Developpement
+   - Projet Inter universitaire Cible), CIUF (Cooperation Institutionnelle
+   Universitaire Francophone) through a financement given to S. Kpoviessi,
+   the Belgian National Fund for Scientific Research (FNRS) (T.0190.13) and
+   the Faculty of Pharmacy and Biomedical Sciences of UCL.
+NR 53
+TC 20
+Z9 22
+U1 5
+U2 44
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-8741
+J9 J ETHNOPHARMACOL
+JI J. Ethnopharmacol.
+PD JAN 10
+PY 2014
+VL 151
+IS 1
+BP 652
+EP 659
+DI 10.1016/j.jep.2013.11.027
+PG 8
+WC Plant Sciences; Chemistry, Medicinal; Integrative & Complementary
+   Medicine; Pharmacology & Pharmacy
+SC Plant Sciences; Pharmacology & Pharmacy; Integrative & Complementary
+   Medicine
+GA AA3TU
+UT WOS:000331017200070
+PM 24269775
+ER
+
+PT J
+AU Azondekon, R
+   Gnanguenon, V
+   Oke-Agbo, F
+   Houevoessa, S
+   Green, M
+   Akogbeto, M
+AF Azondekon, Roseric
+   Gnanguenon, Virgile
+   Oke-Agbo, Frederic
+   Houevoessa, Speraud
+   Green, Michael
+   Akogbeto, Martin
+TI A tracking tool for long-lasting insecticidal (mosquito) net
+   intervention following a 2011 national distribution in Benin
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE LLIN; Monitoring; Survivorship; Fabric integrity; Gas chromatography
+ID COLORIMETRIC FIELD-TEST; IMPREGNATED BED NETS; TREATED NETS; MALARIA
+   CONTROL; PYRETHROID RESISTANCE; ANOPHELES-GAMBIAE; BURKINA-FASO;
+   EFFICACY; MORTALITY; CHILDREN
+AB Background: Following a mass distribution of long-lasting insecticidal nets (LLINs) in Benin, we used WHO guidelines to develop an assessment tool which is described in this report. It involved assessment of the three WHO indicators: survivorship, integrity and bio-efficacy.
+   Methods: To evaluate the assessment tool, we selected four communities, two in the Southern part of the country, and two in the North. One of the two assessment communities in each geographic setting had ready access to water and a higher reported frequency of washing LLINs. It was assumed that nets in communities with greater washing frequencies would show greater loss of durability. If the tool was sensitive enough to detect such differences, the field testing would confirm its suitability for general use in different settings in Benin. While durability indicators of survival and fabric integrity were quantified using standard WHO methodology, bio-efficacy was assessed using a 'new' alternative (to the WHO bioassay test), involving gas chromatography. Additionally, data management used current internet technology for 'real time' analysis at a central monitoring location.
+   Results: While no difference in survivorship was observed between sites with ready access to water for washing, both in the North and the South, there was a significant difference in integrity. In the South and in the North, nets from sites near water (Kessounou and Malanville) showed greater damage to integrity than did the nets from Allada and Kandi (sites far from water). As expected, LLIN integrity was significantly lower when a community was near water (p < 0.01). Bio-efficacy measurements, based on GC, were found to be so variable.
+   Conclusion: A rapid decrease of the LLINs fabric integrity was observed in areas near water for washing following the first 6 months post-distribution. Due to the way that the insecticide is incorporated into the LLIN fiber and its migration to the surface, confounding results were observed with the GC analysis suggesting that the WHO bio-efficacy method may also be similarly affected. The report of other assessments could help to better understand the durability of the LLINs.
+C1 [Azondekon, Roseric; Gnanguenon, Virgile; Oke-Agbo, Frederic; Houevoessa, Speraud; Akogbeto, Martin] CREC, Cotonou, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Gnanguenon, Virgile; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Abomey Calavi, Benin.
+   [Green, Michael] Ctr Dis Control & Prevent, Atlanta, GA USA.
+RP Azondekon, R (reprint author), CREC, Cotonou, Benin.
+EM roseric_2000@yahoo.fr
+FU US President's Malaria Initiative
+FX Our thanks are addressed to the Village Health Workers, Benin NMCP, CDC
+   and USAID. This investigation received financial support from the US
+   President's Malaria Initiative.
+NR 36
+TC 5
+Z9 5
+U1 1
+U2 5
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD JAN 4
+PY 2014
+VL 7
+AR 6
+DI 10.1186/1756-3305-7-6
+PG 14
+WC Parasitology
+SC Parasitology
+GA AF3RQ
+UT WOS:000334630200001
+PM 24387635
+ER
+
+PT J
+AU Riveron, JM
+   Yunta, C
+   Ibrahim, SS
+   Djouaka, R
+   Irving, H
+   Menze, BD
+   Ismail, HM
+   Hemingway, J
+   Ranson, H
+   Albert, A
+   Wondji, CS
+AF Riveron, Jacob M.
+   Yunta, Cristina
+   Ibrahim, Sulaiman S.
+   Djouaka, Rousseau
+   Irving, Helen
+   Menze, Benjamin D.
+   Ismail, Hanafy M.
+   Hemingway, Janet
+   Ranson, Hilary
+   Albert, Armando
+   Wondji, Charles S.
+TI A single mutation in the GSTe2 gene allows tracking of metabolically
+   based insecticide resistance in a major malaria vector
+SO GENOME BIOLOGY
+LA English
+DT Article
+ID GLUTATHIONE-S-TRANSFERASE; ANOPHELES-GAMBIAE; PYRETHROID RESISTANCE;
+   FUNESTUS; DDT; IDENTIFICATION; DROSOPHILA; SUBSTITUTIONS; SELECTION;
+   DEFENSE
+AB Background: Metabolic resistance to insecticides is the biggest threat to the continued effectiveness of malaria vector control. However, its underlying molecular basis, crucial for successful resistance management, remains poorly characterized.
+   Results: Here, we demonstrate that the single amino acid change L119F in an upregulated glutathione S-transferase gene, GSTe2, confers high levels of metabolic resistance to DDT in the malaria vector Anopheles funestus. Genome-wide transcription analysis revealed that GSTe2 was the most over-expressed detoxification gene in DDT and permethrinresistant mosquitoes from Benin. Transgenic expression of GSTe2 in Drosophila melanogaster demonstrated that over-transcription of this gene alone confers DDT resistance and cross-resistance to pyrethroids. Analysis of GSTe2 polymorphism established that the point mutation is tightly associated with metabolic resistance to DDT and its geographical distribution strongly correlates with DDT resistance patterns across Africa. Functional characterization of recombinant GSTe2 further supports the role of the L119F mutation, with the resistant allele being more efficient at metabolizing DDT than the susceptible one. Importantly, we also show that GSTe2 directly metabolizes the pyrethroid permethrin. Structural analysis reveals that the mutation confers resistance by enlarging the GSTe2 DDT-binding cavity, leading to increased DDT access and metabolism. Furthermore, we show that GSTe2 is under strong directional selection in resistant populations, and a restriction of gene flow is observed between African regions, enabling the prediction of the future spread of this resistance.
+   Conclusions: This first DNA-based metabolic resistance marker in mosquitoes provides an essential tool to track the evolution of resistance and to design suitable resistance management strategies.
+C1 [Riveron, Jacob M.; Yunta, Cristina; Ibrahim, Sulaiman S.; Irving, Helen; Menze, Benjamin D.; Ismail, Hanafy M.; Hemingway, Janet; Ranson, Hilary; Wondji, Charles S.] Univ Liverpool, Liverpool Sch Trop Med, Vector Biol Dept, Liverpool L3 5QA, Merseyside, England.
+   [Yunta, Cristina; Albert, Armando] CSIC, Inst Quim Fis Rocasolano, Dept Cristalog & Biol Estruct, E-28006 Madrid, Spain.
+   [Djouaka, Rousseau] Int Inst Trop Agr, Cotonou, Benin.
+   [Menze, Benjamin D.] Org Coordinat Lutte Endemies Afrique Cent, Yaounde, Cameroon.
+RP Wondji, CS (reprint author), Univ Liverpool, Liverpool Sch Trop Med, Vector Biol Dept, Pembroke Pl, Liverpool L3 5QA, Merseyside, England.
+EM c.s.wondji@liverpool.ac.uk
+RI Albert, Armando/J-2373-2012; Ibrahim, Sulaiman S/N-1426-2014; 
+OI Albert, Armando/0000-0002-0026-6816; Ibrahim, Sulaiman
+   S/0000-0003-0744-802X; Hemingway, Janet/0000-0002-3200-7173; Ranson,
+   Hilary/0000-0003-2332-8247; Ismail , Hanafy /0000-0002-9953-9588
+FU Wellcome Trust RCD Fellowship [083515/Z/07/Z]; Fundacion Ramon Aceres
+   fellowship;  [BFU2011-25384];  [CSD2006-00015]
+FX This work was supported by a Wellcome Trust RCD Fellowship
+   (083515/Z/07/Z) to CSW. JMR was supported by a Fundacion Ramon Aceres
+   fellowship. Two grants (BFU2011-25384/CSD2006-00015) to AA contributed
+   to the crystallographic study. We thank Mark Paine for his insight and
+   comments.
+NR 40
+TC 35
+Z9 36
+U1 6
+U2 39
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1465-6906
+EI 1474-760X
+J9 GENOME BIOL
+JI Genome Biol.
+PY 2014
+VL 15
+IS 2
+AR R27
+DI 10.1186/gb-2014-15-2-r27
+PG 20
+WC Biotechnology & Applied Microbiology; Genetics & Heredity
+SC Biotechnology & Applied Microbiology; Genetics & Heredity
+GA AH6QU
+UT WOS:000336256600010
+PM 24565444
+ER
+
+PT J
+AU Enghoff, H
+   Manno, N
+   Tchibozo, S
+   List, M
+   Schwarzinger, B
+   Schoefberger, W
+   Schwarzinger, C
+   Paoletti, MG
+AF Enghoff, Henrik
+   Manno, Nicola
+   Tchibozo, Severin
+   List, Manuela
+   Schwarzinger, Bettina
+   Schoefberger, Wolfgang
+   Schwarzinger, Clemens
+   Paoletti, Maurizio G.
+TI Millipedes as Food for Humans: Their Nutritional and Possible
+   Antimalarial Value-A First Report
+SO EVIDENCE-BASED COMPLEMENTARY AND ALTERNATIVE MEDICINE
+LA English
+DT Article
+ID EULEMUR-FULVUS-ALBIFRONS; VARECIA-VARIEGATA-RUBRA; DEFENSIVE SECRETIONS;
+   CHEMICAL DEFENSE; NICHE SEPARATION; SODIUM CYANATE; POLYDESMIDA;
+   INSECTS; BENZOQUINONES; ARTHROPODS
+AB The first record of millipedes (Diplopoda) being regularly used for food by humans (the Bobo people of Burkina Faso) is given, including information on how the millipedes are prepared. The species in question are Tymbodesmus falcatus (Karsch, 1881) and Sphenodesmus sheribongensis (Schiotz, 1966) (Gomphodesmidae) and an unidentified species of Spirostreptidae. New information on the nutritional value of millipedes is provided; unsaturated fatty acids, calcium, and iron contents are particularly high. The millipedes' defensive secretions, hydrogen cyanide and benzoquinones, present a severe challenge for the spread of millipedes as an everyday food source. On the other hand, the possibility that benzoquinones may act as insect-repellents, as known from studies on nonhuman primates, and that sublethal cyanide ingestion may enhance human innate resistance to malaria, suggests promising ethnomedical perspectives to our findings.
+C1 [Enghoff, Henrik] Univ Copenhagen, Nat Hist Museum Denmark, DK-2100 Copenhagen O, Denmark.
+   [Manno, Nicola; Paoletti, Maurizio G.] Univ Padua, Dipartimento Biol, Lab Agroecol & Ethnobiol, I-35121 Padua, Italy.
+   [Manno, Nicola] Univ Nacl Trujillo, Escuela Postgrad Ciencias Biol, Trujillo, Peru.
+   [Tchibozo, Severin] Ctr Rech Gest Biodiversite, Cotonou 0385, Benin.
+   [List, Manuela; Schwarzinger, Bettina; Schwarzinger, Clemens] Johannes Kepler Univ Linz, Inst Chem Technol Organ Mat, A-4040 Linz, Austria.
+   [Schoefberger, Wolfgang] Johannes Kepler Univ Linz, Inst Inorgan Chem, A-4040 Linz, Austria.
+RP Paoletti, MG (reprint author), Univ Padua, Dipartimento Biol, Lab Agroecol & Ethnobiol, Via Bassi 58-b, I-35121 Padua, Italy.
+EM paoletti@civ.bio.unipd.it
+RI Schoefberger, Wolfgang/F-2227-2010; Enghoff, Henrik/A-5796-2013; 
+OI Enghoff, Henrik/0000-0002-2764-8750; Schwarzinger,
+   Clemens/0000-0002-8421-9063
+FU Fonds Franco-phone des Inforoutes (FFI); Cooperation Belge au
+   Developpement; European Union through the EFRE INTERREG IV ETC-AT-CZ
+   programme [M00146]
+FX The authors are grateful to the Bobo people at Kou for sharing their
+   knowledge with them, to The Fonds Franco-phone des Inforoutes (FFI) and
+   the Cooperation Belge au Developpement for funding the 2011 expedition
+   in Burkina Faso, to Bakary Sanou for help with field work, to Didier
+   VandenSpiegel for identification of T. falcatus, and to Mika Zagrobelny
+   for her attempt-against all odds-to isolate cyanogenic compounds from
+   alcohol-preserved millipede specimens. The NMR spectrometers were
+   acquired in collaboration with the University of South Bohemia (CZ) with
+   financial support from the European Union through the EFRE INTERREG IV
+   ETC-AT-CZ programme (Project M00146, "RERI-uasb"). Several people helped
+   with discussion and suggestions, in particular, Natalie Vasey, Jean
+   Zida, Robert O. Malley, William C. McGrew, Linda C. Jackson, Marco
+   Pombi, Salvatore Musumeci, and Paul Weldon.
+NR 72
+TC 0
+Z9 1
+U1 1
+U2 9
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 1741-427X
+EI 1741-4288
+J9 EVID-BASED COMPL ALT
+JI Evid.-based Complement Altern. Med.
+PY 2014
+AR 651768
+DI 10.1155/2014/651768
+PG 9
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA AB4NG
+UT WOS:000331766100001
+ER
+
+PT J
+AU Dahlstrom, S
+   Aubouy, A
+   Maiga-Ascofare, O
+   Faucher, JF
+   Wakpo, A
+   Ezinmegnon, S
+   Massougbodji, A
+   Houze, P
+   Kendjo, E
+   Deloron, P
+   Le Bras, J
+   Houze, S
+AF Dahlstroem, Sabina
+   Aubouy, Agnes
+   Maiga-Ascofare, Oumou
+   Faucher, Jean-Francois
+   Wakpo, Abel
+   Ezinmegnon, Sem
+   Massougbodji, Achille
+   Houze, Pascal
+   Kendjo, Eric
+   Deloron, Philippe
+   Le Bras, Jacques
+   Houze, Sandrine
+TI Plasmodium falciparum Polymorphisms Associated with Ex Vivo Drug
+   Susceptibility and Clinical Effectiveness of Artemisinin-Based
+   Combination Therapies in Benin
+SO ANTIMICROBIAL AGENTS AND CHEMOTHERAPY
+LA English
+DT Article
+ID IN-VITRO RESISTANCE; ARTEMETHER-LUMEFANTRINE; SULFADOXINE-PYRIMETHAMINE;
+   ANTIMALARIAL-DRUGS; ARTESUNATE-AMODIAQUINE; INCREASED SENSITIVITY;
+   MOLECULAR MARKERS; MALARIA MORTALITY; PFMDR1 MUTATIONS; SELECTION
+AB Artemisinin-based combination therapies (ACTs) are the main option to treat malaria, and their efficacy and susceptibility must be closely monitored to avoid resistance. We assessed the association of Plasmodium falciparum polymorphisms and ex vivo drug susceptibility with clinical effectiveness. Patients enrolled in an effectiveness trial comparing artemether-lumefantrine (n = 96), fixed-dose artesunate-amodiaquine (n = 96), and sulfadoxine-pyrimethamine (n = 48) for the treatment of uncomplicated malaria 2007 in Benin were assessed. pfcrt, pfmdr1, pfmrp1, pfdhfr, and pfdhps polymorphisms were analyzed pretreatment and in recurrent infections. Drug susceptibility was determined in fresh baseline isolates by Plasmodium lactate dehydrogenase enzyme-linked immunosorbent assay (ELISA). A majority had 50% inhibitory concentration (IC50) estimates (the concentration required for 50% growth inhibition) lower than those of the 3D7 reference clone for desethylamodiaquine, lumefantrine, mefloquine, and quinine and was considered to be susceptible, while dihydroartemisinin and pyrimethamine IC(50)s were higher. No association was found between susceptibility to the ACT compounds and treatment outcome. Selection was observed for the pfmdr1 N86 allele in artemether-lumefantrine recrudescences (recurring infections) (4/7 [57.1%] versus 36/195 [18.5%]), and of the opposite allele, 86Y, in artesunate-amodiaquine reinfections (new infections) (20/22 [90.9%] versus 137/195 [70.3%]) compared to baseline infections. The importance of pfmdr1 N86 in lumefantrine tolerance was emphasized by its association with elevated lumefantrine IC(50)s. Genetic linkage between N86 and Y184 was observed, which together with the low frequency of 1246Y may explain regional differences in selection of pfmdr1 loci. Selection of opposite alleles in artemether-lumefantrine and artesunate-amodiaquine recurrent infections supports the strategy of multiple first-line treatment. Surveillance based on clinical, ex vivo, molecular, and pharmacological data is warranted.
+C1 [Dahlstroem, Sabina; Maiga-Ascofare, Oumou; Le Bras, Jacques] Bichat C Bernard Hosp, Inst Med & Epidemiol Appl, Paris, France.
+   [Aubouy, Agnes; Faucher, Jean-Francois; Deloron, Philippe; Le Bras, Jacques; Houze, Sandrine] Inst Rech Dev, UMR 216, Mother & Child Face Trop Infect Res Unit, Paris, France.
+   [Aubouy, Agnes; Faucher, Jean-Francois; Deloron, Philippe; Le Bras, Jacques; Houze, Sandrine] Paris Descartes Univ, PRES Paris Sorbonne Cite, Paris, France.
+   [Faucher, Jean-Francois] Univ Besancon, Med Ctr, Hop Jean Minjoz, Dept Infect Dis, F-25030 Besancon, France.
+   [Wakpo, Abel; Ezinmegnon, Sem; Massougbodji, Achille] CERPAGE Lab, Cotonou, Benin.
+   [Houze, Pascal] St Louis Hosp, AP HP, Biochem Lab, Paris, France.
+   [Kendjo, Eric; Le Bras, Jacques; Houze, Sandrine] Bichat C Bernard Hosp, AP HP, Parasitol Lab, French Natl Malaria Reference Ctr, Paris, France.
+   [Kendjo, Eric] Univ Tubingen, Inst Trop Med, Tubingen, Germany.
+RP Dahlstrom, S (reprint author), Bichat C Bernard Hosp, Inst Med & Epidemiol Appl, Paris, France.
+EM sabina.dahlstrom@gmail.com
+RI Aubouy, Agnes/J-7792-2015
+FU Sanofi-Aventis
+FX This study was partly supported by Sanofi-Aventis.
+NR 58
+TC 7
+Z9 8
+U1 0
+U2 8
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0066-4804
+EI 1098-6596
+J9 ANTIMICROB AGENTS CH
+JI Antimicrob. Agents Chemother.
+PD JAN
+PY 2014
+VL 58
+IS 1
+BP 1
+EP 10
+DI 10.1128/AAC.01790-12
+PG 10
+WC Microbiology; Pharmacology & Pharmacy
+SC Microbiology; Pharmacology & Pharmacy
+GA 287ZL
+UT WOS:000329581100001
+PM 24100489
+ER
+
+PT J
+AU Makoutode, CP
+   Audibert, M
+   Massougbodji, A
+AF Makoutode, Charles Patrick
+   Audibert, Martine
+   Massougbodji, Achille
+TI Analysis of the cost-effectiveness of the implementation of Indoor
+   Residual Spraying and distribution of Long-Lasting Insecticidal Nets in
+   the municipality of Kouande and municipality of Copargo in Benin
+SO COST EFFECTIVENESS AND RESOURCE ALLOCATION
+LA English
+DT Article
+DE Malaria; Cost-effectiveness; Indoor Residual Spraying; Long-Lasting
+   Insecticidal Nets; Benin
+AB Background: In Benin, malaria was the leading cause of hospital consultation for children less than 5 years old (47.2%), and for all patients not hospitalized (42.3%). Its incidence among those who attended a health facility was respectively 42.9% and 17%. To address this problem, the National Program for the Fight against Malaria undertook, in 2011, a mass campaign of distribution of Long-Lasting Insecticidal Nets (LLINs). In addition to this strategy, the program decided to implement Indoor Residual Spraying in 7 of the 9 municipalities of Atacora department, which is one of the most malaria endemic areas. The objective of this study was to see if adding the IRS to the LLINs (municipality of Kouande) strategy is cost-effective, as compared to the LLINs-only strategy (municipality of Copargo), in highly malaria endemic areas.
+   Method: This study was a cross-sectional study of the implementation of the IRS from June 2011 to July 2011. Regarding the selection of health workers, managers of the malaria program, and partners of implementation of the IRS, a reasoned choice was made. The data collection consisted mainly of a series of interviews with people responsible for resource management and the exploitation of documents provided by them.
+   Results: After the implementation of LLNs + IRS the annual incidence of malaria in health facilities decreased significantly at Kouande-Centre and at Guilmaro. In the same period it increased significantly at Copargo-Centre, and decreased at Pabegou. The average cost per malaria case prevented (CE) was respectively 85,572.4 FCFA at Copargo Centre, 38,932.6 FCFA at Kouande Centre, 15,940.6 FCFA at Pabegou and 174,728.5 FCFA at Guilmaro. According to the results, the CE ratio at Kouande-Centre is lower than the CE ratio at Copargo-Centre and the CE ratio at Guilmaro is higher than the CE ratio at Pabegou. The LLINs + IRS strategy is more cost effective in urban areas than the LLINs-only strategy. The opposite result is observed in rural areas.
+   Conclusion: The LLINs + IRS strategy is cost effective in highly endemic areas both urban and rural, if communities sleep in sprayed structures and use LLINs even when it is hot.
+C1 [Makoutode, Charles Patrick] Univ Abomey Calavi, Interdisciplinary Grad Sch Space Culture & Dev, Fac Humanities Arts & Social Sci, 01 BP526, Cotonou, Benin.
+   [Audibert, Martine] Natl Ctr Sci Res, Ctr Study & Res Int Dev, F-63000 Clermont Ferrand, France.
+   [Massougbodji, Achille] Univ Abomey Calavi, Fac Hlth Sci Cotonou, Cotonou, Benin.
+RP Makoutode, CP (reprint author), Univ Abomey Calavi, Interdisciplinary Grad Sch Space Culture & Dev, Fac Humanities Arts & Social Sci, 01 BP526, Cotonou, Benin.
+EM makoutodepatrick@yahoo.fr
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1478-7547
+J9 COST EFFECT RESOUR A
+JI Cost Effect. Resour Alloc.
+PY 2014
+VL 12
+AR 21
+DI 10.1186/1478-7547-12-21
+PG 11
+WC Health Policy & Services
+SC Health Care Sciences & Services
+GA V45UD
+UT WOS:000209840600021
+ER
+
+PT J
+AU Pazou, EYA
+   Aleodjrodo, PE
+   Azehoun, JP
+   van Straalen, NM
+   van Hattum, B
+   Swart, K
+   van Gestel, CAM
+AF Pazou, Elisabeth Yehouenou A.
+   Aleodjrodo, Patrick Edorh
+   Azehoun, Judicael P.
+   van Straalen, Nico M.
+   van Hattum, Bert
+   Swart, Kees
+   van Gestel, Cornelis A. M.
+TI Pesticide residues in sediments and aquatic species in Lake Nokou, and
+   Cotonou Lagoon in the Republic of B,nin
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA English
+DT Article
+DE Pesticide residues; Sediment; Fish; Oysters; Shrimp; Human health risk
+ID WATER; ORGANOCHLORINE; AFRICA
+AB Lake Nokou, and Cotonou Lagoon are the most important and most productive continental freshwaters in B,nin, with an estimated fish production of over 2 tonnes per hectare in Lake Nokou,. Organochlorine pesticides are used in agriculture and to repel tsetse flies, malaria mosquitoes and other diseases raised. Sediment, fish, shrimp and oyster species were collected in Lake Nokou, and Cotonou Lagoon for pesticide residues analysis. The main pesticides identified in sediment were pp'-DDT and its metabolites pp-DDE and pp'-DDD, with residue levels between the detection limit and 24.4 mu g/kg dry weight. Fish species commonly consumed such as Elops lacerta, Podamasys jubelini, Gobbienellus occidentalis, Ethmalosa fimbriata, Mugil cephalus and Hemichromis fasciatus were contaminated with residues of seven to nine pesticides, including pp-DDE, op'-DDD, pp'-DDD, op'-DDT, pp'-DDT, alpha-endosulfan, aldrin, dieldrin and gamma-hexachlorocyclohexane. The levels ranged from detection limit to 289 ng/g lipid. The same pesticides were also detected in other aquatic species, such as shrimp and oysters. A summed risk assessment, comparing pesticide intake levels through fish consumption with tolerable daily intake levels proposed by the World Health Organization, showed in all cases a low risk for human health.
+C1 [Pazou, Elisabeth Yehouenou A.] Univ Abomey Calavi, Ecole Polytech Abomey Calavi, Dept Genie Environm, Lab Rech Biol Appl LARBA, Cotonou, Benin.
+   [Aleodjrodo, Patrick Edorh] Univ Abomey Calavi, Dept Biochim & Biol Cellulaire, Cotonou, Benin.
+   [Azehoun, Judicael P.] Inst Natl Rech Agr Benin, Cotonou, Benin.
+   [van Straalen, Nico M.; van Gestel, Cornelis A. M.] Vrije Univ Amsterdam, Fac Earth & Life Sci, Dept Ecol Sci, NL-1081 HV Amsterdam, Netherlands.
+   [van Hattum, Bert; Swart, Kees] Vrije Univ Amsterdam, Fac Earth & Life Sci, Inst Environm Studies, NL-1081 HV Amsterdam, Netherlands.
+RP van Gestel, CAM (reprint author), Vrije Univ Amsterdam, Fac Earth & Life Sci, Dept Ecol Sci, De Boelelaan 1085, NL-1081 HV Amsterdam, Netherlands.
+EM yehouenoue@yahoo.fr; kees.van.gestel@vu.nl
+NR 30
+TC 0
+Z9 0
+U1 2
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-6369
+EI 1573-2959
+J9 ENVIRON MONIT ASSESS
+JI Environ. Monit. Assess.
+PD JAN
+PY 2014
+VL 186
+IS 1
+BP 77
+EP 86
+DI 10.1007/s10661-013-3357-2
+PG 10
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 269GI
+UT WOS:000328229200007
+ER
+
+PT J
+AU Bertin, GI
+   Sabbagh, A
+   Guillonneau, F
+   Jafari-Guemouri, S
+   Ezinmegnon, S
+   Federici, C
+   Hounkpatin, B
+   Fievet, N
+   Deloron, P
+AF Bertin, Gwladys I.
+   Sabbagh, Audrey
+   Guillonneau, Francois
+   Jafari-Guemouri, Sayeh
+   Ezinmegnon, Sem
+   Federici, Christian
+   Hounkpatin, Benjamin
+   Fievet, Nadine
+   Deloron, Philippe
+TI Differential Protein Expression Profiles Between Plasmodium falciparum
+   Parasites Isolated From Subjects Presenting With Pregnancy-Associated
+   Malaria and Uncomplicated Malaria in Benin
+SO JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+DE mass spectrometry; Plasmodium falciparum; pregnancy-associated malaria;
+   field isolate; protein identification; protein abundance
+ID MASS-SPECTROMETRY DATA; RED-BLOOD-CELL; FEATURE-SELECTION;
+   CLUSTER-ANALYSIS; ANTIBODIES; PEPTIDES; PATTERNS; SEQUENCE; SURFACE;
+   FAMILY
+AB Background. Plasmodium falciparum is responsible for severe malaria, including pregnancy-associated malaria (PAM). During intra-erythrocytic maturation, the infected erythrocyte (iE) membrane is modified by insertion of parasite-derived proteins, primarily consisting of variant surface antigens such as P. falciparum erythrocyte membrane protein-1.
+   Methods. To identify new PAM-specific parasite membrane proteins, we conducted a mass spectrometry-based proteomic study and compared the protein expression profiles of 10 PAM and 10 uncomplicated malaria (UM) samples.
+   Results. We focused on the 454/1139 membrane-associated and hypothetical proteins for comparative analysis. Using filter-based feature-selection methods combined with supervised data analysis, we identified a subset of 53 proteins that distinguished PAM and UM samples. Up to 19/20 samples were correctly assigned to their respective clinical group. A hierarchical clustering analysis of these 53 proteins based on the similarity of their expression profiles revealed 2 main clusters of 40 and 13 proteins that were under-or over-expressed, respectively, in PAM.
+   Conclusions. VAR2CSA is identified and associated with PAM, validating our experimental approach. Other PAM-predictive proteins included PFI1785w, PF14_0018, PFB0115w, PFF0325c, and PFA_0410w. These proteomics data demonstrate the involvement of selected proteins in the pathophysiology of PAM, providing new insights for the definition of potential new targets for a vaccine against PAM.
+C1 [Bertin, Gwladys I.; Sabbagh, Audrey; Jafari-Guemouri, Sayeh; Fievet, Nadine; Deloron, Philippe] Univ Paris 05, Mere & Enfant Face Infect Trop UMR216, Inst Rech Dev, Paris, France.
+   [Bertin, Gwladys I.; Sabbagh, Audrey; Guillonneau, Francois; Jafari-Guemouri, Sayeh; Federici, Christian; Fievet, Nadine; Deloron, Philippe] Univ Paris 05, PRES Sorbonne Paris Cite, Paris, France.
+   [Guillonneau, Francois; Federici, Christian] Univ Paris 05, Prote Facil 3P5, Paris, France.
+   [Guillonneau, Francois; Federici, Christian] INSERM, Inst Cochin, U1016, Paris, France.
+   [Ezinmegnon, Sem; Fievet, Nadine] Ctr Etud & Rech Paludisme Associe Grossesse & Enf, Cotonou, Benin.
+   [Hounkpatin, Benjamin] Mother & Child Hosp, Cotonou, Benin.
+RP Deloron, P (reprint author), Fac Sci Biol & Pharmaceut, IRD UMR216UPD, 4 Ave Observ, F-75006 Paris, France.
+EM philippe.deloron@ird.fr
+OI SABBAGH, Audrey/0000-0003-0283-8803
+FU IRD; Labex GR-Ex
+FX This work was supported by IRD and Labex GR-Ex.
+NR 47
+TC 4
+Z9 4
+U1 0
+U2 10
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-1899
+EI 1537-6613
+J9 J INFECT DIS
+JI J. Infect. Dis.
+PD DEC 15
+PY 2013
+VL 208
+IS 12
+BP 1987
+EP 1997
+DI 10.1093/infdis/jit377
+PG 11
+WC Immunology; Infectious Diseases; Microbiology
+SC Immunology; Infectious Diseases; Microbiology
+GA 259RS
+UT WOS:000327544600009
+PM 23901091
+ER
+
+PT J
+AU Sovi, A
+   Govoetchan, R
+   Tokponnon, F
+   Hounkonnou, H
+   Aikpon, R
+   Agossa, F
+   Gnanguenon, V
+   Salako, AS
+   Agossou, C
+   Osse, R
+   Oke, M
+   Gbenou, D
+   Massougbodji, A
+   Akogbeto, M
+AF Sovi, Arthur
+   Govoetchan, Renaud
+   Tokponnon, Filemon
+   Hounkonnou, Hermine
+   Aikpon, Rock
+   Agossa, Fiacre
+   Gnanguenon, Virgile
+   Salako, Albert S.
+   Agossou, Christian
+   Osse, Razaki
+   Oke, Mariam
+   Gbenou, Dina
+   Massougbodji, Achille
+   Akogbeto, Martin
+TI Impact of land-use on malaria transmission in the Plateau region,
+   southeastern Benin
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE An. gambiae; Transmission; Resistance; Fishpond basins; Market-garden
+ID ANOPHELES-GAMBIAE COMPLEX; INSECTICIDE RESISTANCE; SCALE; NETS; AREA;
+   IDENTIFICATION; POPULATIONS; KDR
+AB Background: The goal of the study is to investigate if local agricultural practices have an impact on malaria transmission in four villages located in the same geographical area within a radius of 15 kilometers. Among the villages, one (Itassoumba) is characterized by the presence of a large market garden and fishpond basins, the three others (Itakpako, Djohounkolle and Ko-koumolou) are characterized by traditional food-producing agriculture.
+   Methods: Malaria transmission was evaluated using human-landing catches, both indoors and outdoors, two nights per month for 12 months. Field collected females An. gambiae s.l. were exposed for 1 hour to 0.75% permethrin and 0.05% deltamethrin using WHO insecticide susceptibility test kits and procedures. The presence of the kdr mutation was analyzed by PCR.
+   Results: Anopheles gambiae s.s form M (93.65%), was identified as the main malaria vector. Its susceptibility level to pyrethroids was the same (p > 0.05) in all villages. kdr mutation frequencies are 81.08 in Itakpako, 85 in Itassoumba, 79.73 in Djohounkolle and 86.84 in Ko-Koumolou (p = 0.63). The entomological inoculation rate ranged from 9.62 to 21.65 infected bites of An. gambiae per human per year in Djohounkolle, Itakpako and Ko-Koumolou against 1159.62 in Itassoumba (p < 0.0001).
+   Conclusion: The level of resistance of An. gambiae to pyrethroids was the same in the four villages. The heterogeneous character of malaria epidemiology was confirmed. The creation of fishponds basins and the development of market-gardening activities increased drastically the malaria transmission in Itassoumba.
+C1 [Sovi, Arthur; Govoetchan, Renaud; Hounkonnou, Hermine; Aikpon, Rock; Agossa, Fiacre; Gnanguenon, Virgile; Salako, Albert S.; Osse, Razaki; Akogbeto, Martin] Ctr Rech Entomol Cotonou, Cotonou 06, Benin.
+   [Sovi, Arthur; Govoetchan, Renaud; Tokponnon, Filemon; Aikpon, Rock; Agossa, Fiacre; Gnanguenon, Virgile; Osse, Razaki; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Cotonou 01, Benin.
+   [Tokponnon, Filemon; Oke, Mariam] Programme Natl Lutte Paludisme, Cotonou, Benin.
+   [Gbenou, Dina] WHO, Cotonou, Benin.
+   [Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Agossou, Christian] Univ Colorado, Sch Publ Hlth, Denver, CO 80202 USA.
+RP Sovi, A (reprint author), Ctr Rech Entomol Cotonou, BP 2604, Cotonou 06, Benin.
+EM sart52005@yahoo.fr
+FU Bill & Melinda Gates Foundation; Ministry of the Higher Education and of
+   Scientific Research
+FX We are grateful to the Bill & Melinda Gates Foundation which financially
+   supported this study. We thank Frederic Oke-Agbo for statistical
+   analysis. The authors would also like to thank the populations of
+   Itakpako, Itassoumba, Ko-Koumolou and Djohounkolle for their
+   collaboration. Arthur Sovi obtained financial support for his doctoral
+   training from Ministry of the Higher Education and of Scientific
+   Research.
+NR 37
+TC 2
+Z9 3
+U1 1
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD DEC 12
+PY 2013
+VL 6
+AR 352
+DI 10.1186/1756-3305-6-352
+PG 12
+WC Parasitology
+SC Parasitology
+GA 277RW
+UT WOS:000328838000003
+PM 24330734
+ER
+
+PT J
+AU Bossou, AD
+   Mangelinckx, S
+   Yedomonhan, H
+   Boko, PM
+   Akogbeto, MC
+   De Kimpe, N
+   Avlessi, F
+   Sohounhloue, DCK
+AF Bossou, Annick D.
+   Mangelinckx, Sven
+   Yedomonhan, Hounnankpon
+   Boko, Pelagie M.
+   Akogbeto, Martin C.
+   De Kimpe, Norbert
+   Avlessi, Felicien
+   Sohounhloue, Dominique C. K.
+TI Chemical composition and insecticidal activity of plant essential oils
+   from Benin against Anopheles gambiae (Giles)
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Malaria; A. gambiae; Essential oils; Diagnostic dose; Knock-down times;
+   Insecticide; Benin
+ID CULEX-QUINQUEFASCIATUS SAY; WEST-AFRICA; CYMBOPOGON-CITRATUS; MALARIA
+   VECTORS; BURKINA-FASO; SECURIDACA-LONGEPEDUNCULATA;
+   EUCALYPTUS-CITRIODORA; CHENOPODIUM-AMBROSIOIDES;
+   CALLOSOBRUCHUS-MACULATUS; RESISTANCE MECHANISMS
+AB Background: Insecticide resistance in sub-Saharan Africa and especially in Benin is a major public health issue hindering the control of the malaria vectors. Each Anopheles species has developed a resistance to one or several classes of the insecticides currently in use in the field. Therefore, it is urgent to find alternative compounds to conquer the vector. In this study, the efficacies of essential oils of nine plant species, which are traditionally used to avoid mosquito bites in Benin, were investigated.
+   Methods: Essential oils of nine plant species were extracted by hydrodistillation, and their chemical compositions were identified by GC-MS. These oils were tested on susceptible "kisumu" and resistant "ladji-Cotonou" strains of Anopheles gambiae, following WHO test procedures for insecticide resistance monitoring in malaria vector mosquitoes.
+   Results: Different chemical compositions were obtained from the essential oils of the plant species. The major constituents identified were as follows: neral and geranial for Cymbopogon citratus, Z-carveol, E-p-mentha-1(7), 8-dien-2-ol and E-p-mentha-2,8-dienol for Cymbopogon giganteus, piperitone for Cymbopogon schoenanthus, citronellal and citronellol for Eucalyptus citriodora, p-cymene, caryophyllene oxide and spathulenol for Eucalyptus tereticornis, 3-tetradecanone for Cochlospermum tinctorium and Cochlospermum planchonii, methyl salicylate for Securidaca longepedunculata and ascaridole for Chenopodium ambrosioides. The diagnostic dose was 0.77% for C. citratus, 2.80% for E. tereticornis, 3.37% for E. citriodora, 4.26% for C. ambrosioides, 5.48% for C. schoenanthus and 7.36% for C. giganteus. The highest diagnostic doses were obtained with S. longepedunculata (9.84%), C. tinctorium (11.56%) and C. planchonii (15.22%), compared to permethrin 0.75%. A. gambiae cotonou, which is resistant to pyrethroids, showed significant tolerance to essential oils from C. tinctorium and S. longepedunculata as expected but was highly susceptible to all the other essential oils at the diagnostic dose.
+   Conclusions: C. citratus, E. tereticornis, E. citriodora, C. ambrosioides and C. schoenanthus are potential promising plant sources for alternative compounds to pyrethroids, for the control of the Anopheles malaria vector in Benin. The efficacy of their essential oils is possibly based on their chemical compositions in which major and/or minor compounds have reported insecticidal activities on various pests and disease vectors such as Anopheles.
+C1 [Bossou, Annick D.; Avlessi, Felicien; Sohounhloue, Dominique C. K.] Univ Abomey Calavi, Ecole Polytech Abomey Calavi, Lab Etude & Rech Chim Appl, Cotonou 01, Benin.
+   [Bossou, Annick D.; Mangelinckx, Sven; De Kimpe, Norbert] Univ Ghent, Fac Biosci Engn, Dept Sustainable Organ Chem & Technol, B-9000 Ghent, Belgium.
+   [Yedomonhan, Hounnankpon] Univ Abomey Calavi, Herbier Natl Benin, Lab Bot & Ecol Vegetale, Cotonou 01, Benin.
+   [Boko, Pelagie M.; Akogbeto, Martin C.] Ctr Rech Entomol Cotonou, Cotonou 06, Benin.
+RP Mangelinckx, S (reprint author), Univ Ghent, Fac Biosci Engn, Dept Sustainable Organ Chem & Technol, Coupure Links 653, B-9000 Ghent, Belgium.
+EM sven.mangelinckx@ugent.be; csohoun@gmail.com
+FU Belgian Technical Cooperation; Research Foundation-Flanders; Ghent
+   University
+FX We are grateful to the team of the Centre de Recherche en Entomologie de
+   Cotonou, for the realization of insecticidal tests on A. gambiae, as
+   well as to the Belgian Technical Cooperation, Ghent University and the
+   Research Foundation-Flanders for financial support of this research.
+NR 78
+TC 11
+Z9 11
+U1 2
+U2 35
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD DEC 3
+PY 2013
+VL 6
+AR 337
+DI 10.1186/1756-3305-6-337
+PG 17
+WC Parasitology
+SC Parasitology
+GA 277RI
+UT WOS:000328836600001
+PM 24298981
+ER
+
+PT J
+AU Govoetchan, R
+   Sovi, A
+   Aikpon, R
+   Salako, A
+   Agbo, FO
+   Asidi, A
+   Akogbeto, M
+AF Govoetchan, Renaud
+   Sovi, Arthur
+   Aikpon, Rock
+   Salako, Albert
+   Agbo, Frederic Oke
+   Asidi, Alex
+   Akogbeto, Martin
+TI The impact of oviposition-site deprivation in gravid females of
+   Anopheles gambiae (Diptera: Culicidae) on fecundity, trophic behaviour
+   and life expectancy
+SO INTERNATIONAL JOURNAL OF TROPICAL INSECT SCIENCE
+LA English
+DT Article
+ID INSECTICIDE-TREATED NETS; DRY SEASON; MOSQUITOS; BENIN; TEMPERATURE;
+   RESISTANCE; SURVIVAL; AFRICA; SUGAR; SAHEL
+AB Short and long dry spells occur throughout the year and limit the access of gravid mosquitoes to oviposition sites. Using simulations in laboratory conditions, we explored the possible consequences of a long duration of egg retention on reproductive capacity, trophic behaviour, life expectancy and gonotrophic cycle in a context of breeding site absence. KISUMU and wild gravid females of Anopheles gambiae were subjected to a delay in egg-laying following the preset modalities as immediate egg-laying versus retention for 5, 10 and 15 days. The egg batch size and the hatching rate were measured. In addition, blood-feeding patterns and life expectancy were investigated. Our study showed that oviposition occurs much faster in the standard susceptible laboratory strain An. gambiae KISUMU with a lapse of 2.2 days than in the wild females of An. gambiae with an average of 5 days between the second blood meal and egg-laying. In this experiment, the egg-retention time did not significantly affect the number of eggs laid. In the absence of breeding sites, the rate of egg-hatching decreased in proportion as the retention time became longer. The study also showed that gravid females deprived of oviposition sites continue to take blood meals. The average longevity of non-gravid females was estimated to be lower than that of gravid females. The oviposition-site deprivation has no impact on female fecundity and blood feeding, but influences egg-hatching.
+RP Govoetchan, R (reprint author), Ctr Rech Entomol Cotonou, 06 BP 2604, Cotonou, Benin.
+EM renaud292@yahoo.fr
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1742-7584
+EI 1742-7592
+J9 INT J TROP INSECT SC
+JI Int. J. Trop. Insect Sci.
+PD DEC
+PY 2013
+VL 33
+IS 4
+BP 207
+EP 215
+DI 10.1017/S1742758413000349
+PG 9
+WC Entomology
+SC Entomology
+GA 251NU
+UT WOS:000326937200001
+ER
+
+PT J
+AU Weetman, D
+   Djogbenou, L
+   Constant, E
+   Essandoh, J
+   Jenkins, A
+   Regna, K
+   Ketoh, G
+   Muskavitch, M
+   Donnelly, M
+   Ranson, H
+AF Weetman, David
+   Djogbenou, Luc
+   Constant, Edi
+   Essandoh, John
+   Jenkins, Adam
+   Regna, Kimberley
+   Ketoh, Guillaume
+   Muskavitch, Marc
+   Donnelly, Martin
+   Ranson, Hilary
+TI HIGH-LEVEL CARBAMATE RESISTANCE IN ANOPHELES GAMBIAE IS DRIVEN BY TARGET
+   SITE AND METABOLIC MECHANISMS CONFERRING CROSS-RESISTANCE
+SO PATHOGENS AND GLOBAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Weetman, David; Djogbenou, Luc; Constant, Edi; Essandoh, John; Donnelly, Martin; Ranson, Hilary] Univ Liverpool Liverpool Sch Trop Med, Vector Biol Dept, Liverpool, Merseyside, England.
+   [Djogbenou, Luc] Univ Abomey Calavi, Inst Reg Sante Publ, Ouidah, Benin.
+   [Constant, Edi] Ctr Suisse Rech Sci Cote Ivoire, Abidjan, Cote Ivoire.
+   [Essandoh, John] Univ Cape Coast, Dept Wildlife Biol, Cape Coast, Ghana.
+   [Jenkins, Adam; Regna, Kimberley; Muskavitch, Marc] Boston Coll, Boston, MA USA.
+   [Ketoh, Guillaume] Univ Lome, Fac Sci, Lab Entomol Appl, Lome, Togo.
+   [Donnelly, Martin] Wellcome Trust Sanger Inst, Malaria Programme, Hinxton, Cambs, England.
+RI Weetman, David/M-1261-2014
+OI Weetman, David/0000-0002-5820-1388
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 4
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 2047-7724
+EI 2047-7732
+J9 PATHOG GLOB HEALTH
+JI Pathog. Glob. Health
+PD DEC
+PY 2013
+VL 107
+IS 8
+BP 435
+EP 436
+PG 2
+WC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+SC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+GA AF9SZ
+UT WOS:000335056200097
+ER
+
+PT J
+AU Gibson, G
+   Sawadogo, S
+   Costantini, C
+   Pennetier, C
+   Diabate, A
+   Dabire, KR
+AF Gibson, Gabriella
+   Sawadogo, Simon
+   Costantini, Carlo
+   Pennetier, Cedric
+   Diabate, Abdoulaye
+   Dabire, K. Roch
+TI THE SIGNIFICANCE OF CIRCADIAN RHYTHMS IN ANOPHELES GAMBIAE S.S MATING
+   BEHAVIOUR AND REPRODUCTIVE ISOLATION OF MOLECULAR FORMS
+SO PATHOGENS AND GLOBAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Gibson, Gabriella] Univ Greenwich, NRI, London SE18 6PF, England.
+   [Costantini, Carlo] IRD UMR MIGEVEC, Montpellier, France.
+   [Pennetier, Cedric] IRD CREC, Cotonou, Benin.
+RI Pennetier, Cedric/K-2010-2016
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 2047-7724
+EI 2047-7732
+J9 PATHOG GLOB HEALTH
+JI Pathog. Glob. Health
+PD DEC
+PY 2013
+VL 107
+IS 8
+BP 449
+EP 449
+PG 1
+WC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+SC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+GA AF9SZ
+UT WOS:000335056200132
+ER
+
+PT J
+AU Poinsignon, A
+   Drame, PM
+   Marie, A
+   Noukpo, H
+   Cornelie, S
+   Remoue, F
+AF Poinsignon, Anne
+   Drame, Papa Makhtar
+   Marie, Alexandra
+   Noukpo, Herbert
+   Cornelie, Sylvie
+   Remoue, Franck
+TI DEVELOPMENT OF A BIOMARKER OF EXPOSURE TO ANOPHELES BITES BASED ON HUMAN
+   ANTIBODY RESPONSE TO SALIVARY PROTEINS : FROM CONCEPT TO APPLICATION IN
+   THE FIELD
+SO PATHOGENS AND GLOBAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Poinsignon, Anne; Drame, Papa Makhtar; Marie, Alexandra] IRD CNRS UM1 UM2 Montpellier, MIVEGEC, Montpellier, France.
+   [Noukpo, Herbert; Cornelie, Sylvie; Remoue, Franck] IRD CNRS UM1 UM2 Cotonou, MIVEGEC, Cotonou, Benin.
+   [Noukpo, Herbert; Cornelie, Sylvie; Remoue, Franck] CREC Cotonou, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 2047-7724
+EI 2047-7732
+J9 PATHOG GLOB HEALTH
+JI Pathog. Glob. Health
+PD DEC
+PY 2013
+VL 107
+IS 8
+BP 455
+EP 455
+PG 1
+WC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+SC Public, Environmental & Occupational Health; Parasitology; Tropical
+   Medicine
+GA AF9SZ
+UT WOS:000335056200147
+ER
+
+PT J
+AU Dechavanne, C
+   Pierrat, C
+   Renard, E
+   Costes, B
+   Martin, N
+   Ladekpo, R
+   Ahouangninou, C
+   Alvarez, VM
+   Huynh, BT
+   Garcia, A
+   Migot-Nabias, F
+AF Dechavanne, Celia
+   Pierrat, Charlotte
+   Renard, Emmanuelle
+   Costes, Bruno
+   Martin, Natacha
+   Ladekpo, Rodolphe
+   Ahouangninou, Claude
+   Alvarez, Violeta Moya
+   Bich Tram Huynh
+   Garcia, Andre
+   Migot-Nabias, Florence
+TI Genetic characterization of Plasmodium falciparum allelic variants
+   infecting mothers at delivery and their children during their first
+   plasmodial infections
+SO INFECTION GENETICS AND EVOLUTION
+LA English
+DT Article
+DE Malaria; P. falciparum; Infant; Immune tolerance; Merozoite surface
+   proteins; Antigen polymorphisms
+ID POLYMERASE-CHAIN-REACTION; MEROZOITE SURFACE PROTEIN-1;
+   IMMUNE-RESPONSES; WEST-AFRICA; MATERNAL MALARIA; HOLOENDEMIC AREA; CORD
+   SERA; TRANSMISSION; ANTIBODIES; DIVERSITY
+AB Introduction: Infants born to mothers with placental malaria at delivery develop Plasmodium falciparum parasitemia earlier than those born to mothers without placental infection. This phenomenon may be explained by the development of immune tolerance due to exposure to P. falciparum antigens in utero. The hypothesis of this study is that this increased susceptibility might be related to infections by parasites expressing the same blood stage allele's antigens as those to which the infants were exposed in utero.
+   Methods: The comparison of P. falciparum msp2 (3D7 and FC27) and glurp gene polymorphisms of infected mothers at delivery to those of their offspring's infections during infancy was realized and the possible associations of the different polymorphisms with clinical outcomes were assessed. A second approach consisted in the use of a Geographic Information System to determine whether the antigen alleles were homogeneously distributed in the area of study. This was necessary to analyze whether the biological observations were due to high exposure to a particular antigen allelic form in the environment or to high infant permissiveness to the same allelic antigen polymorphism as the placental one.
+   Results: Infants born to mothers with placental malaria at delivery were more susceptible to infections by parasites carrying the same glurp allele as encountered in utero compared to distinct alleles, independently of their geographic distribution.
+   Conclusion: The increased permissiveness of infants to plasmodial infections with shared placental-infant glurp alleles sheds light on the role that P. falciparum blood stage antigen polymorphisms may play in the first plasmodial infections in infancy. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Dechavanne, Celia; Alvarez, Violeta Moya; Bich Tram Huynh; Garcia, Andre; Migot-Nabias, Florence] Inst Rech Dev, UMR Mere & Enfant Face Infect Trop 216, Paris, France.
+   [Dechavanne, Celia; Renard, Emmanuelle; Alvarez, Violeta Moya; Bich Tram Huynh; Garcia, Andre; Migot-Nabias, Florence] Univ Paris 05, Fac Pharm, PRES Sorbonne Paris Cite, Paris, France.
+   [Pierrat, Charlotte] Barcelona Ctr Int Hlth Res, Barcelona, Spain.
+   [Costes, Bruno; Martin, Natacha] Hop Henri Mondor, INSERM, U955, F-94010 Creteil, France.
+   [Costes, Bruno] Univ Paris Est, Fac Med, Creteil, France.
+   [Ladekpo, Rodolphe; Ahouangninou, Claude] CERPAGE, Cotonou, Benin.
+RP Dechavanne, C (reprint author), Inst Rech Dev, UMR Mere & Enfant Face Infect Trop 216, Paris, France.
+EM celia.dechavanne@gmail.com
+RI Garcia, Andre/S-2959-2016; 
+OI Garcia, Andre/0000-0002-1808-472X; Dechavanne,
+   Celia/0000-0001-8439-9976; Migot-Nabias, Florence/0000-0001-9982-594X
+FU Agence Nationale de la Recherche (ANR); Treilles foundation
+FX We thank all women and infants of Tori Bossito who agreed to participate
+   in the study as well as the UMR 216 team of Cotonou and the staff of the
+   medical health centre of Tori Bossito (F Loumedjinon and M Daoudou) for
+   performing field activities. We are grateful to A. Massougbodji for
+   having interceded with local authorities. We also thank Dr Sayeh Jafari
+   for her valuable advice as well as Sandrine Ho, Laetitia Kermasson and
+   the sequencing department of the Institut Cochin for their technical
+   contribution. We are grateful to the Faculte des Sciences de la Sante
+   (FSS), the Institut des Sciences Biomedicales Appliquees de Cotonou
+   (ISBA) and the Programme National de Lutte contre le Paludisme ( PNLP)
+   for their institutional support. We thank Dr Adrian Luty and Dr Jerome
+   Clain for critical reading of the manuscript. The study was funded by
+   the Agence Nationale de la Recherche (ANR). Celia Dechavanne benefited
+   from the financial support of the Treilles foundation.
+NR 45
+TC 3
+Z9 3
+U1 0
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1567-1348
+EI 1567-7257
+J9 INFECT GENET EVOL
+JI Infect. Genet. Evol.
+PD DEC
+PY 2013
+VL 20
+BP 16
+EP 25
+DI 10.1016/j.meegid.2013.07.026
+PG 10
+WC Infectious Diseases
+SC Infectious Diseases
+GA 261YQ
+UT WOS:000327701200003
+PM 23932959
+ER
+
+PT J
+AU Ogouyemi-Hounto, A
+   Ndam, NT
+   Fadegnon, G
+   Azagnandji, C
+   Bello, M
+   Moussiliou, A
+   Chippaux, JP
+   Gazard, DK
+   Massougbodji, A
+AF Ogouyemi-Hounto, Aurore
+   Ndam, Nicaise Tuikue
+   Fadegnon, Gildas
+   Azagnandji, Carmine
+   Bello, Mourchidath
+   Moussiliou, Azizath
+   Chippaux, Jean-Phillipe
+   Gazard, Dorothee Kinde
+   Massougbodji, Achille
+TI Low prevalence of the molecular markers of Plasmodium falciparum
+   resistance to chloroquine and sulphadoxine/pyrimethamine in asymptomatic
+   children in Northern Benin
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Plasmodium falciparum; Genotyping; Resistance; Mutation; Chloroquine;
+   Sulphadoxine-pyrimethamine
+ID MEROZOITE SURFACE PROTEIN-1; MALARIA TREATMENT POLICY;
+   SULFADOXINE-PYRIMETHAMINE; DIHYDROFOLATE-REDUCTASE;
+   GENETIC-POLYMORPHISM; TRANSPORTER GENE; DIVERSITY; MUTATIONS; PFCRT;
+   TRANSMISSION
+AB Background: In Benin, very few studies have been done on the genetics of Plasmodium falciparum and the resistance markers of anti-malarial drugs, while malaria treatment policy changed in 2004. Chloroquine (CQ) and sulphadoxine pyrimethamine (SP) have been removed and replaced by artemisinin-combination therapy (ACT). The objective of this study was to determine the genetic diversity of P. falciparum and the prevalence of P. falciparum molecular markers that are associated with resistance to CQ and SP in northern Benin seven years after the new policy was instituted.
+   Methods: The study was conducted in northern Benin, a region characterized by a seasonal malaria transmission. Blood samples were collected in 2012 from children presenting with asymptomatic P. falciparum infections. Samples collected in filter paper were genotyped by primary and nested PCR in block 2 of msp-1 and block 3 of msp-2 to analyse the diversity of P. falciparum. The prevalence of critical point mutations in the genes of Pfcrt (codon 76), Pfmdr1 (codon 86), Pfdhfr (codons, 51, 59 and 108) and Pfdhps (codons 437, 540) was examined in parasite isolates by mutation-specific restriction enzyme digestion.
+   Results: Genotyping of 195 isolates from asymptomatic children showed 34 msp-1 and 38 msp-2 genotypes. The multiplicity of infection was 4.51 +/- 0.35 for msp-1 and 4.84 +/- 0.30 for msp-2. Only the codon 51 of Pfdhfr and codon 437 of Pfdhps showed a high mutation rate: I51: 64.4% (57.3; 71.2); G437: 47.4% (40.2; 54.7), respectively. The prevalence of Pfdhfr triple mutant IRN (I51, R59 and N108) was 1.5% (0.3; 3.9), and Pfdhfr/Pfdhps quadruple mutant IRNG (PfdhfrI51, R59, N108, and PfdhpsG437): 0. 5% (0; 2.5). No mutation was found with codon 540 of Pfdhps. Analysis of mutation according to age (younger or older than ten years) showed similar frequencies in each category without significant difference between the two groups.
+   Conclusions: This study showed a high diversity of P. falciparum in northern Benin with a very low prevalence of resistance markers to CQ and SP that dramatically contrasted with the pattern observed in southern Benin. No influence of age on genetic diversity of P. falciparum and on distribution of the mutations was observed.
+C1 [Ogouyemi-Hounto, Aurore; Fadegnon, Gildas; Azagnandji, Carmine; Bello, Mourchidath; Gazard, Dorothee Kinde; Massougbodji, Achille] Lab Ctr Lutte Integree Paludisme, Cotonou 01, Benin.
+   [Ndam, Nicaise Tuikue; Moussiliou, Azizath] Univ Paris 05, Fac Pharm, PRES Sorbonne Paris Cite, Paris, France.
+   [Ndam, Nicaise Tuikue; Moussiliou, Azizath; Chippaux, Jean-Phillipe] Inst Rech Dev, UMR Mere & Enfant Face Infect Trop, Cotonou 08, Benin.
+EM aurorefel@yahoo.fr
+OI Tuikue Ndam, Nicaise/0000-0003-2646-2513
+FU French Development Agency; Benin Ministry of Health
+FX We are grateful to the children who participated in the study, as well
+   as to their mothers and head of their schools. We are pleased to thank
+   caregivers, laboratory workers from IRD and the National Malaria Control
+   Programme. This work was financed by French Development Agency and Benin
+   Ministry of Health. This funding has contributed to data collection,
+   laboratory testing and statistical analysis.
+NR 39
+TC 3
+Z9 3
+U1 0
+U2 3
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD NOV 13
+PY 2013
+VL 12
+AR UNSP 413
+DI 10.1186/1475-2875-12-413
+PG 8
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA 281ME
+UT WOS:000329104900004
+PM 24225351
+ER
+
+PT J
+AU Borgella, S
+   Fievet, N
+   Huynh, BT
+   Ibitokou, S
+   Hounguevou, G
+   Affedjou, J
+   Sagbo, JC
+   Houngbegnon, P
+   Guezo-Mevo, B
+   Massougbodji, A
+   Luty, AJF
+   Cot, M
+   Deloron, P
+AF Borgella, Sophie
+   Fievet, Nadine
+   Bich-Tram Huynh
+   Ibitokou, Samad
+   Hounguevou, Gbetognon
+   Affedjou, Jacqueline
+   Sagbo, Jean-Claude
+   Houngbegnon, Parfait
+   Guezo-Mevo, Blaise
+   Massougbodji, Achille
+   Luty, Adrian J. F.
+   Cot, Michel
+   Deloron, Philippe
+TI Impact of Pregnancy-Associated Malaria on Infant Malaria Infection in
+   Southern Benin
+SO PLOS ONE
+LA English
+DT Article
+ID PLASMODIUM-FALCIPARUM MALARIA; BIRTH-WEIGHT; PLACENTAL INFECTION;
+   CYTOKINE RESPONSES; AFRICA; LIFE; WOMEN; INFLAMMATION; MORBIDITY;
+   EXPOSURE
+AB Background: Infants of mothers with placental Plasmodium falciparum infections at delivery are themselves more susceptible to malaria attacks or to infection in early life.
+   Methodology/Principal Findings: To assess the impact of either the timing or the number of pregnancy-associated malaria (PAM) infections on the incidence of parasitemia or malaria attacks in infancy, we followed 218 mothers through pregnancy (monthly visits) up to delivery and their infants from birth to 12 months of age (fortnightly visits), collecting detailed clinical and parasitological data. After adjustment on location, mother's age, birth season, bed net use, and placental malaria, infants born to a mother with PAM during the third trimester of pregnancy had a significantly increased risk of infection (OR [95% CI]: 4.2 [1.6; 10.5], p = 0.003) or of malaria attack (4.6 [1.7; 12.5], p = 0.003). PAM during the first and second trimesters had no such impact. Similarly significant results were found for the effect of the overall number of PAM episodes on the time to first parasitemia and first malaria attack (HR [95% CI]: 2.95 [1.58; 5.50], p = 0.001 and 3.19 [1.59; 6.38], p = 0.001) respectively.
+   Conclusions/Significance: This study highlights the importance of protecting newborns by preventing repeated episodes of PAM in their mothers.
+C1 [Borgella, Sophie; Fievet, Nadine] Univ Abomey Calavi, Fac Sci Sante, Ctr Etud & Rech Paludisme Associe Grossesse & Enf, Cotonou, Benin.
+   [Borgella, Sophie; Fievet, Nadine; Bich-Tram Huynh; Luty, Adrian J. F.; Cot, Michel; Deloron, Philippe] Inst Rech Dev, UMR 216, Paris, France.
+   [Borgella, Sophie; Fievet, Nadine; Bich-Tram Huynh; Ibitokou, Samad; Hounguevou, Gbetognon; Affedjou, Jacqueline; Sagbo, Jean-Claude; Houngbegnon, Parfait; Guezo-Mevo, Blaise; Massougbodji, Achille; Luty, Adrian J. F.; Cot, Michel; Deloron, Philippe] Univ Paris 05, Fac Pharm, Sorbonne Paris Cite, PRES, Paris, France.
+RP Fievet, N (reprint author), Univ Abomey Calavi, Fac Sci Sante, Ctr Etud & Rech Paludisme Associe Grossesse & Enf, Cotonou, Benin.
+EM fievet@ird.fr
+FU European 7th Framework Programme [200889]
+FX This paper describes work undertaken in the context of the STOPPAM
+   project, 'Strategies To Prevent Pregnancy Associated Malaria'. STOPPAM
+   is a Small & Medium Scale Collaborative Project supported by the
+   European 7th Framework Programme, contract number: 200889. The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 41
+TC 7
+Z9 8
+U1 1
+U2 7
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 13
+PY 2013
+VL 8
+IS 11
+AR e80624
+DI 10.1371/journal.pone.0080624
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 255QK
+UT WOS:000327254700193
+PM 24236190
+ER
+
+PT J
+AU Sovi, A
+   Azondekon, R
+   Aikpon, RY
+   Govoetchan, R
+   Tokponnon, F
+   Agossa, F
+   Salako, AS
+   Oke-Agbo, F
+   Aholoukpe, B
+   Oke, M
+   Gbenou, D
+   Massougbodji, A
+   Akogbeto, M
+AF Sovi, Arthur
+   Azondekon, Roseric
+   Aikpon, Rock Y.
+   Govoetchan, Renaud
+   Tokponnon, Filemon
+   Agossa, Fiacre
+   Salako, Albert S.
+   Oke-Agbo, Frederic
+   Aholoukpe, Bruno
+   Oke, Mariam
+   Gbenou, Dina
+   Massougbodji, Achille
+   Akogbeto, Martin
+TI Impact of operational effectiveness of long-lasting insecticidal nets
+   (LLINs) on malaria transmission in pyrethroid-resistant areas
+SO PARASITES & VECTORS
+LA English
+DT Article
+DE Resistance; LLINs; An. gambiae; Impact; Transmission; Behavior; Benin
+ID VECTOR ANOPHELES-GAMBIAE; TREATED BED NETS; WEST-AFRICA; BENIN;
+   IDENTIFICATION; MORBIDITY; MORTALITY; TANZANIA; INDEXES; BEDNETS
+AB Background: A dynamic study on the transmission of malaria was conducted in two areas (R+ area: Low resistance area; R+++ area: High resistance area) in the department of Plateau in South Eastern Benin, where the population is protected by Long Lasting Insecticidal Nets (LLINs). The aim of this study was to determine if the resistance of malaria vectors to insecticides has an impact on their behavior and on the effectiveness of LLINs in the reduction of malaria transmission.
+   Methods: Populations of Anopheles gambiae s.l. were sampled monthly by human landing catch in the two areas to evaluate human biting rates (HBR). Collected mosquitoes were identified morphologically and female Anopheles mosquitoes were tested for the presence of Plasmodium falciparum antigen as assessed using ELISA. The entomological inoculation rate (EIR) was also calculated (EIR = HBR x sporozoitic index [S]). We estimated the parity rate by dissecting the females of An. gambiae. Finally, window catch and spray catch were conducted in order to assess the blood feeding rate and the exophily rate of vectors.
+   Results: After 6 months of tracking the mosquito's behavior in contact with the LLINs (Olyset) in R+++ and R+ areas, the entomological indicators of the transmission of malaria (parity rate and sporozoitic index) were similar in the two areas. Also, An. gambiae populations showed the same susceptibility to P. falciparum in both R+ and R+++ areas. The EIR and the exophily rate are higher in R+ area than in R+++ area. But the blood-feeding rate is lower in R+ area comparing to R+++.
+   Conclusion: The highest entomological inoculation rate observed in R+ area is mostly due to the strong aggressive density of An. gambiae recorded in one of the study localities. On the other hand, the highest exophily rate and the low blood-feeding rate recorded in R+ area compared to R+++ area are not due to the resistance status of An. gambiae, but due to the differences in distribution and availability of breeding sites for Anopheles mosquitoes between areas. However, this phenomenon is not related to the resistance status, but is related to the environment instead.
+C1 [Sovi, Arthur; Aikpon, Rock Y.; Govoetchan, Renaud; Agossa, Fiacre; Salako, Albert S.; Oke-Agbo, Frederic; Akogbeto, Martin] Ctr Rech Entomol Cotonou, Cotonou 06, Benin.
+   [Sovi, Arthur; Aikpon, Rock Y.; Govoetchan, Renaud; Tokponnon, Filemon; Akogbeto, Martin] Univ Abomey Calavi, Fac Sci & Tech, Calavi, Benin.
+   [Tokponnon, Filemon; Aholoukpe, Bruno; Oke, Mariam] Programme Natl Lutte Paludisme, Cotonou, Benin.
+   [Azondekon, Roseric] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Gbenou, Dina; Massougbodji, Achille] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+RP Sovi, A (reprint author), Ctr Rech Entomol Cotonou, BP 2604, Cotonou 06, Benin.
+EM sart52005@yahoo.fr
+FU Bill & Melinda Gates Foundation; Ministry of the Higher Education and of
+   Scientific Research
+FX We are grateful to the Bill & Melinda Gates Foundation which supported
+   financially this study. We thank Virgile GNANGUENON for the realization
+   of the map. The authors would also like to thank the populations of
+   Itakpako, Itassoumba, Ko-Koumolou, Djohounkolle, Dagbao, Ossomou 1,
+   Onigbolo and Idena 2 for their collaboration. Arthur SOVI obtained
+   financial support for his doctoral training from Ministry of the Higher
+   Education and of Scientific Research.
+NR 38
+TC 8
+Z9 9
+U1 3
+U2 8
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1756-3305
+J9 PARASITE VECTOR
+JI Parasites Vectors
+PD NOV 4
+PY 2013
+VL 6
+AR 319
+DI 10.1186/1756-3305-6-319
+PG 13
+WC Parasitology
+SC Parasitology
+GA 277PG
+UT WOS:000328831100003
+PM 24499508
+ER
+
+PT J
+AU Ogouyemi-Hounto, A
+   Gazard, DK
+   Ndam, N
+   Topanou, E
+   Garba, O
+   Elegbe, P
+   Hountohotegbe, T
+   Massougbodji, A
+AF Ogouyemi-Hounto, Aurore
+   Gazard, Dorothee Kinde
+   Ndam, Nicaise
+   Topanou, Elsa
+   Garba, Olivia
+   Elegbe, Pancras
+   Hountohotegbe, Tatiana
+   Massougbodji, Achille
+TI Genetic polymorphism of merozoite surface protein-1 and merozoite
+   surface protein-2 in Plasmodium falciparum isolates from children in
+   South of Benin
+SO PARASITE
+LA English
+DT Article
+DE Benin; Genotyping; Merozoite surface protein; Plasmodium falciparum.
+ID DIVERSITY; POPULATIONS; VARIANTS; MALARIA; PYRIMETHAMINE; MULTIPLICITY;
+   INFECTIONS; PREVALENCE; RESISTANCE; FREQUENCY
+AB The aim of this study was to determine the genetic diversity of Plasmodium falciparum by analyzing the polymorphism of the msp-1 and msp-2 genes and the multiplicity of infection in children with uncomplicated malaria in southern Benin. Blood samples of children with fever or history of fever with thick smear positive P. falciparum were collected on filter paper. After extraction of DNA by Chelex (R), the samples underwent nested PCR. 93 isolates from children were genotyped. For the msp-1 gene, the K1 and R033 sequences were the most represented in the study population with 85.2% and 83% prevalence, respectively. Regarding the msp-2 gene, the FC27 family was more highly represented with 99% prevalence against 81.5% for 3D7. Mixed infections accounted for 80.4% of the samples. Twenty-five alleles were identified for msp-1 and 28 for msp-2. Fourteen and ten alleles belonged to the K1 (100500 bp) and MAD20 (100-500 bp) families, respectively. The RO33 sequence did not show any polymorphism, with only one variant (160 bp) detected. The msp-2 gene was present as 16 FC27 family fragments (250-800 bp) and 12 of the 3D7 family (350-700 bp). The multiplicity of infection was estimated at 3.8 for msp-1 and 3.9 for msp-2 with 77 (87.5%) and 84 (91.3%) samples harboring more than one parasite genotype for msp-1 and msp-2, respectively. The multiplicity of infection (MOI) was influenced neither by age nor by parasite density. This study shows a significant diversity of P. falciparum in southern Benin with an MOI unaffected by age or by parasite density.
+C1 [Ogouyemi-Hounto, Aurore; Gazard, Dorothee Kinde; Massougbodji, Achille] Fac Sci Sante, Unite Enseignement & Rech Parasitol Mycol, Cotonou, Benin.
+   [Ndam, Nicaise] Inst Rech Dev, Cotonou, Benin.
+   [Ogouyemi-Hounto, Aurore; Gazard, Dorothee Kinde; Ndam, Nicaise; Topanou, Elsa; Garba, Olivia; Elegbe, Pancras; Hountohotegbe, Tatiana] Lab Ctr Lutte Integree Paludisme, Cotonou, Benin.
+RP Ogouyemi-Hounto, A (reprint author), Fac Sci Sante, Unite Enseignement & Rech Parasitol Mycol, 01BP188, Cotonou, Benin.
+EM aurorefel@yahoo.fr
+OI Tuikue Ndam, Nicaise/0000-0003-2646-2513
+NR 29
+TC 6
+Z9 7
+U1 0
+U2 1
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 1252-607X
+EI 1776-1042
+J9 PARASITE
+JI Parasite
+PD OCT 21
+PY 2013
+VL 20
+AR 37
+DI 10.1051/parasite/2013039
+PG 6
+WC Parasitology
+SC Parasitology
+GA 239KN
+UT WOS:000326022500002
+PM 24135216
+ER
+
+PT J
+AU Mosqueira, B
+   Chabi, J
+   Chandre, F
+   Akogbeto, M
+   Hougard, JM
+   Carnevale, P
+   Mas-Coma, S
+AF Mosqueira, Beatriz
+   Chabi, Joseph
+   Chandre, Fabrice
+   Akogbeto, Martin
+   Hougard, Jean-Marc
+   Carnevale, Pierre
+   Mas-Coma, Santiago
+TI Proposed use of spatial mortality assessments as part of the pesticide
+   evaluation scheme for vector control
+SO MALARIA JOURNAL
+LA English
+DT Article
+DE Vector control; WHOPES; Insecticide-treated nets (ITNs); Long-lasting
+   insecticidal nets (LLINs); Indoor residual spraying (IRS); Insecticide
+   paint; Mass effect
+ID INSECTICIDE-TREATED BEDNETS; IMPREGNATED BED NETS; MALARIA CONTROL;
+   WESTERN KENYA; TRIATOMA-INFESTANS; CHILD-MORTALITY; DENGUE VECTORS;
+   CURTAINS; MOSQUITOS; TANZANIA
+AB Background: The WHO Pesticide Evaluation Scheme to evaluate the efficacy of insecticides does not include the testing of a lethal effect at a distance. A tool was developed to evaluate the spatial mortality of an insecticide product against adult mosquitoes at a distance under laboratory and field conditions. Operational implications are discussed.
+   Methods: Insecticide paint, Inesfly 5A IGR (TM), containing two organophosphates (OPs): chlorpyrifos and diazinon, and one insect growth regulator (IGR): pyriproxyfen, was the product tested. Laboratory tests were performed using "distance boxes" with surfaces treated with one layer of control or insecticide paint at a dose of 1 kg/6 sq m. Field tests were conducted up to 12 months in six experimental huts randomly allocated to control or one or two layers of insecticide paint at 1 kg/6 sq m. All distance tests were performed using reference-susceptible strains of Anopheles gambiae and Culex quinquefasciatus left overnight at a distance of 1 m from control or treated surfaces.
+   Results: After an overnight exposition at distances of 1 m, field and laboratory evaluations at 0 months after treatment (T0) yielded 100% mortality rates on surfaces treated with one layer at 1 kg/6 sq m against susceptible strains of An. gambiae and Cx. quinquefasciatus. Testing for long-term efficacy in the field gave mortality rates of 96-100% after an overnight exposition at a distance of 1 m for up to 12 months in huts where a larger volume was treated (walls and ceilings) with one or two layers of insecticide paint.
+   Conclusion: A comprehensive evaluation of the full profile of insecticide products, both upon contact and spatially, may help rationalize vector control efforts more efficiently. Treating a large enough volume may extend a product's mortality efficacy in the long-term, which contact tests would fail to assess. It is hereby proposed to explore the development of cost effective methods to assess spatial mortality and to include them as one additional measurement of insecticide efficacy against mosquitoes and other arthropod vectors in WHOPES Phase I and Phase II studies.
+C1 [Mosqueira, Beatriz; Mas-Coma, Santiago] Univ Valencia, Fac Farm, Dept Parasitol, Valencia 46100, Spain.
+   [Chabi, Joseph; Akogbeto, Martin] Ctr Rech Entomol Cotonou, Cotonou, Benin.
+   [Chandre, Fabrice; Hougard, Jean-Marc] Inst Rech Dev, Lab Lutte Insectes Nuisibles, F-34394 Montpellier 5, France.
+   [Carnevale, Pierre] Immeuble Le Majoral, F-34420 Portiragnes Plage, France.
+RP Mosqueira, B (reprint author), Univ Valencia, Fac Farm, Dept Parasitol, Av Vicent Andres Estelles S-N, Valencia 46100, Spain.
+EM bmosqueira@yahoo.com
+OI Chandre, Fabrice/0000-0002-1994-9705
+FU Agencia Espanola de Cooperacion Internacional para el Desarrollo
+   (AECID), Ministry of Foreign Affaires, Madrid, Spain [11-CAP2-1558]; Red
+   de Investigacion de Centros de Enfermedades Tropicales - RICET
+   [ISCIII-RETIC RD12/0018/0013]; Program of "Redes Tematicas de
+   Investigacion Cooperativa" RETICS/FEDER, Fondo de Investigacion
+   Sanitaria (FIS), Ministry of Health and Consumption, Madrid, Spain;
+   Ayudas para Grupos de Investigacion de Excelencia, Generalitat
+   Valenciana, Valencia, Spain [PROMETEO/2012/042]; University of Valencia
+   in Spain; Institut de Recherche pour le Developpement (IRD) in France;
+   Centre de Recherche Entomologique de Cotonou (CREC) in Benin
+FX This study was funded by Project No. 11-CAP2-1558 of the Agencia
+   Espanola de Cooperacion Internacional para el Desarrollo (AECID),
+   Ministry of Foreign Affaires, Madrid, Spain, by project ISCIII-RETIC
+   RD12/0018/0013, Red de Investigacion de Centros de Enfermedades
+   Tropicales - RICET, of the Program of "Redes Tematicas de Investigacion
+   Cooperativa" RETICS/FEDER, Fondo de Investigacion Sanitaria (FIS),
+   Ministry of Health and Consumption, Madrid, Spain; and by project
+   PROMETEO/2012/042 of the programme of Ayudas para Grupos de
+   Investigacion de Excelencia, Generalitat Valenciana, Valencia, Spain. We
+   are grateful to volunteers at the Ladji Experimental Station for their
+   good work. We thank Lazare Hounkarin for his dedication and technical
+   support at the Ladji Station and CREC. We thank the University of
+   Valencia in Spain, the Institut de Recherche pour le Developpement (IRD)
+   in France, and the Centre de Recherche Entomologique de Cotonou (CREC)
+   in Benin for their support.
+NR 36
+TC 2
+Z9 2
+U1 2
+U2 11
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1475-2875
+J9 MALARIA J
+JI Malar. J.
+PD OCT 18
+PY 2013
+VL 12
+AR 366
+DI 10.1186/1475-2875-12-366
+PG 6
+WC Infectious Diseases; Parasitology; Tropical Medicine
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA 281KE
+UT WOS:000329099200001
+PM 24139513
+ER
+
+EF

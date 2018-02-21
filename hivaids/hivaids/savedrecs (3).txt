@@ -1,0 +1,1238 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jaquet, A
+   Ekouevi, DK
+   Bashi, J
+   Aboubakrine, M
+   Messou, E
+   Maiga, M
+   Traore, HA
+   Zannou, MD
+   Guehi, C
+   Ba-Gomis, FO
+   Minga, A
+   Allou, G
+   Eholie, SP
+   Bissagnene, E
+   Sasco, AJ
+   Dabis, F
+AF Jaquet, Antoine
+   Ekouevi, Didier K.
+   Bashi, Jules
+   Aboubakrine, Maiga
+   Messou, Eugene
+   Maiga, Moussa
+   Traore, Hamar Alassane
+   Zannou, Marcel Djimon
+   Guehi, Calixte
+   Ba-Gomis, Franck Olivier
+   Minga, Albert
+   Allou, Gerard
+   Eholie, Serge Paul
+   Bissagnene, Emmanuel
+   Sasco, Annie J.
+   Dabis, Francois
+TI Alcohol use and non-adherence to antiretroviral therapy in HIV-infected
+   patients in West Africa
+SO ADDICTION
+LA English
+DT Article
+DE Adherence; alcohol use; antiretroviral treatment; HIV; AIDS; subSaharan
+   Africa
+ID IDENTIFICATION TEST AUDIT; ADHERENCE; CONSUMPTION; DETERMINANTS; COHORT;
+   ADULTS; MEDICATIONS; COUNTRIES; OUTCOMES; CARE
+AB Aim
+   To investigate the association between alcohol use and adherence to highly active antiretroviral treatment (HAART) among human immunodeficiency virus (HIV)-infected patients in subSaharan Africa.
+   Design and setting
+   Cross-sectional survey conducted in eight adult HIV treatment centres from Benin, Cote d'Ivoire and Mali.
+   Participants and measurements
+   During a 4-week period, health workers administered the Alcohol Use Disorders Identification Test to HAART-treated patients and assessed treatment adherence using the AIDS Clinical Trials Group follow-up questionnaire.
+   Findings
+   A total of 2920 patients were enrolled with a median age of 38 years [interquartile range (IQR) 32-45 years] and a median duration on HAART of 3 years (IQR 1-4 years). Overall, 91.8% of patients were identified as adherent to HAART. Non-adherence was associated with current drinking [odds ratio (OR) 1.4; 95% confidence interval (CI) 1.1-2.0], hazardous drinking (OR 4.7; 95% CI 2.6-8.6) and was associated inversely with a history of counselling on adherence (OR 0.7; 95% CI 0.5-0.9).
+   Conclusions
+   Alcohol consumption and hazardous drinking is associated with non-adherence to HAART among HIV-infected patients from West Africa. Adult HIV care programmes should integrate programmes to reduce hazardous and harmful drinking.
+C1 [Jaquet, Antoine; Ekouevi, Didier K.; Sasco, Annie J.; Dabis, Francois] Univ Victor Segalen, ISPED, INSERM, CRE U897, Bordeaux, France.
+   [Ekouevi, Didier K.; Allou, Gerard] CHU Treichville, Programme PAC CI, Abidjan, Cote Ivoire.
+   [Bashi, Jules; Zannou, Marcel Djimon] CHNU, Ctr Prise Charge Personnes Vivant Avec VIH, Cotonou, Benin.
+   [Aboubakrine, Maiga; Maiga, Moussa] Hop Gabriel Toure, Serv Hepatogastroenterol, Bamako, Mali.
+   [Messou, Eugene] ACONDA, CePReF, Abidjan, Cote Ivoire.
+   [Traore, Hamar Alassane] Hop Point G, Ctr Prise Charge Personnes Vivant Avec VIH, Bamako, Mali.
+   [Guehi, Calixte] USAC, Abidjan, Cote Ivoire.
+   [Ba-Gomis, Franck Olivier] CIRBA, Abidjan, Cote Ivoire.
+   [Minga, Albert] PRIMO CI, CNTS, Ctr Med Suivi Donneurs Sang, Abidjan, Cote Ivoire.
+   [Eholie, Serge Paul; Bissagnene, Emmanuel] CHU Treichville, Serv Malad Infect & Trop, Abidjan, Cote Ivoire.
+RP Jaquet, A (reprint author), Univ Victor Segalen Bordeaux 2, ISPED, Ctr Rech, INSERM,U897, Bordeaux, France.
+EM antoine.jaquet@isped.u-bordeaux2.fr
+RI EKOUEVI, Didier/E-7960-2014
+FU National Cancer Institute (NCI); Eunice Kennedy Shriver National
+   Institute of Child Health and Human Development (NICHD); National
+   Institute of Allergy and Infectious Diseases (NIAID) [5U01AI069919]
+FX We are indebted to the interviewers who performed the data collection
+   and to the data clerks from the PAC-CI office who entered all the data
+   in Abidjan. This work was funded by the following institutes: the
+   National Cancer Institute (NCI), the Eunice Kennedy Shriver National
+   Institute of Child Health and Human Development (NICHD) and the National
+   Institute of Allergy and Infectious Diseases (NIAID) (grant no.
+   5U01AI069919).
+NR 25
+TC 25
+Z9 27
+U1 1
+U2 1
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0965-2140
+J9 ADDICTION
+JI Addiction
+PD AUG
+PY 2010
+VL 105
+IS 8
+BP 1416
+EP 1421
+DI 10.1111/j.1360-0443.2010.02978.x
+PG 6
+WC Substance Abuse; Psychiatry
+SC Substance Abuse; Psychiatry
+GA 623DU
+UT WOS:000279719100018
+PM 20528816
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Bashi, J
+   Balestre, E
+   Messou, E
+   Maiga, M
+   Coffie, PA
+   Zannou, DM
+   Ba-Gomis, O
+   Traore, HA
+   Eholie, S
+   Minga, A
+   Sow, PS
+   Bissagnene, E
+   Dabis, F
+   Ekouevi, DK
+AF Bashi, J.
+   Balestre, E.
+   Messou, E.
+   Maiga, M.
+   Coffie, P. A.
+   Zannou, D. M.
+   Ba-Gomis, O.
+   Traore, H. A.
+   Eholie, S.
+   Minga, A.
+   Sow, P. S.
+   Bissagnene, E.
+   Dabis, F.
+   Ekouevi, D. K.
+CA Collaboration IeDEA W Africa
+TI Time trends in demographic and clinical characteristics of adult
+   patients on HAART initiation in West Africa
+SO MEDECINE ET MALADIES INFECTIEUSES
+LA French
+DT Article
+DE HIV; Antiretroviral therapy; West Africa
+ID RESOURCE-LIMITED SETTINGS; ANTIRETROVIRAL TREATMENT; THERAPY; CARE; HIV
+AB Objective. - We studied the evolution of drug combinations used, as well as the clinical and immunological profile of patients at initiation of highly active antiretroviral therapy (HAART) between 1996 and 2006 in West Africa.
+   Settings and method. - IeDEA West Africa is a network of HIV care programs established in 2006. We analyzed data from 12 clinical centers treating adults in five countries: Benin, Cote d'Ivoire, Senegal, Gambia, and Mali. Patients 16 years of age or over were included in the study and the following was documented: sex, date of birth and date of initiation of HAART.
+   Results. - We included 14,496 adult patients having started HAART, among these 55 % had started HAART between 2005-2006. The proportion of HIV-infected women increased from 46 % in 1996-2000 to 63 % in 2005-2006. The median age at HAART initiation remained constant: 35 years for women and 40 years for men. The proportion of patients having started HAART with a CD4 count <200 cells/mu l was 54 % in 1996-2000, and 64% in 2005-2006. The most frequently prescribed HAART was: AZT/3TC (or d4T/DDI)/IDV (27%) in 1996-2000; d4T (or AZT)/3TC/EFV (49 %) in 2003-2004, and d4T/3TC/NVP (49 %) in 2005-2006.
+   Conclusion. - The first line HAART regimen recommended by WHO was initiated in 83% of cases in 2005-2006. New approaches to an earlier initiation of ART should be explored to reduce mortality in HIV-infected patients on HAART. (C) 2009 Elsevier Masson SAS. All rights reserved.
+C1 [Balestre, E.; Coffie, P. A.; Dabis, F.; Ekouevi, D. K.] Univ Victor Segalen, INSERM, U897, Bordeaux, France.
+   [Bashi, J.; Zannou, D. M.] CHNU, Ctr Prise Charge Personnes Vivant Avec VIH, Cotonou, Benin.
+   [Messou, E.] ACONDA CePReF, Abidjan, Cote Ivoire.
+   [Maiga, M.] Hop Gabriel Toure, Serv Hepatogastroenterol, Bamako, Mali.
+   [Coffie, P. A.; Ekouevi, D. K.] Bur Reg leDEA W Africa, Programme PACCI, Abidjan, Cote Ivoire.
+   [Ba-Gomis, O.] CIRBA, Abidjan, Cote Ivoire.
+   [Traore, H. A.] Hop point G, Ctr Prise Charge Personnes Vivant Avec VIH, Bamako, Mali.
+   [Eholie, S.; Bissagnene, E.] CHU Treichville, SMIT, Abidjan, Cote Ivoire.
+   [Minga, A.] Ctr Med Suivi Donneurs Sang CNTS, Abidjan, Cote Ivoire.
+   [Sow, P. S.] CHU FANN ISAARV, Serv Malad Infect, Dakar, Senegal.
+RP Ekouevi, DK (reprint author), Univ Victor Segalen, INSERM, U897, Bordeaux, France.
+EM ekouevi@aviso.ci
+RI EKOUEVI, Didier/E-7960-2014; Leroy, Valeriane/F-8129-2013; Anglaret,
+   Xavier/F-7333-2013
+OI Leroy, Valeriane/0000-0003-3542-8616; 
+FU NIAID NIH HHS [U01 AI069919]
+NR 12
+TC 8
+Z9 8
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0399-077X
+J9 MED MALADIES INFECT
+JI Med. Mal. Infect.
+PD AUG
+PY 2010
+VL 40
+IS 8
+BP 449
+EP 455
+DI 10.1016/j.medmal.2009.11.003
+PG 7
+WC Infectious Diseases
+SC Infectious Diseases
+GA 646KD
+UT WOS:000281537800003
+PM 20045273
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Drylewicz, J
+   Eholie, S
+   Maiga, M
+   Zannou, DM
+   Sow, PS
+   Ekouevi, DK
+   Peterson, K
+   Bissagnene, E
+   Dabis, F
+   Thiebaut, R
+AF Drylewicz, Julia
+   Eholie, Serge
+   Maiga, Moussa
+   Zannou, Djimon Marcel
+   Sow, Papa Salif
+   Ekouevi, Didier K.
+   Peterson, Kevin
+   Bissagnene, Emmanuel
+   Dabis, Francois
+   Thiebaut, Rodolphe
+CA Int Epidemiologic Databases Evalu
+TI First-year lymphocyte T CD4(+) response to antiretroviral therapy
+   according to the HIV type in the IeDEA West Africa collaboration
+SO AIDS
+LA English
+DT Article
+DE Africa; antiretroviral therapy; CD4(+) T lymphocytes; HIV-1; HIV-2;
+   longitudinal study
+ID RESOURCE-LIMITED SETTINGS; HIV-2-INFECTED PATIENTS;
+   REVERSE-TRANSCRIPTASE; DRUG-RESISTANCE; IMMUNOLOGICAL RESPONSE;
+   HIV-1-ASSOCIATED AIDS; HIV-2-INDUCED AIDS; CONTROLLED-TRIALS;
+   COTE-DIVOIRE; INFECTION
+AB Objective: To compare the lymphocyte T CD4(+) (CD4) response to combinations of antiretroviral therapy (ART) in HIV-1, HIV-2 and dually positive patients in West Africa.
+   Design and setting: Collaboration of 12 prospective cohorts of HIV-infected adults followed in Senegal (2), Gambia (1), Mali (2), Benin (1) and Cote d'Ivoire (6).
+   Subjects: Nine thousand, four hundred and eighty-two patients infected by HIV-1 only, 270 by HIV-2 only and 321 dually positive, who initiated an ART.
+   Outcome measures: CD4 change over a 12-month period.
+   Results: Observed CD4 cell counts at treatment initiation were similar in the three groups [overall median 155, interquartile range (IQR) 68; 249 cells/mu l). In HIV-1 patients, the most common ART regimen was two nucleoside reverse transcriptase inhibitors (NRTIs) and one non-nucleoside reverse transcriptase inhibitor (NNRTI; N = 7714) as well as for dually positive patients (N 135). HIV-2 patients were most often treated with a protease inhibitor-based regimen (N 193) but 45 of them were treated with an NNRTI-containing ART. In those treated with a NNRTI-containing regimen, the estimated mean CD4 change between 3 and 12 months was significantly lower in HIV-2 (-41 cells/mu l per year) and dually positive patients (+12 cells/mu l per year) compared to HIV-1 patients (+69 cells/mu l per year, overall P value 0.01). The response in HIV-2 and dually positive patients treated by another regimen (triple NRTIs or protease inhibitor-containing ART) was not significantly different than the response obtained in HIV-1-only patients (all P values >0.30).
+   Conclusion: An optimal CD4 response to ART in West Africa requires determining HIV type prior to initiation of antiretroviral drugs. NNRTIs are the mainstay of first-line ART in West Africa but are not adapted to the treatment of HIV-2 and dually positive patients. (C) 2010 Wolters Kluwer Health vertical bar Lippincott Williams & Wilkins
+C1 [Thiebaut, Rodolphe] Univ Bordeaux 2, ISPED, INSERM Epidemiol & Biostat U897, F-33076 Bordeaux, France.
+   [Drylewicz, Julia; Ekouevi, Didier K.; Dabis, Francois; Thiebaut, Rodolphe] INSERM, U897, F-33076 Bordeaux, France.
+   [Eholie, Serge; Bissagnene, Emmanuel] CHU Treichville, SMIT, Abidjan, Cote Ivoire.
+   [Maiga, Moussa] Hop Gabriel Toure, Serv Hepatogastroenterol, Bamako, Mali.
+   [Zannou, Djimon Marcel] Ctr Hosp Univ CHNU, Ctr Prise Charge Personnes Vivant Avec VIH PVVIH, Cotonou, Benin.
+   [Sow, Papa Salif] CHU Fann, SMIT, Dakar, Senegal.
+   [Ekouevi, Didier K.] CHU Treichville, Programme PAC CI, Abidjan, Cote Ivoire.
+   [Peterson, Kevin] MRC, Banjul, Gambia.
+RP Thiebaut, R (reprint author), Univ Bordeaux 2, ISPED, INSERM Epidemiol & Biostat U897, 146 Rue Leo Saignat, F-33076 Bordeaux, France.
+EM rodolphe.thiebaut@isped.u-bordeaux2.fr
+RI EKOUEVI, Didier/E-7960-2014; Anglaret, Xavier/F-7333-2013
+FU National Institute of Allergy and Infectious Diseases (NIAID)
+   [5U01AI069919-03]; Eunice Kennedy Shriver National Institute of Child
+   Health and Human Development (NICHD); National Cancer Institute (NCI)
+FX This study was supported by the National Institute of Allergy and
+   Infectious Diseases (NIAID, grant 5U01AI069919-03), together with the
+   Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development (NICHD) and the National Cancer Institute (NCI).
+NR 43
+TC 14
+Z9 14
+U1 0
+U2 6
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD APR 24
+PY 2010
+VL 24
+IS 7
+BP 1043
+EP 1050
+DI 10.1097/QAD.0b013e3283377a06
+PG 8
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 582AN
+UT WOS:000276567500014
+PM 20397306
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Jure, E
+   Iguenane, J
+   Toudonou, A
+   Azondekon, A
+   Gagnayre, R
+AF Jure, Estelle
+   Iguenane, Jacqueline
+   Toudonou, Annicette
+   Azondekon, Alain
+   Gagnayre, Remi
+TI The usefulness of a genogram as a tool in therapeutic patient education:
+   an exploratory study of parents of children living with HIV/AIDS in
+   Benin
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE therapeutic education; educational diagnosis; genogram; skills;
+   children; HIV / AIDS; Benin
+AB Understanding family dynamics and relationship is an important facet of care, therapeutic education and psychosocial support. As part of a therapeutic education program organized within a pediatric service in Cotonou, Benin, we have experimented with the genogram at the time of diagnosis and tested it as an educational tool. This study evaluates the usefulness of the genogram for therapeutic patient education, and its capacity to serve as an aid to better understand family structure and dynamics. The study was conducted in 2007 with 29 parents of children living with HIV / AIDS. Six professionals observed the conditions for the development and application of the genograms their effects on the production of information of an educational nature. The results indicate that it can provide families and caregivers benchmarks essential for understanding the role of the family and community in which the child-patient is situated and how they function. It facilitates the identification of key resource persons for the child and selfcare to be mobilized and fostered within the family.
+C1 [Jure, Estelle; Iguenane, Jacqueline; Gagnayre, Remi] Univ Paris 13, UPRES EA 3412, Lab Pedag Sante, F-93017 Bobigny, France.
+   [Toudonou, Annicette; Azondekon, Alain] Hop Instruct Armees Cotonou, Serv Pediat, Cotonou, Benin.
+RP Jure, E (reprint author), Univ Paris 13, UPRES EA 3412, Lab Pedag Sante, 74 Rue Marcel Cachin, F-93017 Bobigny, France.
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 7
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD JAN-FEB
+PY 2010
+VL 22
+IS 1
+BP 11
+EP 22
+PG 12
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 589RL
+UT WOS:000277170400003
+PM 20441620
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Jaquet, A
+   Ekouevi, DK
+   Aboubakrine, M
+   Bashi, J
+   Messou, E
+   Maiga, M
+   Traore, HA
+   Zannou, M
+   Guehi, C
+   Ba-Gomis, FO
+   Minga, A
+   Allou, G
+   Eholie, SP
+   Dabis, F
+   Bissagnene, E
+   Sasco, AJ
+AF Jaquet, A.
+   Ekouevi, D. K.
+   Aboubakrine, M.
+   Bashi, J.
+   Messou, E.
+   Maiga, M.
+   Traore, H. A.
+   Zannou, M.
+   Guehi, C.
+   Ba-Gomis, F. O.
+   Minga, A.
+   Allou, G.
+   Eholie, S. P.
+   Dabis, F.
+   Bissagnene, E.
+   Sasco, A. J.
+TI Tobacco use and its determinants in HIV-infected patients on
+   antiretroviral therapy in West African countries
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE HIV/AIDS; tobacco; tuberculosis; prevalence estimate; sub-Saharan Africa
+ID HUMAN-IMMUNODEFICIENCY-VIRUS; SQUAMOUS INTRAEPITHELIAL LESIONS;
+   RISK-FACTORS; CIGARETTE-SMOKING; BACTERIAL PNEUMONIA; LUNG-CANCER;
+   ADULTS; BEHAVIOR; POPULATION; DISEASE
+AB BACKGROUND: Tobacco smoking is common in human immunodeficiency virus (HIV) infected patients from industrialised countries. In West Africa, few data concerning tobacco consumption exist.
+   METHODS: A cross-sectional survey of the International Epidemiological Database to Evaluate AIDS (IeDEA) network in West Africa was conducted. Health workers administered a questionnaire assessing tobacco and cannabis consumption among patients receiving anti-retroviral treatment. Regular smokers were defined as current smokers who smoked >1 cigarette per day for >= 1 year.
+   RESULTS: Overall, 2920 patients were enrolled in three countries. The prevalence of ever smokers and regular smokers were respectively 46.2% (95%CI 42.8-49.5) and 15.6% (95%CI 13.2-18.0) in men and 3.7% (95%CI 2.9-4.5) and 0.6% (95%CI 0.3-0.9) In women. Regular smoking was associated with being from Cote d'Ivoire or Mali compared to Benin (OR 4.6, 95%CI 2.9-7.3 and 7.7, 95%CI 4.4-13.6), severely impaired immunological status at highly active antiretroviral treatment initiation (OR 1.5, 95%CI 1.1-2.2) and history of tuberculosis (TB; OR 1.8, 95%CI 1.1-3.0).
+   CONCLUSION: There are marked differences In smoking prevalence among these West African countries. This survey approach also provides proof of the association between cigarette smoking and TB in HIV-Infected patients, a major public health issue in this part of the world.
+C1 [Jaquet, A.; Ekouevi, D. K.; Dabis, F.; Sasco, A. J.] Univ Victor Segalen, INSERM, Inst Sante Publ Epidemiol & Dev, CRE U 897, Bordeaux, France.
+   [Ekouevi, D. K.; Allou, G.] CHU Treichville, Programme PAC CI, Abidjan, Cote Ivoire.
+   [Aboubakrine, M.; Maiga, M.] Hop Gabriel Toure, Serv Hepatogastroenterol, Bamako, Mali.
+   [Bashi, J.; Zannou, M.] Ctr Hosp Natl Univ, Ctr Prise Charge Personnes Vivant Avec VIH, Cotonou, Benin.
+   [Messou, E.] ACONDA Ctr Prise Charge Rech & Format, Abidjan, Cote Ivoire.
+   [Traore, H. A.] Hop du Point G, Ctr Prise Charge Personnes Vivant Avec VIH, Bamako, Mali.
+   [Guehi, C.] Unite Soins Ambulatoires & Conseil, Abidjan, Cote Ivoire.
+   [Ba-Gomis, F. O.] Ctr Integre Rech Bioclin Abidjan, Abidjan, Cote Ivoire.
+   [Minga, A.] Ctr Natl Transfus Sanguine, Ctr Med Suivi Donneurs Sang, PRIMO CI, Abidjan, Cote Ivoire.
+   [Eholie, S. P.; Bissagnene, E.] Hop Treichville, Serv Malad Infect & Trop, Abidjan, Cote Ivoire.
+RP Jaquet, A (reprint author), Univ Bordeaux 2, INSERM, ISPED Case 11, U 897, F-33076 Bordeaux, France.
+EM antoine.jaquet@isped.u-bordeaux2.fr
+RI EKOUEVI, Didier/E-7960-2014
+FU National Cancer Institute (NCI); Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD); National
+   Institute of Allergy and Infectious Diseases (NIAID), USA
+FX The work was funded by the National Cancer Institute (NCI), the Eunice
+   Kennedy Shriver National Institute of Child Health & Human Development
+   (NICHD) and the National Institute of Allergy and Infectious Diseases
+   (NIAID), USA.
+NR 32
+TC 17
+Z9 17
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD NOV
+PY 2009
+VL 13
+IS 11
+BP 1433
+EP 1439
+PG 7
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 520XR
+UT WOS:000271883400021
+PM 19861019
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Zongo, M
+   Capochichi, J
+   Gandaho, P
+   Coppieters, Y
+AF Zongo, Mahamoud
+   Capochichi, Justine
+   Gandaho, Prosper
+   Coppieters, Yves
+TI Psychosocial care of people living with HIV in Benin
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE Psychosocial caring; HIV; aids; Benin
+AB The psychosocial care of persons living with HIV/AIDS is a crucial factor for their health improvement. The needs of people living with HIV (PLHIV) are not limited to access to medicine and medical care. They require other dimensions of care such as psychological, social and spiritual support. This support can help reduce the perceived inevitable causal relationship between HIV infection and death. It can also diminish social exclusion and promote better social integration. The objective of this work is to study the psychosocial care of PLHIV provided by social services of the city of Porto-Novo to users (PLHIV), their parents, resource persons and social and health workers. A range of techniques was used for data collection, including observation, interviews, document analysis and a questionnaire survey. The results showed the existence of a fairly good organizational structure, a relatively good performance of staff in terms of care provision and a good level of user satisfaction; nevertheless, patient mistrust of staff due to a lack of privacy and intimacy was also noted. Despite considerable efforts in this direction, it is essential to establish a specific policy for psychosocial care based on interventions of specialists from different sectors.
+C1 [Zongo, Mahamoud] Ctr Hosp Pneumophtisiol Akron, CRADES Ctr Rech & Appui Dev Sante Base, Benin, Nigeria.
+   [Zongo, Mahamoud] Ctr Hosp Pneumophtisiol Akron, Med Serv, Benin, Nigeria.
+   [Capochichi, Justine] Inst Reg Sante Publ, Benin, Nigeria.
+   [Gandaho, Prosper] Univ Parakou, Benin, Nigeria.
+   [Coppieters, Yves] Univ Libre Bruxelles, Ecole Sante Publ, Dept Epidemiol & Promot Sante, B-1070 Brussels, Belgium.
+RP Zongo, M (reprint author), Ctr Hosp Pneumophtisiol Akron, CRADES Ctr Rech & Appui Dev Sante Base, Benin, Nigeria.
+NR 19
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD NOV-DEC
+PY 2009
+VL 21
+IS 6
+BP 631
+EP 639
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 559HX
+UT WOS:000274815800011
+PM 20429234
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Zannou, DM
+   Denoeud, L
+   Lacombe, K
+   Amoussou-Guenou, D
+   Bashi, J
+   Akakpo, J
+   Gougounon, A
+   Akonde, A
+   Ade, G
+   Houngbe, F
+   Girard, PM
+AF Zannou, Djimon Marcel
+   Denoeud, Lise
+   Lacombe, Karine
+   Amoussou-Guenou, Daniel
+   Bashi, Jules
+   Akakpo, Jocelyn
+   Gougounon, Alice
+   Akonde, Alain
+   Ade, Gabriel
+   Houngbe, Fabien
+   Girard, Pierre-Marie
+TI Incidence of lipodystrophy and metabolic disorders in patients starting
+   non-nucleoside reverse transcriptase inhibitors in Benin
+SO ANTIVIRAL THERAPY
+LA English
+DT Article
+ID ACTIVE ANTIRETROVIRAL THERAPY; PROTEASE INHIBITORS; INSULIN-RESISTANCE;
+   PREVALENCE; ABNORMALITIES; POPULATION; RISK
+AB Background: The incidence and risk factors for lipodystrophy and metabolic disorders among patients in Africa on first-line combined antiretroviral treatment (cART) mostly containing non-nucleoside reverse transcriptase inhibitors is poorly documented.
+   Methods: This prospective cohort study recruited 88 HIV-infected patients initiating cART between October 2004 and June 2005 in Cotonou, Benin. Patients were followed for 24 months. The main outcomes were incidence of lipodystrophy and metabolic disorders. Multivariate Cox proportional hazards regression models were used to describe factors associated with progression to lipodystrophy.
+   Results: After a median follow-up of 23.2 months (inter-quartile range 22.3-23.7), 24 (30%) patients developed lipodystrophy (lipoatrophy 9%, lipohypertrophy 24% and mixed pattern 2.5%). The incidence rate for lipodystrophy was estimated to 1.72 per person-month (95% confidence interval [CI] 1.15-2.56) occurring after a median time of 11 months on cART. Metabolic syndrome (International Diabetes Federation definition) appeared in 10 (13%) patients after a median of 15 months with an estimated incidence rate of 0.62 per person-month (95% CI 0.33-1.16). It was more common in women (19.2% versus 3.1% in men; P=0.043). Diabetes (8%) and hypercholesterolaemia (35%) were also observed. After adjustment, gender, young age (hazard ratio [HR] 0.45 [95% CI 0.22-0.90]; P=0.025), high BMI at inclusion (HR 1.53 [95% CI 1.28-1.83]; P<0.0001) and smoking (HR 28.0 [95% CI 2.5-307.4]; P=0.006) were significantly associated with lipohypertrophy.
+   Conclusions: Lipodystrophy and metabolic syndrome were commonly and rapidly observed in this cohort of sub-Saharan patients initiating cART.
+C1 [Denoeud, Lise; Lacombe, Karine; Girard, Pierre-Marie] Hop St Antoine, AP HP, Serv Malad Infect & Trop, F-75571 Paris, France.
+   [Zannou, Djimon Marcel; Bashi, Jules; Akakpo, Jocelyn; Gougounon, Alice; Akonde, Alain; Ade, Gabriel; Houngbe, Fabien] Ctr Natl Hosp & Univ Hubert Koutoukou Maga, Serv Med Interne, Cotonou, Benin.
+   [Zannou, Djimon Marcel; Amoussou-Guenou, Daniel; Ade, Gabriel; Houngbe, Fabien] Univ Abomey Calavi, Fac Sci Sante, Cotonou, Benin.
+   [Lacombe, Karine; Girard, Pierre-Marie] Univ Paris 06, Fac Med St Antoine, Paris, France.
+   [Lacombe, Karine; Girard, Pierre-Marie] Univ Paris 06, INSERM, UMR S 707, Paris, France.
+   [Amoussou-Guenou, Daniel] Ctr Natl Hosp & Univ Hubert Koutoukou Maga, Serv Malad Metab & Endocrinol, Cotonou, Benin.
+RP Denoeud, L (reprint author), Hop St Antoine, AP HP, Serv Malad Infect & Trop, F-75571 Paris, France.
+EM lisedenoeud@yahoo.fr
+NR 17
+TC 31
+Z9 33
+U1 0
+U2 0
+PU INT MEDICAL PRESS LTD
+PI LONDON
+PA 2-4 IDOL LANE, LONDON EC3R 5DD, ENGLAND
+SN 1359-6535
+J9 ANTIVIR THER
+JI Antivir. Ther.
+PY 2009
+VL 14
+IS 3
+BP 371
+EP 380
+PG 10
+WC Infectious Diseases; Pharmacology & Pharmacy; Virology
+SC Infectious Diseases; Pharmacology & Pharmacy; Virology
+GA 455DT
+UT WOS:000266738300008
+PM 19474471
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Arrive, E
+   Marquis, B
+   Timwesigye, N
+   Brinkhof, MWG
+   Fassinou, P
+   Cotton, M
+   Wemin, L
+   Boulle, A
+   Holland, M
+   Renner, L
+   Kariyo, P
+   Aveika, A
+   Azondekon, A
+   Carter, R
+   Kieffer, MP
+   Namale, L
+   Newell, ML
+   Mbori-Ngacha, D
+   Dabis, F
+AF Arrive, Elise
+   Marquis, Benoit
+   Timwesigye, Nathan
+   Brinkhof, Martin W. G.
+   Fassinou, Patricia
+   Cotton, Mark
+   Wemin, Louise
+   Boulle, Andrew
+   Holland, Margaret
+   Renner, Lorna
+   Kariyo, Pierre
+   Aveika, Akum
+   Azondekon, Alain
+   Carter, Rosalind
+   Kieffer, Maiy-Pat
+   Namale, Leticia
+   Newell, Marie-Louise
+   Mbori-Ngacha, Dorothy
+   Dabis, Francois
+CA KIDS-ART-LINC Collaborat
+TI Low Risk of Death, but Substantial Program Attrition, in Pediatric HIV
+   Treatment Cohorts in Sub-Saharan Africa
+SO JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES
+LA English
+DT Article
+DE antiretroviral treatment; children; death; HIV; loss to follow-up;
+   sub-Saharan Africa
+ID ACTIVE ANTIRETROVIRAL THERAPY; RESOURCE-LIMITED SETTINGS; HIV-1-INFECTED
+   CHILDREN; INFECTED CHILDREN; INCOME COUNTRIES; FOLLOW-UP; SURVIVAL;
+   OUTCOMES; MORTALITY; MALAWI
+AB Background: To date, an estimated 10% of children eligible for antiretroviral treatment (ART.) receive it, and the frequency Of retention in programs is unknown. We evaluated the 2-year risks of death and loss to follow-up (LTFU) of children after ART initiation in a Multicenter Study in sub-Saharan Africa.
+   Methods: Pooled analysis of routine individual data from 16 participating clinics produced overall Kaplan-Meier estimates of the probabilities of death or LTFU after ART initiation. Risk factors analysis used Weibull regression, accounting for between-cohort heterogeneity.
+   Results: The median age of 2405 children at ART initiation was 4.9 years (12%, younger than 12 months), 52% were male, 70% had severe immunodeficiency, and 59% started ART with a nonnucleoside reverse transcriptase inhibitor. The 2-year risk of death after ART initiation was 6.9% (95% confidence interval [CI]: 5.9 to 8.1), independently associated with baseline severe anemia (adjusted hazard ratio [aHR]: 4.10 [CI: 2.36 to 7.13]), immunodeficiency (adjusted aHR: 2.95 [CI: 1.49 to 5.82]), and severe clinical status (adjusted aHR: 3.64 [CI: 1.95 to 6.81]); the 2-year risk of LTFU was 10.3% (CI: 8.9 to 11.9), higher in children with severe clinical Status.
+   Conclusions: Once on treatment, the 2-year risk of death is low but the LTFU risk is substantial. ART is still mainly initiated at advanced disease stage in African children, reinforcing the need for early HIV diagnosis, early initiation of ART, and procedures to increase program retention.
+C1 [Marquis, Benoit] Inst Sante Publ & Dev ISPED, INSERM, U897, Bordeaux, France.
+   [Timwesigye, Nathan] African Network Care Children Affected AIDS, Kampala, Uganda.
+   [Brinkhof, Martin W. G.] Univ Bern, Dept Social & Prevent Med, CH-3012 Bern, Switzerland.
+   [Fassinou, Patricia] Univ Yopougon, Ctr Hosp, Abidjan, Cote Ivoire.
+   [Cotton, Mark] Tygerberg Childrens Hosp, Cape Town, South Africa.
+   [Wemin, Louise] ACONDA, Ctr Prise Charge Rech & Format CEPREF Enfants, Abidjan, Cote Ivoire.
+   [Boulle, Andrew] Khayelitsha Hosp, Cape Town, South Africa.
+   [Holland, Margaret] Connaught Clin, Harare, Zimbabwe.
+   [Renner, Lorna] Korle Bu Hosp, Accra, Ghana.
+   [Kariyo, Pierre] ANSS, Bujumbura, Burundi.
+   [Aveika, Akum] MRC, Fajara, Gambia.
+   [Azondekon, Alain] UPEIV, Hop Intruct Armees, Cotonou, Benin.
+   [Carter, Rosalind] Columbia Univ, MTCT Plus Network, New York, NY USA.
+   [Kieffer, Maiy-Pat] USAID, Nairobi, Kenya.
+   [Namale, Leticia] ANECCA, Kampala, Uganda.
+   [Mbori-Ngacha, Dorothy] Univ Nairobi, Nairobi, Kenya.
+RP Dabis, F (reprint author), Univ Bordeaux 2, Inst Sante Publ, INSERM, Epidemiol & Dev Case 11,ISPED,U897, F-33076 Bordeaux, France.
+EM francois.dabis@isped.u-bordeaux2.fr
+RI Leroy, Valeriane/F-8129-2013
+OI Leroy, Valeriane/0000-0003-3542-8616; Prozesky,
+   Hans/0000-0001-9715-3449; Weigel, Ralf/0000-0001-9034-2634; Newell,
+   Marie-Louise/0000-0002-1074-7699
+FU US National Institutes of Health/Office of AIDS Research; United States
+   Agency for International Development East Africa; French Agence
+   Nationale de Recherche sur le Sida et les hepatitis virates [12147]; The
+   International epidemiological Databases to Evaluate AIDS; National
+   Institutes of Health/National Institute of Allergy and Infectious
+   Diseases; KIDS-ART-LINC Collaboration
+FX Supported by US National Institutes of Health/Office of AIDS Research
+   and United States Agency for International Development East Africa
+   (2005-2007) and French Agence Nationale de Recherche sur le Sida et les
+   hepatitis virates Grant 12147 (2007). The International epidemiological
+   Databases to Evaluate AIDS project of the National Institutes of
+   Health/National Institute of Allergy and Infectious Diseases provided
+   additional support to the KIDS-ART-LINC Collaboration in 2006-2007.
+NR 35
+TC 7
+Z9 7
+U1 1
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1525-4135
+J9 JAIDS-J ACQ IMM DEF
+JI JAIDS
+PD DEC 15
+PY 2008
+VL 49
+IS 5
+BP 523
+EP 531
+PG 9
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 376YN
+UT WOS:000261219000010
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU La Ruche, G
+   Agonnoude, M
+   Houangni, C
+   Assani, A
+   Catraye, J
+   Zannou, M
+AF La Ruche, Guy
+   Agonnoude, Maurice
+   Houangni, Corneille
+   Assani, Antoinette
+   Catraye, Joseph
+   Zannou, Marcel
+TI Prevention of mother-to-child transmission of HIV: reviewing a programme
+   in Benin
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE Prevention of mother-to-child transmission of HIV; Nevirapine;
+   Sub-Saharan Africa
+ID SINGLE-DOSE NEVIRAPINE; RESOURCE-LIMITED SETTINGS; COST-EFFECTIVENESS;
+   PMTCT PROGRAM; SOUTH-AFRICA; HEALTH; WOMEN; COUNTRIES; SURVEILLANCE;
+   PREGNANCIES
+AB This article reviews the prevention of mother-to-child HIV transmission programme (PMTCT) in Benin, A survey was conducted in the 56 PMTCT sites of the country among health providers and beneficiaries. 39,000 pregnant women were tested per year in these sites (3.9% were HIV-positive) and 1,120 infected women have received the protocol (single-dose nevirapine), which corresponds to a national coverage rate of 16%. The investigation revealed shortcomings of the programme, notably the variation in the cost of prenatal consultations, HIV tests were frequently out of stock, lack of adherence to PMTCT recommendations and neglect of concern for the future of mothers and their children, supervision was not sufficiently pragmatic and PMTCT lacked linkages with the maternal and child health programme, This context should be taken into consideration when discussing the extension of PMTCT to new sites and the introduction of more active antiretroviral regimen.
+C1 [La Ruche, Guy; Houangni, Corneille; Assani, Antoinette; Zannou, Marcel] Minist Sante, Programme Natl Lutte Contre Sida, Cotonou, Benin.
+   [La Ruche, Guy] Ambassade France SCAC, Cotonou, Benin.
+   [Agonnoude, Maurice; Catraye, Joseph] BASP 96, Cotonou, Benin.
+RP La Ruche, G (reprint author), Inst Veille Sanit, Dept Int & Trop, 12 Rue Val Osne, F-94415 St Maurice, France.
+NR 36
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD NOV-DEC
+PY 2008
+VL 20
+IS 6
+BP 575
+EP 587
+PG 13
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 409HG
+UT WOS:000263496200008
+PM 19435538
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lajoie, J
+   Poudrier, J
+   Massinga-Loembe, M
+   Guedou, F
+   Agossa-Gbenafa, C
+   Labbe, AC
+   Alary, M
+   Roger, M
+AF Lajoie, J.
+   Poudrier, J.
+   Massinga-Loembe, M.
+   Guedou, F.
+   Agossa-Gbenafa, C.
+   Labbe, A-C
+   Alary, M.
+   Roger, M.
+TI Differences in immunoregulatory cytokine expression patterns in the
+   systemic and genital tract compartments of HIV-1-infected commercial sex
+   workers in Benin
+SO MUCOSAL IMMUNOLOGY
+LA English
+DT Article
+ID IMMUNODEFICIENCY-VIRUS-INFECTION; T-LYMPHOCYTES; HIV; MUCOSAL; WOMEN;
+   TRANSMISSION; RESPONSES; SUSCEPTIBILITY; ACQUISITION; CELLS
+AB Initial exposure to human immunodeficiency virus type 1 (HIV-1) during heterosexual transmission occurs in the genital tract. Although much of the literature on the immune response to HIV-1 infection is based on studies performed at the systemic level, our understanding of tissue-specific immunity is lacking. Levels of both genital mucosal and blood interleukin (IL)-2, IL-4, IL-6, IL-10, tumor necrosis factor (TNF)-alpha, and interferon (IFN)-gamma production were compared between 57 HIV-1-uninfected and 52 HIV-1-infected female commercial sex workers (CSWs) as well as 73 HIV-1-uninfected non-CSW control women at low risk for exposure. HIV-1-infected CSWs had significantly higher genital mucosal levels of TNF-alpha and IFN-gamma compared with those in both the HIV-uninfected CSW and non-CSW groups. In contrast, the serum levels of all the cytokines tested were lower in HIV-1-infected CSWs compared with those in the other groups. The increased production of genital mucosal pro-inflammatory cytokines in HIV-1-infected CSWs possibly reflects susceptibility to HIV-1 infection and disease progression/perpetuation at the initial site of exposure.
+C1 [Lajoie, J.; Poudrier, J.; Roger, M.] Ctr Hosp Univ Montreal CHUM, Ctr Rech, Lab Immunogenet, Montreal, PQ, Canada.
+   [Lajoie, J.; Poudrier, J.; Labbe, A-C; Roger, M.] Univ Montreal, Dept Microbiol & Immunol, Montreal, PQ H3C 3J7, Canada.
+   [Massinga-Loembe, M.] Inst Trop Med, Immunol Lab, B-2000 Antwerp, Belgium.
+   [Massinga-Loembe, M.; Guedou, F.; Alary, M.] Univ Quebec, Ctr Hosp, Unite Rech Sante Populat, Quebec City, PQ, Canada.
+   [Massinga-Loembe, M.; Guedou, F.; Alary, M.] Univ Laval, Quebec City, PQ, Canada.
+   [Labbe, A-C] Hop Maison Neuve Rosemont, Dept Microbiol, Montreal, PQ H1T 2M4, Canada.
+   [Agossa-Gbenafa, C.] Ctr Sante Commune Cotonou 1, Dispensaire IST, Cotonou, Benin.
+RP Roger, M (reprint author), Ctr Hosp Univ Montreal CHUM, Ctr Rech, Lab Immunogenet, Montreal, PQ, Canada.
+EM michel.roger.chum@ssss.gouv.qc.ca
+OI Lajoie, Julie/0000-0003-0262-8005
+FU Canadian Institutes of Health Research (CIHR) [HOP-79213]; Fonds de la
+   Recherche en Sante du Quebec (FRSQ); CIHR
+FX This work was supported by Grant HOP-79213 from the Canadian Institutes
+   of Health Research (CIHR) and by the Reseau SIDA from the Fonds de la
+   Recherche en Sante du Quebec (FRSQ). Julie Lajoie and Marguerite
+   Massinga Loembe hold Student Research awards from the CIHR. Michel Alary
+   and Michel Roger are recipients of Research Scholar awards from the
+   FRSQ. We are indebted to Nassirou Geraldo, Aina Gabin, and Carmelle
+   Assogba for their clinical expertise, to Gerard Ahotin, Laurette
+   Djossou, and Ella Goma for their technical assistance, and to Georges
+   Batona and other field workers who helped with recruitment of commercial
+   sex workers. We are grateful to Sylvain Gimmig for invaluable assistance
+   in flow cytometry analysis and helpful discussion.
+NR 32
+TC 14
+Z9 14
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK STREET, 9TH FLOOR, NEW YORK, NY 10013-1917 USA
+SN 1933-0219
+J9 MUCOSAL IMMUNOL
+JI Mucosal Immunol.
+PD JUL
+PY 2008
+VL 1
+IS 4
+BP 309
+EP 316
+DI 10.1038/mi.2008.18
+PG 8
+WC Immunology
+SC Immunology
+GA 366HI
+UT WOS:000260470900008
+PM 19079192
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Arrive, E
+   Kyabayinze, DJ
+   Marquis, B
+   Tumwesigye, N
+   Kieffer, MP
+   Azondekon, A
+   Wemin, L
+   Fassinou, P
+   Newell, ML
+   Leroy, V
+   Abrams, EJ
+   Cotton, M
+   Boulle, A
+   Mbori-Ngacha, D
+   Dabis, F
+AF Arrive, Elise
+   Kyabayinze, Daniel J.
+   Marquis, Benoit
+   Tumwesigye, Nathan
+   Kieffer, Mary-Pat
+   Azondekon, Alain
+   Wemin, Louise
+   Fassinou, Patricia
+   Newell, Marie-Louise
+   Leroy, Valeriane
+   Abrams, Elaine J.
+   Cotton, Mark
+   Boulle, Andrew
+   Mbori-Ngacha, Dorothy
+   Dabis, Francois
+CA KIDS-ART-LINC Collaborat
+TI Cohort Profile: The Paediatric Antiretroviral Treatment Programmes in
+   Lower-Income Countries (KIDS-ART-LINC) Collaboration
+SO INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+ID CHILDREN; THERAPY; HIV; OUTCOMES; SETTINGS
+C1 [Arrive, Elise; Marquis, Benoit; Leroy, Valeriane; Dabis, Francois] Univ Bordeaux 2, INSERM, ISPED, U593, F-33076 Bordeaux, France.
+   [Kyabayinze, Daniel J.; Tumwesigye, Nathan; Mbori-Ngacha, Dorothy] ANECCA, Kampala, Uganda.
+   [Kieffer, Mary-Pat] USAID, Nairobi, Kenya.
+   [Azondekon, Alain] HIA, VIH UPEIV, Cotonou, Benin.
+   [Wemin, Louise] CEPREF Enfants, Abidjan, Cote Ivoire.
+   [Fassinou, Patricia] Ctr Hosp Univ Yopougon, Abidjan, Cote Ivoire.
+   [Newell, Marie-Louise] UCL, Ctr Paediat Epidemiol & Biostat, Inst Child Hlth, London WC1E 6BT, England.
+   [Newell, Marie-Louise] Univ KwaZulu Natal, Africa Ctr Hlth & Populat Studies, Somkhele, South Africa.
+   [Abrams, Elaine J.] Columbia Univ, Mailman Sch Publ Hlth, New York, NY USA.
+   [Cotton, Mark] Univ Stellenbosch, Tygerberg Childrens Hosp, Dept Paediat & Child Hlth, Cape Town, South Africa.
+   [Boulle, Andrew] Univ Cape Town, Sch Publ Hlth & Family Med, ZA-7700 Rondebosch, South Africa.
+RP Dabis, F (reprint author), Univ Bordeaux 2, INSERM, ISPED, U593, F-33076 Bordeaux, France.
+EM Francois.dabis@isped.u-bordeaux2.fr
+RI Piper, Walter/B-7908-2009; Leroy, Valeriane/F-8129-2013
+OI Leroy, Valeriane/0000-0003-3542-8616; Newell,
+   Marie-Louise/0000-0002-1074-7699
+FU NIAID NIH HHS [U01 AI069924]
+NR 19
+TC 26
+Z9 26
+U1 0
+U2 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0300-5771
+J9 INT J EPIDEMIOL
+JI Int. J. Epidemiol.
+PD JUN
+PY 2008
+VL 37
+IS 3
+BP 474
+EP 480
+DI 10.1093/ije/dym216
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 310HY
+UT WOS:000256520700010
+PM 17998240
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Godin, G
+   Bah, AT
+   Sow, A
+   Minani, I
+   Morin, D
+   Alary, M
+AF Godin, Gaston
+   Bah, Aissatou Tinka
+   Sow, Amadou
+   Minani, Isaac
+   Morin, Diane
+   Alary, Michel
+TI Correlates of condom use among sex workers and their boyfriends in three
+   West African countries
+SO AIDS AND BEHAVIOR
+LA English
+DT Article
+DE AIDS; sex workers; condom; West Africa; behavior
+ID SEXUALLY-TRANSMITTED DISEASES; HIV PREVENTION PROGRAMS; PLANNED
+   BEHAVIOR; DETERMINANTS; FEMALE; INFECTION; POWER; PROSTITUTES;
+   INTENTIONS; PROMOTION
+AB The aim of this study was to identify correlates associated with condom use at last intercourse between sex workers (SW) and their boyfriends (BF). The sample was derived as a convenience sample recruited through existing HIV prevention organizations in Benin, Guinea and Senegal. The Theory of Planned Behavior served as the conceptual framework. A total of 406 individuals (220 SW and 186 BF) participated in the study. Socio-demographic, behavioral and psychological variables were collected through a face-to-face administered questionnaire. Condom use at last intercourse was significantly associated with intention and perceived control among SW as well as their BF. With respect to intention, perceived control, attitude and moral norm explained 82 and 74% of intention of SW and BF, respectively. These results suggest that promoting condom use among SW and BF should be based primarily on the development of personal ability to overcome obstacles to condom use.
+C1 [Godin, Gaston] Univ Laval, Canada Res Chair Behav & Hlth, Quebec City, PQ GIK 7P4, Canada.
+   [Godin, Gaston] Univ Laval, Chaire Rech Canada Comportements & St, Quebec City, PQ GIK 7P4, Canada.
+   [Godin, Gaston; Morin, Diane] Univ Laval, Fac Sci Infirm, Quebec City, PQ GIK 7P4, Canada.
+   [Godin, Gaston; Alary, Michel] Hop St Sacrement CHA, Unite Rech St Populat, Quebec City, PQ, Canada.
+   [Bah, Aissatou Tinka] Cellule Sectorielle Lutte Sida Minist St Mali, Bamako, Mali.
+   [Sow, Amadou] Ctr Hosp Reg Thies, Dept Soins Infirm, Thies, Senegal.
+   [Minani, Isaac] Ctr St Cotonou 1, Dispensaire & Lab IST, Cotonou, Benin.
+RP Godin, G (reprint author), Univ Laval, Canada Res Chair Behav & Hlth, Pauls Comtois Bldg,Room 4106, Quebec City, PQ GIK 7P4, Canada.
+EM Gaston.Godin@fsi.ulaval.ca
+NR 46
+TC 19
+Z9 19
+U1 2
+U2 5
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1090-7165
+J9 AIDS BEHAV
+JI AIDS behav.
+PD MAY
+PY 2008
+VL 12
+IS 3
+BP 441
+EP 451
+DI 10.1007/s10461-007-9296-6
+PG 11
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 285CT
+UT WOS:000254755600012
+PM 17710526
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Johnson, RC
+   Nackers, F
+   Glynn, JR
+   Bakedano, ED
+   Zinsou, C
+   Aguiar, J
+   Tonglet, R
+   Portaels, F
+AF Johnson, Roch C.
+   Nackers, Fabienne
+   Glynn, Judith R.
+   Bakedano, Elisa de Biurrun
+   Zinsou, Claude
+   Aguiar, Julia
+   Tonglet, Rene
+   Portaels, Francoise
+TI Association of HIV infection and Mycobacterium ulcerans disease in Benin
+SO AIDS
+LA English
+DT Article
+ID BURULI ULCER; POSITIVE PATIENT; CLINICAL-ASPECTS; GHANA
+AB We investigated the association between Buruli ulcer and HIV by comparing the HIV-1/2 seroprevalence in a series of 426 Buruli ulcer patients and a sample of 613 residents of southern Benin. The overall HIV prevalence was 2.6% (11/426) among patients and 0.3% among controls (2/613), giving an odds ratio for the association between HIV and Buruli ulcer of 8.1 (95% confidence interval = 1.875; P = 0.003).
+C1 [Johnson, Roch C.; Zinsou, Claude] Buruli Ulcer Natl Control Program Cotonou, Cotonou, Benin.
+   [Nackers, Fabienne; Tonglet, Rene] Catholic Univ Louvain, Epidemiol Unit, Brussels, Belgium.
+   [Glynn, Judith R.] London Sch Hyg & Trop Med, Infectious Dis Epidemiol Unit, London, England.
+   [Zinsou, Claude; Aguiar, Julia] Ctr Sanitaire & Nutr Gbemoten, Zagnanado, Benin.
+   [Bakedano, Elisa de Biurrun; Portaels, Francoise] Inst Trop Med, Dept Microbiol, Mycobacteriol Unit, B-2000 Antwerp, Belgium.
+RP Johnson, RC (reprint author), Buruli Ulcer Natl Control Program Cotonou, Cotonou, Benin.
+NR 13
+TC 29
+Z9 29
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD APR 23
+PY 2008
+VL 22
+IS 7
+BP 901
+EP 903
+PG 3
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 299NA
+UT WOS:000255761100015
+PM 18427211
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Morin, D
+   Godin, G
+   Alary, M
+   Sawadogo, MR
+   Bernier, M
+   Khonde, N
+   Kintin, F
+   Kone, A
+   N'Dour, M
+   Pepin, J
+   Rached, S
+   Sobela, F
+   Soto, J
+   Sylla, M
+   Traore, C
+AF Morin, D.
+   Godin, G.
+   Alary, M.
+   Sawadogo, M. -R.
+   Bernier, M.
+   Khonde, N.
+   Kintin, F.
+   Kone, A.
+   N'Dour, M.
+   Pepin, J.
+   Rached, S.
+   Sobela, F.
+   Soto, J.
+   Sylla, M.
+   Traore, C.
+TI Satisfaction with health services for STIs, HIV, AIDS among a high-risk
+   population in West Africa
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article
+ID PATIENT SATISFACTION; NURSING-CARE; QUALITY; QUESTIONNAIRE;
+   PARTICIPATION
+AB The goal of this study was to develop an instrument and assess the degree of satisfaction regarding HIV/STIs services for women working in, associated with, or living in or nearby, prostitution environments. This study took place in seven West-African countries (Benin, Burkina Faso, Ghana, Mali, Niger, Senegal, Togo) participating in the West Africa Aids Program (AIDS3). A validated six-dimension questionnaire was used to interview 698 women. The main inclusion criterion was having had recourse to adapted services offered through the AIDS3 program in the last six months. Results showed that women surveyed are satisfied overall. Two dimensions scored low: 'Technical skills perceived' and 'Accessibility'. Regression analyses showed that those most satisfied were women who had used the adapted services many times and women connected with community groups. Although these results are consistent with results published previously in other contexts, they now allow the AIDS3 program to consider the voices of women rarely listened to: West-African women living and working in prostitution environments.
+C1 [Morin, D.; Godin, G.] Univ Laval, Fac Nursing Sci, Quebec City, PQ G1K 7P4, Canada.
+   [Alary, M.] Univ Laval, Dept Social & Prevent Med, Quebec City, PQ, Canada.
+   [Sawadogo, M. -R.] WAPCAS, Ouagadougou, Burkina Faso.
+   [Khonde, N.] WAPCAS, Accra, Ghana.
+   [Bernier, M.] CCISD, Quebec City, PQ, Canada.
+   [Kintin, F.] CCISD, Ouagadougou, Burkina Faso.
+   [Kone, A.] CCISD, Niamey, Niger.
+   [N'Dour, M.] WAPCAS, Cotonou, Benin.
+   [Pepin, J.] Univ Sherbrooke, CHUS, Sherbrooke, PQ J1K 2R1, Canada.
+   [Rached, S.] Univ Montreal, Unite Sante Int, Montreal, PQ, Canada.
+   [Sobela, F.] WAPCAS, Lome, Togo.
+   [Soto, J.] Inst Natl Sante Publ, Montreal, PQ, Canada.
+   [Sylla, M.] WAPCAS, Bamako, Mali.
+   [Traore, C.] WAPCAS, Dakar, Senegal.
+RP Morin, D (reprint author), Univ Laval, Fac Nursing Sci, Pavillon Paul Comtois,Bur 4108-A, Quebec City, PQ G1K 7P4, Canada.
+EM doyenne@fsi.ulaval.ca
+RI Rached, Samia/A-2133-2014
+OI Rached, Samia/0000-0001-6741-1320
+NR 34
+TC 7
+Z9 7
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-0121
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PY 2008
+VL 20
+IS 3
+BP 388
+EP 394
+DI 10.1080/09540120701583761
+PG 7
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA 277LJ
+UT WOS:000254213800018
+PM 18351488
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Hounton, SH
+   Akonde, A
+   Zannou, DM
+   Bashi, J
+   Meda, N
+   Newlands, D
+AF Hounton, Sennen Houessey
+   Akonde, Alain
+   Zannou, Djimon Marcel
+   Bashi, Jules
+   Meda, Nicolas
+   Newlands, David
+TI Costing universal access of highly active antiretroviral therapy in
+   Benin
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article
+DE HAART; scaling up; sustainability; costing; Benin
+ID SUB-SAHARAN AFRICA; SCALING-UP; HEALTH; HIV
+AB The study aimed to estimate costs of provision and access to highly active antiretroviral therapy (HAART) in order to assist in planning and resource allocation regarding scaling up and sustainable access to HAART in Benin. A prospective study was carried out to collect data on costs of provision of care at the Outpatient Treatment Centre (OTC) of the National University hospital in Cotonou, Benin and on costs borne by people living with HIV/AIDS (PLWHA) and their families in accessing care. We used an Excel model, a macro costing approach and WHO guidelines for costing health services. Annual costs were subsequently extrapolated from a societal perspective over a 10-year time horizon. Sensitivity analysis was conducted on major cost categories. The study population was mostly of middle age (median age of 38, IQR 34-42), married (65%), working class (60%) with low literacy (70% primary education level or less). The main drivers of costs of HAART service provision were drugs (73%), biological monitoring (15%) and personnel (8%). Annual costs of provision of HAART and household costs borne by PLWHA and families in seeking care amounted to 1160 USD and 111 USD per PLWHA respectively. These household costs are respectively 40% and 14% of household health and education related costs and may represent catastrophic health expenditures for patients and families. The provision of drugs and biological monitoring, and household costs in accessing care, remain by far the main barriers to ensuring universal access to HAART.
+C1 [Hounton, Sennen Houessey; Meda, Nicolas] Ctr MURAZ, HIV RH, Bobo Dioulasso, Burkina Faso.
+   [Akonde, Alain; Zannou, Djimon Marcel; Bashi, Jules] PNLS, Cotonou, Benin.
+   [Hounton, Sennen Houessey; Newlands, David] Univ Aberdeen, Aberdeen, Scotland.
+RP Hounton, SH (reprint author), Ctr MURAZ, HIV RH, Ave Mamadou Konate, Bobo Dioulasso, Burkina Faso.
+EM hounton_sennen@yahoo.fr
+NR 17
+TC 18
+Z9 18
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-0121
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PY 2008
+VL 20
+IS 5
+BP 582
+EP 587
+DI 10.1080/09540120701868303
+PG 6
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA 308JQ
+UT WOS:000256386000014
+PM 18484329
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lowndes, CM
+   Alary, M
+   Labbe, AC
+   Gnintoungbe, C
+   Belleau, M
+   Mukenge, L
+   Meda, H
+   Ndour, M
+   Anagonou, S
+   Gbaguidi, A
+AF Lowndes, C. M.
+   Alary, M.
+   Labbe, A-C
+   Gnintoungbe, C.
+   Belleau, M.
+   Mukenge, L.
+   Meda, H.
+   Ndour, M.
+   Anagonou, S.
+   Gbaguidi, A.
+TI Interventions among male clients of female sex workers in Benin, West
+   Africa: an essential component of targeted HIV preventive interventions
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+ID SUB-SAHARAN AFRICA; HIGH-RISK; TRANSMISSION; PREVALENCE; DYNAMICS; CORE;
+   EPIDEMIC; BEHAVIOR; SENEGAL; URINE
+AB Objectives: To assess the impact of interventions targeted towards female sex workers (FSWs) and their male clients on client HIV/STI prevalence and sexual behaviour.
+   Methods: From 1993 to 2006, an HIV/STI preventive intervention focusing on condom promotion and STI care was implemented among FSWs in Cotonou, Benin, and then expanded to cover their male sexual partners in 2000. The interventions were scaled up to five other cities of Benin in 2001-2002. Serial cross-sectional surveys of HIV/STI prevalence and sexual behaviour were carried out among clients in Cotonou in 1998, 2002 and 2005; and in the five other cities (O/Cotonou) in 2002 and 2005.
+   Results: Significant declines in gonorrhoea prevalence among clients of FSWs: Cotonou, from 5.4% in 1998 to 1.6% in 2005; O/Cotonou: from 3.5% in 2002 to 0.59% in 2005. Chlamydia prevalence also declined O/Cotonou, from 4.8% to 1.8%, while HIV prevalence remained stable. Reported condom use by clients with both FSWs and casual non-FSW partners, but not regular partners, increased significantly. While condom use at last sex with an FSW was similar in Cotonou to O/Cotonou around the time of implementation of the interventions (56% in 1998 vs 49% in 2002, respectively), it had risen to similar levels by 2005 (95% and 96%, respectively).
+   Conclusions: These results demonstrate that it is possible to implement preventive and clinical services for clients of FSWs, and suggest that such interventions, integrated with those targeted towards FSWs, can have a significant effect on sexual behaviour and STI prevalence (particularly gonorrhoea) among this population.
+C1 Hlth Protect Agcy, Dept HIV & Sexually Transmitted Infect, Ctr Infect, London NW6 5EQ, England.
+   Univ Quebec, Ctr Hosp, Populat Hlth Res Unit, Quebec City, PQ, Canada.
+   Univ Laval, Quebec City, PQ, Canada.
+   Hop Maison Neuve Rosemont, Montreal, PQ H1T 2M4, Canada.
+   Projet SIDA 3, Cotonou, Benin.
+   Programme Natl Lutte Sida & MST, Cotonou, Benin.
+RP Lowndes, CM (reprint author), Hlth Protect Agcy, Dept HIV & Sexually Transmitted Infect, Ctr Infect, 61 Colindale Ave, London NW6 5EQ, England.
+EM clowndes@uresp.ulaval.ca
+NR 23
+TC 52
+Z9 52
+U1 0
+U2 2
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD DEC 1
+PY 2007
+VL 83
+IS 7
+BP 577
+EP 581
+DI 10.1136/sti.2007.027441
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA 232QP
+UT WOS:000251034500016
+PM 17942573
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Azondekon, A
+   Keitchion, AS
+   Sagui, A
+   Singbo, AT
+   Monzorgui, AMKZ
+AF Azondekon, A.
+   Keitchion, A. Sessou
+   Sagui, A.
+   Singbo, A. Toudonou
+   Monzorgui, A. M. Kora Zime
+TI Oesophageal candidiasis in children infected by HIV: what are the
+   challenges of diagnosis and management in resource-constraints settings?
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Meeting Abstract
+C1 [Azondekon, A.; Keitchion, A. Sessou; Sagui, A.; Singbo, A. Toudonou; Monzorgui, A. M. Kora Zime] Mil Teaching Hosp, Care Unit Children Exposed Infected HIV, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD MAY
+PY 2007
+VL 12
+SU 1
+BP 231
+EP 231
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 302FP
+UT WOS:000255954500665
+OA No
+DA 2017-07-17
+ER
+
+EF

@@ -1,0 +1,800 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gninafon, M
+   Trebucq, A
+   Rieder, HL
+AF Gninafon, M.
+   Trebucq, A.
+   Rieder, H. L.
+TI Epidemiology of tuberculosis in Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE tuberculosis; epidemiology; national tuberculosis programme; Benin
+ID MYCOBACTERIUM-TUBERCULOSIS; RESISTANCE; PREVALENCE; INFECTION
+AB SETTING: Benin, West Africa.
+   OBJECTIVE: To describe the epidemiology of tuberculosis (TB) in Benin.
+   DESIGN: Analysis of two tuberculin surveys initiated in 1987 and 1994 and of the quarterly reports of the Basic Management Units to the National Tuberculosis Programme from 1995 to 2007.
+   RESULTS: The average annual risk for a child in Benin of becoming infected with Mycobacterium tuberculosis was around 0.5% in the mid 1980s. The notification rate increased by approximately 1% each year over the observation period and was on average 35 per 100000 population, with a male-to-female sex ratio of 1.8 and no shift in the age structure of the cases over the observation period. Human immunodeficiency virus prevalence was 14% (97% of the patients were tested). There is a strong gradient of incident notification rates from the north to the south of the country that seems to be related to the population density.
+   CONCLUSION: Both the tuberculin skin test survey results and the notification data suggest that the TB problem in Benin is much smaller than in eastern and southern African countries.
+C1 [Trebucq, A.; Rieder, H. L.] Int Union TB & Lung Dis, Dept TB Control & Prevent, F-75006 Paris, France.
+   [Gninafon, M.] Programme Natl Lutte TB, Cotonou, Benin.
+   [Rieder, H. L.] Univ Zurich, Inst Social & Prevent Med, CH-8006 Zurich, Switzerland.
+RP Trebucq, A (reprint author), Int Union TB & Lung Dis, Dept TB Control & Prevent, 68 Blvd St Michel, F-75006 Paris, France.
+EM atrebucq@theunion.org
+NR 13
+TC 9
+Z9 9
+U1 0
+U2 2
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD JAN
+PY 2011
+VL 15
+IS 1
+BP 61
+EP 66
+PG 6
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 710CO
+UT WOS:000286488700012
+PM 21276298
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Akpona, R
+   Odoun, M
+   Alidjinou, K
+   Wachinou, P
+   Anagonou, S
+   Gninafon, M
+   Trebucq, A
+AF Affolabi, D.
+   Akpona, R.
+   Odoun, M.
+   Alidjinou, K.
+   Wachinou, P.
+   Anagonou, S.
+   Gninafon, M.
+   Trebucq, A.
+TI Smear-negative, culture-positive pulmonary tuberculosis among patients
+   with chronic cough in Cotonou, Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE tuberculosis; microscopy; culture; Benin
+ID MICROSCOPY; INFECTION; DIAGNOSIS; IMPACT
+AB SETTING: The main tuberculosis (TB) centre in Benin, West Africa, where only 2% of adult pulmonary TB cases arc sputum smear-negative, all other pulmonary cases being smear-positive.
+   OBJECTIVES: To assess the burden of smear-negative, culture-positive pulmonary TB among TB suspects in Cotonou, and to estimate the total number of non-smear-positive TB cases at country level.
+   DESIGN: For 1 year, one morning sputum culture was performed for every TB suspect (cough lasting > 3 weeks, as defined in Benin's national guidelines) with three negative sputum smears (fluorescence technique).
+   RESULTS: Of 214 TB suspects for whom culture was performed, only 22 smear-negative, culture-positive cases were identified. During the same period, 831 sputum smear-positive cases were diagnosed. Culture therefore contributed only 2.6% of the total number of bacteriologically proven cases.
+   CONCLUSION: These results show the relatively low input of culture in TB diagnosis among chronic coughers in Cotonou, Benin, and demonstrates that the expected number of non-smear-positive TB cases in Benin is probably much lower than the World Health Organization's current annual estimates.
+C1 [Trebucq, A.] Int Union TB & Lung Dis, F-75006 Paris, France.
+   [Affolabi, D.; Akpona, R.; Odoun, M.; Alidjinou, K.; Wachinou, P.; Anagonou, S.; Gninafon, M.] Programme Natl TB, Cotonou, Benin.
+RP Trebucq, A (reprint author), Int Union TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+EM atrebucq@theunion.org
+RI Mitchell, Ellen/H-5475-2013
+NR 14
+TC 3
+Z9 3
+U1 0
+U2 0
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD JAN
+PY 2011
+VL 15
+IS 1
+BP 67
+EP 70
+PG 4
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 710CO
+UT WOS:000286488700013
+PM 21276299
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Trebucq, A
+   Zellweger, JP
+   Kassa, F
+   Lambregts, K
+   Gninafon, M
+AF Trebucq, A.
+   Zellweger, J. P.
+   Kassa, F.
+   Lambregts, K.
+   Gninafon, M.
+TI Are the statistical data from Benin's National Tuberculosis Programme
+   reliable?
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE tuberculosis; Benin; data quality; cohort analysis
+ID IMPACT
+AB SETTING: The National Tuberculosis Programme (NTP) of Benin, West Africa.
+   OBJECTIVE: To verify the accuracy of the data published by the NTP in terms of notified cases and treatment results.
+   DESIGN: Purposeful selection of nine basic management units (BMUs) that had declared zero tuberculosis (TB) patients lost to follow-up in the first three quarters of 2006. Retrospective onsite survey by independent teams based on the documents kept at the BMUs, on the data transmitted to and compiled at the central level and on home interviews with patients who had been declared treatment successes.
+   RESULTS: Of the 446 cases evaluated, there was excellent agreement between the TB register and the TB treatment card, between the TB register and the quarterly reports and between the TB register and the laboratory register. Home interviews with 32 patients all confirmed the information contained in the treatment cards and the TB register.
+   CONCLUSION: The results published by the NTP of Benin are remarkably reliable.
+C1 [Trebucq, A.] Int Union TB & Lung Dis, F-75006 Paris, France.
+   [Zellweger, J. P.] Ligue Pulm Suisse, Bern, Switzerland.
+   [Kassa, F.; Gninafon, M.] Natl TB Programme, Cotonou, Benin.
+   [Lambregts, K.] Royal Netherlands TB Assoc KNCV, The Hague, Netherlands.
+RP Trebucq, A (reprint author), Int Union TB & Lung Dis, 68 Bd St Michel, F-75006 Paris, France.
+EM atrebucq@theunion.org
+NR 12
+TC 7
+Z9 7
+U1 0
+U2 0
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD APR
+PY 2010
+VL 14
+IS 4
+BP 434
+EP 439
+PG 6
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 579OT
+UT WOS:000276382000011
+PM 20202301
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Torrea, G
+   Odoun, M
+   Senou, N
+   Ligali, MA
+   Anagonou, S
+   Van Deun, A
+AF Affolabi, D.
+   Torrea, G.
+   Odoun, M.
+   Senou, N.
+   Ligali, M. Ali
+   Anagonou, S.
+   Van Deun, A.
+TI Comparison of two LED fluorescence microscopy build-on modules for
+   acid-fast smear microscopy
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE tuberculosis; light-emitting diode; fluorescence microscopy; auramine;
+   acid-fast bacilli
+ID MYCOBACTERIUM-TUBERCULOSIS; BACILLI; SPUTUM
+AB SETTING: National Reference Laboratory, Benin.
+   OBJECTIVES: To compare the performance of Fraen FluoLED (TM) and LW Lumin (TM) light-emitting diode (LED) fluorescence microscopy modules.
+   DESIGN: Acid-fast bacilli (AFB) smears, routinely examined with-a classical fluorescence microscope, were blindly re-read with both LED systems at 200x magnification. Smears with discordant results were rechecked on all systems at 200x, and 100 randomly chosen smears were read again at 400x. Confirmed presence of AFB with any system was accepted as a true positive.
+   RESULTS: A total of 1937 smears were examined by all systems. The Fraen and LW detected 895 (46.2%) and 817 (42.2%) positive and scanty positive smears. After rechecking 201 smears, 15 false-positive and 61 false-negative results were declared for Fraen, against 11 and 135 for LW. The systems had similar false-positive rates (1.7% for Fraen and 1.4% for LW), but differed significantly regarding detection of confirmed microscopy positives (93.5% and 85.6% respectively, P < 0.00001). A high correlation between both LED systems was found at 400x magnification.
+   CONCLUSIONS: The Fraen LED fluorescence microscopy module performed significantly better than the LW LED at the most efficient 200x magnification. It was also more appreciated by all users. The LW module may perform equally well at higher magnification.
+C1 [Torrea, G.; Van Deun, A.] Inst Trop Med, Mycobacteriol Unit, B-2000 Antwerp, Belgium.
+   [Affolabi, D.; Odoun, M.; Senou, N.; Ligali, M. Ali; Anagonou, S.] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Van Deun, A.] Int Union TB & Lung Dis, Paris, France.
+RP Van Deun, A (reprint author), Inst Trop Med, Mycobacteriol Unit, Nationalestr 155, B-2000 Antwerp, Belgium.
+EM avdeun@itg.be
+NR 13
+TC 14
+Z9 14
+U1 0
+U2 0
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD FEB
+PY 2010
+VL 14
+IS 2
+BP 160
+EP 164
+PG 5
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 549FV
+UT WOS:000274033300007
+PM 20074406
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Jaquet, A
+   Ekouevi, DK
+   Aboubakrine, M
+   Bashi, J
+   Messou, E
+   Maiga, M
+   Traore, HA
+   Zannou, M
+   Guehi, C
+   Ba-Gomis, FO
+   Minga, A
+   Allou, G
+   Eholie, SP
+   Dabis, F
+   Bissagnene, E
+   Sasco, AJ
+AF Jaquet, A.
+   Ekouevi, D. K.
+   Aboubakrine, M.
+   Bashi, J.
+   Messou, E.
+   Maiga, M.
+   Traore, H. A.
+   Zannou, M.
+   Guehi, C.
+   Ba-Gomis, F. O.
+   Minga, A.
+   Allou, G.
+   Eholie, S. P.
+   Dabis, F.
+   Bissagnene, E.
+   Sasco, A. J.
+TI Tobacco use and its determinants in HIV-infected patients on
+   antiretroviral therapy in West African countries
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE HIV/AIDS; tobacco; tuberculosis; prevalence estimate; sub-Saharan Africa
+ID HUMAN-IMMUNODEFICIENCY-VIRUS; SQUAMOUS INTRAEPITHELIAL LESIONS;
+   RISK-FACTORS; CIGARETTE-SMOKING; BACTERIAL PNEUMONIA; LUNG-CANCER;
+   ADULTS; BEHAVIOR; POPULATION; DISEASE
+AB BACKGROUND: Tobacco smoking is common in human immunodeficiency virus (HIV) infected patients from industrialised countries. In West Africa, few data concerning tobacco consumption exist.
+   METHODS: A cross-sectional survey of the International Epidemiological Database to Evaluate AIDS (IeDEA) network in West Africa was conducted. Health workers administered a questionnaire assessing tobacco and cannabis consumption among patients receiving anti-retroviral treatment. Regular smokers were defined as current smokers who smoked >1 cigarette per day for >= 1 year.
+   RESULTS: Overall, 2920 patients were enrolled in three countries. The prevalence of ever smokers and regular smokers were respectively 46.2% (95%CI 42.8-49.5) and 15.6% (95%CI 13.2-18.0) in men and 3.7% (95%CI 2.9-4.5) and 0.6% (95%CI 0.3-0.9) In women. Regular smoking was associated with being from Cote d'Ivoire or Mali compared to Benin (OR 4.6, 95%CI 2.9-7.3 and 7.7, 95%CI 4.4-13.6), severely impaired immunological status at highly active antiretroviral treatment initiation (OR 1.5, 95%CI 1.1-2.2) and history of tuberculosis (TB; OR 1.8, 95%CI 1.1-3.0).
+   CONCLUSION: There are marked differences In smoking prevalence among these West African countries. This survey approach also provides proof of the association between cigarette smoking and TB in HIV-Infected patients, a major public health issue in this part of the world.
+C1 [Jaquet, A.; Ekouevi, D. K.; Dabis, F.; Sasco, A. J.] Univ Victor Segalen, INSERM, Inst Sante Publ Epidemiol & Dev, CRE U 897, Bordeaux, France.
+   [Ekouevi, D. K.; Allou, G.] CHU Treichville, Programme PAC CI, Abidjan, Cote Ivoire.
+   [Aboubakrine, M.; Maiga, M.] Hop Gabriel Toure, Serv Hepatogastroenterol, Bamako, Mali.
+   [Bashi, J.; Zannou, M.] Ctr Hosp Natl Univ, Ctr Prise Charge Personnes Vivant Avec VIH, Cotonou, Benin.
+   [Messou, E.] ACONDA Ctr Prise Charge Rech & Format, Abidjan, Cote Ivoire.
+   [Traore, H. A.] Hop du Point G, Ctr Prise Charge Personnes Vivant Avec VIH, Bamako, Mali.
+   [Guehi, C.] Unite Soins Ambulatoires & Conseil, Abidjan, Cote Ivoire.
+   [Ba-Gomis, F. O.] Ctr Integre Rech Bioclin Abidjan, Abidjan, Cote Ivoire.
+   [Minga, A.] Ctr Natl Transfus Sanguine, Ctr Med Suivi Donneurs Sang, PRIMO CI, Abidjan, Cote Ivoire.
+   [Eholie, S. P.; Bissagnene, E.] Hop Treichville, Serv Malad Infect & Trop, Abidjan, Cote Ivoire.
+RP Jaquet, A (reprint author), Univ Bordeaux 2, INSERM, ISPED Case 11, U 897, F-33076 Bordeaux, France.
+EM antoine.jaquet@isped.u-bordeaux2.fr
+RI EKOUEVI, Didier/E-7960-2014
+FU National Cancer Institute (NCI); Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD); National
+   Institute of Allergy and Infectious Diseases (NIAID), USA
+FX The work was funded by the National Cancer Institute (NCI), the Eunice
+   Kennedy Shriver National Institute of Child Health & Human Development
+   (NICHD) and the National Institute of Allergy and Infectious Diseases
+   (NIAID), USA.
+NR 32
+TC 17
+Z9 17
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD NOV
+PY 2009
+VL 13
+IS 11
+BP 1433
+EP 1439
+PG 7
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 520XR
+UT WOS:000271883400021
+PM 19861019
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Faihun, F
+   Sanoussi, N
+   Anyo, G
+   Shamputa, IC
+   Rigouts, L
+   Kestens, L
+   Anagonou, S
+   Portaels, F
+AF Affolabi, Dissou
+   Faihun, Frank
+   Sanoussi, N'Dira
+   Anyo, Gladys
+   Shamputa, Isdore Chola
+   Rigouts, Leen
+   Kestens, Luc
+   Anagonou, Severin
+   Portaels, Francoise
+TI Possible Outbreak of Streptomycin-Resistant Mycobacterium tuberculosis
+   Beijing in Benin
+SO EMERGING INFECTIOUS DISEASES
+LA English
+DT Article
+ID PSEUDO-OUTBREAK; EPIDEMIOLOGY; GENOTYPE; STRAINS
+AB Using geographic information system and molecular tools, we characterized a possible outbreak of tuberculosis caused by Mycobacterium tuberculosis Beijing strain in 17 patients in Cotonou, Benin, during July 2005-October 2006. Most patients lived or worked in the same area and frequented the same local drinking bar. The isolates were streptomycin resistant.
+C1 [Affolabi, Dissou; Faihun, Frank; Sanoussi, N'Dira; Anagonou, Severin] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Affolabi, Dissou; Anyo, Gladys; Shamputa, Isdore Chola; Rigouts, Leen; Kestens, Luc; Portaels, Francoise] Inst Trop Med, B-2000 Antwerp, Belgium.
+RP Affolabi, D (reprint author), Lab Reference Mycobacteries, 01 BP 817, Cotonou, Benin.
+EM affolabi_dissou@yahoo.fr
+FU Damien Foundation (Brussels, Belgium)
+FX This study was supported by the Directorate-General for Development and
+   Cooperation of the Belgian Government through a framework agreement with
+   the Institute of Tropical Medicine in Antwerp. This study was also
+   partly supported by the Damien Foundation (Brussels, Belgium).
+NR 14
+TC 10
+Z9 10
+U1 1
+U2 1
+PU CENTERS  DISEASE CONTROL
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1080-6040
+J9 EMERG INFECT DIS
+JI Emerg. Infect. Dis
+PD JUL
+PY 2009
+VL 15
+IS 7
+BP 1123
+EP 1125
+DI 10.3201/eid1507.080697
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 467GK
+UT WOS:000267726100024
+PM 19624936
+OA gold
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Anyo, G
+   Faihun, F
+   Sanoussi, N
+   Shamputa, IC
+   Rigouts, L
+   Kestens, L
+   Anagonou, S
+   Portaels, F
+AF Affolabi, D.
+   Anyo, G.
+   Faihun, F.
+   Sanoussi, N.
+   Shamputa, I. C.
+   Rigouts, L.
+   Kestens, L.
+   Anagonou, S.
+   Portaels, F.
+TI First molecular epidemiological study of tuberculosis in Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE molecular epidemiology; Mycobacterium tuberculosis; Cotonou
+ID MYCOBACTERIUM-TUBERCULOSIS; PULMONARY TUBERCULOSIS; COMPLEX STRAINS;
+   DRUG-RESISTANCE; VARIABLE-NUMBER; TRANSMISSION; COMMUNITY
+AB OBJECTIVES: To assess the diversity of Mycobacterium tuberculosis strains in Cotonou, Benin, and the risk factors associated with clustering.
+   METHODS: We analysed one sputum sample from 194 consecutive new pulmonary tuberculosis (TB) cases using two genotyping methods: spoligotyping and the 12 loci mycobacterial interspersed repetitive unit-variable number of tandem repeats (MIRU-VNTR). The data obtained were compared to the SpolDB4.0 database.
+   RESULTS: We have found that spoligotype 61, highly predominant in West Africa, was also the most prevalent strain in Cotonou. We observed that the Beijing family represented 10.3% of strains and was associated with resistance to streptomycin. We also confirmed that combining spoligotyping and MIRU-VNTR provided a higher discriminatory power than the two techniques used individually.
+   CONCLUSION: Spoligotype 61 and Beijing genotype are the most prevalent genotypes of M. tuberculosis in Cotonou.
+C1 [Affolabi, D.; Faihun, F.; Sanoussi, N.; Anagonou, S.] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Affolabi, D.; Anyo, G.; Shamputa, I. C.; Rigouts, L.; Portaels, F.] Inst Trop Med, Mycobacteriol Unit, B-2000 Antwerp, Belgium.
+   [Kestens, L.] Inst Trop Med, Immunol Unit, B-2000 Antwerp, Belgium.
+RP Affolabi, D (reprint author), Lab Reference Mycobacteries 01, BP 817, Cotonou, Benin.
+EM affolabi_dissou@yahoo.fr
+NR 33
+TC 19
+Z9 21
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD MAR
+PY 2009
+VL 13
+IS 3
+BP 317
+EP 322
+PG 6
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 414EM
+UT WOS:000263846700007
+PM 19275790
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Odoun, M
+   Sanoussi, N
+   Martin, A
+   Palomino, JC
+   Kestens, L
+   Anagonou, S
+   Portaels, F
+AF Affolabi, Dissou
+   Odoun, Mathieu
+   Sanoussi, N'Dira
+   Martin, Anandi
+   Palomino, Juan Carlos
+   Kestens, Luc
+   Anagonou, Severin
+   Portaels, Francoise
+TI Rapid and inexpensive detection of multidrug-resistant Mycobacterium
+   tuberculosis with the nitrate reductase assay using liquid medium and
+   direct application to sputum samples
+SO JOURNAL OF CLINICAL MICROBIOLOGY
+LA English
+DT Article
+ID RIFAMPIN RESISTANCE; COLORIMETRIC METHOD; DRUG-RESISTANCE;
+   SUSCEPTIBILITY; CULTURES; SENSITIVITY; SPECIMENS
+AB For rapid and low-cost detection of multidrug-resistant (MDR) Mycobacterium tuberculosis, we applied the nitrate reductase assay (NRA) using a liquid medium directly to sputum samples. A total of 179 sputum samples were analyzed by the NRA, and results were compared to those obtained by the indirect proportion method (IPM) as a standard reference. Out of 144 specimens for which comparable results were available, only one discrepant result was obtained: MDR by NRA but susceptible by the IPM. In total 56% of the results were obtained in 10 days by the NRA. NRA performed in liquid medium is rapid and inexpensive and can be easily implemented in low-income countries.
+C1 [Affolabi, Dissou; Odoun, Mathieu; Sanoussi, N'Dira; Anagonou, Severin] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Kestens, Luc] Inst Trop Med, Immunol Unit, B-2000 Antwerp, Belgium.
+   [Affolabi, Dissou; Martin, Anandi; Palomino, Juan Carlos; Portaels, Francoise] Inst Trop Med, Mycobacteriol Unit, B-2000 Antwerp, Belgium.
+   [Martin, Anandi] Med Sans Frontieres, F-75011 Paris, France.
+RP Affolabi, D (reprint author), Lab Reference Mycobacteries, 01 BP 817, Cotonou, Benin.
+EM affolabi_dissou@yahoo.fr
+FU Directorate General for the Development Cooperation (DGDC, Brussels,
+   Belgium)
+FX We thank Gladys Anyo for the critical review of the manuscript. Dissou
+   Affolabi is supported by a grant from the Directorate General for the
+   Development Cooperation (DGDC, Brussels, Belgium).
+NR 24
+TC 19
+Z9 20
+U1 1
+U2 4
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0095-1137
+J9 J CLIN MICROBIOL
+JI J. Clin. Microbiol.
+PD OCT
+PY 2008
+VL 46
+IS 10
+BP 3243
+EP 3245
+DI 10.1128/JCM.00083-08
+PG 3
+WC Microbiology
+SC Microbiology
+GA 356DM
+UT WOS:000259758900010
+PM 18753346
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Sanoussi, N
+   Odoun, M
+   Martin, A
+   Koukpemedji, L
+   Palomino, JC
+   Kestens, L
+   Anagonou, S
+   Portaels, F
+AF Affolabi, Dissou
+   Sanoussi, N'Dira
+   Odoun, Mathieu
+   Martin, Anandi
+   Koukpemedji, Louis
+   Palomino, Juan Carlos
+   Kestens, Luc
+   Anagonou, Severin
+   Portaels, Francoise
+TI Rapid detection of multidrug-resistant Mycobacterium tuberculosis in
+   Cotonou (Benin) using two low-cost colorimetric methods: resazurin and
+   nitrate reductase assays
+SO JOURNAL OF MEDICAL MICROBIOLOGY
+LA English
+DT Article
+ID ANTITUBERCULOSIS DRUG-RESISTANCE; SPUTUM SAMPLES; RIFAMPIN; SENSITIVITY
+AB We have evaluated two simple, rapid and low-cost colorimetric methods for the detection of multidrug-resistant Mycobacterium tuberculosis. A total of 151 M. tuberculosis strains were tested for resistance to rifampicin (RMP) and isoniazid by resazurin microplate assay (REMA) and nitrate reductase assay (NRA) in comparison with the conventional proportion method (PM) on Lowenstein-Jensen medium. A complete agreement was found between NRA and PM, while one false RMP-susceptible result was found by REMA. REMA and NRA tests are rapid and inexpensive, and could be good alternatives to the conventional PM in low-resource countries.
+C1 [Affolabi, Dissou; Sanoussi, N'Dira; Odoun, Mathieu; Koukpemedji, Louis; Anagonou, Severin] Lab Reference Mycobacteries, Cotonou, Benin.
+   [Affolabi, Dissou; Martin, Anandi; Palomino, Juan Carlos; Portaels, Francoise] Inst Trop Med, Mycobacteriol Unit, B-2000 Antwerp, Belgium.
+   [Martin, Anandi] Med Sans Frontieres, F-75011 Paris, France.
+   [Kestens, Luc] Inst Trop Med, Immunol Unit, B-2000 Antwerp, Belgium.
+RP Affolabi, D (reprint author), Lab Reference Mycobacteries, BP 817, Cotonou, Benin.
+EM affolabi_dissou@yahoo.fr
+FU Directorate General for the Development Cooperation (DGDC, Brussels,
+   Belgium)
+FX Dissou Affolabi is supported by a grant from the Directorate General for
+   the Development Cooperation (DGDC, Brussels, Belgium).
+NR 23
+TC 8
+Z9 8
+U1 1
+U2 5
+PU SOC GENERAL MICROBIOLOGY
+PI READING
+PA MARLBOROUGH HOUSE, BASINGSTOKE RD, SPENCERS WOODS, READING RG7 1AG,
+   BERKS, ENGLAND
+SN 0022-2615
+J9 J MED MICROBIOL
+JI J. Med. Microbiol.
+PD AUG
+PY 2008
+VL 57
+IS 8
+BP 1024
+EP 1027
+DI 10.1099/jmm.0.2008/000406-0
+PG 4
+WC Microbiology
+SC Microbiology
+GA 343KA
+UT WOS:000258850900017
+PM 18628506
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Affolabi, D
+   Adjagba, OABG
+   Tanimomo-Kledjo, B
+   Gninafon, M
+   Anagonou, SY
+   Portaels, F
+AF Affolabi, D.
+   Adjagba, O. A. B. G.
+   Tanimomo-Kledjo, B.
+   Gninafon, M.
+   Anagonou, S. Y.
+   Portaels, F.
+TI Anti-tuberculosis drug resistance among new and previously treated
+   pulmonary tuberculosis patients in Cotonou, Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE drug resistance; Mycobacterium tuberculosis; Cotonou
+ID MYCOBACTERIUM-TUBERCULOSIS; MOLECULAR EPIDEMIOLOGY
+AB OBJECTIVES: To assess the current anti-tuberculosis drug resistance situation in Cotonou, it the largest anti-tuberculosis centre of Benin.
+   METHODS: A total of 470 isolates of Mycobacterium tuberculosis complex from pulmonary tuberculosis (TB) patients were analysed: 244 from new cases and 226 from previously treated cases. Drug susceptibility testing of isolates against first-line drugs was performed using the proportion method.
+   RESULTS: Primary multidrug resistance (MDR) depends on the patients' origin: MDR in new cases is relatively high (1.6%) when all patients are considered, but low (0.5%) and comparable to 1994 national survey results when only patients residing in Benin are considered. MDR in previously treated patients (11.1%) remains comparable to the study performed in Benin in 1994. No relation was found between human immunodeficiency virus co-infection and anti-tuberculosis drug resistance.
+   CONCLUSION: This study shows the great importance of correct patient identification in epidemiological surveys, where results may vary according to the population(s) studied.
+C1 Programme Natl Contre Tuberculose, Cotonou, Benin.
+   Inst Trop Med, Mycobacteriol Unit, Antwerp, Belgium.
+RP Portaels, F (reprint author), Inst Trop Med Prince Leopold, Mycobacteriol Unit, Natl Str 155, B-2000 Antwerp, Belgium.
+EM portaels@itg.be
+NR 16
+TC 22
+Z9 23
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD NOV
+PY 2007
+VL 11
+IS 11
+BP 1221
+EP 1224
+PG 4
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 230UL
+UT WOS:000250901400012
+PM 17958985
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Gninafon, M
+   Tawo, L
+   Kassa, F
+   Monteiro, GR
+   Zellweger, JR
+   Shang, H
+   Lambregts, K
+   Trebucq, A
+AF Gninafon, M
+   Tawo, L
+   Kassa, F
+   Monteiro, GR
+   Zellweger, JR
+   Shang, H
+   Lambregts, K
+   Trebucq, A
+TI Outcome of tuberculosis retreatment in routine conditions in Cotonou,
+   Benin
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE tuberculosis; retreatment; result; cohort; Benin
+ID POSITIVE PULMONARY TUBERCULOSIS; SHORT-COURSE CHEMOTHERAPY; RESISTANT
+   TUBERCULOSIS; ANTITUBERCULOSIS DRUGS; REGIMENS; PROGRAM; FAILURE
+AB SETTING: National Tuberculosis Programme (NTP), Cotonou, Benin.
+   OBJECTIVE: To study the patient characteristics and outcome of tuberculosis retreatment cases in a well-functioning NTP.
+   METHODS: A retrospective, register-based study of all smear-positive pulmonary tuberculosis cases put on retreatment (2SERHZ/1ERHZ/5R(3)H(3)E(3)) between 1992 and 2001 in Cotonou. For comparison, information on new smear-positive cases in Cotonou in 1999 was entered and analysed.
+   RESULTS: Of 8103 tuberculosis patients registered, 642 were put on retreatment. The analysis is mainly based on the 236 patients whose initial treatment regimen records were available (113 relapses, 84 failures, 39 returns after default). Most of the relapse (57%) and return after default (72%) cases were put on retreatment within 12 months after stopping their initial treatment. Overall, the retreatment results were satisfactory (78% success) and comparable with those of new cases (82%); the failure rates were low (3%), as were those for initial treatment (1%). There were more defaulters from retreatment among those who had already defaulted from initial treatment (21%). Treatment success rates were better among women than men.
+   CONCLUSION: The standardised retreatment regimen is effective in Cotonou, probably because the NTP is functioning well, there are no drug shortages, drug taking is strictly supervised, and a good treatment plan is followed.
+C1 Int Union TB & Lung Dis, F-75006 Paris, France.
+   Natl TB Programme, Cotonou, Benin.
+   Ligue Pulm Suisse, Bern, Switzerland.
+   KNCV, The Hague, Netherlands.
+RP Trebucq, A (reprint author), Int Union TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+EM ATrebucq@iuatld.org
+NR 16
+TC 5
+Z9 5
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD OCT
+PY 2004
+VL 8
+IS 10
+BP 1242
+EP 1247
+PG 6
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 862LO
+UT WOS:000224492500012
+PM 15527157
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Trebucq, A
+   Anagonou, S
+   Gninafon, M
+   Lambregts, K
+   Boulahbal, F
+AF Trebucq, A
+   Anagonou, S
+   Gninafon, M
+   Lambregts, K
+   Boulahbal, F
+TI Prevalence of primary and acquired resistance of Mycobacterium
+   tuberculosis to antituberculosis drugs in Benin after 12 years of
+   short-course chemotherapy
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE drug resistance; tuberculosis; Benin; Africa
+ID HIV-INFECTION
+AB SETTING: Benin National Tuberculosis Programme, West Africa.
+   OBJECTIVE: To measure the prevalence of primary and acquired resistance of Mycobacterium tuberculosis to the antituberculosis drugs isoniazid, rifampicin, ethambutol and streptomycin in Benin from 1994-1995, after 12 years of short-course chemotherapy regimens.
+   METHODS: Prospective study by cluster sampling according to the methodology recommended by the International Union Against Tuberculosis and Lung Disease (IUATLD) and the World Health Organization (WHO).
+   RESULTS: The survey of primary resistance included 333 strains, of which 28 (8.4%) were drug-resistant, one to both rifampicin and isoniazid (multidrug-resistant). For acquired resistance, out of 57 strains tested 26 (45.6%) were resistant, six of which (11%) were multidrug-resistant.
+   CONCLUSION: Despite the considerable increase in the number of tuberculosis cases observed in recent years (52% between 1987 and 1995), direct observation of patients taking their antituberculosis drugs during the intensive phase of treatment has limited the development of drug resistance in Benin.
+C1 Int Union TB & Lung Dis, F-75006 Paris, France.
+   Natl TB Programme, Cotonou, Benin.
+   Royal Netherlands TB Assoc, Gravenhagen, Netherlands.
+   Inst Pasteur, Ctr Natl Reference Mycobacteries, Paris, France.
+RP Trebucq, A (reprint author), Int Union TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+NR 10
+TC 29
+Z9 30
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD JUN
+PY 1999
+VL 3
+IS 6
+BP 466
+EP 470
+PG 5
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 202NH
+UT WOS:000080658600002
+PM 10383057
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Trebucq, A
+   Ait-Khaled, N
+   Gninafon, M
+   Louis, JP
+AF Trebucq, A
+   Ait-Khaled, N
+   Gninafon, M
+   Louis, JP
+TI Information management in national tuberculosis control programmes and
+   national health information systems
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE health information; tuberculosis
+AB A good notification system is one of the key elements for the success of national tuberculosis programmes (NTPs). The national health information system (NHIS) in low income countries is often weak and unreliable. When restructuring this system, what circuit should be used to integrate TB data: the NTP or the NHIS? Experience from several countries shows that unlike the NHIS, only the data generated by the NTP are reliable rind complete, and arrive rapidly enough to be used for programme management. It is therefore the duty of the NTP to collect this information and transmit it to the NHIS at each level of the health system. These were the conclusions of a seminar held in Cotonou, Benin, organised by the International Union Against Tuberculosis and Lung Disease, which involved the leaders of the NHIS and of NTPs of six West African countries.
+C1 Int Union Against TB & Lung Dis, F-75006 Paris, France.
+   Natl TB Programme, Cotonou, Benin.
+   Mission Francaise Cooperat, Abidjan, Cote Ivoire.
+RP Trebucq, A (reprint author), Int Union Against TB & Lung Dis, 68 Blvd St Michel, F-75006 Paris, France.
+NR 6
+TC 3
+Z9 3
+U1 1
+U2 1
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD OCT
+PY 1998
+VL 2
+IS 10
+BP 852
+EP 856
+PG 5
+WC Infectious Diseases; Respiratory System
+SC Infectious Diseases; Respiratory System
+GA 124AV
+UT WOS:000076158900015
+PM 9783534
+OA No
+DA 2017-07-17
+ER
+
+EF

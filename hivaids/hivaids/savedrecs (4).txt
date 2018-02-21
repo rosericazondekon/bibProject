@@ -1,0 +1,1243 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Adite, A
+   Winemiller, KO
+   Fiogbe, ED
+AF Adite, A
+   Winemiller, KO
+   Fiogbe, ED
+TI Ontogenetic, seasonal, and spatial variation in the diet of Heterotis
+   niloticus (Osteoglossiformes : Osteoglossidae) in the So River and Lake
+   Hlan, Benin, West Africa
+SO ENVIRONMENTAL BIOLOGY OF FISHES
+LA English
+DT Article
+DE diet breadth; dietary overlap; fishery; flooding; omnivore
+ID UPPER ZAMBEZI RIVER; FISH; FOOD; SHIFT; FLOODPLAIN; ECOLOGY; SIZE
+AB The African bonytongue, Heterotis niloticus (Osteoglossidae), is an important fisheries and aquaculture species in West Africa. This species has frequently been characterized either as an omnivore, insectivore or detritivore, the latter, in part, because of its benthic feeding habitats and possession of a gizzard (thick-walled pyloric stomach). We examined diets of two populations of H. niloticus in the So River in southern Benin. A population from the river channel and seasonally flooded marginal plains was dominated by juvenile and subadult size classes. Adults size classes were common in a second population from Lake Hlan, a natural lake in the river floodplain located upstream from the channel study region. Heterotis of all sizes consumed a variety of food resources, ranging from aquatic invertebrates to small seeds. Aquatic invertebrates composed a large proportion of the diets of juveniles, and adults consumed a mixture of aquatic invertebrates, seeds, and detritus. Seasonal dietary variation was observed in both populations, and diet breadth was not significantly different between populations. Aquatic invertebrates remained significant in diets of larger size classes; diets of fish between 100 and 200 mm began to include seeds and detritus, with a marked increase in the volumetric proportion of detritus in diets of fish between 300 and 400 mm in Lake Hlan and between 500 600 mm in the river. Relative gut length was inversely related to body size, which supports the notion that Heterotis is an omnivore and not a specialized detritivore. The thick-walled gizzard of Heterotis, which generally contained sand, probably aids digestion of seed coats. Because Heterotis consume mostly invertebrates and grass seeds in shallow waters of seasonal aquatic habitats and lakes the river floodplain, foraging success and fishery production should be strongly dependent on the annual flood pulse.
+C1 Univ Abomey Calavi, Unite Rech Zones Humides, Dept Zool & Genet, Fac Sci & Tech, Cotonou, Benin.
+   Texas A&M Univ, Sect Ecol & Evolut Biol, College Stn, TX 77843 USA.
+RP Adite, A (reprint author), Univ Abomey Calavi, Unite Rech Zones Humides, Dept Zool & Genet, Fac Sci & Tech, BP 526, Cotonou, Benin.
+EM k-winemiller@tamu.edu
+OI Winemiller, Kirk/0000-0003-0236-5129
+NR 47
+TC 19
+Z9 21
+U1 0
+U2 12
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0378-1909
+EI 1573-5133
+J9 ENVIRON BIOL FISH
+JI Environ. Biol. Fishes
+PD AUG
+PY 2005
+VL 73
+IS 4
+BP 367
+EP 378
+DI 10.1007/s10641-004-5563-9
+PG 12
+WC Ecology; Marine & Freshwater Biology
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA 945QC
+UT WOS:000230516200003
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Mukenge-Tshibaka, L
+   Alary, M
+   Geraldo, N
+   Lowndes, CM
+AF Mukenge-Tshibaka, L
+   Alary, M
+   Geraldo, N
+   Lowndes, CM
+TI Incorrect condom use and frequent breakage among female sex workers and
+   their clients
+SO INTERNATIONAL JOURNAL OF STD & AIDS
+LA English
+DT Article
+DE condoms; female sex workers; male clients; condom breakage; sub-Saharan
+   Africa
+ID SEXUALLY-TRANSMITTED DISEASES; SLIPPAGE; HIV; PREVALENCE
+AB Our objective was to assess if female sex workers (FSWs) and their potential male clients in Cotonou, Benin, know how to use male condoms correctly. From April to June 2000, 314 FSWs and 208 men were interviewed, and asked to demonstrate on a wooden penis how they usually use male condoms. In all, 27.6% of both women and men tore the condom envelope on the notch; 89.3% of the women versus 75.4% of the men easily found the correct side; 17.3% of the women versus 28.3% of the men held the top of the condom to avoid air entering; 91.4% of the women versus 75.6% of the men correctly unrolled the condom. Taking all the four criteria together, only similar to 11% of participants performed a correct condom use demonstration. FSWs frequently reported condom breakage, which was significantly associated with incorrect condom demonstration (P = 0.04). Correct condom use is suboptimal in these heavy consumers of male condoms in Benin. Condom breakage is frequent and is associated with incorrect use.
+C1 Hop St Sacrement, Unite Rech Sante Populat, Ste Foy, PQ G1S 4L8, Canada.
+   Ctr Sante Circonscript Urbaine Cotonou 1, Dispensaire MST, Cotonou, Benin.
+RP Alary, M (reprint author), Hop St Sacrement, Unite Rech Sante Populat, CHA 1050 Chem, Ste Foy, PQ G1S 4L8, Canada.
+EM malary@uresp.ulaval.ca
+NR 12
+TC 20
+Z9 20
+U1 0
+U2 2
+PU ROYAL SOC MEDICINE PRESS LTD
+PI LONDON
+PA 1 WIMPOLE STREET, LONDON W1G 0AE, ENGLAND
+SN 0956-4624
+J9 INT J STD AIDS
+JI Int. J. STD AIDS
+PD MAY
+PY 2005
+VL 16
+IS 5
+BP 345
+EP 347
+PG 3
+WC Immunology; Infectious Diseases
+SC Immunology; Infectious Diseases
+GA 927ZK
+UT WOS:000229240700003
+PM 15949062
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Pepin, J
+   Labbe, AC
+   Khonde, N
+   Deslandes, S
+   Alary, M
+   Dzokoto, A
+   Asamoah-Adu, C
+   Meda, H
+   Frost, E
+AF Pepin, J
+   Labbe, AC
+   Khonde, N
+   Deslandes, S
+   Alary, M
+   Dzokoto, A
+   Asamoah-Adu, C
+   Meda, H
+   Frost, E
+TI Mycoplasma genitalium: an organism commonly associated with cervicitis
+   among west African sex workers
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+ID SEXUALLY-TRANSMITTED INFECTIONS; NONGONOCOCCAL URETHRITIS; CONTROLLED
+   TRIAL; LOW-PREVALENCE; HIV; DISCHARGE; WOMEN; MANAGEMENT; ETIOLOGY;
+   DISEASES
+AB Objectives: To identify the contribution of Mycoplasma genitalium to the aetiology of cervicitis in sub-Saharan Africa and its relative importance in the overall burden of sexually transmitted infections among female sex workers (FSW).
+   Methods: The study population consisted of FSW recruited in Ghana and Benin during the initial visit of a randomised controlled trial. A questionnaire was administered, a pelvic examination carried out, and cervical samples obtained for detection of M genitalium, Neisseria gonorrhoeae, Chlamydia trachomatis, and Trichomonas vaginalis. Clinical signs potentially indicating cervicitis were cervical discharge, pus on the cervical swab, bleeding after sampling, and inflammatory cervix.
+   Results: Among 826 FSW, 26.3% were infected with M genitalium. N gonorrhoeae was strongly and independently associated with each of the four signs of cervicitis ( adjusted odds ratios (AOR): 4.1 to 6.0). The AOR for C trachomatis were intermediate (1.3 - 4.1) and the AOR for M genitalium were lower (between 1.6 and 1.8) but statistically significant (pless than or equal to0.05) for each sign.
+   Conclusions: M genitalium is weakly associated with signs of cervicitis in west African FSW but is highly prevalent.
+C1 Univ Sherbrooke, Dept Microbiol & Infect Dis, Sherbrooke, PQ J1K 2R1, Canada.
+   Hop Maison Neuve Rosemont, Montreal, PQ H1T 2M4, Canada.
+   W Africa Project Combat AIDS & STI, Accra, Ghana.
+   Ctr Hosp Affilie Univ, Quebec City, PQ, Canada.
+   Univ Laval, Quebec City, PQ, Canada.
+   Ghana Hlth Serv, Accra, Ghana.
+   W Africa Project Combat AIDS & STI, Cotonou, Benin.
+RP Pepin, J (reprint author), CHU Sherbrooke, 3001,12eme Ave Nord, Sherbrooke, PQ J1H 5N4, Canada.
+EM jacques.pepin@usherbrooke.ca
+OI Frost, Eric/0000-0001-8958-4388
+NR 32
+TC 76
+Z9 82
+U1 0
+U2 6
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD FEB 1
+PY 2005
+VL 81
+IS 1
+BP 67
+EP 72
+DI 10.1136/sti.2003.009100
+PG 6
+WC Infectious Diseases
+SC Infectious Diseases
+GA 892HZ
+UT WOS:000226642500015
+PM 15681727
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Adeothy-Koumakpai, S
+   Monnykosso, CN
+   D'almeida, M
+   Houansou, J
+   Batossi, G
+   Hodonou, I
+   Agossou, R
+   Adeyanju, I
+   Testa, J
+   Portal, JL
+AF Adeothy-Koumakpai, S
+   Monnykosso, CN
+   D'almeida, M
+   Houansou, J
+   Batossi, G
+   Hodonou, I
+   Agossou, R
+   Adeyanju, I
+   Testa, J
+   Portal, JL
+TI Prevention of VIH mother to child transmission in Cotonou: child
+   follow-up
+SO ARCHIVES DE PEDIATRIE
+LA French
+DT Article
+DE disease transmission, vertical; HIV infections, drug therapy; HIV
+   infections, transrnission; HIV infections, prevention and control;
+   nevirapine; child; developing countries
+ID ZIDOVUDINE; EFFICACY; TRIAL; HIV
+AB The aim of this survey was to analyse the constraints of implementing on a larger scale the protocol of prevention of HIV/AIDS from mother to child by Nevirapine intake. This survey takes stock of the components of the children medical care follow-up.
+   Patients and methodology. - Here is a straight line Survey on 231 newborns from 222 screened mothers during pregnancy in 36 Health Centres in Cotonou and suburbia. Nevirapine has been administered in a single dose of 200 mg to mothers during labour and a dosage of 7 mg to the infant at birth. These infants have been steadily followed-up from 13 June 2000 to 30 April 2002. Exclusively feeding either on artificial milk or breastfeeding and a premature weaning at four months of age have been recommended. PCR screening has been conducted at one and six months of age or one month after the effective weaning. Cotrimoxazole has been systematically administered at six weeks.
+   Results. - HIV/AIDS sero prevalence was globally evaluated at 4% in the screened pregnant women. One hundred and ninety seven mothers and children have effectively benefited from nevirapine intakes and this protocol has been adequately observed in 51% cases. The medical check-up rate was 18.5%. The average age of children under medical care was 10.8 months at the end of the study. The mother to child transmission rate was globally estimated at 20.4% and 7% in an optimal situation (the protocol was observed and the rate of CD4 above 500). In case of breastfeeding exclusively followed by a premature weaning in most cases, the average age of effective weaning was 8.3 months. Twenty-three children died during medical care follow-up basically from dehydration brought about by diarrhea and vomiting during weaning period.
+   Conclusion. - The survey confirms the potency of nevirapine in preventing HIV transmission from mother to child in non immunosuppressed women and lays emphasis on real problems for which appropriate solutions should be found before the implementation on a larger scale of this protocol. (C) 2004 Publie par Elsevier SAS.
+C1 CNHU, Serv Pediat, Recette Principale, Benin.
+   Programme Natl Lutte Sida, Cotonou, Benin.
+   Hop St Luc, Serv Pediat, Cotonou, Benin.
+   Matern Lagune, Serv Pediat, Cotonou, Benin.
+   CNHU, Dept Informat, Recette Principale, Benin.
+   Ctr Informat & Conseil VIH, Cotonou, Benin.
+RP Adeothy-Koumakpai, S (reprint author), CNHU, Serv Pediat, Cotonou 01,BP 386, Recette Principale, Benin.
+EM sikiraadouni@UVA.org
+NR 8
+TC 2
+Z9 2
+U1 0
+U2 1
+PU EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0929-693X
+J9 ARCH PEDIATRIE
+JI Arch. Pediatr.
+PD DEC
+PY 2004
+VL 11
+IS 12
+BP 1425
+EP 1429
+DI 10.1016/j.arcped.2004.07.024
+PG 5
+WC Pediatrics
+SC Pediatrics
+GA 885XJ
+UT WOS:000226190300003
+PM 15596329
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Zannou, DM
+   Kinde-Gazard, D
+   Vigan, J
+   Ade, G
+   Sehonou, JJ
+   Atadokpede, F
+   Azondekon, A
+   Gbedo, C
+   Anagonou, SY
+   Houngbe, F
+AF Zannou, DM
+   Kinde-Gazard, D
+   Vigan, J
+   Ade, G
+   Sehonou, JJ
+   Atadokpede, F
+   Azondekon, A
+   Gbedo, C
+   Anagonou, SY
+   Houngbe, F
+TI Clinical and immunological profile of HIV infected patients in Cotonou,
+   Benin
+SO MEDECINE ET MALADIES INFECTIEUSES
+LA French
+DT Article
+DE immuno-deficiency; HIV; opportunistic diseases
+AB Objectives. - This study had for aim to identify the clinical status and the level of immuno-deficiency of HIV-infected patients on their first visit.
+   Methods. - One hundred and thirty-six HIV+ patients were prospectively evaluated from November 1, 2001 to May 31, 2002.
+   Results. - One hundred and thirty-four were infected with HIV1 and two with HIV2. The mean age on the first consultation was 37 2 years. The m/w sex ratio was 0.9.46.3% were stage C. The main clinical symptoms were: weight loss (88%), fever (80%), cough (71%), diarrhea (51%). BMI was normal in 70% and KI greater than or equal to 80% in 57% of the cases but immuno-deficiency was severe with CD4 cells count <200 per mm 3 in 69%. The main diseases were digestive candidiasis (53%), pneumonia (18%), tuberculosis (12%), non-determined pneumonia (29%), prurigo (20%), zona (16%), cryptosporidiosis (4%), cerebral toxoplasmosis (3%), and Kaposi's sarcoma (1%). (C) 2004 Elsevier SAS. Tous droits reserves.
+C1 CNHU HK Maga, Serv Med Interne, Cotonou, Benin.
+   CNHU HK Maga, Labs Parasitol & Bacteriol, Cotonou, Benin.
+   Ctr Med Garnison Guezo, Cotonou, Benin.
+   CTA, Cotonou, Benin.
+RP Zannou, DM (reprint author), CNHU HK Maga, Serv Med Interne, 01 BP 386, Cotonou, Benin.
+EM m_zannou@hotmail.com
+NR 10
+TC 3
+Z9 3
+U1 3
+U2 3
+PU EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0399-077X
+J9 MED MALADIES INFECT
+JI Med. Mal. Infect.
+PD MAY
+PY 2004
+VL 34
+IS 5
+BP 225
+EP 228
+DI 10.1016/j.medmal.2004.02.007
+PG 4
+WC Infectious Diseases
+SC Infectious Diseases
+GA 842PN
+UT WOS:000223016500008
+PM 16235600
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Glynn, JR
+   Carael, M
+   Buve, A
+   Anagonou, S
+   Zekeng, L
+   Kahindo, M
+   Musonda, R
+AF Glynn, JR
+   Carael, M
+   Buve, A
+   Anagonou, S
+   Zekeng, L
+   Kahindo, M
+   Musonda, R
+CA Study Grp Heterogeneity HIV Epide
+TI Does increased general schooling protect against HIV infection? A study
+   in four African cities
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE HIV; schooling; education; risk factors; herpes simplex-2; sexual
+   behaviour; Africa
+ID SUB-SAHARAN AFRICA; SEXUALLY-TRANSMITTED DISEASE; SIMPLEX-VIRUS TYPE-2;
+   RURAL TANZANIA; RISK-FACTORS; EAST-AFRICA; PREVALENCE; EPIDEMIC;
+   BEHAVIOR; TRENDS
+AB BACKGROUND The association between educational attainment and risk of HIV infection varies between populations and over time. Earlier studies in sub-Saharan Africa have found that those with more education are at increased risk of HIV infection.
+   METHODS We investigated the associations between general schooling and both HIV and herpes simplex-2 (HSV-2) infection using data from the multicentre study on factors determining the differential spread of HIV in four African cities. Cross-sectional general population studies were conducted in 1997-1998 in Cotonou (Benin), Yaounde (Cameroon), Kisumu (Kenya), and Ndola (Zambia), including about 2000 adults in each city.
+   RESULTS There was no association between schooling and HIV infection in men or women in Kisumu or Ndola. Women in Yaounde and men in Cotonou, with more schooling, were less likely to be HIV positive. These associations persisted after adjusting for sociodemographic factors. Similar trends in men in Yaounde and women in Cotonou were not statistically significant. Increased schooling was associated with significantly decreased risk of HSV-2 infection in women in Kisumu and Ndola and men in Cotonou. In all the cities those with more education tended to report less risky sexual behaviour.
+   CONCLUSIONS There was no evidence of an increased risk of HIV infection associated with education as seen in earlier studies. In each city there was some evidence of lower HIV or HSV-2 infection rates and less risky sexual behaviour associated with increased education levels. The most educated may be responding more readily to health education programmes. The challenge is to extend this to the rest of the population.
+C1 Univ London London Sch Hyg & Trop Med, Infect Dis Epidemiol Unit, London WC1E 7HT, England.
+   UNAIDS, CH-1211 Geneva 27, Switzerland.
+   Inst Trop Med, B-2000 Antwerp, Belgium.
+   SIDA, Programme Lutte Contre, Cotonou 04378, Benin.
+   Minist Publ Hlth, Yaounde, Cameroon.
+   Natl AIDS, STD Control Programme, Nairobi, Kenya.
+   Trop Dis Res Ctr, Ndola, Zambia.
+RP Glynn, JR (reprint author), Univ London London Sch Hyg & Trop Med, Infect Dis Epidemiol Unit, Keppel St, London WC1E 7HT, England.
+EM judith.glynn@lshtm.ac.uk; caraelm@unaids.org; abuve@itg.be;
+   Leopold.zekeng@camnet.com; mkahindo@fhi.or.ke; tdrc@zmanet.zm
+NR 29
+TC 42
+Z9 42
+U1 2
+U2 5
+PU BLACKWELL PUBLISHING LTD
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DG, OXON, ENGLAND
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD JAN
+PY 2004
+VL 9
+IS 1
+BP 4
+EP 14
+DI 10.1046/j.1365-3156.2003.01168.x
+PG 11
+WC Public, Environmental & Occupational Health; Tropical Medicine
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 775WL
+UT WOS:000189083600002
+PM 14728602
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Alary, M
+   Lowndes, CM
+   Mukenge-Tshibaka, L
+   Gnintoungbe, CAB
+   Bedard, E
+   Geraldo, N
+   Jossou, P
+   Lafia, E
+   Bernier, F
+   Baganizi, E
+   Joly, JR
+   Frost, E
+   Anagonou, S
+AF Alary, M
+   Lowndes, CM
+   Mukenge-Tshibaka, L
+   Gnintoungbe, CAB
+   Bedard, E
+   Geraldo, N
+   Jossou, P
+   Lafia, E
+   Bernier, F
+   Baganizi, E
+   Joly, JR
+   Frost, E
+   Anagonou, S
+TI Sexually transmitted infections in male clients of female sex workers in
+   Benin: risk factors and reassessment of the leucocyte esterase dipstick
+   for screening of urethral infections
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+ID DISTANCE TRUCK DRIVERS; CHLAMYDIA-TRACHOMATIS; NEISSERIA-GONORRHOEAE;
+   VAGINAL DISCHARGE; URINE SPECIMENS; HIV-INFECTION; WEST-AFRICA; MEN;
+   DIAGNOSIS; PREVALENCE
+AB Objectives: ( 1) To assess risk factors for urethral infections with Chlamydia trachomatis, Neisseria gonorrhoeae, and Trichomonas vaginalis among male clients of female sex workers (FSWs) in Benin; ( 2) to study the validity of LED testing of male urine samples compared to a highly sensitive gold standard (PCR) for the diagnosis of urethral infections with the organisms cited above.
+   Methods: Male clients of FSWs ( n = 404) were recruited on site at prostitution venues in Cotonou, Benin, between 28 May and 18 August 1998. A urine sample was obtained from each participant just before he visited the FSW, and tested immediately using a leucocyte esterase dipstick ( LED) test. It was then tested for HIV using the Calypte EIA with western blot confirmation, and for C trachomatis, N gonorrhoeae, and T vaginalis by PCR. After leaving the FSW's room, participants were interviewed about demographics, sexual behaviour, STI history and current symptoms and signs, and were examined for urethral discharge, genital ulcers, and inguinal lymphadenopathies.
+   Results: STI prevalences were: C trachomatis, 2.7%; N gonorrhoeae, 5.4%; either chlamydia or gonorrhoea 7.7%; T vaginalis 2.7%; HIV, 8.4%. Lack of condom use with FSWs and a history of STI were independently associated with C trachomatis and/or N gonorrhoeae infection. Over 80% of these infections were in asymptomatic subjects. The overall sensitivity, specificity, positive and negative predictive values of the LED test for detection of either C trachomatis or N gonorrhoeae were 48.4%, 94.9%, 44.1%, and 95.7%, respectively. In symptomatic participants ( n = 22), all these parameters were 100% while they were 47.4%, 94.7%, 37.5%, and 96.4% in asymptomatic men ( n = 304).
+   Conclusions: Since most STIs are asymptomatic in this population, case finding programmes for gonorrhoea and chlamydia could be useful. The performance characteristics of the LED test in this study suggest that it could be useful to detect asymptomatic infection by either C trachomatis or N gonorrhoeae in high risk men.
+C1 Univ Quebec, Ctr Hosp Affilie, Unite Rech Sante Populat, Quebec City, PQ G1S 4L8, Canada.
+   Publ Hlth Lab Serv, Ctr Communicable Dis Surveillance, HIV & STI Div, London NW9 5EQ, England.
+   Projet SIDA 3 Benin, Cotonou, Benin.
+   Ctr Sante Circonscript Urbaine, Dispensaire MST, Cotonou 1, Benin.
+   Univ Natl Benin, Fac Sci Sante, Cotonou, Benin.
+   Programme Natl Lutte Sida & MST, Cotonou, Benin.
+   Hema Quebec, Montreal, PQ, Canada.
+   Ctr Dis Control & Prevent, Atlanta, GA USA.
+   Lab Sante Publ Quebec, Ste Anne De Bellevue, PQ, Canada.
+   Univ Sherbrooke, Dept Microbiol, Sherbrooke, PQ J1K 2R1, Canada.
+RP Alary, M (reprint author), Univ Quebec, Ctr Hosp Affilie, Unite Rech Sante Populat, 1050 Chemin St Foy, Quebec City, PQ G1S 4L8, Canada.
+OI Frost, Eric/0000-0001-8958-4388
+NR 38
+TC 18
+Z9 18
+U1 0
+U2 2
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD OCT
+PY 2003
+VL 79
+IS 5
+BP 388
+EP 392
+DI 10.1136/sti.79.5.388
+PG 5
+WC Infectious Diseases
+SC Infectious Diseases
+GA 735JV
+UT WOS:000186110900009
+PM 14573834
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Adeothy-Koumakpai, S
+AF Adeothy-Koumakpai, S
+TI HIV infections in adolescents living in developing countries
+SO ARCHIVES DE PEDIATRIE
+LA French
+DT Editorial Material
+DE adolescent medicine; HIV infections; sexuality; sexually transmitted
+   diseases; viral; developing countries
+C1 Fac Sci Sante, Cotonou, Benin.
+RP Adeothy-Koumakpai, S (reprint author), Fac Sci Sante, 01 BP 188, Cotonou, Benin.
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 0
+PU EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS CEDEX 15
+PA 23 RUE LINOIS, 75724 PARIS CEDEX 15, FRANCE
+SN 0929-693X
+J9 ARCH PEDIATRIE
+JI Arch. Pediatr.
+PD NOV
+PY 2002
+VL 9
+IS 11
+BP 1117
+EP 1119
+AR PII S0929-693X(02)00089-1
+DI 10.1016/S0929-693X(02)00089-1
+PG 3
+WC Pediatrics
+SC Pediatrics
+GA 625QK
+UT WOS:000179827000001
+PM 12503501
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Van Damme, L
+   Ramjee, G
+   Alary, M
+   Vuylsteke, B
+   Chandeying, V
+   Rees, H
+   Sirivongrangson, P
+   Mukenge-Tshibaka, L
+   Ettiegne-Traore, V
+   Uaheowitchai, C
+   Karim, SSA
+   Masse, B
+   Perriens, J
+   Laga, M
+AF Van Damme, L
+   Ramjee, G
+   Alary, M
+   Vuylsteke, B
+   Chandeying, V
+   Rees, H
+   Sirivongrangson, P
+   Mukenge-Tshibaka, L
+   Ettiegne-Traore, V
+   Uaheowitchai, C
+   Karim, SSA
+   Masse, B
+   Perriens, J
+   Laga, M
+CA COL-1492 Study Grp
+TI Effectiveness of COL-1492, a nonoxynol-9 vaginal gel, on HIV-1
+   transmission in female sex workers: a randomised controlled trial
+SO LANCET
+LA English
+DT Article
+ID CHLAMYDIA-TRACHOMATIS; CONTRACEPTIVE SPONGE; INVITRO; INFECTION;
+   INACTIVATION; EFFICACY; SAFETY; WOMEN; RISK
+AB Background Nonoxynol-9 (rINN, nonoxinol-9) is an over-the-counter spermicide that has in-vitro anti-HIV-1 activity. Results of studies of its effectiveness in prevention of HIV-1 infection in women have been inconclusive. We aimed to assess effectiveness of this vaginal gel.
+   Methods We did a randomised, placebo-controlled, triple-blinded, phase 2/3 trial with COL-1492, a nonoxynol-9 vaginal gel, in 892 female sex workers in four countries: Benin, Cote d'lvoire, South Africa, and Thailand. 449 women were randomly allocated nonoxynol-9 and 443 placebo. Primary endpoint was incident HIV-1 infection. Secondary endpoints included Neisseria gonorrhoeae and Chlamydia trachomatis infections. Analysis was by intention to treat.
+   Findings 765 women were included in the primary analysis. HIV-1 frequency in nonoxynol-9 users was 59 (16%) of 376 compared with 104 (27%) of 389 in placebo users (402.5 vs 435.0 woman-years; hazard ratio adjusted for centre 1.5; 95% CI 1.0-2.2; p=0.047). 239 (32%) women reported use of a mean of more than 3.5 applicators per working day, and in these women, risk of HIV-1 infection in nonoxynol-9 users was almost twice that in placebo users (hazard ratio 1.8; 95% CI 1.0-3.2). 516 (68%) women used the gel less frequently tan 3.5 times a day, and in these, risk did not differ between he two treatments. No significant effect of nonoxynol-9 on N gonorrhoeae (1.2; 0.9-1.6) or C trachomatis (1.2; 0.8-1.6) infections was reported.
+   Interpretation This study did not show a protective effect of COL-1492 on HIV-1 transmission in high-risk women. Multiple use of nonoxynol-9 could cause toxic effects enhancing HIV-1 infection. This drug can no longer be deemed a potential HIV-1-prevention method. Assessment of other microbicides should continue.
+C1 Inst Trop Med, B-2000 Antwerp, Belgium.
+   MRC, Durban, South Africa.
+   Ctr Hosp Affilie Univ Quebec & Univ Laval, Grp Rech Epidemiol, Quebec City, PQ, Canada.
+   Projet SIDA 2, Cotonou, Benin.
+   Projet RETROCI, Abidjan, Cote Ivoire.
+   Prince Songkla Univ, Hat Yai, Thailand.
+   Univ Witwatersrand, Dept Obstet & Gynaecol, Reprod Hlth Res Unit, Johannesburg, South Africa.
+   Minist Hlth, Venereal Dis Div, Bangkok, Thailand.
+   Ctr Sante Circonscript Urbaine Cotonou 1, Dispensaire Malad Sexuellement Transmissibles, Cotonou, Benin.
+   Veneral Dis Ctr Reg 12, Songkhla, Thailand.
+   Fred Hutchinson Canc Res Ctr, Seattle, WA 98104 USA.
+   UNAIDS, Geneva, Switzerland.
+RP Van Damme, L (reprint author), CONRAD, 1611 N Kent St,Suite 806, Arlington, VA 22209 USA.
+RI Abdool Karim, Salim Safurdeen/N-5947-2013
+OI Abdool Karim, Salim Safurdeen/0000-0002-4986-2133; Masse,
+   Benoit/0000-0002-4944-8098
+NR 19
+TC 553
+Z9 558
+U1 0
+U2 12
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PD SEP 28
+PY 2002
+VL 360
+IS 9338
+BP 971
+EP 977
+DI 10.1016/S0140-6736(02)11079-8
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 597YU
+UT WOS:000178249000008
+PM 12383665
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lowndes, CM
+   Alary, M
+   Meda, H
+   Gnintoungbe, CAB
+   Mukenge-Tshibaka, L
+   Adjovi, C
+   Buve, A
+   Morison, L
+   Laourou, M
+   Kanhonou, L
+   Anagonou, S
+AF Lowndes, CM
+   Alary, M
+   Meda, H
+   Gnintoungbe, CAB
+   Mukenge-Tshibaka, L
+   Adjovi, C
+   Buve, A
+   Morison, L
+   Laourou, M
+   Kanhonou, L
+   Anagonou, S
+TI Role of core and bridging groups in the transmission dynamics of HIV and
+   STIs in Cotonu, Benin, West Africa
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Article
+ID FEMALE SEX WORKERS; NEISSERIA-GONORRHOEAE; INFECTION; RISK
+AB The potential for exposure of low and high risk women to HIV and sexually transmitted infections (STI) through unprotected sex with male clients of female sex workers in Cotonou could account for most if not all of the estimated yearly numbers of HIV infections in Cotonou women (similar to1000). As ongoing transmission of HIV, and also of the most predominant STIs such as gonorrhoea and HSV-2, appears to be largely fuelled by transmission within core and bridging groups in Cotonou, interventions targeted at both female sex workers and their male clients remain of the utmost importance and could have a significant effect on the evolution of HIV/STI epidemics in Benin.
+C1 Univ London Imperial Coll Sci Technol & Med, Dept Social Sci & Med, London, England.
+   Univ Laval, Hop St Sacrement CHA, Grp Rech Epidemiol, Quebec City, PQ, Canada.
+   Project SIDA 2 Benin, Cotonou, Benin.
+   Ctr Sante Circonscript Urbaine Cotonou 1, Dispensaire MST, Cotonou, Benin.
+   Inst Trop Med, STD HIV Intervent Unit, B-2000 Antwerp, Belgium.
+   London Sch Hyg & Trop Med, Infect Dis Epidemiol Unit, London WC1, England.
+RP Lowndes, CM (reprint author), Imperial Coll Sch Med, Dept Social Sci & Med, Charing Cross Campus,Reynolds Bldg,St Dunstans Rd, London W6 8RP, England.
+RI Morison, Linda/H-9738-2013
+NR 39
+TC 49
+Z9 50
+U1 0
+U2 4
+PU BRITISH MED JOURNAL PUBL GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD APR
+PY 2002
+VL 78
+SU 1
+BP I69
+EP I77
+PG 9
+WC Infectious Diseases
+SC Infectious Diseases
+GA 556YU
+UT WOS:000175878000010
+PM 12083450
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Alary, M
+   Mukenge-Tshibaka, L
+   Bernier, F
+   Geraldo, N
+   Lowndes, CM
+   Meda, H
+   Gnintoungbe, CAB
+   Anagonou, S
+   Joly, JR
+AF Alary, M
+   Mukenge-Tshibaka, L
+   Bernier, F
+   Geraldo, N
+   Lowndes, CM
+   Meda, H
+   Gnintoungbe, CAB
+   Anagonou, S
+   Joly, JR
+TI Decline in the prevalence of HIV and sexually transmitted diseases among
+   female sex workers in Cotonou, Benin, 1993-1999
+SO AIDS
+LA English
+DT Article
+DE benin; female sex workers; HIV; sexually transmitted diseases; trends
+ID NEISSERIA-GONORRHOEAE; CHLAMYDIA-TRACHOMATIS; PREVENTION; DIAGNOSIS;
+   INFECTION
+AB Background: Within an ongoing HIV/STD prevention project aimed at female sex workers (FSW) in Cotonou, Benin, we evaluated time trends in HIV and STD prevalences from 1993 to 1999.
+   Design: Three serial cross-sectional surveys were conducted in 1993 (n=374), 1995-1996 (n=365), and 1998-1999 (n=591). A questionnaire was administered to the FSW and they were screened for HIV, syphilis, Neisseria gonorrhoeae, and Chlamydia trachomatis.
+   Results: The mean percentage of condom use with clients in the week preceding the interview increased from 62.2% in 1993 to 80.7% in 1998-1999 (P=0.0001). The prevalence of all infections decreased significantly (all P<0.02; chi-square for trend) over time: HIV from 53.3% in 1993 to 40.6% in 1998-1999; syphilis from 8.9 to 1.5%; gonorrhoea from 43.2 to 20.5%; and chlamydia from 9.4 to 5.1%. However, the mean age of FSW decreased from 31.0 to 28.4 years between 1993 and 1998-1999. Moreover, the country of origin of these women changed dramatically over time: the proportion of Ghanaian women decreased from 66.3% in 1993 to 21.6% in 1998-1999 when the predominant group became Nigerian (38.0%). When controlling for age and country of origin, HIV prevalence was stable over time (P=0.71), whereas the downward trend remained significant for syphilis and gonorrhoea (both P<0.001), and was present but not significant for chlamydia (P=0.13).
+   Conclusion: These data suggest that the time trends in HIV and STD prevalences are partly due to the changing sex work milieu, but that the intervention also had an impact. Prevention programmes aimed at FSW should be highly prioritized. (C) 2002 Lippincott Williams Wilkins.
+C1 Univ Quebec, CHA, Epidemiol Res Grp, Quebec City, PQ G1V 2M3, Canada.
+   Univ Laval, Quebec City, PQ, Canada.
+   Hema Quebec, Montreal, PQ, Canada.
+   Projet Sida 2, Benin, Nigeria.
+   Univ London, Imperial Coll, Sch Med, Dept Social Sci & Med, London, England.
+   Programme Natl Lutte Contre Sida, Cotonou, Benin.
+   MST, Cotonou, Benin.
+   Inst Natl Sant Publ Quebec, Lab Sante Publ Quebec, St Anne De Bellevue, PQ, Canada.
+RP Alary, M (reprint author), CHA, Hop St Sacrement, Grp Rech Epidemiol, 1050 Chemin St Foy, Quebec City, PQ G1S 4L8, Canada.
+NR 15
+TC 134
+Z9 135
+U1 1
+U2 4
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD FEB 15
+PY 2002
+VL 16
+IS 3
+BP 463
+EP 470
+DI 10.1097/00002030-200202150-00019
+PG 8
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 523AV
+UT WOS:000173929900019
+PM 11834959
+OA No
+DA 2017-07-17
+ER
+
+PT B
+AU Hounhouedo, T
+AF Hounhouedo, T
+GP MONDUZZI EDITORE
+   MONDUZZI EDITORE
+TI Sustaining factors of actions to combat HIV/AIDS at the community level:
+   The Aimlonfide experience
+SO XIV INTERNATIONAL AIDS CONFERENCE: INTERVENTIONS AND PROGRAM
+   IMPLEMENTATION
+LA English
+DT Proceedings Paper
+CT 14th International AIDS Conference
+CY JUL 07-12, 2002
+CL BARCELONA, SPAIN
+SP Univ N Carolina, Gen Clin Res Ctr, UNC Ctr AIDS Res, Natl Inst Hlth, Swiss Natl AIDS Res Program, Bristol-Myers Squibb Co, Boehringer Ingelheim, GlaxoWellcome Res & Dev, HIV Antiviral Res
+AB Introduction. AIDS is spreading at an alarming rate : over 50 people are infected every day in Benin. The current prevalence rate is 4.1 % and it will reach 20% in the year 2025 if nothing is done because in some areas, the rate has already reached 14%.
+   The fight against HIV/AIDS should be a lasting fight, but unfortunately, most actions of development projects in Africa are often compromised when funding is over. The merit of this project is to shift the fight against HIV/AIDS to the true community level in a lake city.
+   Methods. All actions implemented are based on the participative and community approach which uses negotiation, involvement, participative diagnosis, planning, concertation, accountability and skills transfer.
+   Results. The results obtained are amazing. The behaviour change of target groups are clearly perceptible as is shown by the use of condoms, voluntary testing and psychological care at the family level, and the number of condoms sold in the city. The community also succeeded in initiating and implementing other projects : production of films, organization of cultural events for sensitization on STDs and HIV/AIDS.
+   Conclusion. True community involvement is a key element in sustaining actions to combat AIDS. The community should first be an actor and then a target. Other actors (NGOs and government agencies) must shift their role to become facilitators in the fight against HIV/AIDS.
+C1 La Vie Nouvelle Ngo, Cotonou, Benin.
+RP Hounhouedo, T (reprint author), La Vie Nouvelle Ngo, Cotonou, Benin.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MEDIMOND S R L
+PI 40128 BOLOGNA
+PA VIA MASERATI 5, 40128 BOLOGNA, 00000, ITALY
+PY 2002
+BP 31
+EP 34
+PG 4
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA BV85S
+UT WOS:000180242500006
+OA No
+DA 2017-07-17
+ER
+
+PT B
+AU Azondekon, A
+   Behanzin, T
+   Lantonkpode, A
+   Lantonhedjra, P
+   Atadokpede, F
+   Ahouanvoeke, L
+   Guezodje, PA
+AF Azondekon, A
+   Behanzin, T
+   Lantonkpode, A
+   Lantonhedjra, P
+   Atadokpede, F
+   Ahouanvoeke, L
+   Guezodje, PA
+GP MONDUZZI EDITORE
+   MONDUZZI EDITORE
+TI Highly active AntiRetroviral Therapy(HAART): Benin Army Community
+   adhesion factors
+SO XIV INTERNATIONAL AIDS CONFERENCE: SOCIAL SCIENCES
+LA English
+DT Proceedings Paper
+CT 14th International AIDS Conference
+CY JUL 07-12, 2002
+CL BARCELONA, SPAIN
+SP Univ N Carolina, Gen Clin Res Ctr, UNC Ctr AIDS Res, Natl Inst Hlth, Swiss Natl AIDS Res Program, Bristol-Myers Squibb Co, Boehringer Ingelheim, GlaxoWellcome Res & Dev, HIV Antiviral Res
+AB Background: The purpose of this study is to evaluate Benin Army Community adhesion factors to the initiative of getting HAART available for AIDS patient in Benin.
+   Methods: 951 militaries of all ranks from barracks and offices in 3 towns of Benin (West Africa) were randomly interviewed. Results: 95% know that AIDS is caused by a virus; 51% think that AIDS can be treated definitively. ART, may heal patients from AIDS(15%), improve health status that allows them to work (75%), help them for social insertion(66%), allows them to do future plans(62%). Patients should support ART cost(30%); Army should finance entirely(18%), Army must finance for half(30%); Military Community have to help(67%) in the case Army is not able to finance. ART implementation will help patients to disclosure AIDS conditions to their neighbours(46%), to their physicians(72%); AIDS should not be dramatized(54%); people should not be afraid to do their voluntary testing(66%); 90% would like to know more information about AIDS treatment. Conclusions: HAART can be easily implement in Benin Armed Forces Community. Treatment information program and financing help from Army and Military Community is a necessity.
+C1 Army Teaching Hosp, Army AIDS Res & Informat Program, Army Res Ctr, Cotonou, Benin.
+RP Azondekon, A (reprint author), Army Teaching Hosp, Army AIDS Res & Informat Program, Army Res Ctr, Cotonou, Benin.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MEDIMOND S R L
+PI 40128 BOLOGNA
+PA VIA MASERATI 5, 40128 BOLOGNA, 00000, ITALY
+PY 2002
+BP 29
+EP 33
+PG 5
+WC Public, Environmental & Occupational Health; Social Issues; Social
+   Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Social Issues; Biomedical
+   Social Sciences
+GA BV85R
+UT WOS:000180241900007
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lagarde, E
+   Carael, M
+   Glynn, JR
+   Kanhonou, L
+   Abega, SC
+   Kahindo, M
+   Musonda, R
+   Auvert, B
+   Buve, A
+AF Lagarde, E
+   Carael, M
+   Glynn, JR
+   Kanhonou, L
+   Abega, SC
+   Kahindo, M
+   Musonda, R
+   Auvert, B
+   Buve, A
+CA Study Grp Heterogeneity HIV Epidem
+TI Educational level is associated with condom use within non-spousal
+   partnerships in four cities of sub-Saharan Africa
+SO AIDS
+LA English
+DT Article
+DE education; HIV; Africa; condom
+ID RISK SEXUAL-BEHAVIOR; GENERAL-POPULATION; AIDS KNOWLEDGE; TANZANIA;
+   TRANSMISSION; DETERMINANTS; WOMEN
+AB Background: Rates of condom use in sub-Saharan Africa have remained too low to curb HIV/sexually transmitted disease (STD) epidemics. A better understanding of the main determinants of condom use would aid promotion.
+   Methods: Cross-sectional population surveys were conducted in four cities in sub-Saharan Africa: Yaounde, Cameroon; Cotonou, Benin; Ndola, Zambia; and Kisumu, Kenya. In each city, the aim was to interview a random sample of 1000 men and 1000 women aged 15-49 years, including questions on characteristics of non-spousal partnerships in the past 12 months.
+   Results: Data on condom use were available for 4624 non-spousal partnerships. In the four cities, the proportion of partnerships in which condoms were used always or most of the time ranged from 23.8 to 33.5% when reported by men and from 10.7 to 25.9% when reported by women. Based on the reports from men, condom use was associated with higher educational level of the male partner in Yaounde [adjusted odds ratio (aOR) = 1.76] and Ndola (aOR = 2.94) and with higher educational level of the female partner in Colonou (aOR = 2.36) and Kisumu (aOR = 2.76). Based on the reports from women, condom use was associated with higher educational level of the female partner in Kisumu (aOR = 2.60) and Ndola (aOR = 4.50) and with higher educational level of the male partner in Yaounde (aOR = 3.32). Associations with other determinants varied across cities and for men and women.
+   Conclusions: Education was found to be a key determinant of condom use in all four cities. This suggests that educational level increases response to condom promotion and highlights the need for special efforts to reach men and women with low educational attainment. (C) 2001 Lippincott Williams & Wilkins.
+C1 INSERM, U88, F-75654 Paris 13, France.
+   UNAIDS, Geneva, Switzerland.
+   London Sch Hyg & Trop Med, London WC1, England.
+   Ctr Rech Reprod Humaine & Demog, Cotonou, Benin.
+   Univ Catholique Afrique Cent, Yaounde, Cameroon.
+   Natl AIDS STD Control Programme, Nairobi, Kenya.
+   Trop Dis Res Ctr, Ndola, Zambia.
+   Univ Paris 05, Hop Ambroise Pare, Paris, France.
+   Inst Trop Med, B-2000 Antwerp, Belgium.
+RP Lagarde, E (reprint author), Hop Natl St Maurice, INSERM, U88, 14 Rue Val Osne, F-94415 St Maurice, France.
+RI Lagarde, Emmanuel/F-7132-2013
+OI Lagarde, Emmanuel/0000-0001-8031-7400
+NR 25
+TC 64
+Z9 65
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD JUL 27
+PY 2001
+VL 15
+IS 11
+BP 1399
+EP 1408
+DI 10.1097/00002030-200107270-00009
+PG 10
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 455YN
+UT WOS:000170055500011
+PM 11504961
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lagarde, E
+   Auvert, B
+   Carael, M
+   Laourou, M
+   Ferry, B
+   Akam, E
+   Sukwa, T
+   Morison, L
+   Maury, B
+   Chege, J
+   N'Doye, I
+   Buve, A
+AF Lagarde, E
+   Auvert, B
+   Carael, M
+   Laourou, M
+   Ferry, B
+   Akam, E
+   Sukwa, T
+   Morison, L
+   Maury, B
+   Chege, J
+   N'Doye, I
+   Buve, A
+CA Study Grp Heterogeneity HIV Epidem
+TI Concurrent sexual partnerships and HIV prevalence in five urban
+   communities of sub-Saharan Africa
+SO AIDS
+LA English
+DT Article
+DE concurrency; HIV; networks; sexual behaviour; transmission; Africa
+ID INFECTIOUS-DISEASE; SPREAD; EPIDEMIOLOGY; PREVENTION; NETWORKS;
+   DYNAMICS; AIDS
+AB Objective: To estimate parameters of concurrent sexual partnerships in five urban populations in sub-Saharan Africa and to assess their association with levels of HIV infection and other sexually transmitted infections (STI).
+   Methods: Data were obtained from a multicentre study of factors which determine the differences in rate of spread of HIV in five African cities. Consenting participants were interviewed on sexual behaviour and at four of the five sites also provided a blood and a urine sample for testing for HIV and other STI. Data on sexual behaviour included the number of partnerships in the 12 months preceding the interview as well as the dates of the start and end of each partnership. Summary indices of concurrent sexual partnerships - some of which were taken from the literature, while others were newly developed - were computed for each city and compared to HIV and STI prevalence rates.
+   Results: A total of 1819 adults aged 15-49 years were interviewed in Dakar (Senegal), 2116 in Cotonou (Benin), 2089 in Yaounde (Cameroon), 1889 in Kisumu (Kenya) and 1730 in Ndola (Zambia). Prevalence rates of HIV infection were 3.4% for Cotonou, 5.9% for Yaounde, 25.9% for Kisumu and 28.4% for Ndola, and around 1% for Dakar. The estimated fraction of sexual partnerships that were concurrent at the time of interview (index k) was relatively high in Yaounde (0.98), intermediate in Kisumu (0.44) and Cotonou (0.33) and low in Ndola (0.26) and in Dakar (0.18). An individual indicator of concurrency (iic) was developed which depends neither on the number of partners nor on the length of the partnerships and estimates the individual propensity to keep (positive values) or to dissolve (negative values) on-going partnership before engaging in another one. This measure iic did not discriminate between cities with high HIV infection levels and cities with law HIV infection levels. In addition, iic did not differ significantly between HIV-infected and uninfected people in the four cities where data on HIV status were collected.
+   Conclusion: We could not find evidence that concurrent sexual partnerships were a major determinant of the rate of spread of HIV in five cities in sub-Saharan Africa. HIV epidemics are the result of many factors, behavioural as well as biological, of which concurrent sexual partnerships are only one. (C) 2001 Lippincott Williams & Wilkins.
+C1 Hop Natl St Maurice, INSERM, U88, F-94415 St Maurice, France.
+   UNAIDS, Geneva, Switzerland.
+   Inst Natl Stat & Anal Econ, Cotonou, Benin.
+   Ctr Francais Populat & Dev, Inst Rech Dev, Paris, France.
+   Inst Format & Rech Demog, Yaounde, Cameroon.
+   Trop Dis Res Ctr, Ndola, Zambia.
+   London Sch Hyg & Trop Med, London WC1, England.
+   Univ Paris 06, Anal Numer Lab, F-75252 Paris, France.
+   Populat Council, Nairobi, Kenya.
+   Com Natl Lutte Sida, Dakar, Senegal.
+   Inst Trop Med, Dept Microbiol, B-2000 Antwerp, Belgium.
+RP Lagarde, E (reprint author), Hop Natl St Maurice, INSERM, U88, 14 Rue Val Osne, F-94415 St Maurice, France.
+RI Morison, Linda/H-9738-2013; Lagarde, Emmanuel/F-7132-2013
+OI Lagarde, Emmanuel/0000-0001-8031-7400
+NR 17
+TC 102
+Z9 103
+U1 0
+U2 9
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD MAY 4
+PY 2001
+VL 15
+IS 7
+BP 877
+EP 884
+DI 10.1097/00002030-200105040-00008
+PG 8
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 431HU
+UT WOS:000168626400008
+PM 11399960
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Baldrich-Rubio, E
+   Anagonou, S
+   Stirrups, K
+   Lafia, E
+   Candotti, D
+   Lee, H
+   Allain, JP
+AF Baldrich-Rubio, E
+   Anagonou, S
+   Stirrups, K
+   Lafia, E
+   Candotti, D
+   Lee, H
+   Allain, JP
+TI A complex human immunodeficiency virus type 1 A/G/J recombinant virus
+   isolated from a seronegative patient with AIDS from Benin, West Africa
+SO JOURNAL OF GENERAL VIROLOGY
+LA English
+DT Article
+ID POLYMERASE CHAIN-REACTION; SUBTYPE-A STRAIN; HIV-1 INFECTION;
+   INTERSUBTYPE RECOMBINANT; SEQUENCE-ANALYSIS; GROUP-O; IDENTIFICATION;
+   NIGERIA; TRANSMISSION; ANTIBODIES
+AB A human immunodeficiency virus type 1 (HIV-1(B76)) originating from Benin (West Africa) was isolated and characterized. The patient had severe clinical AIDS and presented an unusual serological profile, Only one out of five different detection assays was able to demonstrate the presence of antibodies to HIV, whereas confirmatory assays remained indeterminate. In contrast, both plasma viral load and p24 antigen level were unusually high, HIV-1 infection was proved by viral RNA and proviral DNA amplification, HIV-1(B76) partially purified lysate reacted strongly with all anti-HIV-1-positive sera from the region but B76 plasma did not read with subtype A control viral antigen, This patient is likely to have had severe acquired immune dysfunction explaining her lack of immunological reactivity. Phylogenetic analysis of the genome identified a complex HIV-1 A/G/J recombinant, The gag and pol genes, and the majority of nef, are characteristic of subtype A; the gag/pol junction, the 3' end of pol, vpu and env genes were characteristic of subtype G; vif, vpr and the 5' end of nef were subtype J, In addition, part of the HIV-1(B76) genome had considerable sequence similarity with the previously described CRFO6 cpx (BFP90) isolate, HIV-1(B76) did not exhibit any remarkable replication properties or cell tropism in vitro.
+C1 Univ Cambridge, Dept Haematol, E Anglia Blood Ctr, Cambridge CB2 2PT, England.
+   Ctr Natl Hop Univ, Dept Microbiol, Cotonou, Benin.
+   Programme Natl Lutte Contre SIDA, Cotonou, Benin.
+   Natl Blood Serv, Cambridge, England.
+   Univ Cambridge, Dept Haematol, Div Transfus Med, Cambridge CB2 2PT, England.
+RP Lee, H (reprint author), Univ Cambridge, Dept Haematol, E Anglia Blood Ctr, Long Rd, Cambridge CB2 2PT, England.
+OI Baldrich, Eva/0000-0003-1393-215X
+NR 42
+TC 16
+Z9 16
+U1 1
+U2 1
+PU SOC GENERAL MICROBIOLOGY
+PI READING
+PA MARLBOROUGH HOUSE, BASINGSTOKE RD, SPENCERS WOODS, READING RG7 1AE,
+   BERKS, ENGLAND
+SN 0022-1317
+J9 J GEN VIROL
+JI J. Gen. Virol.
+PD MAY
+PY 2001
+VL 82
+BP 1095
+EP 1106
+PN 5
+PG 12
+WC Biotechnology & Applied Microbiology; Virology
+SC Biotechnology & Applied Microbiology; Virology
+GA 425KE
+UT WOS:000168289100013
+PM 11297684
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Lowndes, CM
+   Alary, M
+   Gnintoungbe, CAB
+   Bedard, E
+   Mukenge, L
+   Geraldo, N
+   Jossou, P
+   Lafia, E
+   Bernier, F
+   Baganizi, E
+   Joly, J
+   Frost, E
+   Anagonou, S
+AF Lowndes, CM
+   Alary, M
+   Gnintoungbe, CAB
+   Bedard, E
+   Mukenge, L
+   Geraldo, N
+   Jossou, P
+   Lafia, E
+   Bernier, F
+   Baganizi, E
+   Joly, J
+   Frost, E
+   Anagonou, S
+TI Management of sexually transmitted diseases and HIV prevention in men at
+   high risk: targeting clients and non-paying sexual partners of female
+   sex workers in Benin
+SO AIDS
+LA English
+DT Article
+DE clients of prostitutes; HIV; sexually transmitted diseases; prevention;
+   sexual behaviour; condom use; high-risk groups; Africa
+ID CONDOM USE; PROSTITUTES; INFECTION; TRANSMISSION; KENYA; BEHAVIOR
+AB Objectives: Male clients of female sex workers have rarely been specific targets for HIV/sexually transmitted diseases (STD) interventions in sub-Saharan Africa. We assessed the effectiveness of outreach methodology for contacting sexual partners of female sex workers for purposes of HIV/STD prevention in Cotonou, Benin.
+   Design and methods: In collaboration with owners/managers, outreach personnel and female sex workers, 404 clients were recruited on-site at prostitution venues, and provided urine samples for leukocyte esterase dipstick (LED), STD and HIV testing before having sex with female sex workers. After having sex they underwent an interview and physical examination. No payment was made for study participation. Prostitution site personnel (n = 41) and boyfriends of female sex workers (n = 56) were also recruited.
+   Results: In all 68% of the clients approached agreed to participate. On-site LED testing and free STD treatment were important factors in participation. HIV-1 prevalence was several-fold higher than in the general population in Cotonou, at 8.4, 12.2 and 16.1% in clients, personnel and boyfriends respectively, and was associated with increasing age and lack of condom use with female sex workers. Condom use rates by clients with female sex workers were non-negligible but sub-optimal, and low with regular partners. Approximately one-third of clients with regular partners also had other non-female sex worker sex partners. Boyfriends of female sex workers are of particular concern due to high numbers of partners, very low condom use rates and high HIV prevalence.
+   Conclusions: Study findings indicate that male sex partners of female sex workers form a 'bridging population' for HIV/STD transmission both to female sex workers, as well as from female sex workers to the general population of women, particularly regular female partners. (C) 2000 Lippincott Williams & Wilkins.
+C1 Univ Laval, Hop St Sacrement, CHA, Grp Rech Epidemiol, Quebec City, PQ, Canada.
+   Project SIDA 2 Benin, Cotonou, Benin.
+   Ctr Sante Circonscript Urbaine Cotonou 1, Dispensaire MST, Cotonou, Benin.
+   Univ Natl Benin, Fac Sci Sante, Benin City, Benin.
+   PNLS, Cotonou, Benin.
+   MST Benin, Cotonou, Benin.
+   Univ Montreal, Dept Microbiol & Immunol, Quebec City, PQ, Canada.
+   Univ Sherbrooke, Dept Microbiol, Sherbrooke, PQ J1K 2R1, Canada.
+   Univ London Imperial Coll Sci Technol & Med, Dept Social Sci & Med, London, England.
+RP Lowndes, CM (reprint author), Imperial Coll Sch Med, Dept Social Sci & Med, Charing Cross Campus,Reynolds Bldg,St Dunstans Rd, London W6 8RP, England.
+OI Frost, Eric/0000-0001-8958-4388
+NR 33
+TC 88
+Z9 89
+U1 2
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD NOV 10
+PY 2000
+VL 14
+IS 16
+BP 2523
+EP 2534
+DI 10.1097/00002030-200011100-00015
+PG 12
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 373ZW
+UT WOS:000165320800015
+PM 11101064
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Heyndrickx, L
+   Janssens, W
+   Zekeng, L
+   Musonda, R
+   Anagonou, S
+   Van der Auwera, G
+   Coppens, S
+   Vereecken, K
+   De Witte, K
+   Van Rampelbergh, R
+   Kahindo, M
+   Morison, L
+   McCutchan, FE
+   Carr, JK
+   Albert, J
+   Essex, M
+   Goudsmit, J
+   Asjo, B
+   Salminen, M
+   Buve, A
+   van der Groen, G
+AF Heyndrickx, L
+   Janssens, W
+   Zekeng, L
+   Musonda, R
+   Anagonou, S
+   Van der Auwera, G
+   Coppens, S
+   Vereecken, K
+   De Witte, K
+   Van Rampelbergh, R
+   Kahindo, M
+   Morison, L
+   McCutchan, FE
+   Carr, JK
+   Albert, J
+   Essex, M
+   Goudsmit, J
+   Asjo, B
+   Salminen, M
+   Buve, A
+   van der Groen, G
+CA Study Grp Heterogeneity HIV Epidem
+TI Simplified strategy for detection of recombinant human immunodeficiency
+   virus type 1 group M isolates by gag/env heteroduplex mobility assay
+SO JOURNAL OF VIROLOGY
+LA English
+DT Article
+ID HIV TYPE-1; SEQUENCE ALIGNMENT; GENETIC DIVERSITY; AFRICAN ORIGIN;
+   LYMPHOCYTES; THAILAND; SUBTYPES; CAMEROON
+AB We developed a heteroduplex mobility assay in the gag gene (gag HMA) for the identification of group M subtypes A to H. The assay covers the region coding for amino acid 132 of p24 to amino acid 20 of p7 (according to human immunodeficiency virus type 1 [HIV-1] ELI, 460 bp). The gag HMA was compared with sequencing and phylogenetic analysis of an evaluation panel of 79 HIV-1 group M isolates isolated from infected individuals from different geographic regions. Application of gag HMA in combination with env HMA on 252 HIV-1-positive plasma samples from Benin, Cameroon, Kenya, and Zambia revealed a high prevalence of a variety of intersubtype recombinants in Yaounde, Cameroon (53.8%); Kisumu, Kenya (26.8%); and Cotonou, Benin (41%); no recombinants were identified among the samples from Ndola, Zambia. The AG(IbNG) circulating recombinant form, as determined by gag HMA, was found to be the most common intersubtype recombinant in Yaounde (39.4%) and Cotonou (38.5%). Using a one-tube reverse transcriptase PCR protocol, this gag HMA in combination with env HMA is a useful tool for rapidly monitoring the prevalence of the various genetic subtypes as well as of recombinants of HIV-1. Moreover, this technology can easily be applied in laboratories in developing countries.
+C1 Inst Trop Med, Dept Microbiol, B-2000 Antwerp, Belgium.
+   Flanders Interuniv, Inst Biotechnol VIB, Zwijnaarde, Belgium.
+   Ministere Sante, Lab Sante Hyg Mobile, Yaounde, Cameroon.
+   Trop Dis Res Ctr, Ndola, Zambia.
+   Programme Natl Lutte SIDA, Cotonou, Benin.
+   Natl AIDS STD Control Programme, Nairobi, Kenya.
+   Univ London London Sch Hyg & Trop Med, Dept Infect & Trop Med, London, England.
+   Henry M Jackson Fdn, Rockville, MD USA.
+   Karolinska Inst, Swedish Inst Infect Dis Control, Stockholm, Sweden.
+   Harvard Univ, Sch Publ Hlth, Harvard Inst, Boston, MA USA.
+   Harvard Univ, Sch Publ Hlth, Dept Immunol & Infect Dis, Boston, MA USA.
+   Dept Human Retrovirol, Amsterdam, Netherlands.
+   Univ Bergen, Natl Ctr Res Virol, Bergen, Norway.
+   Natl Inst Publ Hlth, Dept Chron Viral Infect, Helsinki, Finland.
+RP Janssens, W (reprint author), Inst Trop Med, Dept Microbiol, Nationalestr 155, B-2000 Antwerp, Belgium.
+RI Salminen, Mika/D-8784-2013; Morison, Linda/H-9738-2013; Lagarde,
+   Emmanuel/F-7132-2013
+OI Salminen, Mika/0000-0003-3020-0866; Lagarde,
+   Emmanuel/0000-0001-8031-7400; Hayes, Richard/0000-0002-1729-9892
+NR 32
+TC 145
+Z9 155
+U1 0
+U2 5
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1325 MASSACHUSETTS AVENUE, NW, WASHINGTON, DC 20005-4171 USA
+SN 0022-538X
+J9 J VIROL
+JI J. Virol.
+PD JAN
+PY 2000
+VL 74
+IS 1
+BP 363
+EP 370
+PG 8
+WC Virology
+SC Virology
+GA 263QQ
+UT WOS:000084137100042
+PM 10590125
+OA No
+DA 2017-07-17
+ER
+
+PT J
+AU Cleland, JG
+   Ali, MM
+   Capo-Chichi, V
+AF Cleland, JG
+   Ali, MM
+   Capo-Chichi, V
+TI Post-partum sexual abstinence in West Africa: implications for
+   AIDS-control and family planning programmes
+SO AIDS
+LA English
+DT Article
+DE condoms; extra-marital sex; polygyny; postpartum abstinence
+ID FERTILITY
+AB Objective: To assess whether the custom of prolonged post-partum sexual abstinence in Benin is associated with an increased incidence of extra-marital sexual contacts by husbands.
+   Design: Cross-sectional survey of adult men and women.
+   Methods: Data obtained from men on their extra-marital sexual behaviour in the past 12 months were linked to data on post-partum abstinence over the same time interval reported by wives. Multivariate analysis was applied to assess the association between conjugal abstinence and husband's extra-marital sex, net of the effects of possible confounders.
+   Results: Approximately half of married men experienced post-partum abstinence in the past 12 months. In this group, 32% reported one or more extra-marital sexual contacts compared with 20% among those who experienced no abstinence (OR = 1.8, P = 0.001). This association is essentially unchanged after controlling for marriage type, age, education, urban-rural residence, income and household wealth. Age, income and wealth are also significant predictors of the probability of extra-marital sex. The effects of income and wealth largely disappear when attention is restricted to extra-marital sex without using a condom on the most recent occasion.
+   Conclusions: The potentially protective effect of prolonged abstinence after childbirth in Benin (and probably in much of West Africa) is offset by an increased probability that husbands will seek extra-marital partners without using condoms. Although not quantifiable, the enhanced longer-term risks of sexually transmitted diseases/HIV infection for wives probably outweigh the short-term benefits. Family planning practitioners in this region should not hesitate to recommend the early resumption of sex and suitable methods of post-partum contraception for women who express concern or uncertainty about their husband's behaviour. (C) 1999 Lippincott Williams & Wilkins.
+C1 Univ London London Sch Hyg & Trop Med, Ctr Populat Studies, London WC1E 7HT, England.
+   Ctr Res Human Reprod & Demog, Cotonou, Benin.
+RP Cleland, JG (reprint author), Univ London London Sch Hyg & Trop Med, Ctr Populat Studies, Keppel St, London WC1E 7HT, England.
+FU Wellcome Trust
+NR 11
+TC 32
+Z9 32
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0269-9370
+J9 AIDS
+JI Aids
+PD JAN 14
+PY 1999
+VL 13
+IS 1
+BP 125
+EP 131
+DI 10.1097/00002030-199901140-00017
+PG 7
+WC Immunology; Infectious Diseases; Virology
+SC Immunology; Infectious Diseases; Virology
+GA 178BT
+UT WOS:000079246400017
+PM 10207554
+OA No
+DA 2017-07-17
+ER
+
+EF
